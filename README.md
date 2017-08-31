@@ -4,7 +4,7 @@ by [Jason Wright](http://jasonwright.info) at [Silvermast LLC](https://silvermas
 
 This is a simple spoiler-resistant index of Wheel of Time characters, sorted by Book and Chapter.
 
-[https://github.com/chordstricken/wotcc/raw/master/res/screenshot.png]
+![Screenshot](https://github.com/chordstricken/wotcc/raw/master/res/screenshot.png)
 
 Libraries:
 - Cordova
