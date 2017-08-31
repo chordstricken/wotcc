@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+<head>
+    <!--
+    Customize this policy to fit your own app's needs. For more guidance, see:
+        https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md#content-security-policy
+    Some notes:
+        * gap: is required only on iOS (when using UIWebView) and is needed for JS->native communication
+        * https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly
+        * Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
+            * Enable inline JS: add 'unsafe-inline' to default-src
+    -->
+    <meta http-equiv="Content-Security-Policy"
+          content="
+          default-src 'self' 'unsafe-inline' file: data: gap: https://ssl.gstatic.com 'unsafe-eval';
+          style-src 'self' 'unsafe-inline' file:;
+          media-src *;
+          img-src 'self' file: data: content:">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <!--<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height">-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, target-densitydpi=medium-dpi, user-scalable=0" />
+
+    <link rel="shortcut icon" href="res/img/icon.svg">
+
+    <link rel="stylesheet" type="text/css" href="res/css/plugins.css">
+    <link rel="stylesheet" type="text/css" href="res/css/index.css">
+
+    <title>WoT CC</title>
+</head>
+<body>
+
+<div id="vue-app">
+
+    <div class="form-group">
+        <span class="clear-search" @click="clearSearch()" v-show="q.length > 0">x</span>
+        <input type="search" class="form-control" v-model="q" @keyup="searchKeyUp()" placeholder="Enter a Character's Name">
+        <select class="form-control" v-model="book" @change="loadBookIndex()">
+            <option>Select a Book</option>
+            <option v-for="(bName, bId) in books" :value="bId" v-text="bName"></option>
+        </select>
+
+        <div v-if="isBusy" class="text-white strong text-center">Loading Index. Please wait...</div>
+    </div>
+
+    <section class="matches">
+
+        <div class="character" v-for="(char, charId) in matches">
+            <strong class="title" v-text="char.name"></strong>
+
+            <div v-if="char.isBusy">Loading...</div>
+            <div class="character-chapters" v-if="!char.isBusy">
+
+                <div v-for="(chapter, chapterId) in char.chapters">
+                    <div class="chapter-title" @click="toggleChapter(charId, chapterId)">
+                        <span v-text="chapter.isShowing ? '&ndash;' : '+'"></span>
+                        <span v-text="chapter.title"></span>
+                    </div>
+                    <div class="chapter-info" v-text="chapter.info" v-if="chapter.isShowing"></div>
+                </div>
+
+            </div>
+        </div>
+
+
+    </section>
+
+</div>
+
+<script type="text/javascript" src="res/js/plugins.min.js"></script>
+<script type="text/javascript" src="res/js/functions.js"></script>
+
+<script type="text/javascript">
+    var App = new Vue({
+        el: '#vue-app',
+        data: {
+            isBusy: false,
+            book: localStorage.getItem('book'),
+            books: {
+                'book-10': 'Book 10 - Crossroads of Twilight',
+                'book-11': 'Book 11 - Knife of Dreams',
+            },
+            q: '',
+            index: {},
+            matches: {},
+            timeout: false,
+        },
+        created: function() {
+            this.loadBookIndex();
+        },
+        methods: {
+            clearSearch: function() {
+                this.q = '';
+                this.matches = {};
+                $('input[type=search]').focus();
+            },
+
+            /**
+             * Loads a id:name index of the selected book, or none if there are none selected.
+             */
+            loadBookIndex: function() {
+                var scope = this;
+                localStorage.setItem('book', scope.book);
+                if (!scope.books[scope.book])
+                    return;
+
+                scope.isBusy = true;
+                $.getJSON('data/' + scope.book + '/index.json', function(index) {
+                    scope.index = clone(index);
+                    scope.isBusy = false;
+                })
+            },
+
+            /**
+             * Immediately searches the index for matching characters
+             */
+            search: function() {
+                var scope = this;
+                var searchRegExp = new RegExp(scope.q.replace(' ', '.*'), 'gi');
+
+                for (var id in scope.index)
+                    if (scope.index[id].match(searchRegExp))
+                        scope.loadCharacter(id);
+
+            },
+
+            /**
+             * Search Keyup function activated while typing
+             */
+            searchKeyUp: function() {
+                var scope = this;
+                clearTimeout(scope.timeout);
+                scope.matches = {};
+
+                if (scope.q.length < 3)
+                    return;
+
+                scope.timeout = setTimeout(scope.search, 300);
+            },
+
+            /**
+             * Loads the character data
+             * @param id
+             */
+            loadCharacter: function(id) {
+                var scope = this;
+                scope.$set(scope.matches, id, {
+                    id: id,
+                    name: scope.index[id],
+                    isBusy: true,
+                })
+                $.getJSON('data/' + scope.book + '/' + id + '.json', function(charObj) {
+                    charObj.isBusy = false;
+                    scope.$set(scope.matches, id, charObj);
+                });
+            },
+
+            /**
+             * Shows/hides the chapter info
+             * @param charId
+             * @param chapterId
+             */
+            toggleChapter: function(charId, chapterId) {
+                var toggle = !this.matches[charId].chapters[chapterId].isShowing;
+                this.$set(this.matches[charId].chapters[chapterId], 'isShowing', toggle);
+            }
+        }
+    })
+</script>
+
+<script type="text/javascript" src="cordova.js"></script>
+</body>
+</html>

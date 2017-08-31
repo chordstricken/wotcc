@@ -1,0 +1,25 @@
+{
+  "name": "wotcc",
+  "description": "Wheel of Time Character Compendium",
+  "main": "index.js",
+  "authors": [
+    "Silvermast LLC"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "vue": "^2.4.2",
+    "bootstrap": "v4.0.0-alpha.6"
+    "leaflet": "^1.1.0",
+    "director": "^1.2.8",
+    "mapbox.js": "^3.1.1"
+  },
+}
