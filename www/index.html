@@ -48,7 +48,7 @@
 </head>
 <body>
 
-<div id="vue-app">
+<div id="vue-app" :style="'background-image: url(res/img/bg-' + book + '.jpg'">
 
     <div class="form-group">
         <span class="clear-search" @click="clearSearch()" v-show="q.length > 0">x</span>
@@ -74,7 +74,7 @@
                         <span v-text="chapter.isShowing ? '&ndash;' : '+'"></span>
                         <span v-text="chapter.title"></span>
                     </div>
-                    <div class="chapter-info" v-text="chapter.info" v-if="chapter.isShowing"></div>
+                    <div class="chapter-info" v-html="chapter.info" v-if="chapter.isShowing"></div>
                 </div>
 
             </div>
@@ -95,8 +95,21 @@
             isBusy: false,
             book: localStorage.getItem('book'),
             books: {
-                'book-10': 'Book 10 - Crossroads of Twilight',
-                'book-11': 'Book 11 - Knife of Dreams',
+                "book-00": "Book 00 - New Spring",
+                "book-01": "Book 01 - The Eye of the World",
+                "book-02": "Book 02 - The Great Hunt",
+                "book-03": "Book 03 - The Dragon Reborn",
+                "book-04": "Book 04 - The Shadow Rising",
+                "book-05": "Book 05 - The Fires of Heaven",
+                "book-06": "Book 06 - Lord of Chaos",
+                "book-07": "Book 07 - A Crown of Swords",
+                "book-08": "Book 08 - The Path of Daggers",
+                "book-09": "Book 09 - Winter's Heart",
+                "book-10": "Book 10 - Crossroads of Twilight",
+                "book-11": "Book 11 - Knife of Dreams",
+                "book-12": "Book 12 - The Gathering Storm",
+                "book-13": "Book 13 - Towers of Midnight",
+                "book-14": "Book 14 - A Memory of Light",
             },
             q: '',
             index: {},

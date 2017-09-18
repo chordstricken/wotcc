@@ -196,3 +196,16 @@ function objectValues(obj) {
         return total;
     }, []);
 }
+
+/**
+ * jQuery Ready Function
+ */
+$(function() {
+
+    // On Android devices, selecting a text input compresses the screen height as the keyboard appears.
+    var $metaViewport = $('meta[name=viewport]'),
+        vpContent     = $metaViewport.attr('content');
+
+    $metaViewport.attr('content', vpContent.replace(/height=[\d\.]+px,?/, '') + ', height=' + window.outerHeight + 'px');
+
+});

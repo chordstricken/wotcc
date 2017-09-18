@@ -11,12 +11,15 @@ body {
   /* prevent copy paste, to allow, change 'none' to 'text' */ }
 
 html, body, #vue-app {
-  height: 100vh;
-  width: 100vw;
+  height: 100%;
+  width: 100%;
   font-family: Arial, Helvetica, sans-serif;
-  background: url(../img/background.jpg) center center no-repeat;
-  background-size: cover;
   overflow: auto; }
+
+#vue-app {
+  position: relative;
+  background: black no-repeat 90% center;
+  background-size: cover; }
 
 .clear-search {
   position: absolute;

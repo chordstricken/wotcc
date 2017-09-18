@@ -7,6 +7,7 @@
     <author email="jason@silvermast.io" href="http://jasonwright.info">
         Jason Wright
     </author>
+    <preference name="Orientation" value="portrait" />
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
