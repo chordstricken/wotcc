@@ -111,13 +111,23 @@
                 "book-13": "Book 13 - Towers of Midnight",
                 "book-14": "Book 14 - A Memory of Light",
             },
-            q: '',
+            q: DB.get('query') || '',
             index: {},
             matches: {},
             timeout: false,
         },
         created: function() {
-            this.loadBookIndex();
+            var scope = this;
+            scope.loadBookIndex();
+
+            $(document).on('click', '[href]', function(e) {
+                e.preventDefault();
+                var href = $(this).attr('href');
+                if (href[0] === '#') {
+                    scope.q = $(this).text().split(',').reverse().map($.trim).join(' ')
+                    scope.search();
+                }
+            });
         },
         methods: {
             clearSearch: function() {
@@ -139,6 +149,7 @@
                 $.getJSON('data/' + scope.book + '/index.json', function(index) {
                     scope.index = clone(index);
                     scope.isBusy = false;
+                    scope.search();
                 })
             },
 
@@ -146,8 +157,13 @@
              * Immediately searches the index for matching characters
              */
             search: function() {
+                if (this.q.length < 3)
+                    return;
+
                 var scope = this;
                 var searchRegExp = new RegExp(scope.q.replace(' ', '.*'), 'gi');
+
+                DB.set('query', scope.q);
 
                 for (var id in scope.index)
                     if (scope.index[id].match(searchRegExp))
