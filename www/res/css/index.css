@@ -18,8 +18,8 @@ html, body, #vue-app {
 
 #vue-app {
   position: relative;
-  background: black no-repeat 90% center;
-  background-size: cover; }
+  background: url(../img/icon.svg) #222222 no-repeat center bottom;
+  background-size: contain; }
 
 .clear-search {
   position: absolute;

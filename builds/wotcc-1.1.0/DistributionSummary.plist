@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WoT Character Compendium.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>3034F8859074B69B33BED4D5963C32E3923E58B9</string>
+				<key>dateExpires</key>
+				<string>8/11/18</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>26W6Q34WAR.io.silvermast.wotcc</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>26W6Q34WAR</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>WoT Character Compendium.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>64e16dbc-44c1-4ebc-83cd-fd5cdf5741d1</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: io.silvermast.wotcc</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>26W6Q34WAR</string>
+				<key>name</key>
+				<string>Jason Wright</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

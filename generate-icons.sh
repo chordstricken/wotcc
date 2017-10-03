@@ -1,0 +1,63 @@
+#!/bin/bash
+##
+# Note: Icon must be >192px
+
+root=`dirname $0`
+androidLogo="$root/res/icon.png"
+iosLogo="$root/res/icon-1024.png"
+
+# android
+mkdir -p "$root/res/icon/android"
+convert $androidLogo -resize 36x36 "$root/res/icon/android/ldpi.png"
+convert $androidLogo -resize 48x48 "$root/res/icon/android/mdpi.png"
+convert $androidLogo -resize 72x72 "$root/res/icon/android/hdpi.png"
+convert $androidLogo -resize 96x96 "$root/res/icon/android/xhdpi.png"
+convert $androidLogo -resize 144x144 "$root/res/icon/android/xxhdpi.png"
+convert $androidLogo -resize 192x192 "$root/res/icon/android/xxxhdpi.png"
+
+#androidPath="$root/platforms/android/res"
+#mkdir -p "$androidPath"
+#convert $androidLogo -resize 36x36 "$androidPath/mipmap-ldpi/icon.png"
+#convert $androidLogo -resize 48x48 "$androidPath/mipmap-mdpi/icon.png"
+#convert $androidLogo -resize 72x72 "$androidPath/mipmap-hdpi/icon.png"
+#convert $androidLogo -resize 96x96 "$androidPath/mipmap-xhdpi/icon.png"
+
+# ios
+mkdir -p "$root/res/icon/ios"
+convert $iosLogo -resize 180x180 "$root/res/icon/ios/icon-60@3x.png"
+convert $iosLogo -resize 60x60 "$root/res/icon/ios/icon-60.png"
+convert $iosLogo -resize 120x120 "$root/res/icon/ios/icon-60@2x.png"
+convert $iosLogo -resize 76x76 "$root/res/icon/ios/icon-76.png"
+convert $iosLogo -resize 152x152 "$root/res/icon/ios/icon-76@2x.png"
+convert $iosLogo -resize 40x40 "$root/res/icon/ios/icon-40.png"
+convert $iosLogo -resize 80x80 "$root/res/icon/ios/icon-40@2x.png"
+convert $iosLogo -resize 57x57 "$root/res/icon/ios/icon.png"
+convert $iosLogo -resize 114x114 "$root/res/icon/ios/icon@2x.png"
+convert $iosLogo -resize 72x72 "$root/res/icon/ios/icon-72.png"
+convert $iosLogo -resize 144x144 "$root/res/icon/ios/icon-72@2x.png"
+convert $iosLogo -resize 29x29 "$root/res/icon/ios/icon-small.png"
+convert $iosLogo -resize 58x58 "$root/res/icon/ios/icon-small@2x.png"
+convert $iosLogo -resize 87x87 "$root/res/icon/ios/icon-small@3x.png"
+convert $iosLogo -resize 50x50 "$root/res/icon/ios/icon-50.png"
+convert $iosLogo -resize 100x100 "$root/res/icon/ios/icon-50@2x.png"
+convert $iosLogo -resize 167x167 "$root/res/icon/ios/icon-83.5@2x.png"
+
+iosPath="$root/platforms/ios/Silvermast WoT Compendium/Images.xcassets/AppIcon.appiconset"
+mkdir -p "$iosPath"
+convert $iosLogo -resize 40x40   "$iosPath/icon-40.png"
+convert $iosLogo -resize 80x80   "$iosPath/icon-40@2x.png"
+convert $iosLogo -resize 50x50   "$iosPath/icon-50.png"
+convert $iosLogo -resize 100x100 "$iosPath/icon-50@2x.png"
+convert $iosLogo -resize 60x60   "$iosPath/icon-60.png"
+convert $iosLogo -resize 120x120 "$iosPath/icon-60@2x.png"
+convert $iosLogo -resize 180x180 "$iosPath/icon-60@3x.png"
+convert $iosLogo -resize 72x72   "$iosPath/icon-72.png"
+convert $iosLogo -resize 144x144 "$iosPath/icon-72@2x.png"
+convert $iosLogo -resize 76x76   "$iosPath/icon-76.png"
+convert $iosLogo -resize 152x152 "$iosPath/icon-76@2x.png"
+convert $iosLogo -resize 167x167 "$iosPath/icon-83.5@2x.png"
+convert $iosLogo -resize 29x29   "$iosPath/icon-small.png"
+convert $iosLogo -resize 58x58   "$iosPath/icon-small@2x.png"
+convert $iosLogo -resize 87x87   "$iosPath/icon-small@3x.png"
+convert $iosLogo -resize 57x57   "$iosPath/icon.png"
+convert $iosLogo -resize 114x114 "$iosPath/icon@2x.png"
