@@ -51,8 +51,17 @@
 <div id="vue-app">
 
     <div class="form-group">
-        <span class="clear-search" @click="clearSearch()" v-show="q.length > 0">x</span>
-        <input type="search" class="form-control" v-model="q" @keyup="searchKeyUp()" placeholder="Enter a Character's Name">
+        <div class="input-group" v-if="books[book]">
+            <input type="search" class="form-control search-input" v-model="q" @keyup="searchEvent()" placeholder="Enter a Character's Name">
+            <span class="clear-search" @click="clearSearch()" v-show="q.length > 0">x</span>
+
+            <button type="button" class="show-all-button" v-if="!show_index" @click="show_index = true">Show All</button>
+            <button type="button" class="show-all-button" v-if="show_index" @click="show_index = false">Hide All</button>
+        </div>
+        <h4 v-else class="text-white text-center form-control-static">
+            Please select a book below
+        </h4>
+
         <select class="form-control" v-model="book" @change="loadBookIndex()">
             <option>Select a Book</option>
             <option v-for="(bName, bId) in books" :value="bId" v-text="bName"></option>
@@ -60,6 +69,14 @@
 
         <div v-if="isBusy" class="text-white strong text-center">Loading Index. Please wait...</div>
     </div>
+
+    <section class="index" v-if="show_index">
+        <ul class="list-group">
+            <li class="list-group-item" v-for="character in index_sorted">
+                <a :href="'#' + character" v-text="character" @click="show_index = false"></a>
+            </li>
+        </ul>
+    </section>
 
     <section class="matches">
 
@@ -113,21 +130,27 @@
             },
             q: DB.get('query') || '',
             index: {},
+            show_index: true,
             matches: {},
+            index_sorted: [],
+
             timeout: false,
         },
         created: function() {
-            var scope = this;
-            scope.loadBookIndex();
+            var vm = this;
+            vm.loadBookIndex();
 
-            $(document).on('click', '[href]', function(e) {
+            var href_function = function(e) {
                 e.preventDefault();
                 var href = $(this).attr('href');
                 if (href[0] === '#') {
-                    scope.q = $(this).text().split(',').reverse().map($.trim).join(' ')
-                    scope.search();
+                    vm.q = $(this).text().split(',').reverse().map($.trim).join(' ');
+                    vm.search();
                 }
-            });
+            };
+
+            $(document).off('click', '[href]', href_function);
+            $(document).on('click', '[href]', href_function);
         },
         methods: {
             clearSearch: function() {
@@ -140,16 +163,17 @@
              * Loads a id:name index of the selected book, or none if there are none selected.
              */
             loadBookIndex: function() {
-                var scope = this;
-                localStorage.setItem('book', scope.book);
-                if (!scope.books[scope.book])
+                var vm = this;
+                localStorage.setItem('book', vm.book);
+                if (!vm.books[vm.book])
                     return;
 
-                scope.isBusy = true;
-                $.getJSON('data/' + scope.book + '/index.json', function(index) {
-                    scope.index = clone(index);
-                    scope.isBusy = false;
-                    scope.search();
+                vm.isBusy = true;
+                $.getJSON('data/' + vm.book + '/index.json', function(index) {
+                    vm.index = clone(index);
+                    vm.index_sorted = objectValues(index).sort();
+                    vm.isBusy = false;
+                    vm.search();
                 })
             },
 
@@ -160,29 +184,29 @@
                 if (this.q.length < 3)
                     return;
 
-                var scope = this;
-                var searchRegExp = new RegExp(scope.q.replace(' ', '.*'), 'gi');
+                var vm = this;
+                var searchRegExp = new RegExp(vm.q.replace(' ', '.*'), 'gi');
+                vm.matches = {};
 
-                DB.set('query', scope.q);
+                DB.set('query', vm.q);
 
-                for (var id in scope.index)
-                    if (scope.index[id].match(searchRegExp))
-                        scope.loadCharacter(id);
+                for (var id in vm.index)
+                    if (vm.index[id].match(searchRegExp))
+                        vm.loadCharacter(id);
 
             },
 
             /**
              * Search Keyup function activated while typing
              */
-            searchKeyUp: function() {
-                var scope = this;
-                clearTimeout(scope.timeout);
-                scope.matches = {};
+            searchEvent: function() {
+                var vm = this;
+                clearTimeout(vm.timeout);
 
-                if (scope.q.length < 3)
+                if (vm.q.length < 3)
                     return;
 
-                scope.timeout = setTimeout(scope.search, 300);
+                vm.timeout = setTimeout(vm.search, 300);
             },
 
             /**
@@ -190,15 +214,15 @@
              * @param id
              */
             loadCharacter: function(id) {
-                var scope = this;
-                scope.$set(scope.matches, id, {
+                var vm = this;
+                vm.$set(vm.matches, id, {
                     id: id,
-                    name: scope.index[id],
+                    name: vm.index[id],
                     isBusy: true,
                 })
-                $.getJSON('data/' + scope.book + '/' + id + '.json', function(charObj) {
+                $.getJSON('data/' + vm.book + '/' + id + '.json', function(charObj) {
                     charObj.isBusy = false;
-                    scope.$set(scope.matches, id, charObj);
+                    vm.$set(vm.matches, id, charObj);
                 });
             },
 

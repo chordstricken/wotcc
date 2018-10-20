@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="gradient-1" gradientUnits="userSpaceOnUse" x1="145.777" y1="199.852" x2="145.777" y2="988.334" gradientTransform="matrix(0.934938, 0.354811, -0.37641, 0.991853, 286.62265, -72.132135)">
+      <stop offset="0" style="stop-color: rgba(187, 0, 0, 1)"/>
+      <stop offset="1" style="stop-color: rgb(153, 0, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-0" gradientUnits="userSpaceOnUse" x1="689.546" y1="0.082" x2="689.546" y2="970.122" gradientTransform="matrix(0.92009, 0.391707, -0.368212, 0.8649, 120.657417, -153.170181)">
+      <stop offset="0" style="stop-color: rgba(187, 0, 0, 1)"/>
+      <stop offset="1" style="stop-color: rgb(153, 0, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-2" gradientUnits="userSpaceOnUse" x1="158.315" y1="211.504" x2="158.315" y2="1107.841" gradientTransform="matrix(0.759712, 0.650259, -0.428896, 0.501088, 91.14639, 353.962974)">
+      <stop offset="0" style="stop-color: rgba(255, 255, 255, 1)"/>
+      <stop offset="1" style="stop-color: rgba(204, 204, 204, 1)"/>
+    </linearGradient>
+    <linearGradient id="gradient-3" gradientUnits="userSpaceOnUse" x1="500" y1="0" x2="500" y2="1000" gradientTransform="matrix(-0.804472, -0.593989, 0.509954, -0.690658, 713.874635, 825.325394)">
+      <stop offset="0" style="stop-color: rgba(0, 0, 0, 1)"/>
+      <stop offset="1" style="stop-color: rgb(45, 45, 45);"/>
+    </linearGradient>
+    <linearGradient id="gradient-4" gradientUnits="userSpaceOnUse" x1="354.327" y1="91.422" x2="354.327" y2="996.561" gradientTransform="matrix(-0.029217, 0.999573, -0.092807, -0.002713, 433.426792, -107.283418)">
+      <stop offset="0" style="stop-color: rgba(173, 173, 173, 1)"/>
+      <stop offset="1" style="stop-color: rgba(122, 122, 122, 1)"/>
+    </linearGradient>
+  </defs>
+  <circle cx="534.465" cy="458.292" r="500" transform="matrix(1, 0, 0, 1, -34.464571, 41.707754)" style="fill: rgb(242, 242, 242);">
+    <title>background</title>
+  </circle>
+  <g transform="matrix(1.057517, 0, 0, 1.057517, 10.873575, -80.388954)">
+    <title>sails</title>
+    <path d="M 298.194 193.23 C 298.194 193.23 113.914 671.434 65.288 804.894 C 98.49 860.956 163.929 920.772 201.271 942.532 C 218.835 942.199 260.816 940.852 260.816 940.852 C 260.816 940.852 213.702 784.402 230.856 597.418 C 243.246 462.376 298.194 193.23 298.194 193.23 Z" style="stroke: black; stroke-width: 0; fill: url(#gradient-1);"/>
+    <path d="M 388.066 309.734 C 388.066 309.734 484.895 198.332 540.647 150.37 C 558.289 135.193 582.874 116.774 607.794 98.822 C 665.657 117.473 720.584 147.286 756.795 178.789 C 762.143 251.583 773.505 336.502 798.438 413.232 C 830.992 513.417 877.51 615.048 913.201 687.567 C 901.078 750.035 845.891 840.977 785.743 893.9 C 742.454 896.949 685.079 900.111 652.495 904.672 C 551.974 918.742 355.11 970.122 355.11 970.122 L 388.066 309.734 Z" style="stroke: black; stroke-width: 0; fill: url(#gradient-0);"/>
+    <path d="M 350.042 171.8 C 353.3 113.376 402.9 91.422 402.9 91.422 C 402.9 91.422 353.126 994.864 353.271 1008.404 C 331.794 1007.615 303.601 994.64 303.601 994.64 C 303.601 994.64 340.009 351.686 350.042 171.8 Z" style="fill: url(#gradient-4);" bx:origin="-20 0"/>
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 250.926 1058.979"/>
+    <g transform="matrix(0.411875, 0, 0, 0.411875, 392.647919, 386.982788)">
+      <title>yinyang</title>
+      <circle cx="500" cy="500" r="500" style="fill: url(#gradient-3);"/>
+      <path d="M 562.182 354.812 C 329.813 105.229 -33.296 392.115 217.82 655.138 C 472.917 922.331 163.14 1277.521 -103.147 1016.724 C -190.516 931.157 -245.318 812.519 -245.551 680.821 C -245.985 421.592 -35.871 211.504 223.778 211.504 C 356.548 211.504 483.082 264.068 562.182 354.812 Z" style="paint-order: stroke; stroke-width: 0px; stroke-opacity: 0; fill: url(#gradient-2);" transform="matrix(0.927497, -0.37383, 0.37383, 0.927497, 39.141064, -51.715081)" bx:origin="0.163171 -0.37739"/>
+    </g>
+  </g>
+</svg>

@@ -20,33 +20,74 @@ html, body, #vue-app {
 
 #vue-app {
   position: relative;
-  background: url(../img/icon.svg) #222222 no-repeat center bottom;
+  //background: url(../img/icon.svg) #222222 no-repeat center bottom;
+  background: #222222 no-repeat center bottom;
   background-size: contain;
 }
 
+.search-input {
+  padding-right: 2rem;
+  text-overflow: ellipsis;
+}
 .clear-search {
   position: absolute;
   top: 0.75em;
-  right: 1em;
+  right: calc(1em + 100px);
   color: black;
+  z-index: 100;
 }
 
 .form-control {
   height: 3em !important;
   border-radius: 0;
 }
+.show-all-button {
+  width: 100px;
+  background: #fff;
+  color: black;
+  height: 3em;
+  padding: 0.5rem 0.75rem;
+  line-height: 1.25;
+  border: 1px solid black;
+  justify-content: center;
+}
+.show-all-button:focus {
+  outline: none !important;
+}
+
+section.index {
+  position: absolute;
+  top: 6.2em;
+  width: 100vw;
+  height: calc(100vh - 6em);
+  overflow: auto;
+
+  .list-group-item {
+    border-radius: 0;
+    border: 1px solid black;
+
+    a {
+      color: black;
+    }
+  }
+
+}
 
 .matches {
   display: block;
-  margin-top: 2em;
+  margin-top: 1em;
 
   .character {
-
-    margin: 1em;
+    font-size: 18px;
+    margin: 0.5em;
     padding: 0.5em 1em;
     border-radius: 0;
     background-color: rgba(255, 255, 255, 0.9);
 
+
+    .chapter-title {
+      color: darkred;
+    }
   }
 
 }

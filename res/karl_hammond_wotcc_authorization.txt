@@ -1,0 +1,114 @@
+Delivered-To: jason.dee.wright@gmail.com
+Received: by 10.103.53.80 with SMTP id c77csp2141624vsa;
+        Sun, 24 Sep 2017 21:28:23 -0700 (PDT)
+X-Google-Smtp-Source: AOwi7QD5539GOGrrCE3m7+DhyAlFrzGpcBp6rjcG9rEx8LwIWcsGgYCxYSvcd/2FqeczTtg3DLr6
+X-Received: by 10.101.81.10 with SMTP id f10mr6301263pgq.82.1506313703745;
+        Sun, 24 Sep 2017 21:28:23 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1506313703; cv=none;
+        d=google.com; s=arc-20160816;
+        b=dRZUUgtnOTpJjhdjQgj3RL29hCB2XcXA1J1jXGcxK8mGfBvggvKTLU5DZHl5gABkLr
+         kWST/+4XVAYUg99it5E63QEXfkK5GkuTfElz5vVZRZhuxGjP8ZZt0RByXOST4vifX2p2
+         TcvwLsVUFgLJBgA1wRrdCHuVS4U5TkJkIOyunIspupWg8UzGn0cN4QFn7bGD8bYeqilQ
+         t90M7/GLwjU5co7rQQEAk2f39fjPLO4TJwanA4of5OcvOfU+XGf+jTmQ/ejzD4bWufON
+         sYyHRBcZL/JjYwuGPBgV7bBb47qi136I8mSp2iRQH8rXdo2hHR8U0TGC+ccJAbwbiX+/
+         dh5w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-transfer-encoding:mime-version:references:in-reply-to:date
+         :to:from:subject:message-id:arc-authentication-results;
+        bh=KoxEAakCxohR6QUd05aJKdZjKEc2nOJWseGYwjEwQ6A=;
+        b=Fv/f/M87R61iuUdK3HrPMKXtl0ro++jxXChKNthECzRa2q3hjpIvpqJVAs0LE2Sz5t
+         uOsipUdq9i0ik+TfwrCUXSVL2fGgD6RixlrUe1WswUOC8ailP2nULc0tnlENR+J7Mhf1
+         bpiKKEl8oekISyRM5RKOhvEM0tidZlgTznzEBKeJIyjZ6qMvJXiR315p01IovYvAFgNr
+         lszju4m0ttHerD+6cFmmoqc9BmkXzzGRDwwxDasarwmHq+WDvwyxd/SkWs8E7jhZNdSt
+         DoTXpTzK2Jhb7rhkY5Xew7xAIPsmJWtST0Sig5JKK1ktclZ5lDkzs4JxfQnVI3a7Nw1w
+         9IFA==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: best guess record for domain of karlh@ugcs.caltech.edu designates 131.215.169.31 as permitted sender) smtp.mailfrom=karlh@ugcs.caltech.edu
+Return-Path: <karlh@ugcs.caltech.edu>
+Received: from cadmium.ugcs.caltech.edu (cadmium.ugcs.caltech.edu. [131.215.169.31])
+        by mx.google.com with ESMTP id s68si3481630pgc.205.2017.09.24.21.28.23
+        for <jason.dee.wright@gmail.com>;
+        Sun, 24 Sep 2017 21:28:23 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of karlh@ugcs.caltech.edu designates 131.215.169.31 as permitted sender) client-ip=131.215.169.31;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of karlh@ugcs.caltech.edu designates 131.215.169.31 as permitted sender) smtp.mailfrom=karlh@ugcs.caltech.edu
+Received: from localhost (localhost [127.0.0.1])
+	by cadmium.ugcs.caltech.edu (Postfix) with ESMTP id 5C986A04D1
+	for <jason.dee.wright@gmail.com>; Sun, 24 Sep 2017 20:47:53 -0700 (PDT)
+X-Virus-Scanned: Debian amavisd-new at ugcs.caltech.edu
+Received: from cadmium.ugcs.caltech.edu ([127.0.0.1])
+	by localhost (cadmium.ugcs.caltech.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id YQLszrJORZkY for <jason.dee.wright@gmail.com>;
+	Sun, 24 Sep 2017 20:47:52 -0700 (PDT)
+Received: from hedonismbot (173-18-69-203.client.mchsi.com [173.18.69.203])
+	(Authenticated sender: karlh)
+	by cadmium.ugcs.caltech.edu (Postfix) with ESMTPSA id 9AEF5A03B3
+	for <jason.dee.wright@gmail.com>; Sun, 24 Sep 2017 20:47:51 -0700 (PDT)
+Message-ID: <1506313700.31312.1.camel@ugcs.caltech.edu>
+Subject: Re: Wheel of Time Compendium App
+From: Karl Hammond <karlh@ugcs.caltech.edu>
+To: Jason Wright <jason.dee.wright@gmail.com>
+Date: Sun, 24 Sep 2017 23:28:20 -0500
+In-Reply-To: <CAMg5CkjkPvSJT69xPF0tx5z1S7gUm_O-ncCdx5e1diEMw26rhA@mail.gmail.com>
+References: 
+	<CAMg5CkiJxV-6okWFw6mz5OGPHzeO+DPAGpb+=ioVFx3-cZ3t0g@mail.gmail.com>
+	 <CAMg5CkjkPvSJT69xPF0tx5z1S7gUm_O-ncCdx5e1diEMw26rhA@mail.gmail.com>
+Content-Type: text/plain; charset="UTF-8"
+X-Mailer: Evolution 3.22.6 (3.22.6-2.fc25) 
+Mime-Version: 1.0
+Content-Transfer-Encoding: 8bit
+
+Looks good---you may use the data as you wish! (Since it's public, I
+have no real way of stopping you, of course.) If you want, you can say
+something like, "Powered by..." with a link to the site, but I leave
+that up to you.
+
+-Karl
+
+On Fri, 2017-09-22 at 17:35 +0000, Jason Wright wrote:
+> Hi Karl,
+> 
+> Out of my own personal need, I created the app I mentioned before,
+> making the Compendium data searchable on my own android phone. The
+> app has not been published anywhere; only myself, and my two brothers
+> currently use it. However, with your permission, I could have it
+> uploaded to the android and apple stores for free. No catch; I'm just
+> excited about sharing this with other people! 
+> 
+> Attached are screenshots. Please let me know if you have any
+> questions or concerns!
+> 
+> On Wed, Aug 30, 2017 at 1:31 PM Jason Wright <jason.dee.wright@gmail.
+> com> wrote:
+> > Hi Karl,
+> > 
+> > I want to start by saying thank you for your efforts on the WoT
+> > compendium. I got all halfway through Book 10 before realizing I
+> > needed some sort of spoiler-free character index. Most of the
+> > resources I've found online have been absolutely terrible at
+> > spoiling certain plot points, so I started a spreadsheet, then
+> > found your website. It's very thorough and perfectly organized.
+> > Thank you!
+> > 
+> > By trade, I am a software engineer, and have been struck with an
+> > itch; I have the idea to use your character compendium in a mobile
+> > app with a search function to make it easy to check characters on
+> > the fly. It will be an offline app with no strings attached. No
+> > ads, no marketing tricks, no login required. 
+> > 
+> > I ask nothing of you other than your permission to use your data,
+> > and a note that I will only scrape your website once a week, or
+> > less. (A scrape is the equivalent of a user visiting every page
+> > once). I will also give attribution to you and anyone you wish
+> > within the app.
+> > 
+> > Please consider my request and let me know what you think. Thanks
+> > for your time and consideration!
+> > -- 
+> > Jason Wright
+> > Software Engineering | LinkedIn | Résumé
+> > 
+> 
+> -- 
+> Jason Wright
+> Software Engineering | LinkedIn | Résumé
