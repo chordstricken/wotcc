@@ -52,6 +52,5 @@
         <splash height="2208" src="res/screen/ios/Default-736h.png" width="1242" />
     </platform>
     <plugin name="cordova-plugin-whitelist" spec="1" />
-    <engine name="android" spec="^6.2.3" />
     <engine name="ios" spec="^4.5.5" />
 </widget>
