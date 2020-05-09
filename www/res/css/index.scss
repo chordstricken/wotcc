@@ -92,3 +92,8 @@ section.index {
 
 }
 
+/* Make characters under "Show All" menu clickable the width of the whole row */
+.index-link {
+  display: inline-block;
+  width: 100%;
+}

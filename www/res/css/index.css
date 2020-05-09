@@ -73,4 +73,7 @@ section.index {
     .matches .character .chapter-title {
       color: darkred; }
 
+.index-link {
+  display: inline-block;
+  width: 100%; }
 /*# sourceMappingURL=index.css.map */
