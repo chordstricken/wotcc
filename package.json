@@ -5,10 +5,10 @@
   "description": "Wheel of Time Character Compendium.",
   "main": "index.js",
   "scripts": {
-    "build": "scripts/build-all.sh",
-    "build-android": "scripts/build-android.sh",
-    "build-ios": "scripts/build-ios.sh",
-    "serve": "scripts/run-webserver.sh",
+    "build": "bin/build-all.sh",
+    "build-android": "bin/build-android.sh",
+    "build-ios": "bin/build-ios.sh",
+    "serve": "bin/run-webserver.sh",
     "cordova": "cordova",
     "compile": "grunt",
     "test": "echo \"Error: no test specified\" && exit 1"

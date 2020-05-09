@@ -23,6 +23,7 @@ html, body, #vue-app {
   //background: url(../img/icon.svg) #222222 no-repeat center bottom;
   background: #222222 no-repeat center bottom;
   background-size: contain;
+  padding-bottom: 1em;
 }
 
 .search-input {
@@ -40,6 +41,7 @@ html, body, #vue-app {
 .form-control {
   height: 3em !important;
   border-radius: 0;
+  border-color: black !important;
 }
 .show-all-button {
   width: 100px;
@@ -73,7 +75,24 @@ section.index {
 
 }
 
-.matches {
+section.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: auto;
+  z-index: 1000;
+  padding: 1em;
+
+  .close-icon {
+    position: absolute;
+    top: 0;
+    right: 0.5em;
+  }
+}
+
+section.matches {
   display: block;
   margin-top: 1em;
 
@@ -91,4 +110,3 @@ section.index {
   }
 
 }
-

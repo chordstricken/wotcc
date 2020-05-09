@@ -52,15 +52,15 @@
 
     <div class="form-group">
         <div class="input-group" v-if="books[book]">
-            <input type="search" class="form-control search-input" v-model="q" @keyup="searchEvent()" placeholder="Enter a Character's Name">
-            <span class="clear-search" @click="clearSearch()" v-show="q.length > 0">x</span>
+            <input type="text" class="form-control search-input" v-model="q" @keyup="searchEvent()" placeholder="Enter a Character's Name">
+            <span class="clear-search" @click="clearSearch()" v-show="q.length > 0">&times;</span>
 
             <button type="button" class="show-all-button" v-if="!show_index" @click="show_index = true">Show All</button>
             <button type="button" class="show-all-button" v-if="show_index" @click="show_index = false">Hide All</button>
         </div>
-        <h4 v-else class="text-white text-center form-control-static">
-            Please select a book below
-        </h4>
+        <h1 v-else class="text-white text-center form-control-static h4 mt-3">
+            Which book are you reading?
+        </h1>
 
         <select class="form-control" v-model="book" @change="loadBookIndex()">
             <option>Select a Book</option>
@@ -97,8 +97,24 @@
             </div>
         </div>
 
-
     </section>
+
+    <section class="overlay bg-light" v-if="show_credits">
+        <span class="close-icon" @click="show_credits = false">&times;</span>
+
+        <h1 class="h2">Special thanks to...</h1>
+
+        <ul class="pl-3">
+            <li><a href="http://sites.ugcs.caltech.edu/~karlh/cgi-bin/wot.cgi" target="_blank">Karl Hammond's Compendium of Wheel of Time Characters</a> for providing the initial content.</li>
+            <li>Reddit's <a href="https://reddit.com/r/wot" target="_blank">/r/WoT</a> for hunting down spoilers.</li>
+        </ul>
+    </section>
+
+    <nav>
+        <div class="text-right mr-3 mt-4">
+            <button class="btn btn-link text-white" @click="show_credits = true">Credits</button>
+        </div>
+    </nav>
 
 </div>
 
@@ -131,9 +147,9 @@
             q: DB.get('query') || '',
             index: {},
             show_index: false,
+            show_credits: false,
             matches: {},
             index_sorted: [],
-
             timeout: false,
         },
         created: function() {
