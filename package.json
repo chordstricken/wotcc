@@ -1,7 +1,7 @@
 {
   "name": "io.silvermast.wotcc",
   "displayName": "WoT Character Compendium",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "description": "Wheel of Time Character Compendium.",
   "main": "index.js",
   "scripts": {
@@ -38,11 +38,7 @@
     "platforms": [
       "android",
       "ios"
-    ],
-    "plugins": {
-      "cordova-plugin-whitelist": {},
-      "cordova-labs-wkwebview-engine-localhost": {}
-    }
+    ]
   },
   "devDependencies": {}
 }
