@@ -105,8 +105,8 @@
         <h1 class="h2">Special thanks to...</h1>
 
         <ul class="pl-3">
-            <li><a href="http://sites.ugcs.caltech.edu/~karlh/cgi-bin/wot.cgi" target="_blank">Karl Hammond's Compendium of Wheel of Time Characters</a> for providing the initial content.</li>
-            <li>Reddit's <a href="https://reddit.com/r/wot" target="_blank">/r/WoT</a> for hunting down spoilers.</li>
+            <li><a href="http://sites.ugcs.caltech.edu/~karlh/cgi-bin/wot.cgi" target="_system">Karl Hammond's Compendium of Wheel of Time Characters</a> for providing the initial content.</li>
+            <li>Reddit's <a href="https://reddit.com/r/wot" target="_system">/r/WoT</a> for hunting down spoilers.</li>
         </ul>
     </section>
 
@@ -157,6 +157,9 @@
             vm.loadBookIndex();
 
             var href_function = function(e) {
+                if (e.target.target === '_system') {
+                    return;
+                }
                 e.preventDefault();
                 var href = $(this).attr('href');
                 if (href[0] === '#') {
