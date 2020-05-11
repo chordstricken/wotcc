@@ -4,3 +4,6 @@
 node_modules
 bower_components
 platforms
+private
+build.json
+.env

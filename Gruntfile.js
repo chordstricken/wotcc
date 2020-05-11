@@ -11,18 +11,18 @@ module.exports = function(grunt) {
                 },
                 src: [
                     // 'bower_components/director/build/director.min.js',
-                    'bower_components/jquery/dist/jquery.min.js',
+                    'node_modules/jquery/dist/jquery.min.js',
                     // 'bower_components/bootstrap/dist/js/bootstrap.min.js',
-                    'bower_components/vue/dist/vue.min.js',
+                    'node_modules/vue/dist/vue.min.js',
                 ],
-                dest: 'www/res/js/plugins.min.js'
+                dest: 'www/res/js/vendor.min.js'
             },
             css_bootstrap: {
                 options: {separator: "\n"},
                 src: [
-                    'bower_components/bootstrap/dist/css/bootstrap.css',
+                    'node_modules/bootstrap/dist/css/bootstrap.min.css',
                 ],
-                dest: 'www/res/css/plugins.css',
+                dest: 'www/res/css/vendor.min.css',
             },
 
         },

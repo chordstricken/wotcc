@@ -1,5 +1,5 @@
 * {
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: transparent;
   /* make transparent link selection, adjust last value opacity 0 to 1.0 */ }
 
 body {
@@ -19,7 +19,8 @@ html, body, #vue-app {
 #vue-app {
   position: relative;
   background: #222222 no-repeat center bottom;
-  background-size: contain; }
+  background-size: contain;
+  padding-bottom: 1em; }
 
 .search-input {
   padding-right: 2rem;
@@ -34,7 +35,8 @@ html, body, #vue-app {
 
 .form-control {
   height: 3em !important;
-  border-radius: 0; }
+  border-radius: 0 !important;
+  border-color: black !important; }
 
 .show-all-button {
   width: 100px;
@@ -61,18 +63,34 @@ section.index {
     section.index .list-group-item a {
       color: black; }
 
-.matches {
+section.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: auto;
+  z-index: 1000;
+  padding: 1em; }
+  section.overlay .close-icon {
+    position: absolute;
+    top: 0;
+    right: 0.5em;
+    font-size: 1.5em; }
+
+section.matches {
   display: block;
   margin-top: 1em; }
-  .matches .character {
+  section.matches .character {
     font-size: 18px;
     margin: 0.5em;
     padding: 0.5em 1em;
     border-radius: 0;
     background-color: rgba(255, 255, 255, 0.9); }
-    .matches .character .chapter-title {
+    section.matches .character .chapter-title {
       color: darkred; }
 
+/* Make characters under "Show All" menu clickable the width of the whole row */
 .index-link {
   display: inline-block;
   width: 100%; }

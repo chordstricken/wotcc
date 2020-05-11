@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.silvermast.wotcompendium" version="2.1.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>WoT Compendium (Unofficial)</name>
+<widget id="io.silvermast.wotcompendium" version="2.2.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>WoT Compendium - Unofficial</name>
     <description>
         Unofficial character compendium for the Wheel of Time book series. Compiled by Karl Hammond. No affiliation with Robert Jordon, Brandon Sanderson, or Tor books.
     </description>
@@ -19,7 +19,7 @@
     <platform name="android">
         <allow-intent href="market:*" />
         <icon src="res/icon.png" />
-        <preference name="android-targetSdkVersion" value="26" />
+        <preference name="android-targetSdkVersion" value="28" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
@@ -41,6 +41,15 @@
         <icon height="50" src="res/icon/ios/icon-50.png" width="50" />
         <icon height="100" src="res/icon/ios/icon-50@2x.png" width="100" />
         <icon height="167" src="res/icon/ios/icon-83.5@2x.png" width="167" />
+        <icon height="20" src="res/icon/ios/icon-20.png" width="20" />
+        <icon height="48" src="res/icon/ios/icon-24@2x.png" width="48" />
+        <icon height="55" src="res/icon/ios/icon-27.5@2x.png" width="55" />
+        <icon height="87" src="res/icon/ios/icon-29@3x.png" width="87" />
+        <icon height="88" src="res/icon/ios/icon-44@2x.png" width="88" />
+        <icon height="108" src="res/icon/ios/icon-108@2x.png" width="108" />
+        <icon height="172" src="res/icon/ios/icon-86@2x.png" width="172" />
+        <icon height="196" src="res/icon/ios/icon-98@2x.png" width="196" />
+        <icon height="1024" src="res/icon/ios/icon-1024.png" width="1024" />
         <splash height="480" src="res/screen/ios/screen-iphone-portrait.png" width="320" />
         <splash height="960" src="res/screen/ios/screen-iphone-portrait-2x.png" width="640" />
         <splash height="1024" src="res/screen/ios/screen-ipad-portrait.png" width="768" />
@@ -50,8 +59,9 @@
         <splash height="1136" src="res/screen/ios/screen-iphone-portrait-568h-2x.png" width="640" />
         <splash height="1334" src="res/screen/ios/Default-667h.png" width="750" />
         <splash height="2208" src="res/screen/ios/Default-736h.png" width="1242" />
+        <splash height="1242" src="res/screen/ios/Default-Landscape-736h.png" width="2208" />
+        <splash height="2436" src="res/screen/ios/Default-2436h.png" width="1125" />
+        <splash height="1125" src="res/screen/ios/Default-Landscape-2436h.png" width="2436" />
     </platform>
-    <plugin name="cordova-plugin-whitelist" spec="^1.3.2" />
-    <engine name="android" spec="^6.2.3" />
-    <engine name="ios" spec="^4.4.0" />
+    <plugin name="cordova-plugin-whitelist" spec="1" />
 </widget>
