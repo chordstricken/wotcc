@@ -35,7 +35,7 @@ html, body, #vue-app {
 
 .form-control {
   height: 3em !important;
-  border-radius: 0;
+  border-radius: 0 !important;
   border-color: black !important; }
 
 .show-all-button {
@@ -89,5 +89,10 @@ section.matches {
     background-color: rgba(255, 255, 255, 0.9); }
     section.matches .character .chapter-title {
       color: darkred; }
+
+/* Make characters under "Show All" menu clickable the width of the whole row */
+.index-link {
+  display: inline-block;
+  width: 100%; }
 
 /*# sourceMappingURL=index.css.map */
