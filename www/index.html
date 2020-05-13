@@ -73,7 +73,7 @@
     <section class="index" v-if="show_index">
         <ul class="list-group">
             <li class="list-group-item" v-for="character in index_sorted">
-                <a :href="'#' + character" v-text="character" @click="show_index = false"></a>
+                <a class="index-link" :href="'#' + character" v-text="character" @click="show_index = false"></a>
             </li>
         </ul>
     </section>
