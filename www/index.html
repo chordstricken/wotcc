@@ -30,7 +30,7 @@
     -->
     <meta http-equiv="Content-Security-Policy"
           content="
-          default-src 'self' 'unsafe-inline' file: data: gap: https://ssl.gstatic.com 'unsafe-eval';
+          default-src 'self' 'unsafe-inline' wheeloftime.silvermast.io file: data: gap: https://ssl.gstatic.com 'unsafe-eval';
           style-src 'self' 'unsafe-inline' file:;
           media-src *;
           img-src 'self' file: data: content:">
@@ -45,6 +45,16 @@
     <link rel="stylesheet" type="text/css" href="res/css/index.css">
 
     <title>WoT CC</title>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-87610356-4"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-87610356-4');
+    </script>
+
 </head>
 <body>
 
@@ -232,17 +242,22 @@
              * Loads the character data
              * @param id
              */
-            loadCharacter: function(id) {
-                var vm = this;
-                vm.$set(vm.matches, id, {
+            async loadCharacter(id) {
+                this.$set(this.matches, id, {
                     id: id,
-                    name: vm.index[id],
+                    name: this.index[id],
                     isBusy: true,
                 })
-                $.getJSON('data/' + vm.book + '/' + id + '.json', function(charObj) {
-                    charObj.isBusy = false;
-                    vm.$set(vm.matches, id, charObj);
-                });
+                const charPath = `data/${this.book}/${id}.json`;
+                try {
+                    // try to get character from CDN, which is more up to date.
+                    const charObj = await axios.get(`https://wheeloftime.silvermast.io/${charPath}`)
+                    this.$set(this.matches, id, charObj);
+                } catch (error) {
+                    // fall back on local files
+                    const charObj = await axios.get(charPath);
+                    this.$set(this.matches, id, charObj);
+                }
             },
 
             /**

@@ -12,6 +12,7 @@ module.exports = function(grunt) {
                 src: [
                     // 'bower_components/director/build/director.min.js',
                     'node_modules/jquery/dist/jquery.min.js',
+                    'node_modules/axios/dist/axios.min.js',
                     // 'bower_components/bootstrap/dist/js/bootstrap.min.js',
                     'node_modules/vue/dist/vue.min.js',
                 ],

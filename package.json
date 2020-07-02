@@ -1,13 +1,14 @@
 {
   "name": "io.silvermast.wotcc",
   "displayName": "WoT Character Compendium",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "Wheel of Time Character Compendium.",
   "main": "index.js",
   "scripts": {
     "build": "bin/build-all.sh",
     "build-android": "bin/build-android.sh",
     "build-ios": "bin/build-ios.sh",
+    "deploy": "bin/deploy.sh",
     "serve": "bin/run-webserver.sh",
     "cordova": "cordova",
     "compile": "grunt",
@@ -20,6 +21,7 @@
   "author": "Jason Wright",
   "license": "Apache-2.0",
   "dependencies": {
+    "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
     "cheerio": "^1.0.0-rc.3",
     "cordova": "^9.0.0",
@@ -36,8 +38,8 @@
   },
   "cordova": {
     "platforms": [
-      "ios",
-      "android"
+      "android",
+      "ios"
     ],
     "plugins": {
       "cordova-plugin-whitelist": {}
