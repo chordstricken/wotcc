@@ -1,1 +1,10 @@
-{"id":"Amira","name":"Amira","chapters":[{"title":"Chapter 14: Changes","info":"<a class='name' name='Amira'>Amira</a>, p. 197&#x2014;Stocky Aes Sedai of the Red Ajah with long beaded braids. She is the new <a href='#Novices'>Mistress of Novices</a> under <a href='#Sierin'>Sierin Vayu</a>. It is tradition to appoint a Mistress of Novices from the Ajah one was raised from, but Sierin was raised from the Gray while Amira was from the Red. However, most think of Sierin as more Red than Gray anyway. "}]}
+{
+    "id": "Amira",
+    "name": "Amira",
+    "chapters": [
+        {
+            "title": "Chapter 14: Changes",
+            "info": "<a class='name' name='Amira'>Amira</a>, p. 197&#x2014;Stocky Aes Sedai of the Red Ajah with long beaded braids. She is the new <a href='#Novices'>Mistress of Novices</a> under <a href='#Sierin'>Sierin Vayu</a>. It is tradition to appoint a Mistress of Novices from the Ajah one was raised from, but Sierin was raised from the Gray while Amira was from the Red. However, most think of Sierin as more Red than Gray anyway. "
+        }
+    ]
+}

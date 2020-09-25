@@ -1,1 +1,10 @@
-{"id":"Betrayer-of-Hope","name":"Betrayer of Hope","chapters":[{"title":"Prelude","info":"<a class='name' name='Betrayer'>Betrayer of Hope</a>, p. x&#x2014; <i>See</i> <a href='#Ishamael'>Ishamael</a>. "}]}
+{
+    "id": "Betrayer-of-Hope",
+    "name": "Betrayer of Hope",
+    "chapters": [
+        {
+            "title": "Prelude",
+            "info": "<a class='name' name='Betrayer'>Betrayer of Hope</a>, p. x&#x2014; <i>See</i> <a href='#Ishamael'>Ishamael</a>. "
+        }
+    ]
+}

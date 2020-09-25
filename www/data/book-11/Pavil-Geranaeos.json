@@ -1,1 +1,10 @@
-{"id":"Pavil-Geranaeos","name":"Pavil Geranaeos","chapters":[{"title":"Chapter 20: The Golden Crane","info":"<a class='name' name='Geraneos'>Pavil Geranaeos</a>, p. 434&#x2014;Clean-shaven Illianer, presently in Saldaea, who is attempting to buy gems from <a href='#Aldragoran'>Weilin Aldragoran</a> when <a href='#Nynaeve'>Nynaeve</a> comes to their table. "}]}
+{
+    "id": "Pavil-Geranaeos",
+    "name": "Pavil Geranaeos",
+    "chapters": [
+        {
+            "title": "Chapter 20: The Golden Crane",
+            "info": "<a class='name' name='Geraneos'>Pavil Geranaeos</a>, p. 434&#x2014;Clean-shaven Illianer, presently in Saldaea, who is attempting to buy gems from <a href='#Aldragoran'>Weilin Aldragoran</a> when <a href='#Nynaeve'>Nynaeve</a> comes to their table. "
+        }
+    ]
+}

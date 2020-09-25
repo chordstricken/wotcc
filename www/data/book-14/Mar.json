@@ -1,1 +1,10 @@
-{"id":"Mar","name":"Mar","chapters":[{"title":"Prologue: By Grace and Banners Fallen","info":"<a class='name' name='Mar'>Mar</a>, p. 42&#x2014;Scout for the Band of the Red Hand. "}]}
+{
+    "id": "Mar",
+    "name": "Mar",
+    "chapters": [
+        {
+            "title": "Prologue: By Grace and Banners Fallen",
+            "info": "<a class='name' name='Mar'>Mar</a>, p. 42&#x2014;Scout for the Band of the Red Hand. "
+        }
+    ]
+}

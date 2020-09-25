@@ -1,1 +1,10 @@
-{"id":"Shadowman","name":"Shadowman","chapters":[{"title":"Chapter 1: An Empty Road","info":"<a class='name' name='Shadowman'>Shadowman</a>, p. 12&#x2014;Boogeyman of the <i>Wheel of Time</i>. "}]}
+{
+    "id": "Shadowman",
+    "name": "Shadowman",
+    "chapters": [
+        {
+            "title": "Chapter 1: An Empty Road",
+            "info": "<a class='name' name='Shadowman'>Shadowman</a>, p. 12&#x2014;Boogeyman of the <i>Wheel of Time</i>. "
+        }
+    ]
+}

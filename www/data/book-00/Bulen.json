@@ -1,1 +1,10 @@
-{"id":"Bulen","name":"Bulen","chapters":[{"title":"Chapter 22: Keeping Custom","info":"<a class='name' name='Bulen'>Bulen</a>, p. 279&#x2014;Lanky young servant in the Aesdaishar Palace in Chachin. He runs errands for <a href='#Lan'>Lan</a> while he is a guest in the palace. "}]}
+{
+    "id": "Bulen",
+    "name": "Bulen",
+    "chapters": [
+        {
+            "title": "Chapter 22: Keeping Custom",
+            "info": "<a class='name' name='Bulen'>Bulen</a>, p. 279&#x2014;Lanky young servant in the Aesdaishar Palace in Chachin. He runs errands for <a href='#Lan'>Lan</a> while he is a guest in the palace. "
+        }
+    ]
+}

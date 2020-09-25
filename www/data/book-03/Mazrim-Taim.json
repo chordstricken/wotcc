@@ -1,1 +1,10 @@
-{"id":"Mazrim-Taim","name":"Mazrim Taim","chapters":[{"title":"Prologue: Fortress of the Light","info":"<a class='name' name='Taim'>Mazrim Taim</a>, p. 18 (5)&#x2014;False <a href='#Dragon'>Dragon</a> from Saldaea. He can channel the One Power, and is of considerable strength. At last report, Aes Sedai were on their way to gentle him. He was captured by a mob after a blinding flash knocked him senseless at the moment <a href='#Rand'>Rand</a> declared himself as the true <a href='#Reborn'>Dragon Reborn</a>. <i>See also</i> <a href='#Reborn'>Dragon Reborn</a>. "}]}
+{
+    "id": "Mazrim-Taim",
+    "name": "Mazrim Taim",
+    "chapters": [
+        {
+            "title": "Prologue: Fortress of the Light",
+            "info": "<a class='name' name='Taim'>Mazrim Taim</a>, p. 18 (5)&#x2014;False <a href='#Dragon'>Dragon</a> from Saldaea. He can channel the One Power, and is of considerable strength. At last report, Aes Sedai were on their way to gentle him. He was captured by a mob after a blinding flash knocked him senseless at the moment <a href='#Rand'>Rand</a> declared himself as the true <a href='#Reborn'>Dragon Reborn</a>. <i>See also</i> <a href='#Reborn'>Dragon Reborn</a>. "
+        }
+    ]
+}

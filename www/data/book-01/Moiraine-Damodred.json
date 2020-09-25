@@ -1,1 +1,10 @@
-{"id":"Moiraine-Damodred","name":"Moiraine Damodred","chapters":[{"title":"Chapter 2: Strangers","info":"<a class='name' name='Moiraine'>Moiraine Damodred</a>, p. 20&#x2014;Guest in Emond&apos;s Field the day before Bel Tine. She has large dark eyes and keeps her dark hair in ringlets. She barely comes to <a href='#Rand'>Rand</a>&apos;s chest. <i>See also</i> <a href='#Alys'>Alys</a>; <a href='#Lan'>Mandragoran, Lan</a>. "}]}
+{
+    "id": "Moiraine-Damodred",
+    "name": "Moiraine Damodred",
+    "chapters": [
+        {
+            "title": "Chapter 2: Strangers",
+            "info": "<a class='name' name='Moiraine'>Moiraine Damodred</a>, p. 20&#x2014;Guest in Emond&apos;s Field the day before Bel Tine. She has large dark eyes and keeps her dark hair in ringlets. She barely comes to <a href='#Rand'>Rand</a>&apos;s chest. <i>See also</i> <a href='#Alys'>Alys</a>; <a href='#Lan'>Mandragoran, Lan</a>. "
+        }
+    ]
+}

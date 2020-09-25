@@ -1,1 +1,10 @@
-{"id":"Matrim-Mat-Cauthon","name":"Matrim (Mat) Cauthon","chapters":[{"title":"Chapter 1: The Flame of Tar Valon","info":"<a class='name' name='Mat'>Matrim (Mat) Cauthon</a>, p. 7 (6)&#x2014;A young man from Emond&apos;s Field, and a good friend of <a href='#Rand'>Rand al&apos;Thor</a>. He likes to gamble, and has considerable luck with random events, such as dice games. When he was traveling from Emond&apos;s Field to the Eye of the World, he picked up a dagger from Aridhol, more commonly known as Shadar Logoth, which was tainted with evil. He was partially healed by <a href='#Moiraine'>Moiraine</a>, but the dagger was stolen before his link with it could be completely broken. If it is not broken soon, Mat will waste away and die. <i>See also</i> <a href='#Rand'>al&apos;Thor, Rand</a>; <a href='#Perrin'>Aybara, Perrin</a>. "}]}
+{
+    "id": "Matrim-Mat-Cauthon",
+    "name": "Matrim (Mat) Cauthon",
+    "chapters": [
+        {
+            "title": "Chapter 1: The Flame of Tar Valon",
+            "info": "<a class='name' name='Mat'>Matrim (Mat) Cauthon</a>, p. 7 (6)&#x2014;A young man from Emond&apos;s Field, and a good friend of <a href='#Rand'>Rand al&apos;Thor</a>. He likes to gamble, and has considerable luck with random events, such as dice games. When he was traveling from Emond&apos;s Field to the Eye of the World, he picked up a dagger from Aridhol, more commonly known as Shadar Logoth, which was tainted with evil. He was partially healed by <a href='#Moiraine'>Moiraine</a>, but the dagger was stolen before his link with it could be completely broken. If it is not broken soon, Mat will waste away and die. <i>See also</i> <a href='#Rand'>al&apos;Thor, Rand</a>; <a href='#Perrin'>Aybara, Perrin</a>. "
+        }
+    ]
+}

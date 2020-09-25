@@ -1,1 +1,10 @@
-{"id":"Alin-Seroku","name":"Alin Seroku","chapters":[{"title":"Chapter 21: An Open Gate","info":"<a class='name' name='Alin'>Alin Seroku</a>, p. 329&#x2014;Bluff, graying Saldaean officer with white scars on his face. He has soldiered for 60 years along the Blight. He commands cavalry. "}]}
+{
+    "id": "Alin-Seroku",
+    "name": "Alin Seroku",
+    "chapters": [
+        {
+            "title": "Chapter 21: An Open Gate",
+            "info": "<a class='name' name='Alin'>Alin Seroku</a>, p. 329&#x2014;Bluff, graying Saldaean officer with white scars on his face. He has soldiered for 60 years along the Blight. He commands cavalry. "
+        }
+    ]
+}

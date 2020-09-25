@@ -1,1 +1,10 @@
-{"id":"Lord-Lieutenant-Havien-Nurelle","name":"Lord Lieutenant Havien Nurelle","chapters":[{"title":"Chapter 2: The Butcher's Yard","info":"<a class='name' name='Nurelle'>Lord Lieutenant Havien Nurelle</a>, p. 70 (77)&#x2014;Lieutenant of <a href='#Berelain'>Berelain</a>&apos;s Winged Guards. Pink cheeked and young. "}]}
+{
+    "id": "Lord-Lieutenant-Havien-Nurelle",
+    "name": "Lord Lieutenant Havien Nurelle",
+    "chapters": [
+        {
+            "title": "Chapter 2: The Butcher's Yard",
+            "info": "<a class='name' name='Nurelle'>Lord Lieutenant Havien Nurelle</a>, p. 70 (77)&#x2014;Lieutenant of <a href='#Berelain'>Berelain</a>&apos;s Winged Guards. Pink cheeked and young. "
+        }
+    ]
+}

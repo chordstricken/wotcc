@@ -1,1 +1,10 @@
-{"id":"Rittle","name":"Rittle","chapters":[{"title":"Chapter 31: Into the Void","info":"<a class='name' name='Rittle'>Rittle</a>, p. 483&#x2014;Man who stinks of garlic from Caemlyn. He plays <a href='#Koronko'>Koronko</a>&apos;s Spit with <a href='#Mat'>Mat</a> in The Dusty Wheel. "}]}
+{
+    "id": "Rittle",
+    "name": "Rittle",
+    "chapters": [
+        {
+            "title": "Chapter 31: Into the Void",
+            "info": "<a class='name' name='Rittle'>Rittle</a>, p. 483&#x2014;Man who stinks of garlic from Caemlyn. He plays <a href='#Koronko'>Koronko</a>&apos;s Spit with <a href='#Mat'>Mat</a> in The Dusty Wheel. "
+        }
+    ]
+}

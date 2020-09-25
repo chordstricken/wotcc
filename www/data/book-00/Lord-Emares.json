@@ -1,1 +1,10 @@
-{"id":"Lord-Emares","name":"Lord Emares","chapters":[{"title":"Prelude","info":"<a class='name' name='Emares'>Lord Emares</a>, p. 17&#x2014;General in the forces against the Aiel from Tear. He discovered a group of Aiel that followed to the east. He sent a message to <a href='#Lan'>Lan</a> to the effect that he intended to serve as the hammer that crushed the Aiel into Lan&apos;s troops, who would serve as the anvil. "}]}
+{
+    "id": "Lord-Emares",
+    "name": "Lord Emares",
+    "chapters": [
+        {
+            "title": "Prelude",
+            "info": "<a class='name' name='Emares'>Lord Emares</a>, p. 17&#x2014;General in the forces against the Aiel from Tear. He discovered a group of Aiel that followed to the east. He sent a message to <a href='#Lan'>Lan</a> to the effect that he intended to serve as the hammer that crushed the Aiel into Lan&apos;s troops, who would serve as the anvil. "
+        }
+    ]
+}

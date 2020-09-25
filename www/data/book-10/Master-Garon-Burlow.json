@@ -1,1 +1,10 @@
-{"id":"Master-Garon-Burlow","name":"Master Garon Burlow","chapters":[{"title":"Prologue: Glimmers of the Pattern","info":"<a class='name' name='Burlow'>Master Garon Burlow</a>, p. 55 (51)&#x2014;Mayor of Dorlan, a town the Younglings pass through, and owner of its largest house. "}]}
+{
+    "id": "Master-Garon-Burlow",
+    "name": "Master Garon Burlow",
+    "chapters": [
+        {
+            "title": "Prologue: Glimmers of the Pattern",
+            "info": "<a class='name' name='Burlow'>Master Garon Burlow</a>, p. 55 (51)&#x2014;Mayor of Dorlan, a town the Younglings pass through, and owner of its largest house. "
+        }
+    ]
+}

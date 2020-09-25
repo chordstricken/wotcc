@@ -1,1 +1,10 @@
-{"id":"Joline-Maza","name":"Joline Maza","chapters":[{"title":"Prologue: The First Sparks Fall","info":"<a class='name' name='Joline'>Joline Maza</a>, p. 15 (14)&#x2014;Aes Sedai of the Green Ajah. She is fond of revealing, clinging dresses. She is the only Green among those who deposed <a href='#Siuan'>Siuan Sanche</a>, who now advise <a href='#Elaida'>Elaida</a>. "}]}
+{
+    "id": "Joline-Maza",
+    "name": "Joline Maza",
+    "chapters": [
+        {
+            "title": "Prologue: The First Sparks Fall",
+            "info": "<a class='name' name='Joline'>Joline Maza</a>, p. 15 (14)&#x2014;Aes Sedai of the Green Ajah. She is fond of revealing, clinging dresses. She is the only Green among those who deposed <a href='#Siuan'>Siuan Sanche</a>, who now advise <a href='#Elaida'>Elaida</a>. "
+        }
+    ]
+}

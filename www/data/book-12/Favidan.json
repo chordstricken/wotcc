@@ -1,1 +1,10 @@
-{"id":"Favidan","name":"Favidan","chapters":[{"title":"Prelude","info":"<a class='name' name='Favidan'>Favidan</a>, p. 24&#x2014;One of <a href='#Fanwar'>Fanwar</a>&apos;s farm hands. "}]}
+{
+    "id": "Favidan",
+    "name": "Favidan",
+    "chapters": [
+        {
+            "title": "Prelude",
+            "info": "<a class='name' name='Favidan'>Favidan</a>, p. 24&#x2014;One of <a href='#Fanwar'>Fanwar</a>&apos;s farm hands. "
+        }
+    ]
+}

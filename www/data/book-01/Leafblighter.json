@@ -1,1 +1,10 @@
-{"id":"Leafblighter","name":"Leafblighter","chapters":[{"title":"Chapter 25: The Traveling People","info":"<a class='name' '=''>Leafblighter</a>, p. 316&#x2014;Aiel name for the <a href='#Dark'>Dark One</a>. <i>See</i> <a href='#Dark'>Shai&apos;tan</a>. "}]}
+{
+    "id": "Leafblighter",
+    "name": "Leafblighter",
+    "chapters": [
+        {
+            "title": "Chapter 25: The Traveling People",
+            "info": "<a class='name' '=''>Leafblighter</a>, p. 316&#x2014;Aiel name for the <a href='#Dark'>Dark One</a>. <i>See</i> <a href='#Dark'>Shai&apos;tan</a>. "
+        }
+    ]
+}

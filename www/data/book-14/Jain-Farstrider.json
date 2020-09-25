@@ -1,1 +1,10 @@
-{"id":"Jain-Farstrider","name":"Jain Farstrider","chapters":[{"title":"Chapter 45: Tendrils of Mist","info":"<a class='name' name='Farstrider'>Jain Farstrider</a>, p. 863&#x2014;Hero of legend. There is a book about him, <i>The Travels of Jain Farstrider</i>, that <a href='#Mat'>Mat</a> intends to read but never has. The book is quite popular with his friends, including <a href='#Elayne'>Elayne</a>, <a href='#Egwene'>Egwene</a>, <a href='#Rand'>Rand</a>, and <a href='#Nynaeve'>Nynaeve</a>. He is Malkieri. Jain Farstrider&apos;s real name is Jain Charin, also called <a href='#Noal'>Noal</a>. He died in the Tower of Ghenjei, distracting the attacking Aelfinn just long enough for Mat and <a href='#Thom'>Thom</a> to escape with <a href='#Moiraine'>Moiraine</a>. He has since been bound to the Horn of Valere, and fights alongside the other Heroes. <i>See also</i> <a href='#Noal'>Charin, Noal</a>. "}]}
+{
+    "id": "Jain-Farstrider",
+    "name": "Jain Farstrider",
+    "chapters": [
+        {
+            "title": "Chapter 45: Tendrils of Mist",
+            "info": "<a class='name' name='Farstrider'>Jain Farstrider</a>, p. 863&#x2014;Hero of legend. There is a book about him, <i>The Travels of Jain Farstrider</i>, that <a href='#Mat'>Mat</a> intends to read but never has. The book is quite popular with his friends, including <a href='#Elayne'>Elayne</a>, <a href='#Egwene'>Egwene</a>, <a href='#Rand'>Rand</a>, and <a href='#Nynaeve'>Nynaeve</a>. He is Malkieri. Jain Farstrider&apos;s real name is Jain Charin, also called <a href='#Noal'>Noal</a>. He died in the Tower of Ghenjei, distracting the attacking Aelfinn just long enough for Mat and <a href='#Thom'>Thom</a> to escape with <a href='#Moiraine'>Moiraine</a>. He has since been bound to the Horn of Valere, and fights alongside the other Heroes. <i>See also</i> <a href='#Noal'>Charin, Noal</a>. "
+        }
+    ]
+}

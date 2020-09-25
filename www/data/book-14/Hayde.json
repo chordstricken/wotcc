@@ -1,1 +1,10 @@
-{"id":"Hayde","name":"Hayde","chapters":[{"title":"Prologue: By Grace and Banners Fallen","info":"<a class='name' name='Hayde'>Hayde</a>, p. 43&#x2014;Wise One of the Daryne Aiel. "}]}
+{
+    "id": "Hayde",
+    "name": "Hayde",
+    "chapters": [
+        {
+            "title": "Prologue: By Grace and Banners Fallen",
+            "info": "<a class='name' name='Hayde'>Hayde</a>, p. 43&#x2014;Wise One of the Daryne Aiel. "
+        }
+    ]
+}

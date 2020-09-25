@@ -1,1 +1,10 @@
-{"id":"Brandelwyn-Bran-al-Vere","name":"Brandelwyn (Bran) al'Vere","chapters":[{"title":"Chapter 13: What Must Be Done","info":"<a class='name' name='Bran'>Brandelwyn (Bran) al&apos;Vere</a>, p. 278&#x2014;Innkeeper of the Winespring Inn and Mayor of Emond&apos;s Field. He is <a href='#Egwene'>Egwene</a>&apos;s father. He and his wife <a href='#Marin'>Marin</a> have five daughters, of which Egwene is the youngest. <a href='#Perrin'>Perrin</a> thinks he would do well if made Lord of the Two Rivers, definitely better than Perrin himself. <i>See also</i> <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "}]}
+{
+    "id": "Brandelwyn-Bran-al-Vere",
+    "name": "Brandelwyn (Bran) al'Vere",
+    "chapters": [
+        {
+            "title": "Chapter 13: What Must Be Done",
+            "info": "<a class='name' name='Bran'>Brandelwyn (Bran) al&apos;Vere</a>, p. 278&#x2014;Innkeeper of the Winespring Inn and Mayor of Emond&apos;s Field. He is <a href='#Egwene'>Egwene</a>&apos;s father. He and his wife <a href='#Marin'>Marin</a> have five daughters, of which Egwene is the youngest. <a href='#Perrin'>Perrin</a> thinks he would do well if made Lord of the Two Rivers, definitely better than Perrin himself. <i>See also</i> <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Deoan","name":"Deoan","chapters":[{"title":"Chapter 37: The Last Battle","info":"<a class='name' name='Deoan'>Deoan</a>, p. 710&#x2014;A young man from Deven Ride. He served in the Andoran Army at the battle for Caemlyn. He now fights under <a href='#Tam'>Tam al&apos;Thor</a> in the Last Battle. "}]}
+{
+    "id": "Deoan",
+    "name": "Deoan",
+    "chapters": [
+        {
+            "title": "Chapter 37: The Last Battle",
+            "info": "<a class='name' name='Deoan'>Deoan</a>, p. 710&#x2014;A young man from Deven Ride. He served in the Andoran Army at the battle for Caemlyn. He now fights under <a href='#Tam'>Tam al&apos;Thor</a> in the Last Battle. "
+        }
+    ]
+}

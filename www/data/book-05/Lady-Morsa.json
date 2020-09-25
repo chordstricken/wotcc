@@ -1,1 +1,10 @@
-{"id":"Lady-Morsa","name":"Lady Morsa","chapters":[{"title":"Chapter 32: A Short Spear","info":"<a class='name' name='Morsa'>Lady Morsa</a>, p. 522 (370)&#x2014;A Seanchan noble that <a href='#Rand'>Rand</a> and <a href='#Aviendha'>Aviendha</a> capture in Seanchan. "}]}
+{
+    "id": "Lady-Morsa",
+    "name": "Lady Morsa",
+    "chapters": [
+        {
+            "title": "Chapter 32: A Short Spear",
+            "info": "<a class='name' name='Morsa'>Lady Morsa</a>, p. 522 (370)&#x2014;A Seanchan noble that <a href='#Rand'>Rand</a> and <a href='#Aviendha'>Aviendha</a> capture in Seanchan. "
+        }
+    ]
+}

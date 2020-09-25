@@ -1,1 +1,10 @@
-{"id":"Captain-Blasic-Faloun","name":"Captain Blasic Faloun","chapters":[{"title":"Chapter 12: A Manufactory","info":"<a class='name' name='Faloun'>Captain Blasic Faloun</a>, p. 297&#x2014;Graying, lean-faced man with a black leather patch hiding the spot where his right eye had been. A puckered white scar runs down his forehead. "}]}
+{
+    "id": "Captain-Blasic-Faloun",
+    "name": "Captain Blasic Faloun",
+    "chapters": [
+        {
+            "title": "Chapter 12: A Manufactory",
+            "info": "<a class='name' name='Faloun'>Captain Blasic Faloun</a>, p. 297&#x2014;Graying, lean-faced man with a black leather patch hiding the spot where his right eye had been. A puckered white scar runs down his forehead. "
+        }
+    ]
+}

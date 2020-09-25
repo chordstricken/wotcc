@@ -1,1 +1,10 @@
-{"id":"Talia","name":"Talia","chapters":[{"title":"Chapter 21: Swovan Night","info":"<a class='name' name='Talia'>Talia</a>, p. 364 (463)&#x2014;Woman out of a story that <a href='#Nynaeve'>Nynaeve</a> remembers when thinking about <a href='#Lan'>Lan</a>. "}]}
+{
+    "id": "Talia",
+    "name": "Talia",
+    "chapters": [
+        {
+            "title": "Chapter 21: Swovan Night",
+            "info": "<a class='name' name='Talia'>Talia</a>, p. 364 (463)&#x2014;Woman out of a story that <a href='#Nynaeve'>Nynaeve</a> remembers when thinking about <a href='#Lan'>Lan</a>. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Shemaen","name":"Shemaen","chapters":[{"title":"Chapter 8: Shreds of Serenity","info":"<a class='name' name='Shemaen'>Shemaen</a>, p. 124&#x2014;Aes Sedai of unknown Ajah. "}]}
+{
+    "id": "Shemaen",
+    "name": "Shemaen",
+    "chapters": [
+        {
+            "title": "Chapter 8: Shreds of Serenity",
+            "info": "<a class='name' name='Shemaen'>Shemaen</a>, p. 124&#x2014;Aes Sedai of unknown Ajah. "
+        }
+    ]
+}

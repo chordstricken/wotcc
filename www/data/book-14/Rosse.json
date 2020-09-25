@@ -1,1 +1,10 @@
-{"id":"Rosse","name":"Rosse","chapters":[{"title":"Prologue: By Grace and Banners Fallen","info":"<a class='name' name='Rosse'>Rosse</a>, p. 20&#x2014;One of <a href='#Jarid'>Jarid Sarand</a>&apos;s personal guards. He had to restrain his lord when his men started leaving. <i>See also</i> <a href='#Jarid'>Sarand, Jarid</a>. "}]}
+{
+    "id": "Rosse",
+    "name": "Rosse",
+    "chapters": [
+        {
+            "title": "Prologue: By Grace and Banners Fallen",
+            "info": "<a class='name' name='Rosse'>Rosse</a>, p. 20&#x2014;One of <a href='#Jarid'>Jarid Sarand</a>&apos;s personal guards. He had to restrain his lord when his men started leaving. <i>See also</i> <a href='#Jarid'>Sarand, Jarid</a>. "
+        }
+    ]
+}

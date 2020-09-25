@@ -1,1 +1,10 @@
-{"id":"Collaris","name":"Collaris","chapters":[{"title":"Chapter 2: The Dark One's Touch","info":"<a class='name' name='Collaris'>Collaris</a>, p. 122&#x2014;<a href='#Beonin'>Beonin</a>&apos;s maternal grandmother. "}]}
+{
+    "id": "Collaris",
+    "name": "Collaris",
+    "chapters": [
+        {
+            "title": "Chapter 2: The Dark One's Touch",
+            "info": "<a class='name' name='Collaris'>Collaris</a>, p. 122&#x2014;<a href='#Beonin'>Beonin</a>&apos;s maternal grandmother. "
+        }
+    ]
+}

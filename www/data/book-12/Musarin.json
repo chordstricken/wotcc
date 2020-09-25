@@ -1,1 +1,10 @@
-{"id":"Musarin","name":"Musarin","chapters":[{"title":"Chapter 6: When Iron Melts","info":"<a class='name' name='Musarin'>Musarin</a>, p. 117&#x2014;White-haired Aes Sedai of the Yellow Ajah. She remained in the Tower after the split. She was on guard at <a href='#Leane'>Leane</a>&apos;s cell when the walls and floor suddenly turned to wax. "}]}
+{
+    "id": "Musarin",
+    "name": "Musarin",
+    "chapters": [
+        {
+            "title": "Chapter 6: When Iron Melts",
+            "info": "<a class='name' name='Musarin'>Musarin</a>, p. 117&#x2014;White-haired Aes Sedai of the Yellow Ajah. She remained in the Tower after the split. She was on guard at <a href='#Leane'>Leane</a>&apos;s cell when the walls and floor suddenly turned to wax. "
+        }
+    ]
+}

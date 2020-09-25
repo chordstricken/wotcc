@@ -1,1 +1,10 @@
-{"id":"Jalani","name":"Jalani","chapters":[{"title":"Chapter 1: Lion on the Hill","info":"<a class='name' name='Jalani'>Jalani</a>, p. 66 (77)&#x2014;A Maiden of the Spear, part of <a href='#Rand'>Rand</a>&apos;s honor guard. She is the youngest among them, only sixteen. "}]}
+{
+    "id": "Jalani",
+    "name": "Jalani",
+    "chapters": [
+        {
+            "title": "Chapter 1: Lion on the Hill",
+            "info": "<a class='name' name='Jalani'>Jalani</a>, p. 66 (77)&#x2014;A Maiden of the Spear, part of <a href='#Rand'>Rand</a>&apos;s honor guard. She is the youngest among them, only sixteen. "
+        }
+    ]
+}

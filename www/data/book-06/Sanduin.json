@@ -1,1 +1,10 @@
-{"id":"Sanduin","name":"Sanduin","chapters":[{"title":"Chapter 18: A Taste of Solitude","info":"<a class='name' name='Sanduin'>Sanduin</a>, p. 301 (419)&#x2014;Strapping True Blood with a scar on his face. <a href='#Sorilea'>Sorilea</a> suggests him as a husband for <a href='#Egwene'>Egwene</a>. "}]}
+{
+    "id": "Sanduin",
+    "name": "Sanduin",
+    "chapters": [
+        {
+            "title": "Chapter 18: A Taste of Solitude",
+            "info": "<a class='name' name='Sanduin'>Sanduin</a>, p. 301 (419)&#x2014;Strapping True Blood with a scar on his face. <a href='#Sorilea'>Sorilea</a> suggests him as a husband for <a href='#Egwene'>Egwene</a>. "
+        }
+    ]
+}

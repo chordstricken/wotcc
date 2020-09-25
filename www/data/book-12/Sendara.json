@@ -1,1 +1,10 @@
-{"id":"Sendara","name":"Sendara","chapters":[{"title":"Chapter 29: Into Bandar Eban","info":"<a class='name' name='Sendara'>Sendara</a>, p. 444&#x2014;Maiden of the Spear of the Iron Mountain Taardad. <a href='#Rand'>Rand</a> feels responsible for her death. "}]}
+{
+    "id": "Sendara",
+    "name": "Sendara",
+    "chapters": [
+        {
+            "title": "Chapter 29: Into Bandar Eban",
+            "info": "<a class='name' name='Sendara'>Sendara</a>, p. 444&#x2014;Maiden of the Spear of the Iron Mountain Taardad. <a href='#Rand'>Rand</a> feels responsible for her death. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Jeral-Florry","name":"Jeral Florry","chapters":[{"title":"Chapter 40: A Hero in the Night","info":"<a class='name' name='Florry'>Jeral Florry</a>, p. 469 (375)&#x2014;Innkeeper of the Good Queen, the inn in whose stable <a href='#Mat'>Mat</a> and <a href='#Thom'>Thom</a> spend part of the night in while in Aringill. "}]}
+{
+    "id": "Jeral-Florry",
+    "name": "Jeral Florry",
+    "chapters": [
+        {
+            "title": "Chapter 40: A Hero in the Night",
+            "info": "<a class='name' name='Florry'>Jeral Florry</a>, p. 469 (375)&#x2014;Innkeeper of the Good Queen, the inn in whose stable <a href='#Mat'>Mat</a> and <a href='#Thom'>Thom</a> spend part of the night in while in Aringill. "
+        }
+    ]
+}

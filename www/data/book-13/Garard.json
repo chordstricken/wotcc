@@ -1,1 +1,10 @@
-{"id":"Garard","name":"Garard","chapters":[{"title":"Chapter 22: The End of a Legend","info":"<a class='name' name='Garard'>Garard</a>, p. 356&#x2014;Beggar&apos;s name, used by <a href='#Mat'>Mat</a> to avoid suspicion. "}]}
+{
+    "id": "Garard",
+    "name": "Garard",
+    "chapters": [
+        {
+            "title": "Chapter 22: The End of a Legend",
+            "info": "<a class='name' name='Garard'>Garard</a>, p. 356&#x2014;Beggar&apos;s name, used by <a href='#Mat'>Mat</a> to avoid suspicion. "
+        }
+    ]
+}

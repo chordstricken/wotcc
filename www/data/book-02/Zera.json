@@ -1,1 +1,10 @@
-{"id":"Zera","name":"Zera","chapters":[{"title":"Chapter 26: Discord","info":"<a class='name' name='Zera'>Zera</a>, p. 382 (386)&#x2014;Innkeeper of The Bunch of Grapes, the inn in Cairhien at which <a href='#Thom'>Thom Merrilin</a> is staying with <a href='#Dena'>Dena</a>. "}]}
+{
+    "id": "Zera",
+    "name": "Zera",
+    "chapters": [
+        {
+            "title": "Chapter 26: Discord",
+            "info": "<a class='name' name='Zera'>Zera</a>, p. 382 (386)&#x2014;Innkeeper of The Bunch of Grapes, the inn in Cairhien at which <a href='#Thom'>Thom Merrilin</a> is staying with <a href='#Dena'>Dena</a>. "
+        }
+    ]
+}

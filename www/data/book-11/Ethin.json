@@ -1,1 +1,10 @@
-{"id":"Ethin","name":"Ethin","chapters":[{"title":"Chapter 18: News for the Dragon","info":"<a class='name' name='Ethin'>Ethin</a>, p. 390&#x2014;White-haired servant on <a href='#Algarin'>Algarin</a>&apos;s manor. "}]}
+{
+    "id": "Ethin",
+    "name": "Ethin",
+    "chapters": [
+        {
+            "title": "Chapter 18: News for the Dragon",
+            "info": "<a class='name' name='Ethin'>Ethin</a>, p. 390&#x2014;White-haired servant on <a href='#Algarin'>Algarin</a>&apos;s manor. "
+        }
+    ]
+}

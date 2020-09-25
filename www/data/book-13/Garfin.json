@@ -1,1 +1,10 @@
-{"id":"Garfin","name":"Garfin","chapters":[{"title":"Chapter 46: Working Leather","info":"<a class='name' name='Garfin'>Garfin</a>, p. 681&#x2014;<a href='#Androl'>Androl</a>&apos;s first guard instructor. He has one arm. His accent is of Illian, and is heavily nasal and virtually incomprehensible. He taught Androl about the Void. "}]}
+{
+    "id": "Garfin",
+    "name": "Garfin",
+    "chapters": [
+        {
+            "title": "Chapter 46: Working Leather",
+            "info": "<a class='name' name='Garfin'>Garfin</a>, p. 681&#x2014;<a href='#Androl'>Androl</a>&apos;s first guard instructor. He has one arm. His accent is of Illian, and is heavily nasal and virtually incomprehensible. He taught Androl about the Void. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Mandarb","name":"Mandarb","chapters":[{"title":"Chapter 7: A Departure","info":"<a class='name' name='Mandarb'>Mandarb</a>, p. 188 (134)&#x2014;<a href='#Lan'>Lan</a>&apos;s black stallion. His name means &#x201C;blade&#x201D; in the Old Tongue. "}]}
+{
+    "id": "Mandarb",
+    "name": "Mandarb",
+    "chapters": [
+        {
+            "title": "Chapter 7: A Departure",
+            "info": "<a class='name' name='Mandarb'>Mandarb</a>, p. 188 (134)&#x2014;<a href='#Lan'>Lan</a>&apos;s black stallion. His name means &#x201C;blade&#x201D; in the Old Tongue. "
+        }
+    ]
+}

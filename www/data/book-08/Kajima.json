@@ -1,1 +1,10 @@
-{"id":"Kajima","name":"Kajima","chapters":[{"title":"Chapter 26: The Extra Bit","info":"<a class='name' name='Kajima'>Kajima</a>, p. 515 (586)&#x2014;One of the male channelers who sides with <a href='#Logain'>Logain</a>; he helped put down the Aes Sedai &#x201C;invasion.&#x201D; "}]}
+{
+    "id": "Kajima",
+    "name": "Kajima",
+    "chapters": [
+        {
+            "title": "Chapter 26: The Extra Bit",
+            "info": "<a class='name' name='Kajima'>Kajima</a>, p. 515 (586)&#x2014;One of the male channelers who sides with <a href='#Logain'>Logain</a>; he helped put down the Aes Sedai &#x201C;invasion.&#x201D; "
+        }
+    ]
+}

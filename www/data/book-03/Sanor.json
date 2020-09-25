@@ -1,1 +1,10 @@
-{"id":"Sanor","name":"Sanor","chapters":[{"title":"Chapter 32: The First Ship","info":"<a class='name' name='Sanor'>Sanor</a>, p. 361 (288)&#x2014;Large crewman on the <i>Gray Gull</i>, the ship <a href='#Mat'>Mat</a> and <a href='#Thom'>Thom</a> take to Aringill (in Andor). "}]}
+{
+    "id": "Sanor",
+    "name": "Sanor",
+    "chapters": [
+        {
+            "title": "Chapter 32: The First Ship",
+            "info": "<a class='name' name='Sanor'>Sanor</a>, p. 361 (288)&#x2014;Large crewman on the <i>Gray Gull</i>, the ship <a href='#Mat'>Mat</a> and <a href='#Thom'>Thom</a> take to Aringill (in Andor). "
+        }
+    ]
+}

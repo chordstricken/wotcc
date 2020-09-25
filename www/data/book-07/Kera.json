@@ -1,1 +1,10 @@
-{"id":"Kera","name":"Kera","chapters":[{"title":"Prologue: Lightnings","info":"<a class='name' name='Kera'>Kera</a>, p. 38 (35)&#x2014;Aes Sedai of the Green Ajah. She has fair hair and blue eyes, uncommon among Tairens. "}]}
+{
+    "id": "Kera",
+    "name": "Kera",
+    "chapters": [
+        {
+            "title": "Prologue: Lightnings",
+            "info": "<a class='name' name='Kera'>Kera</a>, p. 38 (35)&#x2014;Aes Sedai of the Green Ajah. She has fair hair and blue eyes, uncommon among Tairens. "
+        }
+    ]
+}

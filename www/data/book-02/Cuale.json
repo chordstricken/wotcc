@@ -1,1 +1,10 @@
-{"id":"Cuale","name":"Cuale","chapters":[{"title":"Chapter 25: Cairhien","info":"<a class='name' name='Cuale'>Cuale</a>, p. 372 (328)&#x2014;Innkeeper of The Defender of the Dragonwall, the inn where <a href='#Rand'>Rand</a> and company stay while in Cairhien. "}]}
+{
+    "id": "Cuale",
+    "name": "Cuale",
+    "chapters": [
+        {
+            "title": "Chapter 25: Cairhien",
+            "info": "<a class='name' name='Cuale'>Cuale</a>, p. 372 (328)&#x2014;Innkeeper of The Defender of the Dragonwall, the inn where <a href='#Rand'>Rand</a> and company stay while in Cairhien. "
+        }
+    ]
+}

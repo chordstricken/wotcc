@@ -1,1 +1,10 @@
-{"id":"Hammar","name":"Hammar","chapters":[{"title":"Chapter 4: Nightfall","info":"<a class='name' name='Hammar'>Hammar</a>, p. 94&#x2014;A Blademaster and Warder who once taught the sword to young men that came to the White Tower. He was killed by <a href='#Gawyn'>Gawyn</a> during the chaos surrounding <a href='#Siuan'>Siuan Sanche</a>&apos;s deposition and imprisonment. "}]}
+{
+    "id": "Hammar",
+    "name": "Hammar",
+    "chapters": [
+        {
+            "title": "Chapter 4: Nightfall",
+            "info": "<a class='name' name='Hammar'>Hammar</a>, p. 94&#x2014;A Blademaster and Warder who once taught the sword to young men that came to the White Tower. He was killed by <a href='#Gawyn'>Gawyn</a> during the chaos surrounding <a href='#Siuan'>Siuan Sanche</a>&apos;s deposition and imprisonment. "
+        }
+    ]
+}

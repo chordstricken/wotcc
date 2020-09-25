@@ -1,1 +1,10 @@
-{"id":"Had","name":"Had","chapters":[{"title":"Chapter 43: Care for the Living","info":"<a class='name' name='Had2'>Had</a>, p. 632 (632)&#x2014;Young man from Emond&apos;s Field who died in the Trolloc attack. "}]}
+{
+    "id": "Had",
+    "name": "Had",
+    "chapters": [
+        {
+            "title": "Chapter 43: Care for the Living",
+            "info": "<a class='name' name='Had2'>Had</a>, p. 632 (632)&#x2014;Young man from Emond&apos;s Field who died in the Trolloc attack. "
+        }
+    ]
+}

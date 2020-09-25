@@ -1,1 +1,10 @@
-{"id":"Soulsbane","name":"Soulsbane","chapters":[{"title":"Chapter 1: Waiting","info":"<a class='name' '=''>Soulsbane</a>, p. 34 (20)&#x2014;Alternative name for the <a href='#Dark'>Dark One</a>. <i>See</i> <a href='#Dark'>Shai&apos;tan</a>. "}]}
+{
+    "id": "Soulsbane",
+    "name": "Soulsbane",
+    "chapters": [
+        {
+            "title": "Chapter 1: Waiting",
+            "info": "<a class='name' '=''>Soulsbane</a>, p. 34 (20)&#x2014;Alternative name for the <a href='#Dark'>Dark One</a>. <i>See</i> <a href='#Dark'>Shai&apos;tan</a>. "
+        }
+    ]
+}

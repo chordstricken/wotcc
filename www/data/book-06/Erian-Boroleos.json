@@ -1,1 +1,10 @@
-{"id":"Erian-Boroleos","name":"Erian Boroleos","chapters":[{"title":"Prologue: The First Message","info":"<a class='name' name='Erian'>Erian Boroleos</a>, p. 44 (48)&#x2014;Aes Sedai of the Green Ajah. She has four Warders. Part of <a href='#Coiren'>Coiren</a>&apos;s embassy to <a href='#Rand'>Rand</a> in Cairhien. <i>See also</i> <a href='#Bartol'>Bartol</a>; <a href='#Rashan'>Rashan</a>. "}]}
+{
+    "id": "Erian-Boroleos",
+    "name": "Erian Boroleos",
+    "chapters": [
+        {
+            "title": "Prologue: The First Message",
+            "info": "<a class='name' name='Erian'>Erian Boroleos</a>, p. 44 (48)&#x2014;Aes Sedai of the Green Ajah. She has four Warders. Part of <a href='#Coiren'>Coiren</a>&apos;s embassy to <a href='#Rand'>Rand</a> in Cairhien. <i>See also</i> <a href='#Bartol'>Bartol</a>; <a href='#Rashan'>Rashan</a>. "
+        }
+    ]
+}

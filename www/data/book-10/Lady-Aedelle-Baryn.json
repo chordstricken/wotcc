@@ -1,1 +1,10 @@
-{"id":"Lady-Aedelle-Baryn","name":"Lady Aedelle Baryn","chapters":[{"title":"Chapter 15: Gathering Darkness","info":"<a class='name' name='Aedelle'>Lady Aedelle Baryn</a>, p. 374 (448)&#x2014;Wife of <a href='#Lir'>Lir</a>. Her cook is now in the service of <a href='#Arymilla'>Arymilla</a>. "}]}
+{
+    "id": "Lady-Aedelle-Baryn",
+    "name": "Lady Aedelle Baryn",
+    "chapters": [
+        {
+            "title": "Chapter 15: Gathering Darkness",
+            "info": "<a class='name' name='Aedelle'>Lady Aedelle Baryn</a>, p. 374 (448)&#x2014;Wife of <a href='#Lir'>Lir</a>. Her cook is now in the service of <a href='#Arymilla'>Arymilla</a>. "
+        }
+    ]
+}

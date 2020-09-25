@@ -1,1 +1,10 @@
-{"id":"Nadere","name":"Nadere","chapters":[{"title":"Chapter 15: A Different Skill","info":"<a class='name' name='Nadere'>Nadere</a>, p. 344&#x2014;Wise One of the Goshien Aiel. She is almost stout, and has green eyes. She is as tall as most men. "}]}
+{
+    "id": "Nadere",
+    "name": "Nadere",
+    "chapters": [
+        {
+            "title": "Chapter 15: A Different Skill",
+            "info": "<a class='name' name='Nadere'>Nadere</a>, p. 344&#x2014;Wise One of the Goshien Aiel. She is almost stout, and has green eyes. She is as tall as most men. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Bakayar-Mishima","name":"Bakayar Mishima","chapters":[{"title":"Chapter 4: A Deal","info":"<a class='name' name='Mishima'>Bakayar Mishima</a>, p. 156&#x2014;Seanchan Captain under <a href='#Khirgan'>Khirgan</a>. His drawl is worse than hers. "}]}
+{
+    "id": "Bakayar-Mishima",
+    "name": "Bakayar Mishima",
+    "chapters": [
+        {
+            "title": "Chapter 4: A Deal",
+            "info": "<a class='name' name='Mishima'>Bakayar Mishima</a>, p. 156&#x2014;Seanchan Captain under <a href='#Khirgan'>Khirgan</a>. His drawl is worse than hers. "
+        }
+    ]
+}

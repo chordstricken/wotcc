@@ -1,1 +1,10 @@
-{"id":"Elsie","name":"Elsie","chapters":[{"title":"Chapter 10: A Blazing Beacon","info":"<a class='name' name='Elsie'>Elsie</a>, p. 267 (315)&#x2014;Maid in service of House Matherin. She is very nervous around <a href='#Elayne'>Elayne</a>. She is tall, about 25 years old, has dark hair, dark eyes, and a plump bosom. "}]}
+{
+    "id": "Elsie",
+    "name": "Elsie",
+    "chapters": [
+        {
+            "title": "Chapter 10: A Blazing Beacon",
+            "info": "<a class='name' name='Elsie'>Elsie</a>, p. 267 (315)&#x2014;Maid in service of House Matherin. She is very nervous around <a href='#Elayne'>Elayne</a>. She is tall, about 25 years old, has dark hair, dark eyes, and a plump bosom. "
+        }
+    ]
+}

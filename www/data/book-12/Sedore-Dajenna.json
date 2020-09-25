@@ -1,1 +1,10 @@
-{"id":"Sedore-Dajenna","name":"Sedore Dajenna","chapters":[{"title":"Chapter 39: A Visit from Verin Sedai","info":"<a class='name' name='Sedore'>Sedore Dajenna</a>, p. 608&#x2014;Sitter for the Yellow Ajah in Tar Valon. She has a round face. <a href='#Verin'>Verin</a> exposed her as a member of the Black Ajah. "}]}
+{
+    "id": "Sedore-Dajenna",
+    "name": "Sedore Dajenna",
+    "chapters": [
+        {
+            "title": "Chapter 39: A Visit from Verin Sedai",
+            "info": "<a class='name' name='Sedore'>Sedore Dajenna</a>, p. 608&#x2014;Sitter for the Yellow Ajah in Tar Valon. She has a round face. <a href='#Verin'>Verin</a> exposed her as a member of the Black Ajah. "
+        }
+    ]
+}

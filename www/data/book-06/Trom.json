@@ -1,1 +1,10 @@
-{"id":"Trom","name":"Trom","chapters":[{"title":"Chapter 31: Red Wax","info":"<a class='name' name='Trom'>Trom</a>, p. 443 (623)&#x2014;Whitecloak who allegedly uncovered the &#x201C;Darkfriends&#x201D; that were hanged in <a href='#Morgase'>Morgase</a>&apos;s presence. "}]}
+{
+    "id": "Trom",
+    "name": "Trom",
+    "chapters": [
+        {
+            "title": "Chapter 31: Red Wax",
+            "info": "<a class='name' name='Trom'>Trom</a>, p. 443 (623)&#x2014;Whitecloak who allegedly uncovered the &#x201C;Darkfriends&#x201D; that were hanged in <a href='#Morgase'>Morgase</a>&apos;s presence. "
+        }
+    ]
+}

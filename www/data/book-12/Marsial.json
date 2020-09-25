@@ -1,1 +1,10 @@
-{"id":"Marsial","name":"Marsial","chapters":[{"title":"Chapter 38: News in Tel'aran'rhiod","info":"<a class='name' name='Marsial'>Marsial</a>, p. 596&#x2014;Novice who <a href='#Egwene'>Egwene</a> conscripts to get forkroot tea for her so her guards can attempt to help the rest of the Red Ajah. "}]}
+{
+    "id": "Marsial",
+    "name": "Marsial",
+    "chapters": [
+        {
+            "title": "Chapter 38: News in Tel'aran'rhiod",
+            "info": "<a class='name' name='Marsial'>Marsial</a>, p. 596&#x2014;Novice who <a href='#Egwene'>Egwene</a> conscripts to get forkroot tea for her so her guards can attempt to help the rest of the Red Ajah. "
+        }
+    ]
+}

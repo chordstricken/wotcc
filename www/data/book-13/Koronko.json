@@ -1,1 +1,10 @@
-{"id":"Koronko","name":"Koronko","chapters":[{"title":"Chapter 31: Into the Void","info":"<a class='name' name='Koronko'>Koronko</a>, p. 483&#x2014;Namesake of Koronko&apos;s Spit, a dice game popular in Shienar. "}]}
+{
+    "id": "Koronko",
+    "name": "Koronko",
+    "chapters": [
+        {
+            "title": "Chapter 31: Into the Void",
+            "info": "<a class='name' name='Koronko'>Koronko</a>, p. 483&#x2014;Namesake of Koronko&apos;s Spit, a dice game popular in Shienar. "
+        }
+    ]
+}

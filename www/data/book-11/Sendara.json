@@ -1,1 +1,10 @@
-{"id":"Sendara","name":"Sendara","chapters":[{"title":"Chapter 18: News for the Dragon","info":"<a class='name' name='Sendara'>Sendara</a>, p. 386&#x2014;Maiden of the Spear of the Iron Mountain Taardad. "}]}
+{
+    "id": "Sendara",
+    "name": "Sendara",
+    "chapters": [
+        {
+            "title": "Chapter 18: News for the Dragon",
+            "info": "<a class='name' name='Sendara'>Sendara</a>, p. 386&#x2014;Maiden of the Spear of the Iron Mountain Taardad. "
+        }
+    ]
+}

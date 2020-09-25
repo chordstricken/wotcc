@@ -1,1 +1,10 @@
-{"id":"Pedra","name":"Pedra","chapters":[{"title":"Chapter 24: New Friends and Old Enemies","info":"<a class='name' name='Pedra'>Pedra</a>, p. 355 (312)&#x2014;One of the Accepted. She guides <a href='#Egwene'>Egwene</a> to her room on her first day in Tar Valon. She is a short, wiry woman, slightly older than <a href='#Nynaeve'>Nynaeve</a>. "}]}
+{
+    "id": "Pedra",
+    "name": "Pedra",
+    "chapters": [
+        {
+            "title": "Chapter 24: New Friends and Old Enemies",
+            "info": "<a class='name' name='Pedra'>Pedra</a>, p. 355 (312)&#x2014;One of the Accepted. She guides <a href='#Egwene'>Egwene</a> to her room on her first day in Tar Valon. She is a short, wiry woman, slightly older than <a href='#Nynaeve'>Nynaeve</a>. "
+        }
+    ]
+}

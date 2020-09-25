@@ -1,1 +1,10 @@
-{"id":"Mistress-Beldair","name":"Mistress Beldair","chapters":[{"title":"Prologue: Glimmers of the Pattern","info":"<a class='name' name='Beldair'>Mistress Beldair</a>, p. 82 (84)&#x2014;Chief cook in an inn in Cairhien where <a href='#Samitsu'>Samitsu</a> stayed for a while. She is stout and tall for a Cairhienin, nearly as tall as Samitsu. She has gray hair. She also greeted <a href='#Ledar'>Ledar</a> and <a href='#Underhill'>Underhill</a> upon their arrival. "}]}
+{
+    "id": "Mistress-Beldair",
+    "name": "Mistress Beldair",
+    "chapters": [
+        {
+            "title": "Prologue: Glimmers of the Pattern",
+            "info": "<a class='name' name='Beldair'>Mistress Beldair</a>, p. 82 (84)&#x2014;Chief cook in an inn in Cairhien where <a href='#Samitsu'>Samitsu</a> stayed for a while. She is stout and tall for a Cairhienin, nearly as tall as Samitsu. She has gray hair. She also greeted <a href='#Ledar'>Ledar</a> and <a href='#Underhill'>Underhill</a> upon their arrival. "
+        }
+    ]
+}

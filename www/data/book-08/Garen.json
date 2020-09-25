@@ -1,1 +1,10 @@
-{"id":"Garen","name":"Garen","chapters":[{"title":"Chapter 10: Changes","info":"<a class='name' name='Garen'>Garen</a>, p. 228 (250)&#x2014;Namesake of Garen&apos;s Wall, which the monarch of Ghealdan is sworn to defend. "}]}
+{
+    "id": "Garen",
+    "name": "Garen",
+    "chapters": [
+        {
+            "title": "Chapter 10: Changes",
+            "info": "<a class='name' name='Garen'>Garen</a>, p. 228 (250)&#x2014;Namesake of Garen&apos;s Wall, which the monarch of Ghealdan is sworn to defend. "
+        }
+    ]
+}

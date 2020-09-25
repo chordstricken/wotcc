@@ -1,1 +1,10 @@
-{"id":"Loise-al-Vere","name":"Loise al'Vere","chapters":[{"title":"Ravens","info":"<a class='name' name='Loise'>Loise al&apos;Vere</a>, p. [6]&#x2014;One of five daughters of <a href='#Marin'>Marin</a> and <a href='#Bran'>Bran al&apos;Vere</a>, the innkeepers of Emond&apos;s Field. She is fifteen years old, six years older than their youngest daughter <a href='#Egwene'>Egwene</a>. She likes climbing trees and swimming in the Winespring Water, even though most girls her age have outgrown those pastimes. <i>See also</i> <a href='#Alene'>al&apos;Vere, Alene</a>; <a href='#Berowyn'>al&apos;Vere, Berowyn</a>; <a href='#Bran'>al&apos;Vere, Brandelwyn</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "}]}
+{
+    "id": "Loise-al-Vere",
+    "name": "Loise al'Vere",
+    "chapters": [
+        {
+            "title": "Ravens",
+            "info": "<a class='name' name='Loise'>Loise al&apos;Vere</a>, p. [6]&#x2014;One of five daughters of <a href='#Marin'>Marin</a> and <a href='#Bran'>Bran al&apos;Vere</a>, the innkeepers of Emond&apos;s Field. She is fifteen years old, six years older than their youngest daughter <a href='#Egwene'>Egwene</a>. She likes climbing trees and swimming in the Winespring Water, even though most girls her age have outgrown those pastimes. <i>See also</i> <a href='#Alene'>al&apos;Vere, Alene</a>; <a href='#Berowyn'>al&apos;Vere, Berowyn</a>; <a href='#Bran'>al&apos;Vere, Brandelwyn</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "
+        }
+    ]
+}

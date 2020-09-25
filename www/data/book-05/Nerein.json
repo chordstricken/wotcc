@@ -1,1 +1,10 @@
-{"id":"Nerein","name":"Nerein","chapters":[{"title":"Chapter 24: A Message Sent","info":"<a class='name' name='Nerein'>Nerein</a>, p. 419 (298)&#x2014;Hero of Legend who appears in <i>The Flame, the Blade, and the Heart</i>, a book <a href='#Egwene'>Egwene</a> is reading. "}]}
+{
+    "id": "Nerein",
+    "name": "Nerein",
+    "chapters": [
+        {
+            "title": "Chapter 24: A Message Sent",
+            "info": "<a class='name' name='Nerein'>Nerein</a>, p. 419 (298)&#x2014;Hero of Legend who appears in <i>The Flame, the Blade, and the Heart</i>, a book <a href='#Egwene'>Egwene</a> is reading. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Mighty","name":"Mighty","chapters":[{"title":"Chapter 37: The Last Battle","info":"<a class='name' name='Mighty'>Mighty</a>, p. 739&#x2014;<a href='#Arganda'>Arganda</a>&apos;s horse. "}]}
+{
+    "id": "Mighty",
+    "name": "Mighty",
+    "chapters": [
+        {
+            "title": "Chapter 37: The Last Battle",
+            "info": "<a class='name' name='Mighty'>Mighty</a>, p. 739&#x2014;<a href='#Arganda'>Arganda</a>&apos;s horse. "
+        }
+    ]
+}

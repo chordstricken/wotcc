@@ -1,1 +1,10 @@
-{"id":"Nashia","name":"Nashia","chapters":[{"title":"Chapter 52: Boots","info":"<a class='name' name='Nashia'>Nashia</a>, p. 758&#x2014;Prim Kinswoman with a youthful face. "}]}
+{
+    "id": "Nashia",
+    "name": "Nashia",
+    "chapters": [
+        {
+            "title": "Chapter 52: Boots",
+            "info": "<a class='name' name='Nashia'>Nashia</a>, p. 758&#x2014;Prim Kinswoman with a youthful face. "
+        }
+    ]
+}

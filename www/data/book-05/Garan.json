@@ -1,1 +1,10 @@
-{"id":"Garan","name":"Garan","chapters":[{"title":"Chapter 3: Pale Shadows","info":"<a class='name' name='Garan'>Garan</a>, p. 108 (78)&#x2014;Aiel of the Black Rock sept of the Goshien Aiel. He has served one year as <i>gai&apos;shain</i> to the Shaarad Clan, and as soon as he puts off the white will be married to <a href='#Joinde'>Joinde</a> of the Black Rock Shaarad. Marriages are common among men and women taken <i>gai&apos;shain</i> and members of the clan they serve, but very seldom occur between two clans in blood feud. The fact that theirs will occur is no doubt due to the presence of <a href='#Rand'>Rand al&apos;Thor</a>, whose chance-twisting effects of being <i>ta&apos;veren</i> twist seldom occurences into everyday events. <i>See also</i> <a href='#Joinde'>Joinde</a>. "}]}
+{
+    "id": "Garan",
+    "name": "Garan",
+    "chapters": [
+        {
+            "title": "Chapter 3: Pale Shadows",
+            "info": "<a class='name' name='Garan'>Garan</a>, p. 108 (78)&#x2014;Aiel of the Black Rock sept of the Goshien Aiel. He has served one year as <i>gai&apos;shain</i> to the Shaarad Clan, and as soon as he puts off the white will be married to <a href='#Joinde'>Joinde</a> of the Black Rock Shaarad. Marriages are common among men and women taken <i>gai&apos;shain</i> and members of the clan they serve, but very seldom occur between two clans in blood feud. The fact that theirs will occur is no doubt due to the presence of <a href='#Rand'>Rand al&apos;Thor</a>, whose chance-twisting effects of being <i>ta&apos;veren</i> twist seldom occurences into everyday events. <i>See also</i> <a href='#Joinde'>Joinde</a>. "
+        }
+    ]
+}

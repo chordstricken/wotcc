@@ -1,1 +1,10 @@
-{"id":"Norine-Dovarna","name":"Norine Dovarna","chapters":[{"title":"Prologue: Lightnings","info":"<a class='name' name='Norine'>Norine Dovarna</a>, p. 38 (35)&#x2014;Big-eyed, dreamy Aes Sedai of the White Ajah. She thinks that if the <a href='#Keeper'>Keeper of the Chronicles</a> is of the White Ajah, then she should be the Keeper of the Chronicles. "}]}
+{
+    "id": "Norine-Dovarna",
+    "name": "Norine Dovarna",
+    "chapters": [
+        {
+            "title": "Prologue: Lightnings",
+            "info": "<a class='name' name='Norine'>Norine Dovarna</a>, p. 38 (35)&#x2014;Big-eyed, dreamy Aes Sedai of the White Ajah. She thinks that if the <a href='#Keeper'>Keeper of the Chronicles</a> is of the White Ajah, then she should be the Keeper of the Chronicles. "
+        }
+    ]
+}

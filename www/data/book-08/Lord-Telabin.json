@@ -1,1 +1,10 @@
-{"id":"Lord-Telabin","name":"Lord Telabin","chapters":[{"title":"Chapter 8: A Simple Country Woman","info":"<a class='name' name='Telabin'>Lord Telabin</a>, p. 194 (211)&#x2014;Owner of a palace with a garden that <a href='#Alliandre'>Queen Alliandre</a> of Ghealdan frequents. "}]}
+{
+    "id": "Lord-Telabin",
+    "name": "Lord Telabin",
+    "chapters": [
+        {
+            "title": "Chapter 8: A Simple Country Woman",
+            "info": "<a class='name' name='Telabin'>Lord Telabin</a>, p. 194 (211)&#x2014;Owner of a palace with a garden that <a href='#Alliandre'>Queen Alliandre</a> of Ghealdan frequents. "
+        }
+    ]
+}

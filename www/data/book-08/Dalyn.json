@@ -1,1 +1,10 @@
-{"id":"Dalyn","name":"Dalyn","chapters":[{"title":"Chapter 24: A Time for Iron","info":"<a class='name' name='Dalyn'>Dalyn</a>, p. 475 (539)&#x2014;Other name that might be the real name of <a href='#Doile'>Doile</a>; <a href='#Bertome'>Bertome</a> does not remember the name all that well. "}]}
+{
+    "id": "Dalyn",
+    "name": "Dalyn",
+    "chapters": [
+        {
+            "title": "Chapter 24: A Time for Iron",
+            "info": "<a class='name' name='Dalyn'>Dalyn</a>, p. 475 (539)&#x2014;Other name that might be the real name of <a href='#Doile'>Doile</a>; <a href='#Bertome'>Bertome</a> does not remember the name all that well. "
+        }
+    ]
+}

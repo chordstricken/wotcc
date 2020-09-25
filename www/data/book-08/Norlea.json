@@ -1,1 +1,10 @@
-{"id":"Norlea","name":"Norlea","chapters":[{"title":"Chapter 11: Questions and an Oath","info":"<a class='name' name='Norlea'>Norlea</a>, p. 258 (286)&#x2014;Wise One of the Shaido Aiel. "}]}
+{
+    "id": "Norlea",
+    "name": "Norlea",
+    "chapters": [
+        {
+            "title": "Chapter 11: Questions and an Oath",
+            "info": "<a class='name' name='Norlea'>Norlea</a>, p. 258 (286)&#x2014;Wise One of the Shaido Aiel. "
+        }
+    ]
+}

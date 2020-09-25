@@ -1,1 +1,10 @@
-{"id":"Demandred","name":"Demandred","chapters":[{"title":"Chapter 42: Rememberance of Dreams","info":"<a class='name' name='Demandred'>Demandred</a>, p. 539&#x2014;One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to the Shadow during the War of the Shadow. His name is still used to frighten children. "}]}
+{
+    "id": "Demandred",
+    "name": "Demandred",
+    "chapters": [
+        {
+            "title": "Chapter 42: Rememberance of Dreams",
+            "info": "<a class='name' name='Demandred'>Demandred</a>, p. 539&#x2014;One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to the Shadow during the War of the Shadow. His name is still used to frighten children. "
+        }
+    ]
+}

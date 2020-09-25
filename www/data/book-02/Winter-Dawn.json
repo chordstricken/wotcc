@@ -1,1 +1,10 @@
-{"id":"Winter-Dawn","name":"Winter Dawn","chapters":[{"title":"Chapter 14: Wolfbrother","info":"<a class='name' '=''>Winter Dawn</a>, p. 228 (201)&#x2014;One of the wolves. "}]}
+{
+    "id": "Winter-Dawn",
+    "name": "Winter Dawn",
+    "chapters": [
+        {
+            "title": "Chapter 14: Wolfbrother",
+            "info": "<a class='name' '=''>Winter Dawn</a>, p. 228 (201)&#x2014;One of the wolves. "
+        }
+    ]
+}

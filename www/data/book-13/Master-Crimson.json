@@ -1,1 +1,10 @@
-{"id":"Master-Crimson","name":"Master Crimson","chapters":[{"title":"Chapter 8: The Seven-Striped Lass","info":"<a class='name' name='Crimson'>Master Crimson</a>, p. 143&#x2014;Pseudonym used by <a href='#Mat'>Mat</a> while in Andor to avoid drawing the attentions of Darkfriends and other unwanted people. "}]}
+{
+    "id": "Master-Crimson",
+    "name": "Master Crimson",
+    "chapters": [
+        {
+            "title": "Chapter 8: The Seven-Striped Lass",
+            "info": "<a class='name' name='Crimson'>Master Crimson</a>, p. 143&#x2014;Pseudonym used by <a href='#Mat'>Mat</a> while in Andor to avoid drawing the attentions of Darkfriends and other unwanted people. "
+        }
+    ]
+}

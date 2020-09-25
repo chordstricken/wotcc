@@ -1,1 +1,10 @@
-{"id":"Memara","name":"Memara","chapters":[{"title":"Prologue: The First Sparks Fall","info":"<a class='name' name='Memara'>Memara</a>, p. 16 (15)&#x2014;Aes Sedai of the Red Ajah. <a href='#Alviarin'>Alviarin</a> suggests her as an advisor to <a href='#Tenobia'>Queen Tenobia</a> during the crisis with <a href='#Taim'>Mazrim Taim</a>. "}]}
+{
+    "id": "Memara",
+    "name": "Memara",
+    "chapters": [
+        {
+            "title": "Prologue: The First Sparks Fall",
+            "info": "<a class='name' name='Memara'>Memara</a>, p. 16 (15)&#x2014;Aes Sedai of the Red Ajah. <a href='#Alviarin'>Alviarin</a> suggests her as an advisor to <a href='#Tenobia'>Queen Tenobia</a> during the crisis with <a href='#Taim'>Mazrim Taim</a>. "
+        }
+    ]
+}

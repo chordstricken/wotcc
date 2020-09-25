@@ -1,1 +1,10 @@
-{"id":"Aeldene-Stonebridge","name":"Aeldene Stonebridge","chapters":[{"title":"Chapter 11: The Nine Horse Hitch","info":"<a class='name' name='Aeldene'>Aeldene Stonebridge</a>, p. 241 (172)&#x2014;New sister in charge of the Blue Ajah&apos;s spy network. "}]}
+{
+    "id": "Aeldene-Stonebridge",
+    "name": "Aeldene Stonebridge",
+    "chapters": [
+        {
+            "title": "Chapter 11: The Nine Horse Hitch",
+            "info": "<a class='name' name='Aeldene'>Aeldene Stonebridge</a>, p. 241 (172)&#x2014;New sister in charge of the Blue Ajah&apos;s spy network. "
+        }
+    ]
+}

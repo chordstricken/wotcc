@@ -1,1 +1,10 @@
-{"id":"Niere","name":"Niere","chapters":[{"title":"Chapter 20: A Choice","info":"<a class='name' name='Niere'>Niere</a>, p. 298&#x2014;Aes Sedai of the Yellow Ajah. She is one of the few Yellows who accepts <a href='#Nynaeve'>Nynaeve</a> as one of them. "}]}
+{
+    "id": "Niere",
+    "name": "Niere",
+    "chapters": [
+        {
+            "title": "Chapter 20: A Choice",
+            "info": "<a class='name' name='Niere'>Niere</a>, p. 298&#x2014;Aes Sedai of the Yellow Ajah. She is one of the few Yellows who accepts <a href='#Nynaeve'>Nynaeve</a> as one of them. "
+        }
+    ]
+}

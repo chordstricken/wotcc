@@ -1,1 +1,10 @@
-{"id":"Master-Aydaer","name":"Master Aydaer","chapters":[{"title":"Chapter 28: Footprints in AirChapter 29: Eyes Without PityChapter 30: Children of Shadow","info":"<a class='name' name='Aydaer'>Master Aydaer</a>, p. 374&#x2014;Cabinetmaker of Emond&apos;s Field. He knows the value of good craftsmanship. "}]}
+{
+    "id": "Master-Aydaer",
+    "name": "Master Aydaer",
+    "chapters": [
+        {
+            "title": "Chapter 28: Footprints in AirChapter 29: Eyes Without PityChapter 30: Children of Shadow",
+            "info": "<a class='name' name='Aydaer'>Master Aydaer</a>, p. 374&#x2014;Cabinetmaker of Emond&apos;s Field. He knows the value of good craftsmanship. "
+        }
+    ]
+}

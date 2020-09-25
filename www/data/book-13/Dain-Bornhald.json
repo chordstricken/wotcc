@@ -1,1 +1,10 @@
-{"id":"Dain-Bornhald","name":"Dain Bornhald","chapters":[{"title":"Prologue: Distinctions","info":"<a class='name' name='Dain'>Dain Bornhald</a>, p. 33&#x2014;Son of <a href='#Bornhald'>Geofram</a>. He now commands his own troops; he also plans to avenge his father&apos;s death. He has a hatred of <a href='#Perrin'>Perrin</a>, since he thinks he had a hand in killing his father. After being chased from the Two Rivers, he has taken sides with <a href='#Galad'>Galad</a> against the new Lord Captain Commander, <a href='#Valda'>Eamon Valda</a>. He is fond of brandy. <i>See also</i> <a href='#Bornhald'>Bornhald, Geofram</a>. "}]}
+{
+    "id": "Dain-Bornhald",
+    "name": "Dain Bornhald",
+    "chapters": [
+        {
+            "title": "Prologue: Distinctions",
+            "info": "<a class='name' name='Dain'>Dain Bornhald</a>, p. 33&#x2014;Son of <a href='#Bornhald'>Geofram</a>. He now commands his own troops; he also plans to avenge his father&apos;s death. He has a hatred of <a href='#Perrin'>Perrin</a>, since he thinks he had a hand in killing his father. After being chased from the Two Rivers, he has taken sides with <a href='#Galad'>Galad</a> against the new Lord Captain Commander, <a href='#Valda'>Eamon Valda</a>. He is fond of brandy. <i>See also</i> <a href='#Bornhald'>Bornhald, Geofram</a>. "
+        }
+    ]
+}

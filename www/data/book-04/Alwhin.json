@@ -1,1 +1,10 @@
-{"id":"Alwhin","name":"Alwhin","chapters":[{"title":"Chapter 1: Seeds of Shadow","info":"<a class='name' name='Alwhin'>Alwhin</a>, p. 46 (31)&#x2014;Sharp-faced, blue-eyed Seanchan woman with a &#x201C;perpetual glower.&#x201D; The left side of her head is shaven, the other side long and brown-haired. She is a <i>sul&apos;dam</i>, and has been raised to a Voice of the Blood. No other <i>sul&apos;dam</i> has ever been raised to the Blood before, much less to a Voice of the Blood, but Alwhin knows too much to be a simple <i>sul&apos;dam</i>: she knows that <i>sul&apos;dam</i> can be controlled via <i>a&apos;dam</i>. She was intended to hold <a href='#Nynaeve'>Nynaeve</a>&apos;s leash when the Seanchan attempted to collar her outside the Ways with <a href='#Liandrin'>Liandrin</a>&apos;s assistance. "}]}
+{
+    "id": "Alwhin",
+    "name": "Alwhin",
+    "chapters": [
+        {
+            "title": "Chapter 1: Seeds of Shadow",
+            "info": "<a class='name' name='Alwhin'>Alwhin</a>, p. 46 (31)&#x2014;Sharp-faced, blue-eyed Seanchan woman with a &#x201C;perpetual glower.&#x201D; The left side of her head is shaven, the other side long and brown-haired. She is a <i>sul&apos;dam</i>, and has been raised to a Voice of the Blood. No other <i>sul&apos;dam</i> has ever been raised to the Blood before, much less to a Voice of the Blood, but Alwhin knows too much to be a simple <i>sul&apos;dam</i>: she knows that <i>sul&apos;dam</i> can be controlled via <i>a&apos;dam</i>. She was intended to hold <a href='#Nynaeve'>Nynaeve</a>&apos;s leash when the Seanchan attempted to collar her outside the Ways with <a href='#Liandrin'>Liandrin</a>&apos;s assistance. "
+        }
+    ]
+}

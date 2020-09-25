@@ -1,1 +1,10 @@
-{"id":"Elis","name":"Elis","chapters":[{"title":"Chapter 25: An Answer","info":"<a class='name' name='Elis'>Elis</a>, p. 309&#x2014;Pale-haired young woman, a servant in the Aesdaishar Palace. "}]}
+{
+    "id": "Elis",
+    "name": "Elis",
+    "chapters": [
+        {
+            "title": "Chapter 25: An Answer",
+            "info": "<a class='name' name='Elis'>Elis</a>, p. 309&#x2014;Pale-haired young woman, a servant in the Aesdaishar Palace. "
+        }
+    ]
+}

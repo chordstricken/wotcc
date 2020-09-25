@@ -1,1 +1,10 @@
-{"id":"Vilnar-Barada","name":"Vilnar Barada","chapters":[{"title":"Chapter 45: A Bitter Thought","info":"<a class='name' name='Vilnar'>Vilnar Barada</a>, p. 563 (790)&#x2014;Bearded man from Saldaea. He plans to marry <a href='#Teryane'>Teryane</a>, daughter of a merchant in Mihar. He is currently in Caemlyn. "}]}
+{
+    "id": "Vilnar-Barada",
+    "name": "Vilnar Barada",
+    "chapters": [
+        {
+            "title": "Chapter 45: A Bitter Thought",
+            "info": "<a class='name' name='Vilnar'>Vilnar Barada</a>, p. 563 (790)&#x2014;Bearded man from Saldaea. He plans to marry <a href='#Teryane'>Teryane</a>, daughter of a merchant in Mihar. He is currently in Caemlyn. "
+        }
+    ]
+}

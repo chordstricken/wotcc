@@ -1,1 +1,10 @@
-{"id":"Lord-Toram-Riatin","name":"Lord Toram Riatin","chapters":[{"title":"Prologue: Glimmers of the Pattern","info":"<a class='name' name='Toram'>Lord Toram Riatin</a>, p. 74&#x2014;Cairhienin lord, son of King Galldrian. He is a Blademaster. He opposed Colavaere, and is in league with Caraline and <a href='#Darlin'>Darlin</a> against <a href='#Rand'>Rand</a>. He was last seen running off into the fog of Mashadar that <a href='#Fain'>Fain</a> released, and is presumed dead. <i>See also</i> <a href='#Toram'>Riatin, Toram</a>. "}]}
+{
+    "id": "Lord-Toram-Riatin",
+    "name": "Lord Toram Riatin",
+    "chapters": [
+        {
+            "title": "Prologue: Glimmers of the Pattern",
+            "info": "<a class='name' name='Toram'>Lord Toram Riatin</a>, p. 74&#x2014;Cairhienin lord, son of King Galldrian. He is a Blademaster. He opposed Colavaere, and is in league with Caraline and <a href='#Darlin'>Darlin</a> against <a href='#Rand'>Rand</a>. He was last seen running off into the fog of Mashadar that <a href='#Fain'>Fain</a> released, and is presumed dead. <i>See also</i> <a href='#Toram'>Riatin, Toram</a>. "
+        }
+    ]
+}

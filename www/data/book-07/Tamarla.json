@@ -1,1 +1,10 @@
-{"id":"Tamarla","name":"Tamarla","chapters":[{"title":"Chapter 37: A Note from the Palace","info":"<a class='name' name='Tamarla'>Tamarla</a>, p. 577 (741)&#x2014;One of the Kin. She is quite old. "}]}
+{
+    "id": "Tamarla",
+    "name": "Tamarla",
+    "chapters": [
+        {
+            "title": "Chapter 37: A Note from the Palace",
+            "info": "<a class='name' name='Tamarla'>Tamarla</a>, p. 577 (741)&#x2014;One of the Kin. She is quite old. "
+        }
+    ]
+}

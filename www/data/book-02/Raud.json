@@ -1,1 +1,10 @@
-{"id":"Raud","name":"Raud","chapters":[{"title":"Chapter 31: On the Scent","info":"<a class='name' '=''>Raud</a>, p. 447 (395)&#x2014;<i>Typographical error intended to read <a href='#Rand'>Rand</a>, as in Rand al&apos;Thor.</i> <i>See</i> <a href='#Rand'>al&apos;Thor, Rand</a>. "}]}
+{
+    "id": "Raud",
+    "name": "Raud",
+    "chapters": [
+        {
+            "title": "Chapter 31: On the Scent",
+            "info": "<a class='name' '=''>Raud</a>, p. 447 (395)&#x2014;<i>Typographical error intended to read <a href='#Rand'>Rand</a>, as in Rand al&apos;Thor.</i> <i>See</i> <a href='#Rand'>al&apos;Thor, Rand</a>. "
+        }
+    ]
+}

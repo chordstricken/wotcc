@@ -1,1 +1,10 @@
-{"id":"Rendra","name":"Rendra","chapters":[{"title":"Chapter 39: A Cup of Wine","info":"<a class='name' name='Rendra'>Rendra</a>, p. 644 (582)&#x2014;Innkeeper of the Three Plum Court, an inn in Tanchico where <a href='#Elayne'>Elayne</a> and <a href='#Nynaeve'>Nynaeve</a> stay. <a href='#Domon'>Bayle Domon</a> knows her well. "}]}
+{
+    "id": "Rendra",
+    "name": "Rendra",
+    "chapters": [
+        {
+            "title": "Chapter 39: A Cup of Wine",
+            "info": "<a class='name' name='Rendra'>Rendra</a>, p. 644 (582)&#x2014;Innkeeper of the Three Plum Court, an inn in Tanchico where <a href='#Elayne'>Elayne</a> and <a href='#Nynaeve'>Nynaeve</a> stay. <a href='#Domon'>Bayle Domon</a> knows her well. "
+        }
+    ]
+}

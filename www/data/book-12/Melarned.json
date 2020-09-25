@@ -1,1 +1,10 @@
-{"id":"Melarned","name":"Melarned","chapters":[{"title":"Chapter 10: The Last of the Tabac","info":"<a class='name' name='Melarned'>Melarned</a>, p. 173&#x2014;Squat Domani officer in <a href='#Rodel'>Ituralde</a>&apos;s army. "}]}
+{
+    "id": "Melarned",
+    "name": "Melarned",
+    "chapters": [
+        {
+            "title": "Chapter 10: The Last of the Tabac",
+            "info": "<a class='name' name='Melarned'>Melarned</a>, p. 173&#x2014;Squat Domani officer in <a href='#Rodel'>Ituralde</a>&apos;s army. "
+        }
+    ]
+}

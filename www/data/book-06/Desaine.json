@@ -1,1 +1,10 @@
-{"id":"Desaine","name":"Desaine","chapters":[{"title":"Prologue: The First Message","info":"<a class='name' name='Desaine'>Desaine</a>, p. 46 (50)&#x2014;Wise One of the Shaido Aiel. She opposed <a href='#Sevanna'>Sevanna</a>&apos;s appointment to Wise One, which Sevanna never forgave her for. "}]}
+{
+    "id": "Desaine",
+    "name": "Desaine",
+    "chapters": [
+        {
+            "title": "Prologue: The First Message",
+            "info": "<a class='name' name='Desaine'>Desaine</a>, p. 46 (50)&#x2014;Wise One of the Shaido Aiel. She opposed <a href='#Sevanna'>Sevanna</a>&apos;s appointment to Wise One, which Sevanna never forgave her for. "
+        }
+    ]
+}

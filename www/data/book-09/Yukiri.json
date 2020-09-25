@@ -1,1 +1,10 @@
-{"id":"Yukiri","name":"Yukiri","chapters":[{"title":"Prologue: Snow","info":"<a class='name' name='Yukiri'>Yukiri</a>, p. 17 (3)&#x2014;Aes Sedai of the Gray Ajah. She is quite small, and is a Sitter for the Gray. "}]}
+{
+    "id": "Yukiri",
+    "name": "Yukiri",
+    "chapters": [
+        {
+            "title": "Prologue: Snow",
+            "info": "<a class='name' name='Yukiri'>Yukiri</a>, p. 17 (3)&#x2014;Aes Sedai of the Gray Ajah. She is quite small, and is a Sitter for the Gray. "
+        }
+    ]
+}

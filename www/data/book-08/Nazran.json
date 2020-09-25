@@ -1,1 +1,10 @@
-{"id":"Nazran","name":"Nazran","chapters":[{"title":"Chapter 12: New Alliances","info":"<a class='name' name='Nazran'>Nazran</a>, p. 261 (289)&#x2014;One of <a href='#Graendal'>Graendal</a>&apos;s servants. "}]}
+{
+    "id": "Nazran",
+    "name": "Nazran",
+    "chapters": [
+        {
+            "title": "Chapter 12: New Alliances",
+            "info": "<a class='name' name='Nazran'>Nazran</a>, p. 261 (289)&#x2014;One of <a href='#Graendal'>Graendal</a>&apos;s servants. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Riselle","name":"Riselle","chapters":[{"title":"Chapter 29: The Festival of Birds","info":"<a class='name' name='Riselle'>Riselle</a>, p. 464 (594)&#x2014;One of <a href='#Tylin'>Queen Tylin</a>&apos;s servants. She takes <a href='#Olver'>Olver</a> out to the festival so Tylin can have a chance at <a href='#Mat'>Mat</a>. "}]}
+{
+    "id": "Riselle",
+    "name": "Riselle",
+    "chapters": [
+        {
+            "title": "Chapter 29: The Festival of Birds",
+            "info": "<a class='name' name='Riselle'>Riselle</a>, p. 464 (594)&#x2014;One of <a href='#Tylin'>Queen Tylin</a>&apos;s servants. She takes <a href='#Olver'>Olver</a> out to the festival so Tylin can have a chance at <a href='#Mat'>Mat</a>. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Lieutenant-Tumad-Ahzkan","name":"Lieutenant Tumad Ahzkan","chapters":[{"title":"Prologue: Glimmers of the Pattern","info":"<a class='name' name='Ahzkan'>Lieutenant Tumad Ahzkan</a>, p. 66 (64)&#x2014;Young lieutenant in <a href='#Bashere'>Bashere</a>&apos;s army, and commander of his personal escort. He can think clearly and see beyond what is in front of him. He is tall, though still two hands shorter than <a href='#Bael'>Bael</a>, and has a thick black beard. Bashere is grooming him for a higher rank. "}]}
+{
+    "id": "Lieutenant-Tumad-Ahzkan",
+    "name": "Lieutenant Tumad Ahzkan",
+    "chapters": [
+        {
+            "title": "Prologue: Glimmers of the Pattern",
+            "info": "<a class='name' name='Ahzkan'>Lieutenant Tumad Ahzkan</a>, p. 66 (64)&#x2014;Young lieutenant in <a href='#Bashere'>Bashere</a>&apos;s army, and commander of his personal escort. He can think clearly and see beyond what is in front of him. He is tall, though still two hands shorter than <a href='#Bael'>Bael</a>, and has a thick black beard. Bashere is grooming him for a higher rank. "
+        }
+    ]
+}

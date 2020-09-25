@@ -1,1 +1,10 @@
-{"id":"Maric","name":"Maric","chapters":[{"title":"Chapter 27: Gifts","info":"<a class='name' name='Maric'>Maric</a>, p. 386 (539)&#x2014;A <i>very</i> tall man who tries to stop <a href='#Egwene'>Egwene</a> from seeing <a href='#Rand'>Rand</a>. "}]}
+{
+    "id": "Maric",
+    "name": "Maric",
+    "chapters": [
+        {
+            "title": "Chapter 27: Gifts",
+            "info": "<a class='name' name='Maric'>Maric</a>, p. 386 (539)&#x2014;A <i>very</i> tall man who tries to stop <a href='#Egwene'>Egwene</a> from seeing <a href='#Rand'>Rand</a>. "
+        }
+    ]
+}

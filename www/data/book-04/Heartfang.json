@@ -1,1 +1,10 @@
-{"id":"Heartfang","name":"Heartfang","chapters":[{"title":"Chapter 28: To the Tower of Ghenjei","info":"<a class='name' '=''>Heartfang</a>, p. 461 (413)&#x2014;What the wolves call the <a href='#Dark'>Dark One</a>. The name is also used by humans. <i>See</i> <a href='#Dark'>Shai&apos;tan</a>. "}]}
+{
+    "id": "Heartfang",
+    "name": "Heartfang",
+    "chapters": [
+        {
+            "title": "Chapter 28: To the Tower of Ghenjei",
+            "info": "<a class='name' '=''>Heartfang</a>, p. 461 (413)&#x2014;What the wolves call the <a href='#Dark'>Dark One</a>. The name is also used by humans. <i>See</i> <a href='#Dark'>Shai&apos;tan</a>. "
+        }
+    ]
+}

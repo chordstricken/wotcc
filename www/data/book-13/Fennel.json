@@ -1,1 +1,10 @@
-{"id":"Fennel","name":"Fennel","chapters":[{"title":"Chapter 2: Questions of Leadership","info":"<a class='name' name='Fennel'>Fennel</a>, p. 63&#x2014;One of <a href='#Perrin'>Perrin</a>&apos;s farriers. He was wide shoulders. He carries a workman&apos;s axe. "}]}
+{
+    "id": "Fennel",
+    "name": "Fennel",
+    "chapters": [
+        {
+            "title": "Chapter 2: Questions of Leadership",
+            "info": "<a class='name' name='Fennel'>Fennel</a>, p. 63&#x2014;One of <a href='#Perrin'>Perrin</a>&apos;s farriers. He was wide shoulders. He carries a workman&apos;s axe. "
+        }
+    ]
+}

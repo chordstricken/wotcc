@@ -1,1 +1,10 @@
-{"id":"Hu-Marwin","name":"Hu Marwin","chapters":[{"title":"Chapter 33: A New Weave in the Pattern","info":"<a class='name' name='HuMarwin'>Hu Marwin</a>, p. 537 (484)&#x2014;Best tracker among <a href='#Perrin'>Perrin</a>&apos;s recruits. <i>Note that this Hu should not be confused with <a href='#Hu'>Hu Barran</a>, the stablehand at the Winespring Inn, or <a href='#HualDai'>Hu al&apos;Dai</a>, an older man from the Two Rivers.</i> "}]}
+{
+    "id": "Hu-Marwin",
+    "name": "Hu Marwin",
+    "chapters": [
+        {
+            "title": "Chapter 33: A New Weave in the Pattern",
+            "info": "<a class='name' name='HuMarwin'>Hu Marwin</a>, p. 537 (484)&#x2014;Best tracker among <a href='#Perrin'>Perrin</a>&apos;s recruits. <i>Note that this Hu should not be confused with <a href='#Hu'>Hu Barran</a>, the stablehand at the Winespring Inn, or <a href='#HualDai'>Hu al&apos;Dai</a>, an older man from the Two Rivers.</i> "
+        }
+    ]
+}

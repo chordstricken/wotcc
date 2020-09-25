@@ -1,1 +1,10 @@
-{"id":"Master-of-the-Blades","name":"Master of the Blades","chapters":[{"title":"Epilogue: An AnswerGlossary","info":"<a class='name' name='Blades'>Master of the Blades</a>, p. 696 (841)&#x2014;The next step up from Swordmaster among the Sea Folk. It is the highest position a man can hold amoung them. He protects the <a href='#Ships'>Mistress of the Ships</a>.\n"}]}
+{
+    "id": "Master-of-the-Blades",
+    "name": "Master of the Blades",
+    "chapters": [
+        {
+            "title": "Epilogue: An AnswerGlossary",
+            "info": "<a class='name' name='Blades'>Master of the Blades</a>, p. 696 (841)&#x2014;The next step up from Swordmaster among the Sea Folk. It is the highest position a man can hold amoung them. He protects the <a href='#Ships'>Mistress of the Ships</a>.\n"
+        }
+    ]
+}

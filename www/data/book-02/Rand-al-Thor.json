@@ -1,1 +1,10 @@
-{"id":"Rand-al-Thor","name":"Rand al'Thor","chapters":[{"title":"Chapter 1: The Flame of Tar Valon","info":"<a class='name' name='Rand'>Rand al&apos;Thor</a>, p. 2&#x2014;A young man, about twenty years of age, from the Two Rivers. He began his life as a shepherd on his father&apos;s farm outside of Emond&apos;s Field, and became good friends with <a href='#Mat'>Mat Cauthon</a>, <a href='#Perrin'>Perrin Aybara</a>, and <a href='#Egwene'>Egwene al&apos;Vere</a>. After leaving the Two Rivers with <a href='#Moiraine'>Moiraine</a> and traveling to the Eye of the World, Rand discovers not only that he is able to channel the One Power, but that he is the <a href='#Reborn'>Dragon Reborn</a>, the man prophesied to save the world from the <a href='#Dark'>Dark One</a>. <i>See also</i> <a href='#Kari'>al&apos;Thor, Kari</a>; <a href='#Tam'>al&apos;Thor, Tamlin</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Perrin'>Aybara, Perrin</a>; <a href='#Mat'>Cauthon, Matrim</a>; <a href='#Shadowkiller'>Shadowkiller</a>. "}]}
+{
+    "id": "Rand-al-Thor",
+    "name": "Rand al'Thor",
+    "chapters": [
+        {
+            "title": "Chapter 1: The Flame of Tar Valon",
+            "info": "<a class='name' name='Rand'>Rand al&apos;Thor</a>, p. 2&#x2014;A young man, about twenty years of age, from the Two Rivers. He began his life as a shepherd on his father&apos;s farm outside of Emond&apos;s Field, and became good friends with <a href='#Mat'>Mat Cauthon</a>, <a href='#Perrin'>Perrin Aybara</a>, and <a href='#Egwene'>Egwene al&apos;Vere</a>. After leaving the Two Rivers with <a href='#Moiraine'>Moiraine</a> and traveling to the Eye of the World, Rand discovers not only that he is able to channel the One Power, but that he is the <a href='#Reborn'>Dragon Reborn</a>, the man prophesied to save the world from the <a href='#Dark'>Dark One</a>. <i>See also</i> <a href='#Kari'>al&apos;Thor, Kari</a>; <a href='#Tam'>al&apos;Thor, Tamlin</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Perrin'>Aybara, Perrin</a>; <a href='#Mat'>Cauthon, Matrim</a>; <a href='#Shadowkiller'>Shadowkiller</a>. "
+        }
+    ]
+}

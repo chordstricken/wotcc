@@ -1,1 +1,10 @@
-{"id":"Lord-Ankaer","name":"Lord Ankaer","chapters":[{"title":"Prologue: Glimmers of the Pattern","info":"<a class='name' name='Ankaer'>Lord Ankaer</a>, p. 22 (10)&#x2014;Lord of Arad Doman. He is now Dragonsworn, and as powerful among them as <a href='#Shimron'>Shimron</a>. <i>See also</i> <a href='#Rajabi'>Rajabi</a>; <a href='#Shimron'>Shimron</a>; <a href='#Wakeda'>Wakeda</a>. "}]}
+{
+    "id": "Lord-Ankaer",
+    "name": "Lord Ankaer",
+    "chapters": [
+        {
+            "title": "Prologue: Glimmers of the Pattern",
+            "info": "<a class='name' name='Ankaer'>Lord Ankaer</a>, p. 22 (10)&#x2014;Lord of Arad Doman. He is now Dragonsworn, and as powerful among them as <a href='#Shimron'>Shimron</a>. <i>See also</i> <a href='#Rajabi'>Rajabi</a>; <a href='#Shimron'>Shimron</a>; <a href='#Wakeda'>Wakeda</a>. "
+        }
+    ]
+}

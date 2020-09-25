@@ -1,1 +1,10 @@
-{"id":"Toke-Fearnim","name":"Toke Fearnim","chapters":[{"title":"Chapter 6: A Stave and a Razor","info":"<a class='name' name='Toke'>Toke Fearnim</a>, p. 186&#x2014;Horse trader from Jurador. He has come by a razor, a specialized breed of horse from Arad Doman, which <a href='#Mat'>Mat</a> is quite interested in. "}]}
+{
+    "id": "Toke-Fearnim",
+    "name": "Toke Fearnim",
+    "chapters": [
+        {
+            "title": "Chapter 6: A Stave and a Razor",
+            "info": "<a class='name' name='Toke'>Toke Fearnim</a>, p. 186&#x2014;Horse trader from Jurador. He has come by a razor, a specialized breed of horse from Arad Doman, which <a href='#Mat'>Mat</a> is quite interested in. "
+        }
+    ]
+}

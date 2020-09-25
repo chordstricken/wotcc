@@ -1,1 +1,10 @@
-{"id":"Fergin","name":"Fergin","chapters":[{"title":"Chapter 17: Pink Ribbons","info":"<a class='name' name='Fergin'>Fergin</a>, p. 364 (416)&#x2014;Bony Redarm. He is a good soldier, but not too bright. "}]}
+{
+    "id": "Fergin",
+    "name": "Fergin",
+    "chapters": [
+        {
+            "title": "Chapter 17: Pink Ribbons",
+            "info": "<a class='name' name='Fergin'>Fergin</a>, p. 364 (416)&#x2014;Bony Redarm. He is a good soldier, but not too bright. "
+        }
+    ]
+}

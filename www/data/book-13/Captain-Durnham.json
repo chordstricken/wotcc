@@ -1,1 +1,10 @@
-{"id":"Captain-Durnham","name":"Captain Durnham","chapters":[{"title":"Chapter 25: Return to Bandar Eban","info":"<a class='name' name='Durnham'>Captain Durnham</a>, p. 404&#x2014;Bearded wretch from Bandar Eban. He used to be a Captain in the King&apos;s Guard before it was seized by <a href='#Chadmar'>Lady Chadmar</a>. He has a strong chin beneath the scraggly beard. "}]}
+{
+    "id": "Captain-Durnham",
+    "name": "Captain Durnham",
+    "chapters": [
+        {
+            "title": "Chapter 25: Return to Bandar Eban",
+            "info": "<a class='name' name='Durnham'>Captain Durnham</a>, p. 404&#x2014;Bearded wretch from Bandar Eban. He used to be a Captain in the King&apos;s Guard before it was seized by <a href='#Chadmar'>Lady Chadmar</a>. He has a strong chin beneath the scraggly beard. "
+        }
+    ]
+}

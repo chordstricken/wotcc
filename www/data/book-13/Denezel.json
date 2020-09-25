@@ -1,1 +1,10 @@
-{"id":"Denezel","name":"Denezel","chapters":[{"title":"Chapter 47: A Teaching Chamber","info":"<a class='name' name='Denezel'>Denezel</a>, p. 705&#x2014;Innkeeper of The Happy Throng, an inn in Caemlyn where <a href='#Mat'>Mat</a> and <a href='#Perrin'>Perrin</a> reunite. He is all but Dragonsworn: he had a portrait of <a href='#Rand'>Rand</a> commissioned and hung the common room. "}]}
+{
+    "id": "Denezel",
+    "name": "Denezel",
+    "chapters": [
+        {
+            "title": "Chapter 47: A Teaching Chamber",
+            "info": "<a class='name' name='Denezel'>Denezel</a>, p. 705&#x2014;Innkeeper of The Happy Throng, an inn in Caemlyn where <a href='#Mat'>Mat</a> and <a href='#Perrin'>Perrin</a> reunite. He is all but Dragonsworn: he had a portrait of <a href='#Rand'>Rand</a> commissioned and hung the common room. "
+        }
+    ]
+}

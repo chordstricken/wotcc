@@ -1,1 +1,10 @@
-{"id":"Keeper-of-the-Chronicles","name":"Keeper of the Chronicles","chapters":[{"title":"Chapter 2: A Wish Fulfilled","info":"<a class='name' name='Keeper'>Keeper of the Chronicles</a>, p. 28&#x2014;Secretary of sorts for the <a href='#Amyrlin'>Amyrlin Seat</a>. By tradition, the Keeper is chosen from the same Ajah as the Amyrlin was raised from. However, the Keeper represents the Amyrlin, not the Ajah she is part of. The current Keeper is <a href='#Gitara'>Gitara Moroso</a>, raised from the Blue Ajah. <i>See also</i> <a href='#Duhara'>Basaheen, Duhara</a>; <a href='#Gitara'>Moroso, Gitara</a>; <a href='#Aeldra'>Najaf, Aeldra</a>. "}]}
+{
+    "id": "Keeper-of-the-Chronicles",
+    "name": "Keeper of the Chronicles",
+    "chapters": [
+        {
+            "title": "Chapter 2: A Wish Fulfilled",
+            "info": "<a class='name' name='Keeper'>Keeper of the Chronicles</a>, p. 28&#x2014;Secretary of sorts for the <a href='#Amyrlin'>Amyrlin Seat</a>. By tradition, the Keeper is chosen from the same Ajah as the Amyrlin was raised from. However, the Keeper represents the Amyrlin, not the Ajah she is part of. The current Keeper is <a href='#Gitara'>Gitara Moroso</a>, raised from the Blue Ajah. <i>See also</i> <a href='#Duhara'>Basaheen, Duhara</a>; <a href='#Gitara'>Moroso, Gitara</a>; <a href='#Aeldra'>Najaf, Aeldra</a>. "
+        }
+    ]
+}

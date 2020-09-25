@@ -1,1 +1,10 @@
-{"id":"Amyrlin-Seat","name":"Amyrlin Seat","chapters":[{"title":"Chapter 1: Seeds of Shadow","info":"<a class='name' name='Amyrlin'>Amyrlin Seat</a>, p. 14 (2)&#x2014;Leader of the Aes Sedai. She is appointed for life by the Hall of the Tower, whose decision must be unanimous. Once appointed and installed, the Amyrlin Seat is said to be &#x201C;of all Ajahs and none,&#x201D; regardless of which Ajah she was raised from, although this is often overlooked in the history and politics of the Tower. The post is currently held by <a href='#Siuan'>Siuan Sanche</a>, formerly of the Blue Ajah. She is the youngest person to ever hold the office; she gained it when she was only thirty years old. <i>See also</i> <a href='#Elaida'>a&apos;Roihan, Elaida do Avriny</a>; <a href='#Bonwhin'>Meraighdin, Bonwhin</a>; <a href='#Siuan'>Sanche, Siuan</a>. "}]}
+{
+    "id": "Amyrlin-Seat",
+    "name": "Amyrlin Seat",
+    "chapters": [
+        {
+            "title": "Chapter 1: Seeds of Shadow",
+            "info": "<a class='name' name='Amyrlin'>Amyrlin Seat</a>, p. 14 (2)&#x2014;Leader of the Aes Sedai. She is appointed for life by the Hall of the Tower, whose decision must be unanimous. Once appointed and installed, the Amyrlin Seat is said to be &#x201C;of all Ajahs and none,&#x201D; regardless of which Ajah she was raised from, although this is often overlooked in the history and politics of the Tower. The post is currently held by <a href='#Siuan'>Siuan Sanche</a>, formerly of the Blue Ajah. She is the youngest person to ever hold the office; she gained it when she was only thirty years old. <i>See also</i> <a href='#Elaida'>a&apos;Roihan, Elaida do Avriny</a>; <a href='#Bonwhin'>Meraighdin, Bonwhin</a>; <a href='#Siuan'>Sanche, Siuan</a>. "
+        }
+    ]
+}

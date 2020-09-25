@@ -1,1 +1,10 @@
-{"id":"Janine-Pavlara","name":"Janine Pavlara","chapters":[{"title":"Chapter 13: Wonderful News","info":"<a class='name' name='Janine'>Janine Pavlara</a>, p. 306 (347)&#x2014;Aes Sedai captured at Dumai&apos;s Wells. She asked to swear fealty to <a href='#Rand'>Rand</a>. "}]}
+{
+    "id": "Janine-Pavlara",
+    "name": "Janine Pavlara",
+    "chapters": [
+        {
+            "title": "Chapter 13: Wonderful News",
+            "info": "<a class='name' name='Janine'>Janine Pavlara</a>, p. 306 (347)&#x2014;Aes Sedai captured at Dumai&apos;s Wells. She asked to swear fealty to <a href='#Rand'>Rand</a>. "
+        }
+    ]
+}

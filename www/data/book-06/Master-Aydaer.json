@@ -1,1 +1,10 @@
-{"id":"Master-Aydaer","name":"Master Aydaer","chapters":[{"title":"Prologue: The First Message","info":"<a class='name' name='Aydaer'>Master Aydaer</a>, p. 33 (31)&#x2014;Carpenter from Emond&apos;s Field who makes furniture. "}]}
+{
+    "id": "Master-Aydaer",
+    "name": "Master Aydaer",
+    "chapters": [
+        {
+            "title": "Prologue: The First Message",
+            "info": "<a class='name' name='Aydaer'>Master Aydaer</a>, p. 33 (31)&#x2014;Carpenter from Emond&apos;s Field who makes furniture. "
+        }
+    ]
+}

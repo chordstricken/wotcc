@@ -1,1 +1,10 @@
-{"id":"Gaidin","name":"Gaidin","chapters":[{"title":"Chapter 48: Following the Craft","info":"<a class='name' name='Gaidin'>Gaidin</a>, p. 558 (449)&#x2014;Name that <a href='#Nynaeve'>Nynaeve</a> gives to her horse. She named him after <a href='#Lan'>Lan</a>, since Warders are called &#x201C;Gaidin&#x201D; by their Aes Sedai. "}]}
+{
+    "id": "Gaidin",
+    "name": "Gaidin",
+    "chapters": [
+        {
+            "title": "Chapter 48: Following the Craft",
+            "info": "<a class='name' name='Gaidin'>Gaidin</a>, p. 558 (449)&#x2014;Name that <a href='#Nynaeve'>Nynaeve</a> gives to her horse. She named him after <a href='#Lan'>Lan</a>, since Warders are called &#x201C;Gaidin&#x201D; by their Aes Sedai. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Gharadin","name":"Gharadin","chapters":[{"title":"Chapter 9: Tangles","info":"<a class='name' name='Gharadin'>Gharadin</a>, p. 218 (239)&#x2014;<i>Gai&apos;shain</i> with a wound on his face. He refuses <a href='#Seonid'>Seonid</a>&apos;s Healing. "}]}
+{
+    "id": "Gharadin",
+    "name": "Gharadin",
+    "chapters": [
+        {
+            "title": "Chapter 9: Tangles",
+            "info": "<a class='name' name='Gharadin'>Gharadin</a>, p. 218 (239)&#x2014;<i>Gai&apos;shain</i> with a wound on his face. He refuses <a href='#Seonid'>Seonid</a>&apos;s Healing. "
+        }
+    ]
+}

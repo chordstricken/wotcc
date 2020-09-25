@@ -1,1 +1,10 @@
-{"id":"Chesa","name":"Chesa","chapters":[{"title":"Chapter 8: The Figurehead","info":"<a class='name' name='Chesa'>Chesa</a>, p. 158 (191)&#x2014;<a href='#Egwene'>Egwene</a>&apos;s plumply pretty maid as the <a href='#Amyrlin'>Amyrlin Seat</a>. Egwene often lets her sit in on meetings with <a href='#Sheriam'>Sheriam</a>, her <a href='#Keeper'>Keeper of the Chronicles</a>, because her unexpected chatter often unsettles Sheriam just enough for Egwene to sidestep what Sheriam was suggesting in a discrete way. "}]}
+{
+    "id": "Chesa",
+    "name": "Chesa",
+    "chapters": [
+        {
+            "title": "Chapter 8: The Figurehead",
+            "info": "<a class='name' name='Chesa'>Chesa</a>, p. 158 (191)&#x2014;<a href='#Egwene'>Egwene</a>&apos;s plumply pretty maid as the <a href='#Amyrlin'>Amyrlin Seat</a>. Egwene often lets her sit in on meetings with <a href='#Sheriam'>Sheriam</a>, her <a href='#Keeper'>Keeper of the Chronicles</a>, because her unexpected chatter often unsettles Sheriam just enough for Egwene to sidestep what Sheriam was suggesting in a discrete way. "
+        }
+    ]
+}

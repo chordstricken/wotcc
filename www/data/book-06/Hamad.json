@@ -1,1 +1,10 @@
-{"id":"Hamad","name":"Hamad","chapters":[{"title":"Chapter 16: Tellings of the Wheel","info":"<a class='name' name='Hamad'>Hamad</a>, p. 279 (387)&#x2014;One of <a href='#Bashere'>Bashere</a>&apos;s men. He goes to fetch the emmissary from <a href='#Brend'>Lord Brend</a> to see <a href='#Rand'>Rand</a>. "}]}
+{
+    "id": "Hamad",
+    "name": "Hamad",
+    "chapters": [
+        {
+            "title": "Chapter 16: Tellings of the Wheel",
+            "info": "<a class='name' name='Hamad'>Hamad</a>, p. 279 (387)&#x2014;One of <a href='#Bashere'>Bashere</a>&apos;s men. He goes to fetch the emmissary from <a href='#Brend'>Lord Brend</a> to see <a href='#Rand'>Rand</a>. "
+        }
+    ]
+}

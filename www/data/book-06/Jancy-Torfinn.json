@@ -1,1 +1,10 @@
-{"id":"Jancy-Torfinn","name":"Jancy Torfinn","chapters":[{"title":"Chapter 10: A Saying in the Borderlands","info":"<a class='name' name='Jancy'>Jancy Torfinn</a>, p. 201 (275)&#x2014;High-voiced girl from Emond&apos;s Field. She comes with <a href='#Verin'>Verin</a> and <a href='#Alanna'>Alanna</a> to become Aes Sedai. She is about fourteen years old, the youngest of the girls who came with Verin and Alanna. She has the spark inborn; she will channel whether she is taught or not. "}]}
+{
+    "id": "Jancy-Torfinn",
+    "name": "Jancy Torfinn",
+    "chapters": [
+        {
+            "title": "Chapter 10: A Saying in the Borderlands",
+            "info": "<a class='name' name='Jancy'>Jancy Torfinn</a>, p. 201 (275)&#x2014;High-voiced girl from Emond&apos;s Field. She comes with <a href='#Verin'>Verin</a> and <a href='#Alanna'>Alanna</a> to become Aes Sedai. She is about fourteen years old, the youngest of the girls who came with Verin and Alanna. She has the spark inborn; she will channel whether she is taught or not. "
+        }
+    ]
+}

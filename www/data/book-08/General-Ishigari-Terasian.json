@@ -1,1 +1,10 @@
-{"id":"General-Ishigari-Terasian","name":"General Ishigari Terasian","chapters":[{"title":"Prologue: Deceptive Appearances","info":"<a class='name' name='Ishigari'>General Ishigari Terasian</a>, p. 19 (6)&#x2014;Fat companion of <a href='#Paitar'>Paitar</a>. He is a good general. "}]}
+{
+    "id": "General-Ishigari-Terasian",
+    "name": "General Ishigari Terasian",
+    "chapters": [
+        {
+            "title": "Prologue: Deceptive Appearances",
+            "info": "<a class='name' name='Ishigari'>General Ishigari Terasian</a>, p. 19 (6)&#x2014;Fat companion of <a href='#Paitar'>Paitar</a>. He is a good general. "
+        }
+    ]
+}

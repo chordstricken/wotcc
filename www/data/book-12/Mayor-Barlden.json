@@ -1,1 +1,10 @@
-{"id":"Mayor-Barlden","name":"Mayor Barlden","chapters":[{"title":"Chapter 27: The Tipsy Gelding","info":"<a class='name' name='Barlden'>Mayor Barlden</a>, p. 408&#x2014;Mayor of Hinderstap, a village at which <a href='#Mat'>Mat</a>&apos;s men stop. <i>See also</i> <a href='#Garken'>Garken</a>. "}]}
+{
+    "id": "Mayor-Barlden",
+    "name": "Mayor Barlden",
+    "chapters": [
+        {
+            "title": "Chapter 27: The Tipsy Gelding",
+            "info": "<a class='name' name='Barlden'>Mayor Barlden</a>, p. 408&#x2014;Mayor of Hinderstap, a village at which <a href='#Mat'>Mat</a>&apos;s men stop. <i>See also</i> <a href='#Garken'>Garken</a>. "
+        }
+    ]
+}

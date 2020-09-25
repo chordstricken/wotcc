@@ -1,1 +1,10 @@
-{"id":"Takima","name":"Takima","chapters":[{"title":"Chapter 11: An Oath","info":"<a class='name' name='Takima'>Takima</a>, p. 214 (267)&#x2014;Sitter for the Brown Ajah for almost nine years. She fled Tar Valon when <a href='#Siuan'>Siuan</a> was deposed. "}]}
+{
+    "id": "Takima",
+    "name": "Takima",
+    "chapters": [
+        {
+            "title": "Chapter 11: An Oath",
+            "info": "<a class='name' name='Takima'>Takima</a>, p. 214 (267)&#x2014;Sitter for the Brown Ajah for almost nine years. She fled Tar Valon when <a href='#Siuan'>Siuan</a> was deposed. "
+        }
+    ]
+}

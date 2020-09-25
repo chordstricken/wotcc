@@ -1,1 +1,10 @@
-{"id":"Enaila","name":"Enaila","chapters":[{"title":"Chapter 1: Lion on the Hill","info":"<a class='name' name='Enaila'>Enaila</a>, p. 67 (79)&#x2014;A Maiden of the Spear with red, fiery hair. She is short for an Aiel, a point of sensitivity for her. She is part of <a href='#Rand'>Rand</a>&apos;s honor guard. "}]}
+{
+    "id": "Enaila",
+    "name": "Enaila",
+    "chapters": [
+        {
+            "title": "Chapter 1: Lion on the Hill",
+            "info": "<a class='name' name='Enaila'>Enaila</a>, p. 67 (79)&#x2014;A Maiden of the Spear with red, fiery hair. She is short for an Aiel, a point of sensitivity for her. She is part of <a href='#Rand'>Rand</a>&apos;s honor guard. "
+        }
+    ]
+}

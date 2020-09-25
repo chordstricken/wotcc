@@ -1,1 +1,10 @@
-{"id":"Elan-Morin-Tedronai","name":"Elan Morin Tedronai","chapters":[{"title":"Prelude","info":"<a class='name' name='Elan'>Elan Morin Tedronai</a>, p. x&#x2014;Man who appears to <a href='#Lews'>Lews Therin Telamon</a> shortly after he killed his entire family. He Healed Lews Therin from his madness, allowing him to finally realize what he had done. Elan Morin is now known as <a href='#Ishamael'>Ishamael</a>, which means &#x201C;<a href='#Betrayer'>Betrayer of Hope</a>&#x201D; in the Old Tongue. He claims to follow a &#x201C;different power&#x201D; now, that of the <a href='#Dark'>Dark One</a> himself. He was once humbled by Lews Therin in the Hall of Servants, and defeated by him at the gates of Paaren Disen. However, Lews Therin fled and killed himself before Elan Morin could do with him as he had planned."}]}
+{
+    "id": "Elan-Morin-Tedronai",
+    "name": "Elan Morin Tedronai",
+    "chapters": [
+        {
+            "title": "Prelude",
+            "info": "<a class='name' name='Elan'>Elan Morin Tedronai</a>, p. x&#x2014;Man who appears to <a href='#Lews'>Lews Therin Telamon</a> shortly after he killed his entire family. He Healed Lews Therin from his madness, allowing him to finally realize what he had done. Elan Morin is now known as <a href='#Ishamael'>Ishamael</a>, which means &#x201C;<a href='#Betrayer'>Betrayer of Hope</a>&#x201D; in the Old Tongue. He claims to follow a &#x201C;different power&#x201D; now, that of the <a href='#Dark'>Dark One</a> himself. He was once humbled by Lews Therin in the Hall of Servants, and defeated by him at the gates of Paaren Disen. However, Lews Therin fled and killed himself before Elan Morin could do with him as he had planned."
+        }
+    ]
+}

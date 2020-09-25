@@ -1,1 +1,10 @@
-{"id":"Mistress-Asher","name":"Mistress Asher","chapters":[{"title":"Chapter 17: An Arrival","info":"<a class='name' name='Asher'>Mistress Asher</a>, p. 226&#x2014;Gray-haired wilder staying in The Gates of Heaven, an inn in Canluum. A merchant, she wears only a red-enameled pin for jewelry. "}]}
+{
+    "id": "Mistress-Asher",
+    "name": "Mistress Asher",
+    "chapters": [
+        {
+            "title": "Chapter 17: An Arrival",
+            "info": "<a class='name' name='Asher'>Mistress Asher</a>, p. 226&#x2014;Gray-haired wilder staying in The Gates of Heaven, an inn in Canluum. A merchant, she wears only a red-enameled pin for jewelry. "
+        }
+    ]
+}

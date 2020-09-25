@@ -1,1 +1,10 @@
-{"id":"Lieutenant-Nils","name":"Lieutenant Nils","chapters":[{"title":"Chapter 18: The Strength of This Place","info":"<a class='name' name='Nils'>Lieutenant Nils</a>, p. 270&#x2014;Officer under <a href='#Rodel'>Rodel Ituralde</a>&apos;s command. "}]}
+{
+    "id": "Lieutenant-Nils",
+    "name": "Lieutenant Nils",
+    "chapters": [
+        {
+            "title": "Chapter 18: The Strength of This Place",
+            "info": "<a class='name' name='Nils'>Lieutenant Nils</a>, p. 270&#x2014;Officer under <a href='#Rodel'>Rodel Ituralde</a>&apos;s command. "
+        }
+    ]
+}

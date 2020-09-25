@@ -1,1 +1,10 @@
-{"id":"Lord-Jarin","name":"Lord Jarin","chapters":[{"title":"Chapter 9: Plans","info":"<a class='name' name='Jarin'>Lord Jarin</a>, p. 191 (261)&#x2014;Andoran lord vying for more power in Andor. He was one of those who opposed <a href='#Morgase'>Morgase</a> during the Succession. "}]}
+{
+    "id": "Lord-Jarin",
+    "name": "Lord Jarin",
+    "chapters": [
+        {
+            "title": "Chapter 9: Plans",
+            "info": "<a class='name' name='Jarin'>Lord Jarin</a>, p. 191 (261)&#x2014;Andoran lord vying for more power in Andor. He was one of those who opposed <a href='#Morgase'>Morgase</a> during the Succession. "
+        }
+    ]
+}

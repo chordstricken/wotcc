@@ -1,1 +1,10 @@
-{"id":"Sergeant-Cords","name":"Sergeant Cords","chapters":[{"title":"Chapter 24: A New Commitment","info":"<a class='name' name='Cords'>Sergeant Cords</a>, p. 368&#x2014;Stocky sergeant in <a href='#Bryne'>Gareth Bryne</a>&apos;s army. "}]}
+{
+    "id": "Sergeant-Cords",
+    "name": "Sergeant Cords",
+    "chapters": [
+        {
+            "title": "Chapter 24: A New Commitment",
+            "info": "<a class='name' name='Cords'>Sergeant Cords</a>, p. 368&#x2014;Stocky sergeant in <a href='#Bryne'>Gareth Bryne</a>&apos;s army. "
+        }
+    ]
+}

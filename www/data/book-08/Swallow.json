@@ -1,1 +1,10 @@
-{"id":"Swallow","name":"Swallow","chapters":[{"title":"Chapter 7: A Goatpen","info":"<a class='name' name='Swallow'>Swallow</a>, p. 158 (169)&#x2014;<a href='#Faile'>Faile</a>&apos;s horse. "}]}
+{
+    "id": "Swallow",
+    "name": "Swallow",
+    "chapters": [
+        {
+            "title": "Chapter 7: A Goatpen",
+            "info": "<a class='name' name='Swallow'>Swallow</a>, p. 158 (169)&#x2014;<a href='#Faile'>Faile</a>&apos;s horse. "
+        }
+    ]
+}

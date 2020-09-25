@@ -1,1 +1,10 @@
-{"id":"Damelle","name":"Damelle","chapters":[{"title":"Chapter 43: Care for the Living","info":"<a class='name' name='Damelle'>Damelle</a>, p. 706 (637)&#x2014;Ogier, daughter of <a href='#Ala'>Ala</a> daughter of <a href='#Soferra'>Soferra</a>. In a book <a href='#Loial'>Loial</a> once read, she wrote of the the first Waygate to be destroyed&#x2014;it was near a <i>stedding</i> that had fallen to the Blight. It required 13 Aes Sedai working together using a <i>sa&apos;angreal</i>. She also wrote of a later attempt to distroy a Waygate of similar circumstances using only nine sisters, an attempt that ended in disaster for the Aes Sedai. "}]}
+{
+    "id": "Damelle",
+    "name": "Damelle",
+    "chapters": [
+        {
+            "title": "Chapter 43: Care for the Living",
+            "info": "<a class='name' name='Damelle'>Damelle</a>, p. 706 (637)&#x2014;Ogier, daughter of <a href='#Ala'>Ala</a> daughter of <a href='#Soferra'>Soferra</a>. In a book <a href='#Loial'>Loial</a> once read, she wrote of the the first Waygate to be destroyed&#x2014;it was near a <i>stedding</i> that had fallen to the Blight. It required 13 Aes Sedai working together using a <i>sa&apos;angreal</i>. She also wrote of a later attempt to distroy a Waygate of similar circumstances using only nine sisters, an attempt that ended in disaster for the Aes Sedai. "
+        }
+    ]
+}

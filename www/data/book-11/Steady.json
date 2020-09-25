@@ -1,1 +1,10 @@
-{"id":"Steady","name":"Steady","chapters":[{"title":"Prologue: Embers Falling on Dry Grass","info":"<a class='name' name='Steady'>Steady</a>, p. 34&#x2014;<a href='#Rodel'>Rodel Ituralde</a>&apos;s horse. "}]}
+{
+    "id": "Steady",
+    "name": "Steady",
+    "chapters": [
+        {
+            "title": "Prologue: Embers Falling on Dry Grass",
+            "info": "<a class='name' name='Steady'>Steady</a>, p. 34&#x2014;<a href='#Rodel'>Rodel Ituralde</a>&apos;s horse. "
+        }
+    ]
+}

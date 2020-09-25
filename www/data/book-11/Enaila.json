@@ -1,1 +1,10 @@
-{"id":"Enaila","name":"Enaila","chapters":[{"title":"Chapter 18: News for the Dragon","info":"<a class='name' name='Enaila'>Enaila</a>, p. 385&#x2014;Maiden of the Spear of the Jarra Chareen with red, fiery hair. She is short for an Aiel, a point of sensitivity for her. "}]}
+{
+    "id": "Enaila",
+    "name": "Enaila",
+    "chapters": [
+        {
+            "title": "Chapter 18: News for the Dragon",
+            "info": "<a class='name' name='Enaila'>Enaila</a>, p. 385&#x2014;Maiden of the Spear of the Jarra Chareen with red, fiery hair. She is short for an Aiel, a point of sensitivity for her. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Captain-Trom","name":"Captain Trom","chapters":[{"title":"Prologue: Distinctions","info":"<a class='name' name='Trom'>Captain Trom</a>, p. 35&#x2014;Stocky Whitecloak who allegedly uncovered the &#x201C;Darkfriends&#x201D; that were hanged in <a href='#Morgase'>Morgase</a>&apos;s presence. He has been recently promoted, to Captain, due to his experience fighting the Seanchan. He now sides with <a href='#Galad'>Galad</a> against <a href='#Valda'>Eamon Valda</a>. "}]}
+{
+    "id": "Captain-Trom",
+    "name": "Captain Trom",
+    "chapters": [
+        {
+            "title": "Prologue: Distinctions",
+            "info": "<a class='name' name='Trom'>Captain Trom</a>, p. 35&#x2014;Stocky Whitecloak who allegedly uncovered the &#x201C;Darkfriends&#x201D; that were hanged in <a href='#Morgase'>Morgase</a>&apos;s presence. He has been recently promoted, to Captain, due to his experience fighting the Seanchan. He now sides with <a href='#Galad'>Galad</a> against <a href='#Valda'>Eamon Valda</a>. "
+        }
+    ]
+}

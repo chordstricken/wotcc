@@ -1,1 +1,10 @@
-{"id":"Zemaille","name":"Zemaille","chapters":[{"title":"Chapter 21: A Mark","info":"<a class='name' name='Zemaille'>Zemaille</a>, p. 503 (608)&#x2014;Aes Sedai of the Brown Ajah, and one of the Tower librarians. She has a dark face, and is tall and very lean. She is fairly weak in the One Power. She is one of the few Sea Folk sisters in the Tower. "}]}
+{
+    "id": "Zemaille",
+    "name": "Zemaille",
+    "chapters": [
+        {
+            "title": "Chapter 21: A Mark",
+            "info": "<a class='name' name='Zemaille'>Zemaille</a>, p. 503 (608)&#x2014;Aes Sedai of the Brown Ajah, and one of the Tower librarians. She has a dark face, and is tall and very lean. She is fairly weak in the One Power. She is one of the few Sea Folk sisters in the Tower. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Malai","name":"Malai","chapters":[{"title":"Chapter 35: A Halo of Blackness","info":"<a class='name' name='Malai'>Malai</a>, p. 543&#x2014;One of the <i>damane</i> who guards <a href='#Tuon'>Tuon</a>. She is able to tell the fortunes of the weather. "}]}
+{
+    "id": "Malai",
+    "name": "Malai",
+    "chapters": [
+        {
+            "title": "Chapter 35: A Halo of Blackness",
+            "info": "<a class='name' name='Malai'>Malai</a>, p. 543&#x2014;One of the <i>damane</i> who guards <a href='#Tuon'>Tuon</a>. She is able to tell the fortunes of the weather. "
+        }
+    ]
+}

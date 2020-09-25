@@ -1,1 +1,10 @@
-{"id":"Hattori","name":"Hattori","chapters":[{"title":"Chapter 5: Writings","info":"<a class='name' name='Hattori'>Hattori</a>, p. 109&#x2014;Aes Sedai of the Green Ajah. She has one Warder, <a href='#Sleete'>Sleete</a>; he is a Blademaster. She told Sleete she would only accept another Warder if Sleete himself considers the candidate to be worthy. "}]}
+{
+    "id": "Hattori",
+    "name": "Hattori",
+    "chapters": [
+        {
+            "title": "Chapter 5: Writings",
+            "info": "<a class='name' name='Hattori'>Hattori</a>, p. 109&#x2014;Aes Sedai of the Green Ajah. She has one Warder, <a href='#Sleete'>Sleete</a>; he is a Blademaster. She told Sleete she would only accept another Warder if Sleete himself considers the candidate to be worthy. "
+        }
+    ]
+}

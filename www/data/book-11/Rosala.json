@@ -1,1 +1,10 @@
-{"id":"Rosala","name":"Rosala","chapters":[{"title":"Prologue: Embers Falling on Dry Grass","info":"<a class='name' name='Rosala'>Rosala</a>, p. 38&#x2014;Servant of <a href='#Suroth'>Suroth</a>. Suroth sends <a href='#Liandrin'>Liandrin</a> to her to be beaten; beating her herself would shame Suroth. "}]}
+{
+    "id": "Rosala",
+    "name": "Rosala",
+    "chapters": [
+        {
+            "title": "Prologue: Embers Falling on Dry Grass",
+            "info": "<a class='name' name='Rosala'>Rosala</a>, p. 38&#x2014;Servant of <a href='#Suroth'>Suroth</a>. Suroth sends <a href='#Liandrin'>Liandrin</a> to her to be beaten; beating her herself would shame Suroth. "
+        }
+    ]
+}

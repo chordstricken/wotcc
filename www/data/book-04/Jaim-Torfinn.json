@@ -1,1 +1,10 @@
-{"id":"Jaim-Torfinn","name":"Jaim Torfinn","chapters":[{"title":"Chapter 33: A New Weave in the Pattern","info":"<a class='name' name='JTorfinn'>Jaim Torfinn</a>, p. 537 (484)&#x2014;Best shot among <a href='#Perrin'>Perrin</a>&apos;s recruits. "}]}
+{
+    "id": "Jaim-Torfinn",
+    "name": "Jaim Torfinn",
+    "chapters": [
+        {
+            "title": "Chapter 33: A New Weave in the Pattern",
+            "info": "<a class='name' name='JTorfinn'>Jaim Torfinn</a>, p. 537 (484)&#x2014;Best shot among <a href='#Perrin'>Perrin</a>&apos;s recruits. "
+        }
+    ]
+}

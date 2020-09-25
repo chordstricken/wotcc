@@ -1,1 +1,10 @@
-{"id":"Demandred","name":"Demandred","chapters":[{"title":"Prologue: The First Sparks Fall","info":"<a class='name' name='Demandred'>Demandred</a>, p. 32 (26)&#x2014;One of the Forsaken. He seems to think he is all but heir to the <a href='#Dark'>Dark One</a>. Very arrogant and proud, Demandred went over to the Shadow out of envy for <a href='#Lews'>Lews Therin Telamon</a>. "}]}
+{
+    "id": "Demandred",
+    "name": "Demandred",
+    "chapters": [
+        {
+            "title": "Prologue: The First Sparks Fall",
+            "info": "<a class='name' name='Demandred'>Demandred</a>, p. 32 (26)&#x2014;One of the Forsaken. He seems to think he is all but heir to the <a href='#Dark'>Dark One</a>. Very arrogant and proud, Demandred went over to the Shadow out of envy for <a href='#Lews'>Lews Therin Telamon</a>. "
+        }
+    ]
+}

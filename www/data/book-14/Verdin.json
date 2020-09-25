@@ -1,1 +1,10 @@
-{"id":"Verdin","name":"Verdin","chapters":[{"title":"Chapter 35: A Practiced Grin","info":"<a class='name' name='Verdin'>Verdin</a>, p. 602&#x2014;One of the soldiers loyal to <a href='#Faile'>Faile</a>. "}]}
+{
+    "id": "Verdin",
+    "name": "Verdin",
+    "chapters": [
+        {
+            "title": "Chapter 35: A Practiced Grin",
+            "info": "<a class='name' name='Verdin'>Verdin</a>, p. 602&#x2014;One of the soldiers loyal to <a href='#Faile'>Faile</a>. "
+        }
+    ]
+}

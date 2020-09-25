@@ -1,1 +1,10 @@
-{"id":"Androl-Genhald","name":"Androl Genhald","chapters":[{"title":"Prologue: Snow","info":"<a class='name' name='Genhald'>Androl Genhald</a>, p. 64 (60)&#x2014;Square Dedicated from Tarabon with heavy eyebrows. He wears a gold signet ring. He works closely with <a href='#Logain'>Logain</a>. "}]}
+{
+    "id": "Androl-Genhald",
+    "name": "Androl Genhald",
+    "chapters": [
+        {
+            "title": "Prologue: Snow",
+            "info": "<a class='name' name='Genhald'>Androl Genhald</a>, p. 64 (60)&#x2014;Square Dedicated from Tarabon with heavy eyebrows. He wears a gold signet ring. He works closely with <a href='#Logain'>Logain</a>. "
+        }
+    ]
+}

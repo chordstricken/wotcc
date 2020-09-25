@@ -1,1 +1,10 @@
-{"id":"Tarra","name":"Tarra","chapters":[{"title":"Chapter 49: Court of the Sun","info":"<a class='name' name='Tarra'>Tarra</a>, p. 731&#x2014;Maiden of the Spear of the Taardad Aiel during <a href='#Aviendha'>Aviendha</a>&apos;s sixth step through the columns the second time around. She died in the Seanchan attack. "}]}
+{
+    "id": "Tarra",
+    "name": "Tarra",
+    "chapters": [
+        {
+            "title": "Chapter 49: Court of the Sun",
+            "info": "<a class='name' name='Tarra'>Tarra</a>, p. 731&#x2014;Maiden of the Spear of the Taardad Aiel during <a href='#Aviendha'>Aviendha</a>&apos;s sixth step through the columns the second time around. She died in the Seanchan attack. "
+        }
+    ]
+}

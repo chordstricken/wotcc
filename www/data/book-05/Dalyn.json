@@ -1,1 +1,10 @@
-{"id":"Dalyn","name":"Dalyn","chapters":[{"title":"Chapter 1: Fanning the Sparks","info":"<a class='name' name='Dalyn'>Dalyn</a>, p. 42 (33)&#x2014;Name used by <a href='#Logain'>Logain</a> while traveling to avoid misunderstanding about his true name. <i>See</i> <a href='#Logain'>Ablar, Logain</a>. "}]}
+{
+    "id": "Dalyn",
+    "name": "Dalyn",
+    "chapters": [
+        {
+            "title": "Chapter 1: Fanning the Sparks",
+            "info": "<a class='name' name='Dalyn'>Dalyn</a>, p. 42 (33)&#x2014;Name used by <a href='#Logain'>Logain</a> while traveling to avoid misunderstanding about his true name. <i>See</i> <a href='#Logain'>Ablar, Logain</a>. "
+        }
+    ]
+}

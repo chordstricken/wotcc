@@ -1,1 +1,10 @@
-{"id":"Moonshadow","name":"Moonshadow","chapters":[{"title":"Chapter 8: That Smoldering City","info":"<a class='name' '=''>Moonshadow</a>, p. 202&#x2014;<a href='#Elayne'>Elayne</a>&apos;s deep brown mare. She came from the Royal Stables in Caemlyn. "}]}
+{
+    "id": "Moonshadow",
+    "name": "Moonshadow",
+    "chapters": [
+        {
+            "title": "Chapter 8: That Smoldering City",
+            "info": "<a class='name' '=''>Moonshadow</a>, p. 202&#x2014;<a href='#Elayne'>Elayne</a>&apos;s deep brown mare. She came from the Royal Stables in Caemlyn. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Berin-Thane","name":"Berin Thane","chapters":[{"title":"Chapter 56: Goldeneyes","info":"<a class='name' name='Berin'>Berin Thane</a>, p. 929 (844)&#x2014;Brother of <a href='#Thane'>Jon Thane</a>, the miller in Emond&apos;s Field. "}]}
+{
+    "id": "Berin-Thane",
+    "name": "Berin Thane",
+    "chapters": [
+        {
+            "title": "Chapter 56: Goldeneyes",
+            "info": "<a class='name' name='Berin'>Berin Thane</a>, p. 929 (844)&#x2014;Brother of <a href='#Thane'>Jon Thane</a>, the miller in Emond&apos;s Field. "
+        }
+    ]
+}

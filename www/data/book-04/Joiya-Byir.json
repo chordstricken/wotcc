@@ -1,1 +1,10 @@
-{"id":"Joiya-Byir","name":"Joiya Byir","chapters":[{"title":"Chapter 5: Questioners","info":"<a class='name' name='Joiya'>Joiya Byir</a>, p. 114 (94)&#x2014;Aes Sedai of the Black Ajah, formerly of the White. She lost none of her cool self-possession when changing her loyalties to the Shadow. She was captured by <a href='#Egwene'>Egwene</a>, <a href='#Elayne'>Elayne</a>, and <a href='#Nynaeve'>Nynaeve</a> after the taking of the Stone of Tear. She is the oldest of the Black sisters who left the Tower with <a href='#Liandrin'>Liandrin</a>, old enough to be the grandmother of the girls who are hunting her. <i>Note: in the original edition, Joiya was listed as White Ajah, but I have been told that this was changed to Gray in later editions. I have left it as White here.</i> "}]}
+{
+    "id": "Joiya-Byir",
+    "name": "Joiya Byir",
+    "chapters": [
+        {
+            "title": "Chapter 5: Questioners",
+            "info": "<a class='name' name='Joiya'>Joiya Byir</a>, p. 114 (94)&#x2014;Aes Sedai of the Black Ajah, formerly of the White. She lost none of her cool self-possession when changing her loyalties to the Shadow. She was captured by <a href='#Egwene'>Egwene</a>, <a href='#Elayne'>Elayne</a>, and <a href='#Nynaeve'>Nynaeve</a> after the taking of the Stone of Tear. She is the oldest of the Black sisters who left the Tower with <a href='#Liandrin'>Liandrin</a>, old enough to be the grandmother of the girls who are hunting her. <i>Note: in the original edition, Joiya was listed as White Ajah, but I have been told that this was changed to Gray in later editions. I have left it as White here.</i> "
+        }
+    ]
+}

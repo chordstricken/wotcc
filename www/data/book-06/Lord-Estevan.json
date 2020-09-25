@@ -1,1 +1,10 @@
-{"id":"Lord-Estevan","name":"Lord Estevan","chapters":[{"title":"Chapter 4: A Sense of Humor","info":"<a class='name' name='Estevan'>Lord Estevan</a>, p. 99 (126)&#x2014;Lanky Lord of the Land in Tear, sworn to <a href='#Sunamon'>High Lord Sunamon</a>. "}]}
+{
+    "id": "Lord-Estevan",
+    "name": "Lord Estevan",
+    "chapters": [
+        {
+            "title": "Chapter 4: A Sense of Humor",
+            "info": "<a class='name' name='Estevan'>Lord Estevan</a>, p. 99 (126)&#x2014;Lanky Lord of the Land in Tear, sworn to <a href='#Sunamon'>High Lord Sunamon</a>. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Master-Hightower","name":"Master Hightower","chapters":[{"title":"Chapter 11: The Road to Taren Ferry","info":"<a class='name' name='Hightower'>Master Hightower</a>, p. 131&#x2014;Man who operates the ferry at Taren Ferry. "}]}
+{
+    "id": "Master-Hightower",
+    "name": "Master Hightower",
+    "chapters": [
+        {
+            "title": "Chapter 11: The Road to Taren Ferry",
+            "info": "<a class='name' name='Hightower'>Master Hightower</a>, p. 131&#x2014;Man who operates the ferry at Taren Ferry. "
+        }
+    ]
+}

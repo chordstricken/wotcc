@@ -1,1 +1,10 @@
-{"id":"Negaine","name":"Negaine","chapters":[{"title":"Chapter 2: The Dark One's Touch","info":"<a class='name' name='Negaine'>Negaine</a>, p. 135&#x2014;Aes Sedai of the Brown Ajah. She and <a href='#Felaana'>Felaana</a> found <a href='#Beonin'>Beonin</a> in the Tower and sent <a href='#Anemara'>Anemara</a> to announce her presence to <a href='#Elaida'>Elaida</a>. "}]}
+{
+    "id": "Negaine",
+    "name": "Negaine",
+    "chapters": [
+        {
+            "title": "Chapter 2: The Dark One's Touch",
+            "info": "<a class='name' name='Negaine'>Negaine</a>, p. 135&#x2014;Aes Sedai of the Brown Ajah. She and <a href='#Felaana'>Felaana</a> found <a href='#Beonin'>Beonin</a> in the Tower and sent <a href='#Anemara'>Anemara</a> to announce her presence to <a href='#Elaida'>Elaida</a>. "
+        }
+    ]
+}

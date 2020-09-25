@@ -1,1 +1,10 @@
-{"id":"Rajar","name":"Rajar","chapters":[{"title":"Prologue: Glimmers of the Pattern","info":"<a class='name' name='Rajar'>Rajar</a>, p. 53 (49)&#x2014;Domani Youngling. He is barely taller than <a href='#Gawyn'>Gawyn</a>&apos;s shoulder. He surely would have been a Warder by now, had times been different. "}]}
+{
+    "id": "Rajar",
+    "name": "Rajar",
+    "chapters": [
+        {
+            "title": "Prologue: Glimmers of the Pattern",
+            "info": "<a class='name' name='Rajar'>Rajar</a>, p. 53 (49)&#x2014;Domani Youngling. He is barely taller than <a href='#Gawyn'>Gawyn</a>&apos;s shoulder. He surely would have been a Warder by now, had times been different. "
+        }
+    ]
+}

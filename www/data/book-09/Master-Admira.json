@@ -1,1 +1,10 @@
-{"id":"Master-Admira","name":"Master Admira","chapters":[{"title":"Chapter 32: A Portion of Wisdom","info":"<a class='name' name='Admira'>Master Admira</a>, p. 592 (690)&#x2014;Merchant who happens to be in Far Madding when <a href='#Rand'>Rand</a> is there. He is worried about the troubles in Andor. "}]}
+{
+    "id": "Master-Admira",
+    "name": "Master Admira",
+    "chapters": [
+        {
+            "title": "Chapter 32: A Portion of Wisdom",
+            "info": "<a class='name' name='Admira'>Master Admira</a>, p. 592 (690)&#x2014;Merchant who happens to be in Far Madding when <a href='#Rand'>Rand</a> is there. He is worried about the troubles in Andor. "
+        }
+    ]
+}

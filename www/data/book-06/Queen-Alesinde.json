@@ -1,1 +1,10 @@
-{"id":"Queen-Alesinde","name":"Queen Alesinde","chapters":[{"title":"Chapter 26: Connecting Lines","info":"<a class='name' name='Alesinde'>Queen Alesinde</a>, p. 378 (529)&#x2014;Queen of Andor after <a href='#Ishara'>Ishara</a>. She kept up the practice of sending a daughter to Tar Valon for training. "}]}
+{
+    "id": "Queen-Alesinde",
+    "name": "Queen Alesinde",
+    "chapters": [
+        {
+            "title": "Chapter 26: Connecting Lines",
+            "info": "<a class='name' name='Alesinde'>Queen Alesinde</a>, p. 378 (529)&#x2014;Queen of Andor after <a href='#Ishara'>Ishara</a>. She kept up the practice of sending a daughter to Tar Valon for training. "
+        }
+    ]
+}

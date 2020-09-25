@@ -1,1 +1,10 @@
-{"id":"Jeorad-Manyard","name":"Jeorad Manyard","chapters":[{"title":"Epilogue: The Answer","info":"<a class='name' name='Jeorad'>Jeorad Manyard</a>, p. 699 (987)&#x2014;Governor of the province of Andor during the reign of the High King <a href='#Artur'>Artur Paendrag Tanreall</a>. He produced a translation of <i>The Prophecies of the <a href='#Dragon'>Dragon</a></i>. "}]}
+{
+    "id": "Jeorad-Manyard",
+    "name": "Jeorad Manyard",
+    "chapters": [
+        {
+            "title": "Epilogue: The Answer",
+            "info": "<a class='name' name='Jeorad'>Jeorad Manyard</a>, p. 699 (987)&#x2014;Governor of the province of Andor during the reign of the High King <a href='#Artur'>Artur Paendrag Tanreall</a>. He produced a translation of <i>The Prophecies of the <a href='#Dragon'>Dragon</a></i>. "
+        }
+    ]
+}

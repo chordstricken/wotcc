@@ -1,1 +1,10 @@
-{"id":"Amys","name":"Amys","chapters":[{"title":"Chapter 2: The Butcher's Yard","info":"<a class='name' name='Amys'>Amys</a>, p. 76 (86)&#x2014;Wise One of the Nine Valleys sept of the Taardad Aiel. <a href='#Rhuarc'>Rhuarc</a>&apos;s wife (one of two). She is one of the Wise Ones that trained <a href='#Aviendha'>Aviendha</a> and <a href='#Egwene'>Egwene</a>. <i>See also</i> <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Aviendha'>Aviendha</a>; <a href='#Bair'>Bair</a>; <a href='#Lian'>Lian</a>; <a href='#Melaine'>Melaine</a>; <a href='#Rhuarc'>Rhuarc</a>. "}]}
+{
+    "id": "Amys",
+    "name": "Amys",
+    "chapters": [
+        {
+            "title": "Chapter 2: The Butcher's Yard",
+            "info": "<a class='name' name='Amys'>Amys</a>, p. 76 (86)&#x2014;Wise One of the Nine Valleys sept of the Taardad Aiel. <a href='#Rhuarc'>Rhuarc</a>&apos;s wife (one of two). She is one of the Wise Ones that trained <a href='#Aviendha'>Aviendha</a> and <a href='#Egwene'>Egwene</a>. <i>See also</i> <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Aviendha'>Aviendha</a>; <a href='#Bair'>Bair</a>; <a href='#Lian'>Lian</a>; <a href='#Melaine'>Melaine</a>; <a href='#Rhuarc'>Rhuarc</a>. "
+        }
+    ]
+}

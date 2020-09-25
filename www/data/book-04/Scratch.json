@@ -1,1 +1,10 @@
-{"id":"Scratch","name":"Scratch","chapters":[{"title":"Chapter 29: Homecoming","info":"<a class='name' name='Scratch'>Scratch</a>, p. 470 (422)&#x2014;Cat native to the Winespring Inn in Emond&apos;s Field. She is usually found asleep atop a shelf. "}]}
+{
+    "id": "Scratch",
+    "name": "Scratch",
+    "chapters": [
+        {
+            "title": "Chapter 29: Homecoming",
+            "info": "<a class='name' name='Scratch'>Scratch</a>, p. 470 (422)&#x2014;Cat native to the Winespring Inn in Emond&apos;s Field. She is usually found asleep atop a shelf. "
+        }
+    ]
+}

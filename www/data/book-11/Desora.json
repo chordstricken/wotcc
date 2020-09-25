@@ -1,1 +1,10 @@
-{"id":"Desora","name":"Desora","chapters":[{"title":"Chapter 18: News for the Dragon","info":"<a class='name' name='Desora'>Desora</a>, p. 386&#x2014;Maiden of the Spear of the Musara sept of the Reyn Aiel. She had golden hair, and had a habit of hiding her smile behind her hand. She died in an attempt on <a href='#Rand'>Rand</a>&apos;s life by assassins for the Children of the Light. "}]}
+{
+    "id": "Desora",
+    "name": "Desora",
+    "chapters": [
+        {
+            "title": "Chapter 18: News for the Dragon",
+            "info": "<a class='name' name='Desora'>Desora</a>, p. 386&#x2014;Maiden of the Spear of the Musara sept of the Reyn Aiel. She had golden hair, and had a habit of hiding her smile behind her hand. She died in an attempt on <a href='#Rand'>Rand</a>&apos;s life by assassins for the Children of the Light. "
+        }
+    ]
+}

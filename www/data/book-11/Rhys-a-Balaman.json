@@ -1,1 +1,10 @@
-{"id":"Rhys-a-Balaman","name":"Rhys a'Balaman","chapters":[{"title":"Chapter 13: Siege","info":"<a class='name' name='Rhys'>Rhys a&apos;Balaman</a>, p. 314&#x2014;Tall Murandian mercenary with a lean face and gray-streaked mustaches that he keeps waxed to spikes. He has eyes like stones and a thin-lipped smile that always seems a leer. He admires <a href='#Miheres'>Miheres</a>. "}]}
+{
+    "id": "Rhys-a-Balaman",
+    "name": "Rhys a'Balaman",
+    "chapters": [
+        {
+            "title": "Chapter 13: Siege",
+            "info": "<a class='name' name='Rhys'>Rhys a&apos;Balaman</a>, p. 314&#x2014;Tall Murandian mercenary with a lean face and gray-streaked mustaches that he keeps waxed to spikes. He has eyes like stones and a thin-lipped smile that always seems a leer. He admires <a href='#Miheres'>Miheres</a>. "
+        }
+    ]
+}

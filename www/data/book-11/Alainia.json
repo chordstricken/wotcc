@@ -1,1 +1,10 @@
-{"id":"Alainia","name":"Alainia","chapters":[{"title":"Chapter 28: In Malden","info":"<a class='name' name='Alainia'>Alainia</a>, p. 608&#x2014;Plump Amadician silversmith, now taken <i>gai&apos;shain</i> by the Shaido. "}]}
+{
+    "id": "Alainia",
+    "name": "Alainia",
+    "chapters": [
+        {
+            "title": "Chapter 28: In Malden",
+            "info": "<a class='name' name='Alainia'>Alainia</a>, p. 608&#x2014;Plump Amadician silversmith, now taken <i>gai&apos;shain</i> by the Shaido. "
+        }
+    ]
+}

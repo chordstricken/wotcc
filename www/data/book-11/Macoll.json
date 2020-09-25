@@ -1,1 +1,10 @@
-{"id":"Macoll","name":"Macoll","chapters":[{"title":"Chapter 37: Prince of the Ravens","info":"<a class='name' name='Macoll'>Macoll</a>, p. 745&#x2014;Bannerman in the Band of the Red Hand. "}]}
+{
+    "id": "Macoll",
+    "name": "Macoll",
+    "chapters": [
+        {
+            "title": "Chapter 37: Prince of the Ravens",
+            "info": "<a class='name' name='Macoll'>Macoll</a>, p. 745&#x2014;Bannerman in the Band of the Red Hand. "
+        }
+    ]
+}

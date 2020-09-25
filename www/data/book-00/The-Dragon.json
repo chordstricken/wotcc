@@ -1,1 +1,10 @@
-{"id":"The-Dragon","name":"The Dragon","chapters":[{"title":"Chapter 2: A Wish Fulfilled","info":"<a class='name' name='Dragon'>The Dragon</a>, p. 36&#x2014;Name by which Lews Therin Telamon was known during the War of the Shadow. His Rebirth will signal Tarmon Gaidon, the Last Battle against the Shadow. This Rebirth was Foretold by <a href='#Gitara'>Gitara Moroso</a>, just before the moment of her death. <i>See also</i> <a href='#Reborn'>Dragon Reborn</a>. "}]}
+{
+    "id": "The-Dragon",
+    "name": "The Dragon",
+    "chapters": [
+        {
+            "title": "Chapter 2: A Wish Fulfilled",
+            "info": "<a class='name' name='Dragon'>The Dragon</a>, p. 36&#x2014;Name by which Lews Therin Telamon was known during the War of the Shadow. His Rebirth will signal Tarmon Gaidon, the Last Battle against the Shadow. This Rebirth was Foretold by <a href='#Gitara'>Gitara Moroso</a>, just before the moment of her death. <i>See also</i> <a href='#Reborn'>Dragon Reborn</a>. "
+        }
+    ]
+}

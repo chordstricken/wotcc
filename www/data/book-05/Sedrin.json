@@ -1,1 +1,10 @@
-{"id":"Sedrin","name":"Sedrin","chapters":[{"title":"Chapter 17: Heading West","info":"<a class='name' name='Sedrin'>Sedrin</a>, p. 327 (232)&#x2014;High rope walker from <a href='#Luca'>Valan Luca</a>&apos;s team. "}]}
+{
+    "id": "Sedrin",
+    "name": "Sedrin",
+    "chapters": [
+        {
+            "title": "Chapter 17: Heading West",
+            "info": "<a class='name' name='Sedrin'>Sedrin</a>, p. 327 (232)&#x2014;High rope walker from <a href='#Luca'>Valan Luca</a>&apos;s team. "
+        }
+    ]
+}

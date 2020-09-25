@@ -1,1 +1,10 @@
-{"id":"Sharbon","name":"Sharbon","chapters":[{"title":"Prologue: Fortress of the Light","info":"<a class='name' name='Sharbon'>Sharbon</a>, p. 28 (13)&#x2014;Body servant of <a href='#Carridin'>Jaichim Carridin</a>. <i>See also</i> <a href='#Carridin'>Carridin, Jaichim</a>. "}]}
+{
+    "id": "Sharbon",
+    "name": "Sharbon",
+    "chapters": [
+        {
+            "title": "Prologue: Fortress of the Light",
+            "info": "<a class='name' name='Sharbon'>Sharbon</a>, p. 28 (13)&#x2014;Body servant of <a href='#Carridin'>Jaichim Carridin</a>. <i>See also</i> <a href='#Carridin'>Carridin, Jaichim</a>. "
+        }
+    ]
+}

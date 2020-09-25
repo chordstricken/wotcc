@@ -1,1 +1,10 @@
-{"id":"Kasi","name":"Kasi","chapters":[{"title":"Prologue: Glimmers of the Pattern","info":"<a class='name' name='Kasi'>Kasi</a>, p. 83 (86)&#x2014;Worker in <a href='#Beldair'>Beldair</a>&apos;s kitchen. "}]}
+{
+    "id": "Kasi",
+    "name": "Kasi",
+    "chapters": [
+        {
+            "title": "Prologue: Glimmers of the Pattern",
+            "info": "<a class='name' name='Kasi'>Kasi</a>, p. 83 (86)&#x2014;Worker in <a href='#Beldair'>Beldair</a>&apos;s kitchen. "
+        }
+    ]
+}

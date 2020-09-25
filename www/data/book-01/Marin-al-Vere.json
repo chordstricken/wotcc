@@ -1,1 +1,10 @@
-{"id":"Marin-al-Vere","name":"Marin al'Vere","chapters":[{"title":"Chapter 1: An Empty Road","info":"<a class='name' name='Marin'>Marin al&apos;Vere</a>, p. 14&#x2014;<a href='#Bran'>Bran</a>&apos;s wife, <a href='#Egwene'>Egwene</a>&apos;s mother. She is slender, and keeps her hair in a thick, gray braid. <i>See also</i> <a href='#Alene'>al&apos;Vere, Alene</a>; <a href='#Berowyn'>al&apos;Vere, Berowyn</a>; <a href='#Bran'>al&apos;Vere, Brandelwyn</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Loise'>al&apos;Vere, Loise</a>. "}]}
+{
+    "id": "Marin-al-Vere",
+    "name": "Marin al'Vere",
+    "chapters": [
+        {
+            "title": "Chapter 1: An Empty Road",
+            "info": "<a class='name' name='Marin'>Marin al&apos;Vere</a>, p. 14&#x2014;<a href='#Bran'>Bran</a>&apos;s wife, <a href='#Egwene'>Egwene</a>&apos;s mother. She is slender, and keeps her hair in a thick, gray braid. <i>See also</i> <a href='#Alene'>al&apos;Vere, Alene</a>; <a href='#Berowyn'>al&apos;Vere, Berowyn</a>; <a href='#Bran'>al&apos;Vere, Brandelwyn</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Loise'>al&apos;Vere, Loise</a>. "
+        }
+    ]
+}

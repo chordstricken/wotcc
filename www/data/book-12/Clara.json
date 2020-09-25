@@ -1,1 +1,10 @@
-{"id":"Clara","name":"Clara","chapters":[{"title":"Chapter 40: The Tower Shakes","info":"<a class='name' name='Clara'>Clara</a>, p. 632&#x2014;Novice in the White Tower. She was part of the circle <a href='#Egwene'>Egwene</a> used to fight the Seanchan. "}]}
+{
+    "id": "Clara",
+    "name": "Clara",
+    "chapters": [
+        {
+            "title": "Chapter 40: The Tower Shakes",
+            "info": "<a class='name' name='Clara'>Clara</a>, p. 632&#x2014;Novice in the White Tower. She was part of the circle <a href='#Egwene'>Egwene</a> used to fight the Seanchan. "
+        }
+    ]
+}

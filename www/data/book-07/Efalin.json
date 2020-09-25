@@ -1,1 +1,10 @@
-{"id":"Efalin","name":"Efalin","chapters":[{"title":"Prologue: Lightnings","info":"<a class='name' name='Efalin'>Efalin</a>, p. 27 (20)&#x2014;Maiden of the Spear with short graying hair; of the Shaido Aiel. "}]}
+{
+    "id": "Efalin",
+    "name": "Efalin",
+    "chapters": [
+        {
+            "title": "Prologue: Lightnings",
+            "info": "<a class='name' name='Efalin'>Efalin</a>, p. 27 (20)&#x2014;Maiden of the Spear with short graying hair; of the Shaido Aiel. "
+        }
+    ]
+}

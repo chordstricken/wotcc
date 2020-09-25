@@ -1,1 +1,10 @@
-{"id":"Elienda","name":"Elienda","chapters":[{"title":"Chapter 6: The Scent of Madness","info":"<a class='name' name='Elienda'>Elienda</a>, p. 165 (180)&#x2014;Tall Maiden of the Spear with wide shoulders. "}]}
+{
+    "id": "Elienda",
+    "name": "Elienda",
+    "chapters": [
+        {
+            "title": "Chapter 6: The Scent of Madness",
+            "info": "<a class='name' name='Elienda'>Elienda</a>, p. 165 (180)&#x2014;Tall Maiden of the Spear with wide shoulders. "
+        }
+    ]
+}

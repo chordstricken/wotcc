@@ -1,1 +1,10 @@
-{"id":"Tammuz","name":"Tammuz","chapters":[{"title":"Chapter 27: The Shadow in the Night","info":"<a class='name' name='Tammuz'>Tammuz</a>, p. 398 (352)&#x2014;An Illuminator, the person responsible for preparing the fireworks for the festival in Cairhien. <i>See also</i> <a href='#Aludra'>Aludra</a>. "}]}
+{
+    "id": "Tammuz",
+    "name": "Tammuz",
+    "chapters": [
+        {
+            "title": "Chapter 27: The Shadow in the Night",
+            "info": "<a class='name' name='Tammuz'>Tammuz</a>, p. 398 (352)&#x2014;An Illuminator, the person responsible for preparing the fireworks for the festival in Cairhien. <i>See also</i> <a href='#Aludra'>Aludra</a>. "
+        }
+    ]
+}

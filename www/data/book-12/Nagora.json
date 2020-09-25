@@ -1,1 +1,10 @@
-{"id":"Nagora","name":"Nagora","chapters":[{"title":"Chapter 12: Unexpected Encounters","info":"<a class='name' name='Nagora'>Nagora</a>, p. 196&#x2014;Aes Sedai of the White Ajah. She summoned <a href='#Egwene'>Egwene</a> for lessons, ostensibly to solve logic puzzles designed to teach her the rules of logic. Egwene suspected she was <i>really</i> asking her for advice on how to deal with an aging Warder who could no longer fight. "}]}
+{
+    "id": "Nagora",
+    "name": "Nagora",
+    "chapters": [
+        {
+            "title": "Chapter 12: Unexpected Encounters",
+            "info": "<a class='name' name='Nagora'>Nagora</a>, p. 196&#x2014;Aes Sedai of the White Ajah. She summoned <a href='#Egwene'>Egwene</a> for lessons, ostensibly to solve logic puzzles designed to teach her the rules of logic. Egwene suspected she was <i>really</i> asking her for advice on how to deal with an aging Warder who could no longer fight. "
+        }
+    ]
+}

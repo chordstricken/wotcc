@@ -1,1 +1,10 @@
-{"id":"Hu-Marwin","name":"Hu Marwin","chapters":[{"title":"Chapter 2: Taken","info":"<a class='name' name='HuMarwin'>Hu Marwin</a>, p. 105 (109)&#x2014;Young man from Emond&apos;s Field. He is an excellent woodsman, and now travels with <a href='#Perrin'>Perrin</a> under <a href='#Dannil'>Dannil</a>&apos;s leadership. "}]}
+{
+    "id": "Hu-Marwin",
+    "name": "Hu Marwin",
+    "chapters": [
+        {
+            "title": "Chapter 2: Taken",
+            "info": "<a class='name' name='HuMarwin'>Hu Marwin</a>, p. 105 (109)&#x2014;Young man from Emond&apos;s Field. He is an excellent woodsman, and now travels with <a href='#Perrin'>Perrin</a> under <a href='#Dannil'>Dannil</a>&apos;s leadership. "
+        }
+    ]
+}

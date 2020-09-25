@@ -1,1 +1,10 @@
-{"id":"Elansu","name":"Elansu","chapters":[{"title":"Chapter 2: The Welcome","info":"<a class='name' name='Elansu'>Elansu</a>, p. 13&#x2014;The <i>shatayan</i> of Fal Dara keep. She is the one who informed <a href='#Rand'>Rand</a> of <a href='#Moiraine'>Moiraine</a>&apos;s decision to make him new clothes. "}]}
+{
+    "id": "Elansu",
+    "name": "Elansu",
+    "chapters": [
+        {
+            "title": "Chapter 2: The Welcome",
+            "info": "<a class='name' name='Elansu'>Elansu</a>, p. 13&#x2014;The <i>shatayan</i> of Fal Dara keep. She is the one who informed <a href='#Rand'>Rand</a> of <a href='#Moiraine'>Moiraine</a>&apos;s decision to make him new clothes. "
+        }
+    ]
+}

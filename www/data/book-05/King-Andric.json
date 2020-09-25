@@ -1,1 +1,10 @@
-{"id":"King-Andric","name":"King Andric","chapters":[{"title":"Chapter 8: Over the Border","info":"<a class='name' name='Andric'>King Andric</a>, p. 196 (141)&#x2014;King of Tarabon. Rumor told the Whitecloaks that he had been supplanted. "}]}
+{
+    "id": "King-Andric",
+    "name": "King Andric",
+    "chapters": [
+        {
+            "title": "Chapter 8: Over the Border",
+            "info": "<a class='name' name='Andric'>King Andric</a>, p. 196 (141)&#x2014;King of Tarabon. Rumor told the Whitecloaks that he had been supplanted. "
+        }
+    ]
+}

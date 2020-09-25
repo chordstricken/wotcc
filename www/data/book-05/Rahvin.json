@@ -1,1 +1,10 @@
-{"id":"Rahvin","name":"Rahvin","chapters":[{"title":"Prologue: The First Sparks Fall","info":"<a class='name' name='Rahvin'>Rahvin</a>, p. 28 (23)&#x2014;One of the Forsaken. A tall man, he is large, dark, and handsome despite his white hair. He always likes to have a pretty woman at his side, and is fond of using Compulsion. Rahvin chose not to take direct control of the city he chose to rule as fellow Forsaken <a href='#Belal'>Be&apos;lal</a> and <a href='#Sammael'>Sammael</a> did, instead influencing the already existing ruler to do his bidding."}]}
+{
+    "id": "Rahvin",
+    "name": "Rahvin",
+    "chapters": [
+        {
+            "title": "Prologue: The First Sparks Fall",
+            "info": "<a class='name' name='Rahvin'>Rahvin</a>, p. 28 (23)&#x2014;One of the Forsaken. A tall man, he is large, dark, and handsome despite his white hair. He always likes to have a pretty woman at his side, and is fond of using Compulsion. Rahvin chose not to take direct control of the city he chose to rule as fellow Forsaken <a href='#Belal'>Be&apos;lal</a> and <a href='#Sammael'>Sammael</a> did, instead influencing the already existing ruler to do his bidding."
+        }
+    ]
+}

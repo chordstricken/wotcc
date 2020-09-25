@@ -1,1 +1,10 @@
-{"id":"Rina-Hafden","name":"Rina Hafden","chapters":[{"title":"Chapter 10: Changes","info":"<a class='name' name='Rina'>Rina Hafden</a>, p. 223 (245)&#x2014;<a href='#Elyas'>Elyas</a>&apos;s Aes Sedai. She is of the Green Ajah. "}]}
+{
+    "id": "Rina-Hafden",
+    "name": "Rina Hafden",
+    "chapters": [
+        {
+            "title": "Chapter 10: Changes",
+            "info": "<a class='name' name='Rina'>Rina Hafden</a>, p. 223 (245)&#x2014;<a href='#Elyas'>Elyas</a>&apos;s Aes Sedai. She is of the Green Ajah. "
+        }
+    ]
+}

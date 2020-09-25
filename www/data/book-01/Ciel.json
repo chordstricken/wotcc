@@ -1,1 +1,10 @@
-{"id":"Ciel","name":"Ciel","chapters":[{"title":"Chapter 15: Strangers and Friends","info":"<a class='name' name='Ciel'>Ciel</a>, p. 176&#x2014;Waitress and kitchen assistant in the Stag and Lion in Baerlon. "}]}
+{
+    "id": "Ciel",
+    "name": "Ciel",
+    "chapters": [
+        {
+            "title": "Chapter 15: Strangers and Friends",
+            "info": "<a class='name' name='Ciel'>Ciel</a>, p. 176&#x2014;Waitress and kitchen assistant in the Stag and Lion in Baerlon. "
+        }
+    ]
+}

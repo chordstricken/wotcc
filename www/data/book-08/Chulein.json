@@ -1,1 +1,10 @@
-{"id":"Chulein","name":"Chulein","chapters":[{"title":"Chapter 6: Threads","info":"<a class='name' name='Chulein'>Chulein</a>, p. 153 (163)&#x2014;Controller of <a href='#Segani'>Segani</a>, a <i>raken</i> from Seanchan. People of his profession are called <i>morat&apos;raken</i>. "}]}
+{
+    "id": "Chulein",
+    "name": "Chulein",
+    "chapters": [
+        {
+            "title": "Chapter 6: Threads",
+            "info": "<a class='name' name='Chulein'>Chulein</a>, p. 153 (163)&#x2014;Controller of <a href='#Segani'>Segani</a>, a <i>raken</i> from Seanchan. People of his profession are called <i>morat&apos;raken</i>. "
+        }
+    ]
+}

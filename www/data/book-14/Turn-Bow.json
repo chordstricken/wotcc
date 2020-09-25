@@ -1,1 +1,10 @@
-{"id":"Turn-Bow","name":"Turn Bow","chapters":[{"title":"Chapter 22: The Wyld","info":"<a class='name' name='TurnBow'>Turn Bow</a>, p. 407&#x2014;One of the wolves, an aged female pack leader. "}]}
+{
+    "id": "Turn-Bow",
+    "name": "Turn Bow",
+    "chapters": [
+        {
+            "title": "Chapter 22: The Wyld",
+            "info": "<a class='name' name='TurnBow'>Turn Bow</a>, p. 407&#x2014;One of the wolves, an aged female pack leader. "
+        }
+    ]
+}

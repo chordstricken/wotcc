@@ -1,1 +1,10 @@
-{"id":"Balwen-Ironhand","name":"Balwen Ironhand","chapters":[{"title":"Chapter 19: Shadow's Waiting","info":"<a class='name' '=''>Balwen Ironhand</a>, p. 244&#x2014;Nickname given to <a href='#Balwen'>King Balwen of Aridhol</a>. <i>See</i> <a href='#Balwen'>Mayel, Balwen</a>. "}]}
+{
+    "id": "Balwen-Ironhand",
+    "name": "Balwen Ironhand",
+    "chapters": [
+        {
+            "title": "Chapter 19: Shadow's Waiting",
+            "info": "<a class='name' '=''>Balwen Ironhand</a>, p. 244&#x2014;Nickname given to <a href='#Balwen'>King Balwen of Aridhol</a>. <i>See</i> <a href='#Balwen'>Mayel, Balwen</a>. "
+        }
+    ]
+}

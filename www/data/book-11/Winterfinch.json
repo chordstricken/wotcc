@@ -1,1 +1,10 @@
-{"id":"Winterfinch","name":"Winterfinch","chapters":[{"title":"Chapter 2: The Dark One's Touch","info":"<a class='name' name='Winterfinch'>Winterfinch</a>, p. 122&#x2014;<a href='#Beonin'>Beonin</a>&apos;s horse. "}]}
+{
+    "id": "Winterfinch",
+    "name": "Winterfinch",
+    "chapters": [
+        {
+            "title": "Chapter 2: The Dark One's Touch",
+            "info": "<a class='name' name='Winterfinch'>Winterfinch</a>, p. 122&#x2014;<a href='#Beonin'>Beonin</a>&apos;s horse. "
+        }
+    ]
+}

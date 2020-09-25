@@ -1,1 +1,10 @@
-{"id":"Pips","name":"Pips","chapters":[{"title":"Chapter 14: White Plumes","info":"<a class='name' name='Pips'>Pips</a>, p. 126 (165)&#x2014;<a href='#Mat'>Mat</a>&apos;s sturdy brown gelding. "}]}
+{
+    "id": "Pips",
+    "name": "Pips",
+    "chapters": [
+        {
+            "title": "Chapter 14: White Plumes",
+            "info": "<a class='name' name='Pips'>Pips</a>, p. 126 (165)&#x2014;<a href='#Mat'>Mat</a>&apos;s sturdy brown gelding. "
+        }
+    ]
+}

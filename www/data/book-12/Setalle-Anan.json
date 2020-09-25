@@ -1,1 +1,10 @@
-{"id":"Setalle-Anan","name":"Setalle Anan","chapters":[{"title":"Chapter 19: Gambits","info":"<a class='name' name='Anan'>Setalle Anan</a>, p. 302&#x2014;Stately former innkeeper of The Wandering Woman, the inn at which <a href='#Mat'>Mat</a> and <a href='#Olver'>Olver</a> stayed in Ebou Dar. She has hazel eyes, marking her a non-native to Ebou Dar. She worked closely with the Kin, and knew of their existence despite not being a part of them. She has a regal presence, and has a touch of gray in her hair. <i>It is widely speculated that Setalle Anan used to be Aes Sedai. She is thereby &#x201C;She Who Is No Longer&#x201D; in the Wise Ones&apos; dreams.</i> "}]}
+{
+    "id": "Setalle-Anan",
+    "name": "Setalle Anan",
+    "chapters": [
+        {
+            "title": "Chapter 19: Gambits",
+            "info": "<a class='name' name='Anan'>Setalle Anan</a>, p. 302&#x2014;Stately former innkeeper of The Wandering Woman, the inn at which <a href='#Mat'>Mat</a> and <a href='#Olver'>Olver</a> stayed in Ebou Dar. She has hazel eyes, marking her a non-native to Ebou Dar. She worked closely with the Kin, and knew of their existence despite not being a part of them. She has a regal presence, and has a touch of gray in her hair. <i>It is widely speculated that Setalle Anan used to be Aes Sedai. She is thereby &#x201C;She Who Is No Longer&#x201D; in the Wise Ones&apos; dreams.</i> "
+        }
+    ]
+}

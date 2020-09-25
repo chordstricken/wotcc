@@ -1,1 +1,10 @@
-{"id":"Nynaeve-al-Meara","name":"Nynaeve al'Meara","chapters":[{"title":"Chapter 1: The Flame of Tar Valon","info":"<a class='name' name='Nynaeve'>Nynaeve al&apos;Meara</a>, p. 7&#x2014;A young woman from Emond&apos;s Field. She was the Wisdom of Emond&apos;s Field prior to leaving to help four members of her village return home after they left with <a href='#Moiraine'>Moiraine</a>. Moiraine tells her that she has the ability to channel the One Power with great strength, and that it is this ability that allows her to &#x201C;listen to the wind.&#x201D; While traveling with Moiraine and company, Nynaeve develops feelings for <a href='#Lan'>Lan</a>. He shares her feelings, but is unable to act on them due to his duties as a Warder and those to his fallen homeland. <i>See also</i> <a href='#ElnorealMeara'>al&apos;Meara, Elnore</a>; <a href='#Elnore'>Mandragoran, Elnore</a>; <a href='#Lan'>Mandragoran, Lan</a>; <a href='#Maric'>Mandragoran, Maric</a>. "}]}
+{
+    "id": "Nynaeve-al-Meara",
+    "name": "Nynaeve al'Meara",
+    "chapters": [
+        {
+            "title": "Chapter 1: The Flame of Tar Valon",
+            "info": "<a class='name' name='Nynaeve'>Nynaeve al&apos;Meara</a>, p. 7&#x2014;A young woman from Emond&apos;s Field. She was the Wisdom of Emond&apos;s Field prior to leaving to help four members of her village return home after they left with <a href='#Moiraine'>Moiraine</a>. Moiraine tells her that she has the ability to channel the One Power with great strength, and that it is this ability that allows her to &#x201C;listen to the wind.&#x201D; While traveling with Moiraine and company, Nynaeve develops feelings for <a href='#Lan'>Lan</a>. He shares her feelings, but is unable to act on them due to his duties as a Warder and those to his fallen homeland. <i>See also</i> <a href='#ElnorealMeara'>al&apos;Meara, Elnore</a>; <a href='#Elnore'>Mandragoran, Elnore</a>; <a href='#Lan'>Mandragoran, Lan</a>; <a href='#Maric'>Mandragoran, Maric</a>. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Nandera","name":"Nandera","chapters":[{"title":"Chapter 20: The Golden Crane","info":"<a class='name' name='Nandera'>Nandera</a>, p. 415&#x2014;Sinewy Maiden of the Spear with graying blonde hair. She led the Maidens of the Spear that came to rescue <a href='#Rand'>Rand</a>, and later assisted in his beating. "}]}
+{
+    "id": "Nandera",
+    "name": "Nandera",
+    "chapters": [
+        {
+            "title": "Chapter 20: The Golden Crane",
+            "info": "<a class='name' name='Nandera'>Nandera</a>, p. 415&#x2014;Sinewy Maiden of the Spear with graying blonde hair. She led the Maidens of the Spear that came to rescue <a href='#Rand'>Rand</a>, and later assisted in his beating. "
+        }
+    ]
+}

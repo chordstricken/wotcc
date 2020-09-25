@@ -1,1 +1,10 @@
-{"id":"Kitan","name":"Kitan","chapters":[{"title":"Chapter 37: The Last Battle","info":"<a class='name' name='Kitan'>Kitan</a>, p. 777&#x2014;Palace maid in Mayene. She stayed back to tend the wounded. "}]}
+{
+    "id": "Kitan",
+    "name": "Kitan",
+    "chapters": [
+        {
+            "title": "Chapter 37: The Last Battle",
+            "info": "<a class='name' name='Kitan'>Kitan</a>, p. 777&#x2014;Palace maid in Mayene. She stayed back to tend the wounded. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Lord-Maringil","name":"Lord Maringil","chapters":[{"title":"Chapter 18: A Taste of Solitude","info":"<a class='name' name='Maringil'>Lord Maringil</a>, p. 305 (425)&#x2014;Cairhienin lord. He has white hair to his shoulders, is blade thin, and icy cool. <!-- He was killed by Colavaere's agents. --> "}]}
+{
+    "id": "Lord-Maringil",
+    "name": "Lord Maringil",
+    "chapters": [
+        {
+            "title": "Chapter 18: A Taste of Solitude",
+            "info": "<a class='name' name='Maringil'>Lord Maringil</a>, p. 305 (425)&#x2014;Cairhienin lord. He has white hair to his shoulders, is blade thin, and icy cool. <!-- He was killed by Colavaere's agents. --> "
+        }
+    ]
+}

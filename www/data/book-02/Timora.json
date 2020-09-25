@@ -1,1 +1,10 @@
-{"id":"Timora","name":"Timora","chapters":[{"title":"Chapter 7: Blood Calls Blood","info":"<a class='name' name='Timora'>Timora</a>, p. 111 (99)&#x2014;One of <a href='#Amalisa'>Lady Amalisa</a>&apos;s attendants. She tells her servants to alert <a href='#Liandrin'>Liandrin</a> of the whereabouts of <a href='#Mat'>Mat</a> and <a href='#Perrin'>Perrin</a>. "}]}
+{
+    "id": "Timora",
+    "name": "Timora",
+    "chapters": [
+        {
+            "title": "Chapter 7: Blood Calls Blood",
+            "info": "<a class='name' name='Timora'>Timora</a>, p. 111 (99)&#x2014;One of <a href='#Amalisa'>Lady Amalisa</a>&apos;s attendants. She tells her servants to alert <a href='#Liandrin'>Liandrin</a> of the whereabouts of <a href='#Mat'>Mat</a> and <a href='#Perrin'>Perrin</a>. "
+        }
+    ]
+}

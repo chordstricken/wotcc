@@ -1,1 +1,10 @@
-{"id":"Lain","name":"Lain","chapters":[{"title":"Chapter 25: Return to Bandar Eban","info":"<a class='name' name='Lain2'>Lain</a>, p. 404&#x2014;Merchant in Bandar Eban. He hired Redford and <a href='#Votabek'>Votabek</a>, but he never actually paid them. "}]}
+{
+    "id": "Lain",
+    "name": "Lain",
+    "chapters": [
+        {
+            "title": "Chapter 25: Return to Bandar Eban",
+            "info": "<a class='name' name='Lain2'>Lain</a>, p. 404&#x2014;Merchant in Bandar Eban. He hired Redford and <a href='#Votabek'>Votabek</a>, but he never actually paid them. "
+        }
+    ]
+}

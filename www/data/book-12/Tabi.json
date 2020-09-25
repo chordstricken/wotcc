@@ -1,1 +1,10 @@
-{"id":"Tabi","name":"Tabi","chapters":[{"title":"Prelude","info":"<a class='name' name='Tabi'>Tabi</a>, p. 27&#x2014;One of the <i>damane</i> who attacked <a href='#Rand'>Rand</a> at the behest of <a href='#Anath'>Anath</a>. Her leash is held by <a href='#Surya'>Surya</a>. <i>See also</i> <a href='#Surya'>Surya</a>. "}]}
+{
+    "id": "Tabi",
+    "name": "Tabi",
+    "chapters": [
+        {
+            "title": "Prelude",
+            "info": "<a class='name' name='Tabi'>Tabi</a>, p. 27&#x2014;One of the <i>damane</i> who attacked <a href='#Rand'>Rand</a> at the behest of <a href='#Anath'>Anath</a>. Her leash is held by <a href='#Surya'>Surya</a>. <i>See also</i> <a href='#Surya'>Surya</a>. "
+        }
+    ]
+}

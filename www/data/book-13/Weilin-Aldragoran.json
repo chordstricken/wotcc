@@ -1,1 +1,10 @@
-{"id":"Weilin-Aldragoran","name":"Weilin Aldragoran","chapters":[{"title":"Chapter 23: Foxheads","info":"<a class='name' name='Aldragoran'>Weilin Aldragoran</a>, p. 380&#x2014;Seller of gems, rare woods, furs, finely-made swords, and armor in Saldaea. He is Malkieri, and still wears the <i>hadori</i>. He was a toddler when Malkier was overrun. He was among the first <a href='#Nynaeve'>Nynaeve</a> found with news of <a href='#Lan'>Lan</a>&apos;s march. "}]}
+{
+    "id": "Weilin-Aldragoran",
+    "name": "Weilin Aldragoran",
+    "chapters": [
+        {
+            "title": "Chapter 23: Foxheads",
+            "info": "<a class='name' name='Aldragoran'>Weilin Aldragoran</a>, p. 380&#x2014;Seller of gems, rare woods, furs, finely-made swords, and armor in Saldaea. He is Malkieri, and still wears the <i>hadori</i>. He was a toddler when Malkier was overrun. He was among the first <a href='#Nynaeve'>Nynaeve</a> found with news of <a href='#Lan'>Lan</a>&apos;s march. "
+        }
+    ]
+}

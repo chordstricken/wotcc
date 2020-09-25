@@ -1,1 +1,10 @@
-{"id":"Lidrin","name":"Lidrin","chapters":[{"title":"Prelude","info":"<a class='name' name='Lidrin'>Lidrin</a>, p. 43&#x2014;Young officer in <a href='#Rodel'>General Ituralde</a>&apos;s command. He has a scar on his face and a thin, stylish black mustache. He began Ituralde&apos;s campaign having never known real combat, but he is a seasoned veteran now. His father died under Ituralde&apos;s service. "}]}
+{
+    "id": "Lidrin",
+    "name": "Lidrin",
+    "chapters": [
+        {
+            "title": "Prelude",
+            "info": "<a class='name' name='Lidrin'>Lidrin</a>, p. 43&#x2014;Young officer in <a href='#Rodel'>General Ituralde</a>&apos;s command. He has a scar on his face and a thin, stylish black mustache. He began Ituralde&apos;s campaign having never known real combat, but he is a seasoned veteran now. His father died under Ituralde&apos;s service. "
+        }
+    ]
+}

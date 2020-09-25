@@ -1,1 +1,10 @@
-{"id":"Hal","name":"Hal","chapters":[{"title":"Prologue: The First Message","info":"<a class='name' name='Hal'>Hal</a>, p. 38 (38)&#x2014;One of the servants <a href='#Faile'>Faile</a> trained for <a href='#Perrin'>Perrin</a>. Perrin treats him as a friend and drinking partner, not a servant. "}]}
+{
+    "id": "Hal",
+    "name": "Hal",
+    "chapters": [
+        {
+            "title": "Prologue: The First Message",
+            "info": "<a class='name' name='Hal'>Hal</a>, p. 38 (38)&#x2014;One of the servants <a href='#Faile'>Faile</a> trained for <a href='#Perrin'>Perrin</a>. Perrin treats him as a friend and drinking partner, not a servant. "
+        }
+    ]
+}

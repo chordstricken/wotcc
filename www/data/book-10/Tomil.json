@@ -1,1 +1,10 @@
-{"id":"Tomil","name":"Tomil","chapters":[{"title":"Prologue: Glimmers of the Pattern","info":"<a class='name' name='Tomil'>Tomil</a>, p. 54 (49)&#x2014;One of the Younglings. He also has a brother in the Younglings. "}]}
+{
+    "id": "Tomil",
+    "name": "Tomil",
+    "chapters": [
+        {
+            "title": "Prologue: Glimmers of the Pattern",
+            "info": "<a class='name' name='Tomil'>Tomil</a>, p. 54 (49)&#x2014;One of the Younglings. He also has a brother in the Younglings. "
+        }
+    ]
+}

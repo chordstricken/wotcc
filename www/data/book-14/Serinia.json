@@ -1,1 +1,10 @@
-{"id":"Serinia","name":"Serinia","chapters":[{"title":"Chapter 1: Eastward the Wind Blew","info":"<a class='name' name='Serinia'>Serinia</a>, p. 83&#x2014;Aes Sedai of unknown ajah. <a href='#Elayne'>Elayne</a> sends her to Caemlyn to find out why <a href='#Jesamyn'>Jesamyn</a>&apos;s report is late. "}]}
+{
+    "id": "Serinia",
+    "name": "Serinia",
+    "chapters": [
+        {
+            "title": "Chapter 1: Eastward the Wind Blew",
+            "info": "<a class='name' name='Serinia'>Serinia</a>, p. 83&#x2014;Aes Sedai of unknown ajah. <a href='#Elayne'>Elayne</a> sends her to Caemlyn to find out why <a href='#Jesamyn'>Jesamyn</a>&apos;s report is late. "
+        }
+    ]
+}

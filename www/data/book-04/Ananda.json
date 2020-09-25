@@ -1,1 +1,10 @@
-{"id":"Ananda","name":"Ananda","chapters":[{"title":"Chapter 1: Seeds of Shadow","info":"<a class='name' name='Ananda'>Ananda</a>, p. 18 (6)&#x2014;Aes Sedai of the Yellow Ajah. She is slender, and has black hair to her waist. <a href='#Min'>Min</a> has a viewing of her indicating that she will die on the same day as many other Aes Sedai and Warders are killed or injured. "}]}
+{
+    "id": "Ananda",
+    "name": "Ananda",
+    "chapters": [
+        {
+            "title": "Chapter 1: Seeds of Shadow",
+            "info": "<a class='name' name='Ananda'>Ananda</a>, p. 18 (6)&#x2014;Aes Sedai of the Yellow Ajah. She is slender, and has black hair to her waist. <a href='#Min'>Min</a> has a viewing of her indicating that she will die on the same day as many other Aes Sedai and Warders are killed or injured. "
+        }
+    ]
+}

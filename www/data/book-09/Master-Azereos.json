@@ -1,1 +1,10 @@
-{"id":"Master-Azereos","name":"Master Azereos","chapters":[{"title":"Chapter 32: A Portion of Wisdom","info":"<a class='name' name='Azereos'>Master Azereos</a>, p. 593 (691)&#x2014;Patron in <a href='#Gallger'>Mistress Gallger</a>&apos;s inn. He heard about <a href='#Kisman'>Kisman</a>&apos;s body, which city officials burned. "}]}
+{
+    "id": "Master-Azereos",
+    "name": "Master Azereos",
+    "chapters": [
+        {
+            "title": "Chapter 32: A Portion of Wisdom",
+            "info": "<a class='name' name='Azereos'>Master Azereos</a>, p. 593 (691)&#x2014;Patron in <a href='#Gallger'>Mistress Gallger</a>&apos;s inn. He heard about <a href='#Kisman'>Kisman</a>&apos;s body, which city officials burned. "
+        }
+    ]
+}

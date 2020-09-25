@@ -1,1 +1,10 @@
-{"id":"Akoure-Vayet","name":"Akoure Vayet","chapters":[{"title":"Prologue: Snow","info":"<a class='name' name='Akoure'>Akoure Vayet</a>, p. 58 (53)&#x2014;Aes Sedai of the Gray Ajah. She is stout, and was among those on the failed raiding party sent to capture the Asha&apos;man, and was captured herself. "}]}
+{
+    "id": "Akoure-Vayet",
+    "name": "Akoure Vayet",
+    "chapters": [
+        {
+            "title": "Prologue: Snow",
+            "info": "<a class='name' name='Akoure'>Akoure Vayet</a>, p. 58 (53)&#x2014;Aes Sedai of the Gray Ajah. She is stout, and was among those on the failed raiding party sent to capture the Asha&apos;man, and was captured herself. "
+        }
+    ]
+}

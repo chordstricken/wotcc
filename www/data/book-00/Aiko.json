@@ -1,1 +1,10 @@
-{"id":"Aiko","name":"Aiko","chapters":[{"title":"Chapter 24: Making Use of Invisibility","info":"<a class='name' name='Aiko'>Aiko</a>, p. 305&#x2014;Plump, gray-haired servant in the Aesdaishar Palace. "}]}
+{
+    "id": "Aiko",
+    "name": "Aiko",
+    "chapters": [
+        {
+            "title": "Chapter 24: Making Use of Invisibility",
+            "info": "<a class='name' name='Aiko'>Aiko</a>, p. 305&#x2014;Plump, gray-haired servant in the Aesdaishar Palace. "
+        }
+    ]
+}

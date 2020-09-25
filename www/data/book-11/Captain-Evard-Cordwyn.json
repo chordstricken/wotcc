@@ -1,1 +1,10 @@
-{"id":"Captain-Evard-Cordwyn","name":"Captain Evard Cordwyn","chapters":[{"title":"Chapter 16: The New Follower","info":"<a class='name' name='Cordwyn'>Captain Evard Cordwyn</a>, p. 351&#x2014;Tall, square-jawed Andorman. He wears a large ruby in his left ear. He is a mercenary. "}]}
+{
+    "id": "Captain-Evard-Cordwyn",
+    "name": "Captain Evard Cordwyn",
+    "chapters": [
+        {
+            "title": "Chapter 16: The New Follower",
+            "info": "<a class='name' name='Cordwyn'>Captain Evard Cordwyn</a>, p. 351&#x2014;Tall, square-jawed Andorman. He wears a large ruby in his left ear. He is a mercenary. "
+        }
+    ]
+}

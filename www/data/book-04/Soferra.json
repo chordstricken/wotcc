@@ -1,1 +1,10 @@
-{"id":"Soferra","name":"Soferra","chapters":[{"title":"Chapter 43: Care for the Living","info":"<a class='name' name='Soferra'>Soferra</a>, p. 706 (637)&#x2014;Ogier, mother of <a href='#Ala'>Ala</a>, grandmother of <a href='#Damelle'>Damelle</a>. "}]}
+{
+    "id": "Soferra",
+    "name": "Soferra",
+    "chapters": [
+        {
+            "title": "Chapter 43: Care for the Living",
+            "info": "<a class='name' name='Soferra'>Soferra</a>, p. 706 (637)&#x2014;Ogier, mother of <a href='#Ala'>Ala</a>, grandmother of <a href='#Damelle'>Damelle</a>. "
+        }
+    ]
+}

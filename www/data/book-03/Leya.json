@@ -1,1 +1,14 @@
-{"id":"Leya","name":"Leya","chapters":[{"title":"Chapter 1: Waiting","info":"<a class='name' name='Leya'>Leya</a>, p. 38 (22)&#x2014;A Tinker, a Tuatha&apos;an, one of the Traveling People, who meets <a href='#Perrin'>Perrin</a>, <a href='#Uno'>Uno</a>, <a href='#Masema'>Masema</a>, <a href='#Ragan'>Ragan</a>, and the rest of their party with urgent news for <a href='#Moiraine'>Moiraine</a>. She is killed in the battle with the Trollocs by a Myrddraal. "}]}
+{
+    "id": "Leya",
+    "name": "Leya",
+    "chapters": [
+        {
+            "title": "Chapter 1: Waiting",
+            "info": "<a class='name' name='Leya'>Leya</a>, p. 38 (22)&#x2014;A Tinker, a Tuatha&apos;an, one of the Traveling People, who meets <a href='#Perrin'>Perrin</a>, <a href='#Uno'>Uno</a>, <a href='#Masema'>Masema</a>, <a href='#Ragan'>Ragan</a>, and the rest of their party with urgent news for <a href='#Moiraine'>Moiraine</a>."
+        },
+        {
+            "title": "Chapter 6: The Hunt Begins",
+            "info": "<a class='name' name='Leya'>Leya</a>, p. 38 (22)&#x2014;A Tinker, a Tuatha&apos;an, one of the Traveling People, who meets <a href='#Perrin'>Perrin</a>, <a href='#Uno'>Uno</a>, <a href='#Masema'>Masema</a>, <a href='#Ragan'>Ragan</a>, and the rest of their party with urgent news for <a href='#Moiraine'>Moiraine</a>. She is killed in the battle with the Trollocs by a Myrddraal. "
+        }
+    ]
+}

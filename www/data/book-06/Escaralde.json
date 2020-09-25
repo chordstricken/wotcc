@@ -1,1 +1,10 @@
-{"id":"Escaralde","name":"Escaralde","chapters":[{"title":"Chapter 13: Under the Dust","info":"<a class='name' name='Escaralde'>Escaralde</a>, p. 234 (324)&#x2014;Aes Sedai who insists on learning to make <i>ter&apos;angreal</i> despite not being strong enough. She fled the White Tower when <a href='#Siuan'>Siuan</a> was deposed, and is now in Salidar. "}]}
+{
+    "id": "Escaralde",
+    "name": "Escaralde",
+    "chapters": [
+        {
+            "title": "Chapter 13: Under the Dust",
+            "info": "<a class='name' name='Escaralde'>Escaralde</a>, p. 234 (324)&#x2014;Aes Sedai who insists on learning to make <i>ter&apos;angreal</i> despite not being strong enough. She fled the White Tower when <a href='#Siuan'>Siuan</a> was deposed, and is now in Salidar. "
+        }
+    ]
+}

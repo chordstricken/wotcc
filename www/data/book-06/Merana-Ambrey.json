@@ -1,1 +1,10 @@
-{"id":"Merana-Ambrey","name":"Merana Ambrey","chapters":[{"title":"Chapter 15: A Pile of Sand","info":"<a class='name' name='Merana'>Merana Ambrey</a>, p. 268 (373)&#x2014;Aes Sedai of the Gray Ajah who grew up in Caemlyn. Leader of Salidar&apos;s embassy to <a href='#Rand'>Rand</a> in Caemlyn. "}]}
+{
+    "id": "Merana-Ambrey",
+    "name": "Merana Ambrey",
+    "chapters": [
+        {
+            "title": "Chapter 15: A Pile of Sand",
+            "info": "<a class='name' name='Merana'>Merana Ambrey</a>, p. 268 (373)&#x2014;Aes Sedai of the Gray Ajah who grew up in Caemlyn. Leader of Salidar&apos;s embassy to <a href='#Rand'>Rand</a> in Caemlyn. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Widow-Teran","name":"Widow Teran","chapters":[{"title":"Chapter 10: Figs and Mice","info":"<a class='name' name='Teran'>Widow Teran</a>, p. 230 (164)&#x2014;Man from Amadicia for whom <a href='#Noy'>Noy Torvald</a> does odd jobs. "}]}
+{
+    "id": "Widow-Teran",
+    "name": "Widow Teran",
+    "chapters": [
+        {
+            "title": "Chapter 10: Figs and Mice",
+            "info": "<a class='name' name='Teran'>Widow Teran</a>, p. 230 (164)&#x2014;Man from Amadicia for whom <a href='#Noy'>Noy Torvald</a> does odd jobs. "
+        }
+    ]
+}

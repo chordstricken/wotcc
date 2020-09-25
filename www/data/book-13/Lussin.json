@@ -1,1 +1,10 @@
-{"id":"Lussin","name":"Lussin","chapters":[{"title":"Chapter 19: Talk of Dragons","info":"<a class='name' name='Lussin'>Lussin</a>, p. 280&#x2014;One of the Redarms. <a href='#Mat'>Mat</a> has assigned him the task of watching <a href='#Olver'>Olver</a>. <i>See also</i> <a href='#Edder'>Edder</a>; <a href='#Olver'>Olver</a>. "}]}
+{
+    "id": "Lussin",
+    "name": "Lussin",
+    "chapters": [
+        {
+            "title": "Chapter 19: Talk of Dragons",
+            "info": "<a class='name' name='Lussin'>Lussin</a>, p. 280&#x2014;One of the Redarms. <a href='#Mat'>Mat</a> has assigned him the task of watching <a href='#Olver'>Olver</a>. <i>See also</i> <a href='#Edder'>Edder</a>; <a href='#Olver'>Olver</a>. "
+        }
+    ]
+}

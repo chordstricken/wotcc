@@ -1,1 +1,10 @@
-{"id":"Lisandre","name":"Lisandre","chapters":[{"title":"Chapter 6: Surprises","info":"<a class='name' name='Lisandre'>Lisandre</a>, p. 99&#x2014;Very tall, golden-haired novice. She will be able to test for Accepted if she loses her sulky attitude. She probably will, too&#x2014;the Tower has ways of getting rid of things it does not want. "}]}
+{
+    "id": "Lisandre",
+    "name": "Lisandre",
+    "chapters": [
+        {
+            "title": "Chapter 6: Surprises",
+            "info": "<a class='name' name='Lisandre'>Lisandre</a>, p. 99&#x2014;Very tall, golden-haired novice. She will be able to test for Accepted if she loses her sulky attitude. She probably will, too&#x2014;the Tower has ways of getting rid of things it does not want. "
+        }
+    ]
+}

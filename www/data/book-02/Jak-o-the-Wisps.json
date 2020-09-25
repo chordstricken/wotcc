@@ -1,1 +1,10 @@
-{"id":"Jak-o-the-Wisps","name":"Jak o' the Wisps","chapters":[{"title":"Chapter 33: A Message from the Dark","info":"<a class='name' name='Wisps'>Jak o&apos; the Wisps</a>, p. 483 (425)&#x2014;According to <a href='#Ingtar'>Ingtar</a>, something that is useless to chase, possibly similar to a wild goose. "}]}
+{
+    "id": "Jak-o-the-Wisps",
+    "name": "Jak o' the Wisps",
+    "chapters": [
+        {
+            "title": "Chapter 33: A Message from the Dark",
+            "info": "<a class='name' name='Wisps'>Jak o&apos; the Wisps</a>, p. 483 (425)&#x2014;According to <a href='#Ingtar'>Ingtar</a>, something that is useless to chase, possibly similar to a wild goose. "
+        }
+    ]
+}

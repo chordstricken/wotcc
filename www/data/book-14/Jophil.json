@@ -1,1 +1,10 @@
-{"id":"Jophil","name":"Jophil","chapters":[{"title":"Chapter 6: A Knack","info":"<a class='name' name='Jophil'>Jophil</a>, p. 181&#x2014;Bald standard-bearer for <a href='#Lan'>Lan</a>. He is the fifth standard-bearer in two days. "}]}
+{
+    "id": "Jophil",
+    "name": "Jophil",
+    "chapters": [
+        {
+            "title": "Chapter 6: A Knack",
+            "info": "<a class='name' name='Jophil'>Jophil</a>, p. 181&#x2014;Bald standard-bearer for <a href='#Lan'>Lan</a>. He is the fifth standard-bearer in two days. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Kurin","name":"Kurin","chapters":[{"title":"Chapter 2: Unweaving","info":"<a class='name' name='Kurin'>Kurin</a>, p. 69 (66)&#x2014;Sea Folk Windfinder with a stony, black stare. "}]}
+{
+    "id": "Kurin",
+    "name": "Kurin",
+    "chapters": [
+        {
+            "title": "Chapter 2: Unweaving",
+            "info": "<a class='name' name='Kurin'>Kurin</a>, p. 69 (66)&#x2014;Sea Folk Windfinder with a stony, black stare. "
+        }
+    ]
+}

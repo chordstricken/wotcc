@@ -1,1 +1,10 @@
-{"id":"al-Lan-Mandragoran","name":"al'Lan Mandragoran","chapters":[{"title":"Chapter 2: Strangers","info":"<a class='name' name='Lan'>al&apos;Lan Mandragoran</a>, p. 20&#x2014;Guest in Emond&apos;s Field the day before Bel Tine. He is quite tall, has long hair that is graying at the temples and is held from his face by a narrow leather headband. His face is all stony planes and angles, weathered but unlined. He is <a href='#Moiraine'>Moiraine</a>&apos;s Warder. <i>See also</i> <a href='#Andra'>Andra</a>; <a href='#Moiraine'>Damodred, Moiraine</a>; <a href='#Akir'>Mandragoran, Akir</a>; <a href='#Leanna'>ti Mandragoran, Leanna</a>. "}]}
+{
+    "id": "al-Lan-Mandragoran",
+    "name": "al'Lan Mandragoran",
+    "chapters": [
+        {
+            "title": "Chapter 2: Strangers",
+            "info": "<a class='name' name='Lan'>al&apos;Lan Mandragoran</a>, p. 20&#x2014;Guest in Emond&apos;s Field the day before Bel Tine. He is quite tall, has long hair that is graying at the temples and is held from his face by a narrow leather headband. His face is all stony planes and angles, weathered but unlined. He is <a href='#Moiraine'>Moiraine</a>&apos;s Warder. <i>See also</i> <a href='#Andra'>Andra</a>; <a href='#Moiraine'>Damodred, Moiraine</a>; <a href='#Akir'>Mandragoran, Akir</a>; <a href='#Leanna'>ti Mandragoran, Leanna</a>. "
+        }
+    ]
+}

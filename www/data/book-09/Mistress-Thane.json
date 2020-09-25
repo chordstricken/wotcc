@@ -1,1 +1,10 @@
-{"id":"Mistress-Thane","name":"Mistress Thane","chapters":[{"title":"Chapter 11: Ideas of Importance","info":"<a class='name' name='MrsThane'>Mistress Thane</a>, p. 272 (307)&#x2014;Wife of Jon Thane, miller of Emond&apos;s Field. "}]}
+{
+    "id": "Mistress-Thane",
+    "name": "Mistress Thane",
+    "chapters": [
+        {
+            "title": "Chapter 11: Ideas of Importance",
+            "info": "<a class='name' name='MrsThane'>Mistress Thane</a>, p. 272 (307)&#x2014;Wife of Jon Thane, miller of Emond&apos;s Field. "
+        }
+    ]
+}

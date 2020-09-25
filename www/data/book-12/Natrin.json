@@ -1,1 +1,10 @@
-{"id":"Natrin","name":"Natrin","chapters":[{"title":"Chapter 33: A Conversation With the Dragon","info":"<a class='name' name='Natrin'>Natrin</a>, p. 577&#x2014;Namesake of a lonely, picturesque manor in Arad Doman. The manor has a colorful history. It once served as the home of Domani kings, then as a summer retreat for kings and those they favored. At one point it passed to a distant cousin of a former king, whose family had lost the throne. It is now used by <a href='#Graendal'>Graendal</a> to house her &#x201C;pets.&#x201D; "}]}
+{
+    "id": "Natrin",
+    "name": "Natrin",
+    "chapters": [
+        {
+            "title": "Chapter 33: A Conversation With the Dragon",
+            "info": "<a class='name' name='Natrin'>Natrin</a>, p. 577&#x2014;Namesake of a lonely, picturesque manor in Arad Doman. The manor has a colorful history. It once served as the home of Domani kings, then as a summer retreat for kings and those they favored. At one point it passed to a distant cousin of a former king, whose family had lost the throne. It is now used by <a href='#Graendal'>Graendal</a> to house her &#x201C;pets.&#x201D; "
+        }
+    ]
+}

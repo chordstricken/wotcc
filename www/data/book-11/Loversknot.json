@@ -1,1 +1,10 @@
-{"id":"Loversknot","name":"Loversknot","chapters":[{"title":"Chapter 20: The Golden Crane","info":"<a class='name' name='Loversknot'>Loversknot</a>, p. 431&#x2014;<a href='#Nynaeve'>Nynaeve</a>&apos;s horse. "}]}
+{
+    "id": "Loversknot",
+    "name": "Loversknot",
+    "chapters": [
+        {
+            "title": "Chapter 20: The Golden Crane",
+            "info": "<a class='name' name='Loversknot'>Loversknot</a>, p. 431&#x2014;<a href='#Nynaeve'>Nynaeve</a>&apos;s horse. "
+        }
+    ]
+}

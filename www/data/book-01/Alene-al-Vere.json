@@ -1,1 +1,10 @@
-{"id":"Alene-al-Vere","name":"Alene al'Vere","chapters":[{"title":"Ravens","info":"<a class='name' name='Alene'>Alene al&apos;Vere</a>, p. [7]&#x2014;Second oldest of five daughters of <a href='#Marin'>Marin</a> and <a href='#Bran'>Bran al&apos;Vere</a> of Emond&apos;s Field. She loves to read, and ignores <a href='#Egwene'>Egwene</a> unless Egwene is presently reading a book that she herself wants to read&#x2014;in this case, she usually takes it and proclaims it to be much too &#x201C;complex&#x201D; for Egwene to understand. <i>See also</i> <a href='#Berowyn'>al&apos;Vere, Berowyn</a>; <a href='#Bran'>al&apos;Vere, Brandelwyn</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Loise'>al&apos;Vere, Loise</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "}]}
+{
+    "id": "Alene-al-Vere",
+    "name": "Alene al'Vere",
+    "chapters": [
+        {
+            "title": "Ravens",
+            "info": "<a class='name' name='Alene'>Alene al&apos;Vere</a>, p. [7]&#x2014;Second oldest of five daughters of <a href='#Marin'>Marin</a> and <a href='#Bran'>Bran al&apos;Vere</a> of Emond&apos;s Field. She loves to read, and ignores <a href='#Egwene'>Egwene</a> unless Egwene is presently reading a book that she herself wants to read&#x2014;in this case, she usually takes it and proclaims it to be much too &#x201C;complex&#x201D; for Egwene to understand. <i>See also</i> <a href='#Berowyn'>al&apos;Vere, Berowyn</a>; <a href='#Bran'>al&apos;Vere, Brandelwyn</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Loise'>al&apos;Vere, Loise</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "
+        }
+    ]
+}

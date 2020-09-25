@@ -1,1 +1,10 @@
-{"id":"Aghan","name":"Aghan","chapters":[{"title":"Chapter 27: A Plain Wooden Box","info":"<a class='name' name='Aghan'>Aghan</a>, p. 589&#x2014;One of <a href='#Bashere'>Bashere</a>&apos;s soldiers. "}]}
+{
+    "id": "Aghan",
+    "name": "Aghan",
+    "chapters": [
+        {
+            "title": "Chapter 27: A Plain Wooden Box",
+            "info": "<a class='name' name='Aghan'>Aghan</a>, p. 589&#x2014;One of <a href='#Bashere'>Bashere</a>&apos;s soldiers. "
+        }
+    ]
+}

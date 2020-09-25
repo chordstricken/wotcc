@@ -1,1 +1,10 @@
-{"id":"Roshan","name":"Roshan","chapters":[{"title":"Prologue: Glimmers of the Pattern","info":"<a class='name' name='Roshan'>Roshan</a>, p. 86 (89)&#x2014;<a href='#Samitsu'>Samitsu</a>&apos;s Warder. <i>See also</i> <a href='#Samitsu'>Tamagowa, Samitsu</a>. "}]}
+{
+    "id": "Roshan",
+    "name": "Roshan",
+    "chapters": [
+        {
+            "title": "Prologue: Glimmers of the Pattern",
+            "info": "<a class='name' name='Roshan'>Roshan</a>, p. 86 (89)&#x2014;<a href='#Samitsu'>Samitsu</a>&apos;s Warder. <i>See also</i> <a href='#Samitsu'>Tamagowa, Samitsu</a>. "
+        }
+    ]
+}

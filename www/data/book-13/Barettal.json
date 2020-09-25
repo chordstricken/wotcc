@@ -1,1 +1,10 @@
-{"id":"Barettal","name":"Barettal","chapters":[{"title":"Chapter 21: An Open Gate","info":"<a class='name' name='Barettal'>Barettal</a>, p. 330&#x2014;Last of <a href='#Rodel'>Ituralde</a>&apos;s guard. He lost his mount, but survived the attack on Maradon. "}]}
+{
+    "id": "Barettal",
+    "name": "Barettal",
+    "chapters": [
+        {
+            "title": "Chapter 21: An Open Gate",
+            "info": "<a class='name' name='Barettal'>Barettal</a>, p. 330&#x2014;Last of <a href='#Rodel'>Ituralde</a>&apos;s guard. He lost his mount, but survived the attack on Maradon. "
+        }
+    ]
+}

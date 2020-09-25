@@ -1,1 +1,10 @@
-{"id":"Gilda","name":"Gilda","chapters":[{"title":"Chapter 41: Old Friends and New Threats","info":"<a class='name' name='Gilda'>Gilda</a>, p. 522&#x2014;Serving maid in the Queen&apos;s Blessing in Caemlyn. She reports that there are Whitecloaks in the Common Room to <a href='#Gill'>Master Gill</a>. "}]}
+{
+    "id": "Gilda",
+    "name": "Gilda",
+    "chapters": [
+        {
+            "title": "Chapter 41: Old Friends and New Threats",
+            "info": "<a class='name' name='Gilda'>Gilda</a>, p. 522&#x2014;Serving maid in the Queen&apos;s Blessing in Caemlyn. She reports that there are Whitecloaks in the Common Room to <a href='#Gill'>Master Gill</a>. "
+        }
+    ]
+}

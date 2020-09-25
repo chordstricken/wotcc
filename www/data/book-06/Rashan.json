@@ -1,1 +1,14 @@
-{"id":"Rashan","name":"Rashan","chapters":[{"title":"Chapter 6: Threads Woven of Shadow","info":"<a class='name' name='Rashan2'>Rashan</a>, p. 137 (182)&#x2014;One of <a href='#Graendal'>Graendal</a>&apos;s &#x201C;pets.&#x201D; He was sliced in two by the gateway <a href='#Sammael'>Sammael</a> used to return to Illian. <i>Editor&apos;s Note: This Rashan is not to be confused with <a href='#Rashan'>Rashan</a>, one of <a href='#Erian'>Erian</a>&apos;s Warders.</i> <i>See also</i> <a href='#Rashan'>Rashan</a>. "},{"title":"Chapter 53: The Feast of Lights","info":"<a class='name' name='Rashan'>Rashan</a>, p. 664 (937)&#x2014;One of <a href='#Erian'>Erian</a>&apos;s two surviving Warders (she had four until two were killed by <a href='#Rand'>Rand</a>). "}]}
+{
+    "id": "Rashan",
+    "name": "Rashan",
+    "chapters": [
+        {
+            "title": "Chapter 6: Threads Woven of Shadow",
+            "info": "<a class='name' name='Rashan2'>Rashan</a>, p. 137 (182)&#x2014;One of <a href='#Graendal'>Graendal</a>&apos;s &#x201C;pets.&#x201D; He was sliced in two by the gateway <a href='#Sammael'>Sammael</a> used to return to Illian. <i>Editor&apos;s Note: This Rashan is not to be confused with <a href='#Rashan'>Rashan</a>, one of <a href='#Erian'>Erian</a>&apos;s Warders.</i> <i>See also</i> <a href='#Rashan'>Rashan</a>. "
+        },
+        {
+            "title": "Chapter 53: The Feast of Lights",
+            "info": "<a class='name' name='Rashan'>Rashan</a>, p. 664 (937)&#x2014;One of <a href='#Erian'>Erian</a>&apos;s two surviving Warders (she had four until two were killed by <a href='#Rand'>Rand</a>). "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Lisaine-Jarath","name":"Lisaine Jarath","chapters":[{"title":"Chapter 24: A Time for Iron","info":"<a class='name' name='Jarath'>Lisaine Jarath</a>, p. 471 (534)&#x2014;Gray-haired woman from Seandar. She has a pale, plump face and blue eyes. She accompanies <a href='#Miraj'>Miraj</a>. "}]}
+{
+    "id": "Lisaine-Jarath",
+    "name": "Lisaine Jarath",
+    "chapters": [
+        {
+            "title": "Chapter 24: A Time for Iron",
+            "info": "<a class='name' name='Jarath'>Lisaine Jarath</a>, p. 471 (534)&#x2014;Gray-haired woman from Seandar. She has a pale, plump face and blue eyes. She accompanies <a href='#Miraj'>Miraj</a>. "
+        }
+    ]
+}

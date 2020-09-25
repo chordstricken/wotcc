@@ -1,1 +1,10 @@
-{"id":"Old-Grim","name":"Old Grim","chapters":[{"title":"Chapter 42: Easing the Badger","info":"<a class='name' name='Grim'>Old Grim</a>, p. 496 (398)&#x2014;Name that <a href='#Zarine'>Zarine</a> uses for the <a href='#Dark'>Dark One</a>. <i>See</i> <a href='#Dark'>Shai&apos;tan</a>. "}]}
+{
+    "id": "Old-Grim",
+    "name": "Old Grim",
+    "chapters": [
+        {
+            "title": "Chapter 42: Easing the Badger",
+            "info": "<a class='name' name='Grim'>Old Grim</a>, p. 496 (398)&#x2014;Name that <a href='#Zarine'>Zarine</a> uses for the <a href='#Dark'>Dark One</a>. <i>See</i> <a href='#Dark'>Shai&apos;tan</a>. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Rubinde","name":"Rubinde","chapters":[{"title":"Chapter 20: A Choice","info":"<a class='name' name='Rubinde'>Rubinde</a>, p. 309&#x2014;Sitter for the Green Ajah in Tar Valon. She is sturdy, and has eyes the color of sapphires. She represented the Green Ajah at <a href='#Nynaeve'>Nynaeve</a>&apos;s test for the shawl. "}]}
+{
+    "id": "Rubinde",
+    "name": "Rubinde",
+    "chapters": [
+        {
+            "title": "Chapter 20: A Choice",
+            "info": "<a class='name' name='Rubinde'>Rubinde</a>, p. 309&#x2014;Sitter for the Green Ajah in Tar Valon. She is sturdy, and has eyes the color of sapphires. She represented the Green Ajah at <a href='#Nynaeve'>Nynaeve</a>&apos;s test for the shawl. "
+        }
+    ]
+}

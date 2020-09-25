@@ -1,1 +1,10 @@
-{"id":"Queen-Ishara-Maravaile","name":"Queen Ishara Maravaile","chapters":[{"title":"Chapter 1: Lion on the Hill","info":"<a class='name' name='Ishara'>Queen Ishara Maravaile</a>, p. 66 (78)&#x2014;The first Queen of Andor, and wife of <a href='#Souran'>Souran</a>. She governed the Province of Andor until <a href='#Hawkwing'>Hawkwing</a>&apos;s empire finally fell apart and Andor became an independent nation. All of the Andoran nobles are related to her somehow, although most people would not even consider the ones who hold the closest relation to her to be related at all. None of her sons lived past age twenty, hence the tradition of only having a queen in Andor. Her parents were <a href='#Endara'>Endara Casalain</a>, the governor of the province of Andor under Artur Hawkwing, and <a href='#Joal'>Joal Ramedar</a>, the last king of Aldeshar. <i>See also</i> <a href='#Endara'>Casalain, Endara</a>; <a href='#Souran'>Maravaile, Souran</a>; <a href='#Joal'>Ramedar, Joal</a>. "}]}
+{
+    "id": "Queen-Ishara-Maravaile",
+    "name": "Queen Ishara Maravaile",
+    "chapters": [
+        {
+            "title": "Chapter 1: Lion on the Hill",
+            "info": "<a class='name' name='Ishara'>Queen Ishara Maravaile</a>, p. 66 (78)&#x2014;The first Queen of Andor, and wife of <a href='#Souran'>Souran</a>. She governed the Province of Andor until <a href='#Hawkwing'>Hawkwing</a>&apos;s empire finally fell apart and Andor became an independent nation. All of the Andoran nobles are related to her somehow, although most people would not even consider the ones who hold the closest relation to her to be related at all. None of her sons lived past age twenty, hence the tradition of only having a queen in Andor. Her parents were <a href='#Endara'>Endara Casalain</a>, the governor of the province of Andor under Artur Hawkwing, and <a href='#Joal'>Joal Ramedar</a>, the last king of Aldeshar. <i>See also</i> <a href='#Endara'>Casalain, Endara</a>; <a href='#Souran'>Maravaile, Souran</a>; <a href='#Joal'>Ramedar, Joal</a>. "
+        }
+    ]
+}

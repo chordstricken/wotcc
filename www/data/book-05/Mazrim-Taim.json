@@ -1,1 +1,10 @@
-{"id":"Mazrim-Taim","name":"Mazrim Taim","chapters":[{"title":"Prologue: The First Sparks Fall","info":"<a class='name' name='Taim'>Mazrim Taim</a>, p. 14&#x2014;False Dragon who wreaked havoc in Saldaea before being captured by Aes Sedai. He later escaped his captors, possibly with Black Ajah assistance. It is believed that <a href='#Bashere'>Davram Bashere</a> may have dispatched his army to look for Taim. Taim is very strong in the One Power, almost as strong as <a href='#Rand'>Rand</a>. <i>See also</i> <a href='#Reborn'>Dragon Reborn</a>. "}]}
+{
+    "id": "Mazrim-Taim",
+    "name": "Mazrim Taim",
+    "chapters": [
+        {
+            "title": "Prologue: The First Sparks Fall",
+            "info": "<a class='name' name='Taim'>Mazrim Taim</a>, p. 14&#x2014;False Dragon who wreaked havoc in Saldaea before being captured by Aes Sedai. He later escaped his captors, possibly with Black Ajah assistance. It is believed that <a href='#Bashere'>Davram Bashere</a> may have dispatched his army to look for Taim. Taim is very strong in the One Power, almost as strong as <a href='#Rand'>Rand</a>. <i>See also</i> <a href='#Reborn'>Dragon Reborn</a>. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Eurian-Romavni","name":"Eurian Romavni","chapters":[{"title":"Chapter 11: What Lies Hidden","info":"<a class='name' name='Eurian'>Eurian Romavni</a>, p. 201 (173)&#x2014;Kandoran author of the book <i>A Journey to Tarabon</i>, which he wrote 53 years before <a href='#Egwene'>Egwene</a> read it. "}]}
+{
+    "id": "Eurian-Romavni",
+    "name": "Eurian Romavni",
+    "chapters": [
+        {
+            "title": "Chapter 11: What Lies Hidden",
+            "info": "<a class='name' name='Eurian'>Eurian Romavni</a>, p. 201 (173)&#x2014;Kandoran author of the book <i>A Journey to Tarabon</i>, which he wrote 53 years before <a href='#Egwene'>Egwene</a> read it. "
+        }
+    ]
+}

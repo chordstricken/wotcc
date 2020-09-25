@@ -1,1 +1,10 @@
-{"id":"Stormbringer","name":"Stormbringer","chapters":[{"title":"Chapter 13: The Bowl of the Winds","info":"<a class='name' '=''>Stormbringer</a>, p. 263 (330)&#x2014;Person <a href='#Birgitte'>Birgitte</a> swears by that she is not Aes Sedai to the Sea Folk. It may be one of their terms for the <a href='#Dark'>Dark One</a>. <i>See</i> <a href='#Dark'>Dark One</a>. "}]}
+{
+    "id": "Stormbringer",
+    "name": "Stormbringer",
+    "chapters": [
+        {
+            "title": "Chapter 13: The Bowl of the Winds",
+            "info": "<a class='name' '=''>Stormbringer</a>, p. 263 (330)&#x2014;Person <a href='#Birgitte'>Birgitte</a> swears by that she is not Aes Sedai to the Sea Folk. It may be one of their terms for the <a href='#Dark'>Dark One</a>. <i>See</i> <a href='#Dark'>Dark One</a>. "
+        }
+    ]
+}

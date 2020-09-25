@@ -1,1 +1,10 @@
-{"id":"Corana","name":"Corana","chapters":[{"title":"Chapter 15: A Place to Begin","info":"<a class='name' name='Corana'>Corana</a>, p. 246&#x2014;Maiden of the Spear. She has short hair. "}]}
+{
+    "id": "Corana",
+    "name": "Corana",
+    "chapters": [
+        {
+            "title": "Chapter 15: A Place to Begin",
+            "info": "<a class='name' name='Corana'>Corana</a>, p. 246&#x2014;Maiden of the Spear. She has short hair. "
+        }
+    ]
+}

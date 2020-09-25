@@ -1,1 +1,10 @@
-{"id":"Sightblinder","name":"Sightblinder","chapters":[{"title":"Prologue: By Grace and Banners Fallen","info":"<a class='name' '=''>Sightblinder</a>, p. 43&#x2014;One name the Aiel use for the <a href='#Dark'>Dark One</a>. <i>See</i> <a href='#Dark'>Shai&apos;tan</a>. "}]}
+{
+    "id": "Sightblinder",
+    "name": "Sightblinder",
+    "chapters": [
+        {
+            "title": "Prologue: By Grace and Banners Fallen",
+            "info": "<a class='name' '=''>Sightblinder</a>, p. 43&#x2014;One name the Aiel use for the <a href='#Dark'>Dark One</a>. <i>See</i> <a href='#Dark'>Shai&apos;tan</a>. "
+        }
+    ]
+}

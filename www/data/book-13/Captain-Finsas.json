@@ -1,1 +1,10 @@
-{"id":"Captain-Finsas","name":"Captain Finsas","chapters":[{"title":"Chapter 18: The Strength of This Place","info":"<a class='name' name='Finsas'>Captain Finsas</a>, p. 269&#x2014;Officer under <a href='#Rodel'>Rodel Ituralde</a>&apos;s command. He was wounded in the Trolloc attacks. Ituralde was upset that his warning that the Trollocs had trebuchets came <i>after</i> the trebuchet attacks. "}]}
+{
+    "id": "Captain-Finsas",
+    "name": "Captain Finsas",
+    "chapters": [
+        {
+            "title": "Chapter 18: The Strength of This Place",
+            "info": "<a class='name' name='Finsas'>Captain Finsas</a>, p. 269&#x2014;Officer under <a href='#Rodel'>Rodel Ituralde</a>&apos;s command. He was wounded in the Trolloc attacks. Ituralde was upset that his warning that the Trollocs had trebuchets came <i>after</i> the trebuchet attacks. "
+        }
+    ]
+}

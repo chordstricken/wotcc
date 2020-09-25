@@ -1,1 +1,10 @@
-{"id":"Dennel","name":"Dennel","chapters":[{"title":"Prologue: By Grace and Banners Fallen","info":"<a class='name' name='Dennel'>Dennel</a>, p. 40&#x2014;Captain in the Band of the Red Hand. He runs the dragons. "}]}
+{
+    "id": "Dennel",
+    "name": "Dennel",
+    "chapters": [
+        {
+            "title": "Prologue: By Grace and Banners Fallen",
+            "info": "<a class='name' name='Dennel'>Dennel</a>, p. 40&#x2014;Captain in the Band of the Red Hand. He runs the dragons. "
+        }
+    ]
+}

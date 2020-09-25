@@ -1,1 +1,10 @@
-{"id":"Delarn","name":"Delarn","chapters":[{"title":"Chapter 27: The Tipsy Gelding","info":"<a class='name' name='Delarn'>Delarn</a>, p. 414&#x2014;One of the Redarms. "}]}
+{
+    "id": "Delarn",
+    "name": "Delarn",
+    "chapters": [
+        {
+            "title": "Chapter 27: The Tipsy Gelding",
+            "info": "<a class='name' name='Delarn'>Delarn</a>, p. 414&#x2014;One of the Redarms. "
+        }
+    ]
+}

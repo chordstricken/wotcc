@@ -1,1 +1,10 @@
-{"id":"Kairen-Stang","name":"Kairen Stang","chapters":[{"title":"Chapter 2: The Dark One's Touch","info":"<a class='name' name='Kairen'>Kairen Stang</a>, p. 123&#x2014;Aes Sedai of the Blue Ajah. She grew up in Andor. She was part of Salidar&apos;s embassy to <a href='#Rand'>Rand</a>, and later traveled with the Tower in exile outside Tar Valon. She was strong in Earth, and was one of the sisters <a href='#Egwene'>Egwene</a> had making <i>cuendillar</i> ornaments. Egwene had planned to use Kairen and <a href='#Leane'>Leane</a> for the special mission to turn the harbor chains to <i>cuendillar</i>, but she was killed shortly before the mission took place. Her assassin is unknown, but strong suspicion is cast upon <a href='#Arangar'>Aran&apos;gar</a>. "}]}
+{
+    "id": "Kairen-Stang",
+    "name": "Kairen Stang",
+    "chapters": [
+        {
+            "title": "Chapter 2: The Dark One's Touch",
+            "info": "<a class='name' name='Kairen'>Kairen Stang</a>, p. 123&#x2014;Aes Sedai of the Blue Ajah. She grew up in Andor. She was part of Salidar&apos;s embassy to <a href='#Rand'>Rand</a>, and later traveled with the Tower in exile outside Tar Valon. She was strong in Earth, and was one of the sisters <a href='#Egwene'>Egwene</a> had making <i>cuendillar</i> ornaments. Egwene had planned to use Kairen and <a href='#Leane'>Leane</a> for the special mission to turn the harbor chains to <i>cuendillar</i>, but she was killed shortly before the mission took place. Her assassin is unknown, but strong suspicion is cast upon <a href='#Arangar'>Aran&apos;gar</a>. "
+        }
+    ]
+}

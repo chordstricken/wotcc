@@ -1,1 +1,10 @@
-{"id":"Bela","name":"Bela","chapters":[{"title":"Chapter 1: Fanning the Sparks","info":"<a class='name' name='Bela'>Bela</a>, p. 60 (45)&#x2014;<a href='#Siuan'>Siuan</a>&apos;s brown horse. She originally belonged to Tam al&apos;Thor, who used her as his workhorse in the sheep pasture. <a href='#Egwene'>Egwene</a> rode her from Emond&apos;s Field to Tar Valon as well. She is quite gentle, but Siuan treats her as a vicious beast that cannot be trusted. "}]}
+{
+    "id": "Bela",
+    "name": "Bela",
+    "chapters": [
+        {
+            "title": "Chapter 1: Fanning the Sparks",
+            "info": "<a class='name' name='Bela'>Bela</a>, p. 60 (45)&#x2014;<a href='#Siuan'>Siuan</a>&apos;s brown horse. She originally belonged to Tam al&apos;Thor, who used her as his workhorse in the sheep pasture. <a href='#Egwene'>Egwene</a> rode her from Emond&apos;s Field to Tar Valon as well. She is quite gentle, but Siuan treats her as a vicious beast that cannot be trusted. "
+        }
+    ]
+}

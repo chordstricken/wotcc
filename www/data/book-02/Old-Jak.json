@@ -1,1 +1,10 @@
-{"id":"Old-Jak","name":"Old Jak","chapters":[{"title":"Chapter 17: ChoicesChapter 18: To the White TowerChapter 19: Beneath the DaggerChapter 20: SaidinChapter 21: The Nine Rings","info":"<a class='name' '=''>Old Jak</a>, p. 311 (274)&#x2014;Man in a song <a href='#Rand'>Rand</a> knows on the flute, &#x201C;Old Jak&apos;s Up a Tree.&#x201D; "}]}
+{
+    "id": "Old-Jak",
+    "name": "Old Jak",
+    "chapters": [
+        {
+            "title": "Chapter 17: ChoicesChapter 18: To the White TowerChapter 19: Beneath the DaggerChapter 20: SaidinChapter 21: The Nine Rings",
+            "info": "<a class='name' '=''>Old Jak</a>, p. 311 (274)&#x2014;Man in a song <a href='#Rand'>Rand</a> knows on the flute, &#x201C;Old Jak&apos;s Up a Tree.&#x201D; "
+        }
+    ]
+}

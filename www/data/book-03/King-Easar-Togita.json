@@ -1,1 +1,10 @@
-{"id":"King-Easar-Togita","name":"King Easar Togita","chapters":[{"title":"Chapter 11: Tar Valon","info":"<a class='name' name='Easar'>King Easar Togita</a>, p. 151 (116)&#x2014;King of Shienar. His palace is in Fal Moran. "}]}
+{
+    "id": "King-Easar-Togita",
+    "name": "King Easar Togita",
+    "chapters": [
+        {
+            "title": "Chapter 11: Tar Valon",
+            "info": "<a class='name' name='Easar'>King Easar Togita</a>, p. 151 (116)&#x2014;King of Shienar. His palace is in Fal Moran. "
+        }
+    ]
+}

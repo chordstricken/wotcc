@@ -1,1 +1,10 @@
-{"id":"Zavion","name":"Zavion","chapters":[{"title":"Prologue: Glimmers of the Pattern","info":"<a class='name' name='Zavion'>Zavion</a>, p. 69 (68)&#x2014;Servant to <a href='#Deira'>Deira t&apos;Bashere</a> of Saldaea. She is a sinewy, red-haired Lady of Gahaur. "}]}
+{
+    "id": "Zavion",
+    "name": "Zavion",
+    "chapters": [
+        {
+            "title": "Prologue: Glimmers of the Pattern",
+            "info": "<a class='name' name='Zavion'>Zavion</a>, p. 69 (68)&#x2014;Servant to <a href='#Deira'>Deira t&apos;Bashere</a> of Saldaea. She is a sinewy, red-haired Lady of Gahaur. "
+        }
+    ]
+}

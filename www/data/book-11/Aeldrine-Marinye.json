@@ -1,1 +1,10 @@
-{"id":"Aeldrine-Marinye","name":"Aeldrine Marinye","chapters":[{"title":"Chapter 2: The Dark One's Touch","info":"<a class='name' name='Aeldrine'>Aeldrine Marinye</a>, p. 122&#x2014;Daughter of <a href='#Collaris'>Collaris</a>, mother of <a href='#Beonin'>Beonin</a>. She became a dye merchant, and was very well-off. "}]}
+{
+    "id": "Aeldrine-Marinye",
+    "name": "Aeldrine Marinye",
+    "chapters": [
+        {
+            "title": "Chapter 2: The Dark One's Touch",
+            "info": "<a class='name' name='Aeldrine'>Aeldrine Marinye</a>, p. 122&#x2014;Daughter of <a href='#Collaris'>Collaris</a>, mother of <a href='#Beonin'>Beonin</a>. She became a dye merchant, and was very well-off. "
+        }
+    ]
+}

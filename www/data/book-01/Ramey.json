@@ -1,1 +1,10 @@
-{"id":"Ramey","name":"Ramey","chapters":[{"title":"Chapter 44: The Dark Along the Ways","info":"<a class='name' name='Ramey'>Ramey</a>, p. 555&#x2014;Stablehand at The Queen&apos;s Blessing in Caemlyn. "}]}
+{
+    "id": "Ramey",
+    "name": "Ramey",
+    "chapters": [
+        {
+            "title": "Chapter 44: The Dark Along the Ways",
+            "info": "<a class='name' name='Ramey'>Ramey</a>, p. 555&#x2014;Stablehand at The Queen&apos;s Blessing in Caemlyn. "
+        }
+    ]
+}

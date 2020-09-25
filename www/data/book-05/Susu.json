@@ -1,1 +1,10 @@
-{"id":"Susu","name":"Susu","chapters":[{"title":"Chapter 11: The Nine Horse Hitch","info":"<a class='name' name='Susu'>Susu</a>, p. 239 (171)&#x2014;Singer in <a href='#Tharne'>Duranda Tharne</a>&apos;s bar. "}]}
+{
+    "id": "Susu",
+    "name": "Susu",
+    "chapters": [
+        {
+            "title": "Chapter 11: The Nine Horse Hitch",
+            "info": "<a class='name' name='Susu'>Susu</a>, p. 239 (171)&#x2014;Singer in <a href='#Tharne'>Duranda Tharne</a>&apos;s bar. "
+        }
+    ]
+}

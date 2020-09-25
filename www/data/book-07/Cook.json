@@ -1,1 +1,10 @@
-{"id":"Cook","name":"Cook","chapters":[{"title":"Chapter 21: Swovan Night","info":"<a class='name' '=''>Cook</a>, p. 361 (458)&#x2014;The chef in The Wandering Woman. "}]}
+{
+    "id": "Cook",
+    "name": "Cook",
+    "chapters": [
+        {
+            "title": "Chapter 21: Swovan Night",
+            "info": "<a class='name' '=''>Cook</a>, p. 361 (458)&#x2014;The chef in The Wandering Woman. "
+        }
+    ]
+}

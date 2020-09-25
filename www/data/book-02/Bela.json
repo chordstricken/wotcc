@@ -1,1 +1,10 @@
-{"id":"Bela","name":"Bela","chapters":[{"title":"Chapter 9: Leavetakings","info":"<a class='name' name='Bela'>Bela</a>, p. 145 (128)&#x2014;The horse that <a href='#Egwene'>Egwene</a> rides. She was originally <a href='#Rand'>Rand</a>&apos;s farm horse back in Emond&apos;s Field. "}]}
+{
+    "id": "Bela",
+    "name": "Bela",
+    "chapters": [
+        {
+            "title": "Chapter 9: Leavetakings",
+            "info": "<a class='name' name='Bela'>Bela</a>, p. 145 (128)&#x2014;The horse that <a href='#Egwene'>Egwene</a> rides. She was originally <a href='#Rand'>Rand</a>&apos;s farm horse back in Emond&apos;s Field. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Murellin","name":"Murellin","chapters":[{"title":"Chapter 15: Gathering Darkness","info":"<a class='name' name='Murellin'>Murellin</a>, p. 382 (458)&#x2014;Strongarm for <a href='#Shiaine'>Lady Shiaine</a>. He is the size of an ox, and has the wits of one to match. He is fond of his pipe. "}]}
+{
+    "id": "Murellin",
+    "name": "Murellin",
+    "chapters": [
+        {
+            "title": "Chapter 15: Gathering Darkness",
+            "info": "<a class='name' name='Murellin'>Murellin</a>, p. 382 (458)&#x2014;Strongarm for <a href='#Shiaine'>Lady Shiaine</a>. He is the size of an ox, and has the wits of one to match. He is fond of his pipe. "
+        }
+    ]
+}

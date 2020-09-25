@@ -1,1 +1,10 @@
-{"id":"Captain-Denhold","name":"Captain Denhold","chapters":[{"title":"Chapter 27: Friendly Fire","info":"<a class='name' name='Denhold'>Captain Denhold</a>, p. 485&#x2014;Illianer soldier. He commands some of <a href='#Bryne'>Bryne</a>&apos;s cavalry. "}]}
+{
+    "id": "Captain-Denhold",
+    "name": "Captain Denhold",
+    "chapters": [
+        {
+            "title": "Chapter 27: Friendly Fire",
+            "info": "<a class='name' name='Denhold'>Captain Denhold</a>, p. 485&#x2014;Illianer soldier. He commands some of <a href='#Bryne'>Bryne</a>&apos;s cavalry. "
+        }
+    ]
+}

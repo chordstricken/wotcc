@@ -1,1 +1,10 @@
-{"id":"Jurad-Shiman","name":"Jurad Shiman","chapters":[{"title":"Chapter 22: Keeping Custom","info":"<a class='name' name='Jurad'>Jurad Shiman</a>, p. 278&#x2014;Seasoned Kandori campaigner who rode with <a href='#Lan'>Lan</a> for a time. He has gray hair. "}]}
+{
+    "id": "Jurad-Shiman",
+    "name": "Jurad Shiman",
+    "chapters": [
+        {
+            "title": "Chapter 22: Keeping Custom",
+            "info": "<a class='name' name='Jurad'>Jurad Shiman</a>, p. 278&#x2014;Seasoned Kandori campaigner who rode with <a href='#Lan'>Lan</a> for a time. He has gray hair. "
+        }
+    ]
+}

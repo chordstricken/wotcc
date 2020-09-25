@@ -1,1 +1,10 @@
-{"id":"Ibrella","name":"Ibrella","chapters":[{"title":"Chapter 13: Under the Dust","info":"<a class='name' name='Ibrella'>Ibrella</a>, p. 235 (324)&#x2014;Novice in Salidar. During <a href='#Elayne'>Elayne</a>&apos;s class, she decided to see how big a flame she could make and almost set the entire class on fire. "}]}
+{
+    "id": "Ibrella",
+    "name": "Ibrella",
+    "chapters": [
+        {
+            "title": "Chapter 13: Under the Dust",
+            "info": "<a class='name' name='Ibrella'>Ibrella</a>, p. 235 (324)&#x2014;Novice in Salidar. During <a href='#Elayne'>Elayne</a>&apos;s class, she decided to see how big a flame she could make and almost set the entire class on fire. "
+        }
+    ]
+}

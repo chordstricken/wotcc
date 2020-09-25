@@ -1,1 +1,10 @@
-{"id":"Rysael","name":"Rysael","chapters":[{"title":"Chapter 5: The Breaking Storm","info":"<a class='name' name='Rysael'>Rysael</a>, p. 119 (124)&#x2014;Sea Folk Windfinder. "}]}
+{
+    "id": "Rysael",
+    "name": "Rysael",
+    "chapters": [
+        {
+            "title": "Chapter 5: The Breaking Storm",
+            "info": "<a class='name' name='Rysael'>Rysael</a>, p. 119 (124)&#x2014;Sea Folk Windfinder. "
+        }
+    ]
+}

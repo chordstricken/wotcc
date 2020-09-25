@@ -1,1 +1,10 @@
-{"id":"Kinslayer","name":"Kinslayer","chapters":[{"title":"Prelude","info":"<a class='name' name='Kinslayer'>Kinslayer</a>, p. xi&#x2014;New name given to <a href='#Lews'>Lews Therin Telamon</a> after he massacred his entire family and everyone he ever loved in his madness. <i>See also</i> <a href='#Lews'>Telamon, Lews Therin</a>. "}]}
+{
+    "id": "Kinslayer",
+    "name": "Kinslayer",
+    "chapters": [
+        {
+            "title": "Prelude",
+            "info": "<a class='name' name='Kinslayer'>Kinslayer</a>, p. xi&#x2014;New name given to <a href='#Lews'>Lews Therin Telamon</a> after he massacred his entire family and everyone he ever loved in his madness. <i>See also</i> <a href='#Lews'>Telamon, Lews Therin</a>. "
+        }
+    ]
+}

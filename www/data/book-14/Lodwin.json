@@ -1,1 +1,10 @@
-{"id":"Lodwin","name":"Lodwin","chapters":[{"title":"Prologue: By Grace and Banners Fallen","info":"<a class='name' name='Lodwin'>Lodwin</a>, p. 42&#x2014;Scout for the Band of the Red Hand. "}]}
+{
+    "id": "Lodwin",
+    "name": "Lodwin",
+    "chapters": [
+        {
+            "title": "Prologue: By Grace and Banners Fallen",
+            "info": "<a class='name' name='Lodwin'>Lodwin</a>, p. 42&#x2014;Scout for the Band of the Red Hand. "
+        }
+    ]
+}

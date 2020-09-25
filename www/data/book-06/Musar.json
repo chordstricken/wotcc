@@ -1,1 +1,10 @@
-{"id":"Musar","name":"Musar","chapters":[{"title":"Chapter 2: A New Arrival","info":"<a class='name' name='Musar'>Musar</a>, p. 76 (93)&#x2014;Man who tried to kill <a href='#Taim'>Mazrim Taim</a> while he still called himself the <a href='#Reborn'>Dragon Reborn</a>. Taim let him live, and sent him back to <a href='#Bashere'>Bashere</a>. "}]}
+{
+    "id": "Musar",
+    "name": "Musar",
+    "chapters": [
+        {
+            "title": "Chapter 2: A New Arrival",
+            "info": "<a class='name' name='Musar'>Musar</a>, p. 76 (93)&#x2014;Man who tried to kill <a href='#Taim'>Mazrim Taim</a> while he still called himself the <a href='#Reborn'>Dragon Reborn</a>. Taim let him live, and sent him back to <a href='#Bashere'>Bashere</a>. "
+        }
+    ]
+}

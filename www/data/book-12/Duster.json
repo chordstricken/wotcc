@@ -1,1 +1,10 @@
-{"id":"Duster","name":"Duster","chapters":[{"title":"Prelude","info":"<a class='name' name='Duster'>Duster</a>, p. 33&#x2014;Tylee&apos;s horse. He is a well-trained war horse, and had never let her down. He is presumed dead at the hands of Trollocs. "}]}
+{
+    "id": "Duster",
+    "name": "Duster",
+    "chapters": [
+        {
+            "title": "Prelude",
+            "info": "<a class='name' name='Duster'>Duster</a>, p. 33&#x2014;Tylee&apos;s horse. He is a well-trained war horse, and had never let her down. He is presumed dead at the hands of Trollocs. "
+        }
+    ]
+}

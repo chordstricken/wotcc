@@ -1,1 +1,10 @@
-{"id":"White-Tail","name":"White Tail","chapters":[{"title":"Chapter 5: The Forging of a Hammer","info":"<a class='name' name='Tail'>White Tail</a>, p. 169 (193)&#x2014;One of the wolves. He is a member of <a href='#Leafhunter'>Leafhunter</a>&apos;s pack. "}]}
+{
+    "id": "White-Tail",
+    "name": "White Tail",
+    "chapters": [
+        {
+            "title": "Chapter 5: The Forging of a Hammer",
+            "info": "<a class='name' name='Tail'>White Tail</a>, p. 169 (193)&#x2014;One of the wolves. He is a member of <a href='#Leafhunter'>Leafhunter</a>&apos;s pack. "
+        }
+    ]
+}

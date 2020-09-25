@@ -1,1 +1,10 @@
-{"id":"Anaiya","name":"Anaiya","chapters":[{"title":"Chapter 9: It Begins","info":"<a class='name' name='Anaiya'>Anaiya</a>, p. 136&#x2014;Aes Sedai of the Blue Ajah. Her plain features make her look more like a farmer than a sister. She was present at <a href='#Moiraine'>Moiraine</a>&apos;s test for the shawl. She has a comforting air; almost any conversation with her turns out comforting. "}]}
+{
+    "id": "Anaiya",
+    "name": "Anaiya",
+    "chapters": [
+        {
+            "title": "Chapter 9: It Begins",
+            "info": "<a class='name' name='Anaiya'>Anaiya</a>, p. 136&#x2014;Aes Sedai of the Blue Ajah. Her plain features make her look more like a farmer than a sister. She was present at <a href='#Moiraine'>Moiraine</a>&apos;s test for the shawl. She has a comforting air; almost any conversation with her turns out comforting. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Soulblinder","name":"Soulblinder","chapters":[{"title":"Chapter 12: A Manufactory","info":"<a class='name' '=''>Soulblinder</a>, p. 298&#x2014;Seanchan name for the <a href='#Dark'>Dark One</a>. <i>See</i> <a href='#Dark'>Dark One</a>. "}]}
+{
+    "id": "Soulblinder",
+    "name": "Soulblinder",
+    "chapters": [
+        {
+            "title": "Chapter 12: A Manufactory",
+            "info": "<a class='name' '=''>Soulblinder</a>, p. 298&#x2014;Seanchan name for the <a href='#Dark'>Dark One</a>. <i>See</i> <a href='#Dark'>Dark One</a>. "
+        }
+    ]
+}

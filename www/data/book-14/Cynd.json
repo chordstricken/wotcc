@@ -1,1 +1,10 @@
-{"id":"Cynd","name":"Cynd","chapters":[{"title":"Chapter 36: Unchangeable Things","info":"<a class='name' name='Cynd'>Cynd</a>, p. 608&#x2014;Slender Tairen soldier. He fights with <a href='#Mat'>Mat</a> at the Battle of Merrilor. "}]}
+{
+    "id": "Cynd",
+    "name": "Cynd",
+    "chapters": [
+        {
+            "title": "Chapter 36: Unchangeable Things",
+            "info": "<a class='name' name='Cynd'>Cynd</a>, p. 608&#x2014;Slender Tairen soldier. He fights with <a href='#Mat'>Mat</a> at the Battle of Merrilor. "
+        }
+    ]
+}

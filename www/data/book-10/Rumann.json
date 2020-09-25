@@ -1,1 +1,10 @@
-{"id":"Rumann","name":"Rumann","chapters":[{"title":"Chapter 2: Two Captains","info":"<a class='name' name='Rumann'>Rumann</a>, p. 118 (129)&#x2014;Sword-juggler in <a href='#Luca'>Valan Luca</a>&apos;s menagerie. He seems to have &#x201C;settled in with a contortionist&#x201D; named <a href='#Adria'>Adria</a>. "}]}
+{
+    "id": "Rumann",
+    "name": "Rumann",
+    "chapters": [
+        {
+            "title": "Chapter 2: Two Captains",
+            "info": "<a class='name' name='Rumann'>Rumann</a>, p. 118 (129)&#x2014;Sword-juggler in <a href='#Luca'>Valan Luca</a>&apos;s menagerie. He seems to have &#x201C;settled in with a contortionist&#x201D; named <a href='#Adria'>Adria</a>. "
+        }
+    ]
+}

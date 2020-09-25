@@ -1,1 +1,10 @@
-{"id":"Captain-Musenge","name":"Captain Musenge","chapters":[{"title":"Chapter 15: Your Neck in a Cord","info":"<a class='name' name='Musenge'>Captain Musenge</a>, p. 305&#x2014;Grizzled captain of the Deathwatch Guards. His hair is solid black. He has been in the Deathwatch Guards longer than <a href='#Karede'>Karede</a>. He commands <a href='#Tuon'>Tuon</a>&apos;s personal bodyguard. "}]}
+{
+    "id": "Captain-Musenge",
+    "name": "Captain Musenge",
+    "chapters": [
+        {
+            "title": "Chapter 15: Your Neck in a Cord",
+            "info": "<a class='name' name='Musenge'>Captain Musenge</a>, p. 305&#x2014;Grizzled captain of the Deathwatch Guards. His hair is solid black. He has been in the Deathwatch Guards longer than <a href='#Karede'>Karede</a>. He commands <a href='#Tuon'>Tuon</a>&apos;s personal bodyguard. "
+        }
+    ]
+}

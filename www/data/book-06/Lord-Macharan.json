@@ -1,1 +1,10 @@
-{"id":"Lord-Macharan","name":"Lord Macharan","chapters":[{"title":"Chapter 28: Letters","info":"<a class='name' name='Macharan'>Lord Macharan</a>, p. 400 (560)&#x2014;Andoran noble, of a minor House. "}]}
+{
+    "id": "Lord-Macharan",
+    "name": "Lord Macharan",
+    "chapters": [
+        {
+            "title": "Chapter 28: Letters",
+            "info": "<a class='name' name='Macharan'>Lord Macharan</a>, p. 400 (560)&#x2014;Andoran noble, of a minor House. "
+        }
+    ]
+}

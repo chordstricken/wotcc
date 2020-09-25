@@ -1,1 +1,10 @@
-{"id":"Lieutenant-Tiras","name":"Lieutenant Tiras","chapters":[{"title":"Chapter 22: Gathering Clouds","info":"<a class='name' name='Tiras'>Lieutenant Tiras</a>, p. 432 (488)&#x2014;<a href='#Bakuun'>Bakuun</a>&apos;s bony First Lieutenant. He is a full head taller than his commanding officer. "}]}
+{
+    "id": "Lieutenant-Tiras",
+    "name": "Lieutenant Tiras",
+    "chapters": [
+        {
+            "title": "Chapter 22: Gathering Clouds",
+            "info": "<a class='name' name='Tiras'>Lieutenant Tiras</a>, p. 432 (488)&#x2014;<a href='#Bakuun'>Bakuun</a>&apos;s bony First Lieutenant. He is a full head taller than his commanding officer. "
+        }
+    ]
+}

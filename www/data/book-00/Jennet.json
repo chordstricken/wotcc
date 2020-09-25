@@ -1,1 +1,10 @@
-{"id":"Jennet","name":"Jennet","chapters":[{"title":"Chapter 6: Surprises","info":"<a class='name' name='Jennet'>Jennet</a>, p. 99&#x2014;Aes Sedai of the Gray Ajah. She told <a href='#Sheriam'>Sheriam</a> that the Aiel were retreating. "}]}
+{
+    "id": "Jennet",
+    "name": "Jennet",
+    "chapters": [
+        {
+            "title": "Chapter 6: Surprises",
+            "info": "<a class='name' name='Jennet'>Jennet</a>, p. 99&#x2014;Aes Sedai of the Gray Ajah. She told <a href='#Sheriam'>Sheriam</a> that the Aiel were retreating. "
+        }
+    ]
+}

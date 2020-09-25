@@ -30,7 +30,7 @@
     -->
     <meta http-equiv="Content-Security-Policy"
           content="
-          default-src 'self' 'unsafe-inline' wheeloftime.silvermast.io file: data: gap: https://ssl.gstatic.com 'unsafe-eval';
+          default-src 'self' 'unsafe-inline' https://wheeloftime.silvermast.io file: data: gap: https://ssl.gstatic.com 'unsafe-eval';
           style-src 'self' 'unsafe-inline' file:;
           media-src *;
           img-src 'self' file: data: content:">
@@ -45,16 +45,6 @@
     <link rel="stylesheet" type="text/css" href="res/css/index.css">
 
     <title>WoT CC</title>
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-87610356-4"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-87610356-4');
-    </script>
-
 </head>
 <body>
 
@@ -62,42 +52,42 @@
 
     <div class="form-group">
         <div class="input-group" v-if="books[book]">
-            <input type="text" class="form-control search-input" v-model="q" @keyup="searchEvent()" placeholder="Enter a Character's Name">
-            <span class="clear-search" @click="clearSearch()" v-show="q.length > 0">&times;</span>
+            <input type="text" class="form-control search-input" v-model="q" @keyup="searchEvent" placeholder="Enter a Character's Name">
+            <span class="clear-search" @click="clearSearch" v-show="q.length > 0">&times;</span>
 
-            <button type="button" class="show-all-button" v-if="!show_index" @click="show_index = true">Show All</button>
-            <button type="button" class="show-all-button" v-if="show_index" @click="show_index = false">Hide All</button>
+            <button type="button" class="show-all-button" v-if="!showIndex" @click="showIndex = true">Show All</button>
+            <button type="button" class="show-all-button" v-if="showIndex" @click="showIndex = false">Hide All</button>
         </div>
         <h1 v-else class="text-white text-center form-control-static h4 mt-3">
             Which book are you reading?
         </h1>
 
-        <select class="form-control" v-model="book" @change="loadBookIndex()">
+        <select class="form-control" v-model="book" @change="loadBook">
             <option>Select a Book</option>
             <option v-for="(bName, bId) in books" :value="bId" v-text="bName"></option>
         </select>
 
-        <div v-if="isBusy" class="text-white strong text-center">Loading Index. Please wait...</div>
+        <div v-if="isBusy" class="text-white strong text-center mt-3">Loading Index. Please wait...</div>
     </div>
 
-    <section class="index" v-if="show_index">
+    <section class="index" v-if="showIndex">
         <ul class="list-group">
-            <li class="list-group-item" v-for="character in index_sorted">
-                <a class="index-link" :href="'#' + character" v-text="character" @click="show_index = false"></a>
+            <li class="list-group-item" v-for="character in characterList">
+                <a class="index-link" :href="'#' + character.name" v-text="character.name" @click="showIndex = false"></a>
             </li>
         </ul>
     </section>
 
     <section class="matches">
 
-        <div class="character" v-for="(char, charId) in matches">
-            <strong class="title" v-text="char.name"></strong>
+        <div class="character" v-for="character in characterMatches">
+            <strong class="title" v-text="character.name"></strong>
 
-            <div v-if="char.isBusy">Loading...</div>
-            <div class="character-chapters" v-if="!char.isBusy">
+            <div v-if="character.isBusy">Loading...</div>
+            <div class="character-chapters" v-if="!character.isBusy">
 
-                <div v-for="(chapter, chapterId) in char.chapters">
-                    <div class="chapter-title" @click="toggleChapter(charId, chapterId)">
+                <div v-for="chapter in character.chapters">
+                    <div class="chapter-title" @click="$set(chapter, 'isShowing', !chapter.isShowing)">
                         <span v-text="chapter.isShowing ? '&ndash;' : '+'"></span>
                         <span v-text="chapter.title"></span>
                     </div>
@@ -109,8 +99,8 @@
 
     </section>
 
-    <section class="overlay bg-light" v-if="show_credits">
-        <span class="close-icon" @click="show_credits = false">&times;</span>
+    <section class="overlay bg-light" v-if="showCredits">
+        <span class="close-icon" @click="showCredits = false">&times;</span>
 
         <h1 class="h2">Special thanks to...</h1>
 
@@ -122,7 +112,7 @@
 
     <nav>
         <div class="text-right mr-3 mt-4">
-            <button class="btn btn-link text-white" @click="show_credits = true">Credits</button>
+            <button class="btn btn-link text-white" @click="showCredits = true">Credits</button>
         </div>
     </nav>
 
@@ -132,7 +122,10 @@
 <script type="text/javascript" src="res/js/functions.js"></script>
 
 <script type="text/javascript">
-    var App = new Vue({
+    /** Gets current timestamp in seconds */
+    const time = () => Math.floor(Date.now() / 1000);
+
+    const App = new Vue({
         el: '#vue-app',
         data: {
             isBusy: false,
@@ -155,23 +148,24 @@
                 "book-14": "Book 14 - A Memory of Light",
             },
             q: DB.get('query') || '',
+            characterList: [],
+            characterMatches: [],
             index: {},
-            show_index: false,
-            show_credits: false,
+            showIndex: false,
+            showCredits: false,
             matches: {},
-            index_sorted: [],
             timeout: false,
         },
-        created: function() {
-            var vm = this;
-            vm.loadBookIndex();
+        created() {
+            this.loadBook();
+            const vm = this;
 
-            var href_function = function(e) {
+            const href_function = function(e) {
                 if (e.target.target === '_system') {
                     return;
                 }
                 e.preventDefault();
-                var href = $(this).attr('href');
+                const href = $(this).attr('href');
                 if (href[0] === '#') {
                     vm.q = $(this).text().split(',').reverse().map($.trim).join(' ');
                     vm.search();
@@ -180,94 +174,99 @@
 
             $(document).off('click', '[href]', href_function);
             $(document).on('click', '[href]', href_function);
+
+            window.removeEventListener('focus', this.loadBook);
+            window.addEventListener('focus', this.loadBook);
         },
         methods: {
-            clearSearch: function() {
+            clearSearch() {
                 this.q = '';
-                this.matches = {};
+                this.matches = [];
                 $('input[type=search]').focus();
+            },
+
+            /**
+             * Retrieves the book from the proper data source.
+             */
+            async fetchBook(book) {
+                const bookPath = `data/${this.book}.json`;
+                // 1. Try remote source for the most up-to-date data
+                try {
+                    let result = await axios.get(`https://wheeloftime.silvermast.io/${bookPath}`);
+                    DB.set(bookPath, { time: time(), data: result.data });
+                    return result.data
+                } catch (e) {
+                    console.error(e);
+                }
+
+                // 2. Try DB (locaStorage) for cached remote source data
+                let result = DB.get(bookPath);
+                if (result && result.data) {
+                    return result.data;
+                }
+
+                // 3. Try local data, which was shipped with the app version
+                try {
+                    let result = await axios.get(bookPath);
+                    return result.data
+                } catch (e) {
+                    console.error(e);
+                }
+
+                console.error('FAILED TO RETRIEVE BOOK', book)
+                return null;
             },
 
             /**
              * Loads a id:name index of the selected book, or none if there are none selected.
              */
-            loadBookIndex: function() {
-                var vm = this;
-                localStorage.setItem('book', vm.book);
-                if (!vm.books[vm.book])
+            async loadBook() {
+                if (!this.books[this.book])
                     return;
+                
+                localStorage.setItem('book', this.book);
 
-                vm.isBusy = true;
-                $.getJSON('data/' + vm.book + '/index.json', function(index) {
-                    vm.index = clone(index);
-                    vm.index_sorted = objectValues(index).sort();
-                    vm.isBusy = false;
-                    vm.search();
-                })
+                this.isBusy = true;
+                this.characterList = [];
+                this.characterMatches = [];
+                const bookData = await this.fetchBook(this.book);
+                this.characterList = Object.values(bookData).sort((a, b) => a.name - b.name);
+                this.search();
+                this.isBusy = false;
             },
 
             /**
              * Immediately searches the index for matching characters
              */
-            search: function() {
+            search() {
                 if (this.q.length < 3)
                     return;
 
-                var vm = this;
-                var searchRegExp = new RegExp(vm.q.replace(' ', '.*'), 'gi');
-                vm.matches = {};
-
-                DB.set('query', vm.q);
-
-                for (var id in vm.index)
-                    if (vm.index[id].match(searchRegExp))
-                        vm.loadCharacter(id);
-
+                DB.set('query', this.q);
+                const searchRegExp = new RegExp(this.q.replace(' ', '.*'), 'gi');
+                this.characterMatches = this.characterList.filter(entry => searchRegExp.test(entry.name))
             },
 
             /**
+             * Debounce function for searching on keyup
              * Search Keyup function activated while typing
              */
-            searchEvent: function() {
-                var vm = this;
-                clearTimeout(vm.timeout);
+            searchEvent() {
+                clearTimeout(this.timeout);
 
-                if (vm.q.length < 3)
+                if (this.q.length < 3)
                     return;
 
-                vm.timeout = setTimeout(vm.search, 300);
-            },
-
-            /**
-             * Loads the character data
-             * @param id
-             */
-            async loadCharacter(id) {
-                this.$set(this.matches, id, {
-                    id: id,
-                    name: this.index[id],
-                    isBusy: true,
-                })
-                const charPath = `data/${this.book}/${id}.json`;
-                try {
-                    // try to get character from CDN, which is more up to date.
-                    const charObj = await axios.get(`https://wheeloftime.silvermast.io/${charPath}`)
-                    this.$set(this.matches, id, charObj);
-                } catch (error) {
-                    // fall back on local files
-                    const charObj = await axios.get(charPath);
-                    this.$set(this.matches, id, charObj);
-                }
+                this.timeout = setTimeout(this.search, 300);
             },
 
             /**
              * Shows/hides the chapter info
-             * @param charId
+             * @param character
              * @param chapterId
              */
-            toggleChapter: function(charId, chapterId) {
-                var toggle = !this.matches[charId].chapters[chapterId].isShowing;
-                this.$set(this.matches[charId].chapters[chapterId], 'isShowing', toggle);
+            toggleChapter: function(character, chapterId) {
+                this.$set(character, 'isShowing', !character.isShowing);
             }
         }
     })

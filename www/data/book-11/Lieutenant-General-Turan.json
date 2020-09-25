@@ -1,1 +1,10 @@
-{"id":"Lieutenant-General-Turan","name":"Lieutenant-General Turan","chapters":[{"title":"Prologue: Embers Falling on Dry Grass","info":"<a class='name' name='Turan'>Lieutenant-General Turan</a>, p. 43&#x2014;Lieutenant-General in the Seanchan armies. He sent reports to <a href='#Galgan'>Galgan</a> about the campaigns of <a href='#Rodel'>Rodel Ituralde</a>. "}]}
+{
+    "id": "Lieutenant-General-Turan",
+    "name": "Lieutenant-General Turan",
+    "chapters": [
+        {
+            "title": "Prologue: Embers Falling on Dry Grass",
+            "info": "<a class='name' name='Turan'>Lieutenant-General Turan</a>, p. 43&#x2014;Lieutenant-General in the Seanchan armies. He sent reports to <a href='#Galgan'>Galgan</a> about the campaigns of <a href='#Rodel'>Rodel Ituralde</a>. "
+        }
+    ]
+}

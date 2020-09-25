@@ -1,1 +1,10 @@
-{"id":"Lord-Dulain","name":"Lord Dulain","chapters":[{"title":"Chapter 28: Trapped","info":"<a class='name' name='Dulain'>Lord Dulain</a>, p. 479 (339)&#x2014;Border lord in Murandy who the Tower thought could truly unify Murandy, with a little guidance from the Aes Sedai. He is the reason <a href='#Siuan'>Siuan</a> and <a href='#Elaida'>Elaida</a> ordered <a href='#Bryne'>Gareth Bryne</a> not to use the Queen&apos;s Guards to keep raids along Andor&apos;s border in check; they did not want one of Bryne&apos;s guards to kill him and ruin all of their plans. Unfortunately, Dulain was killed by a farmer before he could unify anything. "}]}
+{
+    "id": "Lord-Dulain",
+    "name": "Lord Dulain",
+    "chapters": [
+        {
+            "title": "Chapter 28: Trapped",
+            "info": "<a class='name' name='Dulain'>Lord Dulain</a>, p. 479 (339)&#x2014;Border lord in Murandy who the Tower thought could truly unify Murandy, with a little guidance from the Aes Sedai. He is the reason <a href='#Siuan'>Siuan</a> and <a href='#Elaida'>Elaida</a> ordered <a href='#Bryne'>Gareth Bryne</a> not to use the Queen&apos;s Guards to keep raids along Andor&apos;s border in check; they did not want one of Bryne&apos;s guards to kill him and ruin all of their plans. Unfortunately, Dulain was killed by a farmer before he could unify anything. "
+        }
+    ]
+}

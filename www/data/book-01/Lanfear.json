@@ -1,1 +1,10 @@
-{"id":"Lanfear","name":"Lanfear","chapters":[{"title":"Ravens","info":"<a class='name' name='Lanfear'>Lanfear</a>, p. 539 [15]&#x2014;One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to the Shadow during the War of the Shadow. Her name is still used to frighten children into behaving as they should&#x2014;it is said that she waits for children who steal. "}]}
+{
+    "id": "Lanfear",
+    "name": "Lanfear",
+    "chapters": [
+        {
+            "title": "Ravens",
+            "info": "<a class='name' name='Lanfear'>Lanfear</a>, p. 539 [15]&#x2014;One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to the Shadow during the War of the Shadow. Her name is still used to frighten children into behaving as they should&#x2014;it is said that she waits for children who steal. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Parelean","name":"Parelean","chapters":[{"title":"Chapter 8: A Simple Country Woman","info":"<a class='name' name='Parelean'>Parelean</a>, p. 185 (200)&#x2014;A man from Tear who travels with <a href='#Faile'>Faile</a>. "}]}
+{
+    "id": "Parelean",
+    "name": "Parelean",
+    "chapters": [
+        {
+            "title": "Chapter 8: A Simple Country Woman",
+            "info": "<a class='name' name='Parelean'>Parelean</a>, p. 185 (200)&#x2014;A man from Tear who travels with <a href='#Faile'>Faile</a>. "
+        }
+    ]
+}

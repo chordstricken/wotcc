@@ -1,1 +1,10 @@
-{"id":"Mesaana","name":"Mesaana","chapters":[{"title":"Glossary","info":"<a class='name' name='Mesaana'>Mesaana</a>, p. 993 (902)&#x2014;One of the Forsaken. "}]}
+{
+    "id": "Mesaana",
+    "name": "Mesaana",
+    "chapters": [
+        {
+            "title": "Glossary",
+            "info": "<a class='name' name='Mesaana'>Mesaana</a>, p. 993 (902)&#x2014;One of the Forsaken. "
+        }
+    ]
+}

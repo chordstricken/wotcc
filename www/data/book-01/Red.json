@@ -1,1 +1,10 @@
-{"id":"Red","name":"Red","chapters":[{"title":"Chapter 44: The Dark Along the Ways","info":"<a class='name' name='Red'>Red</a>, p. 555&#x2014;Bay <a href='#Rand'>Rand</a> borrows from <a href='#Gill'>Basel Gill</a>. His hair is about the same color as Rand&apos;s own hair. "}]}
+{
+    "id": "Red",
+    "name": "Red",
+    "chapters": [
+        {
+            "title": "Chapter 44: The Dark Along the Ways",
+            "info": "<a class='name' name='Red'>Red</a>, p. 555&#x2014;Bay <a href='#Rand'>Rand</a> borrows from <a href='#Gill'>Basel Gill</a>. His hair is about the same color as Rand&apos;s own hair. "
+        }
+    ]
+}

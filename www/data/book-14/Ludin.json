@@ -1,1 +1,10 @@
-{"id":"Ludin","name":"Ludin","chapters":[{"title":"Chapter 12: A Shard of a Moment","info":"<a class='name' name='Ludin'>Ludin</a>, p. 261&#x2014;One of the Aiel. She fights with <a href='#Birgitte'>Birgitte</a> in Andor. "}]}
+{
+    "id": "Ludin",
+    "name": "Ludin",
+    "chapters": [
+        {
+            "title": "Chapter 12: A Shard of a Moment",
+            "info": "<a class='name' name='Ludin'>Ludin</a>, p. 261&#x2014;One of the Aiel. She fights with <a href='#Birgitte'>Birgitte</a> in Andor. "
+        }
+    ]
+}

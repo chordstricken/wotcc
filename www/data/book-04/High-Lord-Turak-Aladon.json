@@ -1,1 +1,10 @@
-{"id":"High-Lord-Turak-Aladon","name":"High Lord Turak Aladon","chapters":[{"title":"Chapter 1: Seeds of Shadow","info":"<a class='name' name='Turak'>High Lord Turak Aladon</a>, p. 45 (30)&#x2014;Commander of the Seanchan invasion force that landed at Falme. He was killed there when <a href='#Rand'>Rand</a> and <a href='#Mat'>Mat</a> led the heroes of the Horn of Valere against his army. He was a Blademaster, and was quite stunned when <a href='#Rand'>Rand</a> was able to match him. He also kept a collection of rare <i>cuendillar</i> objects, including (thanks in part to looting Bayle Domon&apos;s ship) two seals on the <a href='#Dark'>Dark One</a>&apos;s prison. "}]}
+{
+    "id": "High-Lord-Turak-Aladon",
+    "name": "High Lord Turak Aladon",
+    "chapters": [
+        {
+            "title": "Chapter 1: Seeds of Shadow",
+            "info": "<a class='name' name='Turak'>High Lord Turak Aladon</a>, p. 45 (30)&#x2014;Commander of the Seanchan invasion force that landed at Falme. He was killed there when <a href='#Rand'>Rand</a> and <a href='#Mat'>Mat</a> led the heroes of the Horn of Valere against his army. He was a Blademaster, and was quite stunned when <a href='#Rand'>Rand</a> was able to match him. He also kept a collection of rare <i>cuendillar</i> objects, including (thanks in part to looting Bayle Domon&apos;s ship) two seals on the <a href='#Dark'>Dark One</a>&apos;s prison. "
+        }
+    ]
+}

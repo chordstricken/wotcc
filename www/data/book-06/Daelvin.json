@@ -1,1 +1,10 @@
-{"id":"Daelvin","name":"Daelvin","chapters":[{"title":"Chapter 5: A Different Dance","info":"<a class='name' name='Daelvin'>Daelvin</a>, p. 108 (138)&#x2014;Round little woman with a gray bun, the innkeeper of The Golden Stag, the second-best inn in Maerone, located in the center of the city. "}]}
+{
+    "id": "Daelvin",
+    "name": "Daelvin",
+    "chapters": [
+        {
+            "title": "Chapter 5: A Different Dance",
+            "info": "<a class='name' name='Daelvin'>Daelvin</a>, p. 108 (138)&#x2014;Round little woman with a gray bun, the innkeeper of The Golden Stag, the second-best inn in Maerone, located in the center of the city. "
+        }
+    ]
+}

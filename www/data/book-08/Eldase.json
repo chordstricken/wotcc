@@ -1,1 +1,10 @@
-{"id":"Eldase","name":"Eldase","chapters":[{"title":"Chapter 2: Unweaving","info":"<a class='name' name='Eldase'>Eldase</a>, p. 70 (67)&#x2014;Fierce-eyed Kinswoman. She supplies lacquerware for merchants. "}]}
+{
+    "id": "Eldase",
+    "name": "Eldase",
+    "chapters": [
+        {
+            "title": "Chapter 2: Unweaving",
+            "info": "<a class='name' name='Eldase'>Eldase</a>, p. 70 (67)&#x2014;Fierce-eyed Kinswoman. She supplies lacquerware for merchants. "
+        }
+    ]
+}

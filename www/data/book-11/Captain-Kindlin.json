@@ -1,1 +1,10 @@
-{"id":"Captain-Kindlin","name":"Captain Kindlin","chapters":[{"title":"Chapter 13: Siege","info":"<a class='name' name='Kindlin'>Captain Kindlin</a>, p. 319&#x2014;Captain in the Queen&apos;s Guard in Andor. When he heard that <a href='#Naean'>Naean</a> had escaped, he gave <a href='#Guybon'>Guybon</a> permission to attempt to reach Caemlyn. He is stationed in Aringill. "}]}
+{
+    "id": "Captain-Kindlin",
+    "name": "Captain Kindlin",
+    "chapters": [
+        {
+            "title": "Chapter 13: Siege",
+            "info": "<a class='name' name='Kindlin'>Captain Kindlin</a>, p. 319&#x2014;Captain in the Queen&apos;s Guard in Andor. When he heard that <a href='#Naean'>Naean</a> had escaped, he gave <a href='#Guybon'>Guybon</a> permission to attempt to reach Caemlyn. He is stationed in Aringill. "
+        }
+    ]
+}

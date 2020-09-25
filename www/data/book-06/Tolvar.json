@@ -1,1 +1,10 @@
-{"id":"Tolvar","name":"Tolvar","chapters":[{"title":"Chapter 42: The Black Tower","info":"<a class='name' '=''>Tolvar</a>, p. 541&#x2014;Misspelling of <a href='#Torval'>Torval</a>. The mistake was corrected in the paperback edition. "}]}
+{
+    "id": "Tolvar",
+    "name": "Tolvar",
+    "chapters": [
+        {
+            "title": "Chapter 42: The Black Tower",
+            "info": "<a class='name' '=''>Tolvar</a>, p. 541&#x2014;Misspelling of <a href='#Torval'>Torval</a>. The mistake was corrected in the paperback edition. "
+        }
+    ]
+}

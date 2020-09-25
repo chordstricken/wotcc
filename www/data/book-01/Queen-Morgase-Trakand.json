@@ -1,1 +1,10 @@
-{"id":"Queen-Morgase-Trakand","name":"Queen Morgase Trakand","chapters":[{"title":"Chapter 26: Whitebridge","info":"<a class='name' name='Morgase'>Queen Morgase Trakand</a>, p. 325&#x2014;By the Grace of the Light, Queen of Andor, Protector of the Realm, Defender of the People, High Seat of House Trakand. She is <a href='#Elayne'>Elayne</a> and <a href='#Gawyn'>Gawyn</a>&apos;s mother. <i>See also</i> <a href='#Elaida'>a&apos;Roihan, Elaida do Avriny</a>; <a href='#Elayne'>Trakand, Elayne</a>; <a href='#Gawyn'>Trakand, Gawyn</a>. "}]}
+{
+    "id": "Queen-Morgase-Trakand",
+    "name": "Queen Morgase Trakand",
+    "chapters": [
+        {
+            "title": "Chapter 26: Whitebridge",
+            "info": "<a class='name' name='Morgase'>Queen Morgase Trakand</a>, p. 325&#x2014;By the Grace of the Light, Queen of Andor, Protector of the Realm, Defender of the People, High Seat of House Trakand. She is <a href='#Elayne'>Elayne</a> and <a href='#Gawyn'>Gawyn</a>&apos;s mother. <i>See also</i> <a href='#Elaida'>a&apos;Roihan, Elaida do Avriny</a>; <a href='#Elayne'>Trakand, Elayne</a>; <a href='#Gawyn'>Trakand, Gawyn</a>. "
+        }
+    ]
+}

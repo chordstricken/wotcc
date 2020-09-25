@@ -1,1 +1,10 @@
-{"id":"Janina","name":"Janina","chapters":[{"title":"Chapter 37: The Last Battle","info":"<a class='name' name='Janina'>Janina</a>, p. 667&#x2014;Wise One with pale, sky blue eyes and flaxen hair. Nothing seems to ruffle her. She is a good Healer, the best among the Wise Ones. She is currently in Mayene, tending to the wounded. "}]}
+{
+    "id": "Janina",
+    "name": "Janina",
+    "chapters": [
+        {
+            "title": "Chapter 37: The Last Battle",
+            "info": "<a class='name' name='Janina'>Janina</a>, p. 667&#x2014;Wise One with pale, sky blue eyes and flaxen hair. Nothing seems to ruffle her. She is a good Healer, the best among the Wise Ones. She is currently in Mayene, tending to the wounded. "
+        }
+    ]
+}

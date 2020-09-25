@@ -1,1 +1,10 @@
-{"id":"Lemai","name":"Lemai","chapters":[{"title":"Prologue: Glimmers of the Pattern","info":"<a class='name' name='Lemai'>Lemai</a>, p. 34 (24)&#x2014;Aes Sedai of the Red Ajah, now captive with the Asha&apos;man. She told the captive Aes Sedai that they should be cordial with the Asha&apos;man. "}]}
+{
+    "id": "Lemai",
+    "name": "Lemai",
+    "chapters": [
+        {
+            "title": "Prologue: Glimmers of the Pattern",
+            "info": "<a class='name' name='Lemai'>Lemai</a>, p. 34 (24)&#x2014;Aes Sedai of the Red Ajah, now captive with the Asha&apos;man. She told the captive Aes Sedai that they should be cordial with the Asha&apos;man. "
+        }
+    ]
+}

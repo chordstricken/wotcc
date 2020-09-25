@@ -1,1 +1,10 @@
-{"id":"Black-Wind","name":"Black Wind","chapters":[{"title":"Chapter 7: Into the Thick of It","info":"<a class='name' name='Machin'>Black Wind</a>, p. 190&#x2014;<i><a href='#Machin'>Machin Shin</a></i>, the entity that haunts the Ways. It is a creation of the Ways that consumes the soul of any living creature it encounters. It is not known whether <i>Machin Shin</i> is a creation of the <a href='#Dark'>Dark One</a> or a thing spawned by the taint on <i>saidin</i>, which was used to create the ways. <i>See</i> <a href='#Machin'>Black Wind</a>. "}]}
+{
+    "id": "Black-Wind",
+    "name": "Black Wind",
+    "chapters": [
+        {
+            "title": "Chapter 7: Into the Thick of It",
+            "info": "<a class='name' name='Machin'>Black Wind</a>, p. 190&#x2014;<i><a href='#Machin'>Machin Shin</a></i>, the entity that haunts the Ways. It is a creation of the Ways that consumes the soul of any living creature it encounters. It is not known whether <i>Machin Shin</i> is a creation of the <a href='#Dark'>Dark One</a> or a thing spawned by the taint on <i>saidin</i>, which was used to create the ways. <i>See</i> <a href='#Machin'>Black Wind</a>. "
+        }
+    ]
+}

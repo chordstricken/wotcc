@@ -1,1 +1,10 @@
-{"id":"Lieutenant-Sandip","name":"Lieutenant Sandip","chapters":[{"title":"Prologue: By Grace and Banners Fallen","info":"<a class='name' name='Sandip'>Lieutenant Sandip</a>, p. 22&#x2014;Head scout for <a href='#Talmanes'>Lord Talmanes</a> and the Band of the Red Hand. He is slender, tan, and has dark hair. He is a Commander in the Band, and an accomplished hedge-doctor. Talmanes leaves him in charge when he is away. "}]}
+{
+    "id": "Lieutenant-Sandip",
+    "name": "Lieutenant Sandip",
+    "chapters": [
+        {
+            "title": "Prologue: By Grace and Banners Fallen",
+            "info": "<a class='name' name='Sandip'>Lieutenant Sandip</a>, p. 22&#x2014;Head scout for <a href='#Talmanes'>Lord Talmanes</a> and the Band of the Red Hand. He is slender, tan, and has dark hair. He is a Commander in the Band, and an accomplished hedge-doctor. Talmanes leaves him in charge when he is away. "
+        }
+    ]
+}

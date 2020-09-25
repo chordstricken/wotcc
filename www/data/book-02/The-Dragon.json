@@ -1,1 +1,10 @@
-{"id":"The-Dragon","name":"The Dragon","chapters":[{"title":"Prelude","info":"<a class='name' name='Dragon'>The Dragon</a>, p. xii (ix)&#x2014;Name given to <a href='#Lews'>Lews Therin Telamon</a> during the War of the Shadow. It is said the Dragon will be Reborn on the slopes of Dragonmount, where Lews Therin took his own life, at mankind&apos;s greatest hour of need. <i>See also</i> <a href='#Reborn'>Dragon Reborn</a>; <a href='#Promised'>Promised One</a>; <a href='#Lews'>Telamon, Lews Therin</a>. "}]}
+{
+    "id": "The-Dragon",
+    "name": "The Dragon",
+    "chapters": [
+        {
+            "title": "Prelude",
+            "info": "<a class='name' name='Dragon'>The Dragon</a>, p. xii (ix)&#x2014;Name given to <a href='#Lews'>Lews Therin Telamon</a> during the War of the Shadow. It is said the Dragon will be Reborn on the slopes of Dragonmount, where Lews Therin took his own life, at mankind&apos;s greatest hour of need. <i>See also</i> <a href='#Reborn'>Dragon Reborn</a>; <a href='#Promised'>Promised One</a>; <a href='#Lews'>Telamon, Lews Therin</a>. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Lord-Carlomin","name":"Lord Carlomin","chapters":[{"title":"Chapter 2: Whirlpools in the Pattern","info":"<a class='name' name='Carlomin'>Lord Carlomin</a>, p. 63 (47)&#x2014;One of the men who plays cards with <a href='#Mat'>Mat</a>. "}]}
+{
+    "id": "Lord-Carlomin",
+    "name": "Lord Carlomin",
+    "chapters": [
+        {
+            "title": "Chapter 2: Whirlpools in the Pattern",
+            "info": "<a class='name' name='Carlomin'>Lord Carlomin</a>, p. 63 (47)&#x2014;One of the men who plays cards with <a href='#Mat'>Mat</a>. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Rakim","name":"Rakim","chapters":[{"title":"Prelude","info":"<a class='name' name='Rakim'>Rakim</a>, p. 17&#x2014;Grizzled old Saldaean soldier. He has a hoarse voice and a ragged scar from an Aiel arrow to his throat. He likes to show off the scar when he is drinking. He considers himself lucky to be alive, and he is, but because of that he takes somewhat unnecessary chances and boasts about his luck. "}]}
+{
+    "id": "Rakim",
+    "name": "Rakim",
+    "chapters": [
+        {
+            "title": "Prelude",
+            "info": "<a class='name' name='Rakim'>Rakim</a>, p. 17&#x2014;Grizzled old Saldaean soldier. He has a hoarse voice and a ragged scar from an Aiel arrow to his throat. He likes to show off the scar when he is drinking. He considers himself lucky to be alive, and he is, but because of that he takes somewhat unnecessary chances and boasts about his luck. "
+        }
+    ]
+}

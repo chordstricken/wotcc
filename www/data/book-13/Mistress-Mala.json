@@ -1,1 +1,10 @@
-{"id":"Mistress-Mala","name":"Mistress Mala","chapters":[{"title":"Chapter 20: A Choice","info":"<a class='name' name='Mala'>Mistress Mala</a>, p. 304&#x2014;Woman who runs an orphanage in <a href='#Nynaeve'>Nynaeve</a>&apos;s test for the shawl. "}]}
+{
+    "id": "Mistress-Mala",
+    "name": "Mistress Mala",
+    "chapters": [
+        {
+            "title": "Chapter 20: A Choice",
+            "info": "<a class='name' name='Mala'>Mistress Mala</a>, p. 304&#x2014;Woman who runs an orphanage in <a href='#Nynaeve'>Nynaeve</a>&apos;s test for the shawl. "
+        }
+    ]
+}

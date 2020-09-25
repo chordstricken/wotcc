@@ -1,1 +1,10 @@
-{"id":"Rowan-Hurn","name":"Rowan Hurn","chapters":[{"title":"Chapter 2: Strangers","info":"<a class='name' name='Rowan'>Rowan Hurn</a>, p. 21&#x2014;Member of the Village Council of Emond&apos;s Field. "}]}
+{
+    "id": "Rowan-Hurn",
+    "name": "Rowan Hurn",
+    "chapters": [
+        {
+            "title": "Chapter 2: Strangers",
+            "info": "<a class='name' name='Rowan'>Rowan Hurn</a>, p. 21&#x2014;Member of the Village Council of Emond&apos;s Field. "
+        }
+    ]
+}

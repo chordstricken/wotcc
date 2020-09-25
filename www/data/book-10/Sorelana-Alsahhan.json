@@ -1,1 +1,10 @@
-{"id":"Sorelana-Alsahhan","name":"Sorelana Alsahhan","chapters":[{"title":"Chapter 7: Blacksmith's Puzzle","info":"<a class='name' name='Sorelana'>Sorelana Alsahhan</a>, p. 208 (241)&#x2014;Historian during the Trolloc Wars; she spoke of &#x201C;the hundred packs of the Shadow&apos;s hounds that hunt the night.&#x201D; "}]}
+{
+    "id": "Sorelana-Alsahhan",
+    "name": "Sorelana Alsahhan",
+    "chapters": [
+        {
+            "title": "Chapter 7: Blacksmith's Puzzle",
+            "info": "<a class='name' name='Sorelana'>Sorelana Alsahhan</a>, p. 208 (241)&#x2014;Historian during the Trolloc Wars; she spoke of &#x201C;the hundred packs of the Shadow&apos;s hounds that hunt the night.&#x201D; "
+        }
+    ]
+}

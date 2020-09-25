@@ -1,1 +1,10 @@
-{"id":"Shanal","name":"Shanal","chapters":[{"title":"Chapter 40: The Tower Shakes","info":"<a class='name' name='Shanal'>Shanal</a>, p. 632&#x2014;Novice in the White Tower. She was part of the circle <a href='#Egwene'>Egwene</a> used to fight the Seanchan. "}]}
+{
+    "id": "Shanal",
+    "name": "Shanal",
+    "chapters": [
+        {
+            "title": "Chapter 40: The Tower Shakes",
+            "info": "<a class='name' name='Shanal'>Shanal</a>, p. 632&#x2014;Novice in the White Tower. She was part of the circle <a href='#Egwene'>Egwene</a> used to fight the Seanchan. "
+        }
+    ]
+}

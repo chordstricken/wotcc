@@ -1,1 +1,10 @@
-{"id":"Skulker","name":"Skulker","chapters":[{"title":"Chapter 8: Over the Border","info":"<a class='name' name='Skulker'>Skulker</a>, p. 196 (138)&#x2014;<a href='#Juilin'>Sandar</a>&apos;s lanky, brown gelding. "}]}
+{
+    "id": "Skulker",
+    "name": "Skulker",
+    "chapters": [
+        {
+            "title": "Chapter 8: Over the Border",
+            "info": "<a class='name' name='Skulker'>Skulker</a>, p. 196 (138)&#x2014;<a href='#Juilin'>Sandar</a>&apos;s lanky, brown gelding. "
+        }
+    ]
+}

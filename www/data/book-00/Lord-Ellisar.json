@@ -1,1 +1,10 @@
-{"id":"Lord-Ellisar","name":"Lord Ellisar","chapters":[{"title":"Chapter 6: Surprises","info":"<a class='name' name='Ellisar'>Lord Ellisar</a>, p. 108&#x2014;Lord in whose encampment many of the infants that <a href='#Ellid'>Ellid</a> took down the names of for the bounty. "}]}
+{
+    "id": "Lord-Ellisar",
+    "name": "Lord Ellisar",
+    "chapters": [
+        {
+            "title": "Chapter 6: Surprises",
+            "info": "<a class='name' name='Ellisar'>Lord Ellisar</a>, p. 108&#x2014;Lord in whose encampment many of the infants that <a href='#Ellid'>Ellid</a> took down the names of for the bounty. "
+        }
+    ]
+}

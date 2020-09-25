@@ -1,1 +1,10 @@
-{"id":"Iona","name":"Iona","chapters":[{"title":"Chapter 20: Questions of Treason","info":"<a class='name' name='Iona'>Iona</a>, p. 417 (479)&#x2014;Person in the Golden Swan, the inn in Ebou Dar where <a href='#Bethamin'>Bethamin</a> stayed. She has a cask of brandy. "}]}
+{
+    "id": "Iona",
+    "name": "Iona",
+    "chapters": [
+        {
+            "title": "Chapter 20: Questions of Treason",
+            "info": "<a class='name' name='Iona'>Iona</a>, p. 417 (479)&#x2014;Person in the Golden Swan, the inn in Ebou Dar where <a href='#Bethamin'>Bethamin</a> stayed. She has a cask of brandy. "
+        }
+    ]
+}

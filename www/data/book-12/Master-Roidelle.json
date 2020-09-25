@@ -1,1 +1,10 @@
-{"id":"Master-Roidelle","name":"Master Roidelle","chapters":[{"title":"Chapter 20: On a Broken Road","info":"<a class='name' name='Roidelle'>Master Roidelle</a>, p. 313&#x2014;Master cartographer for the Band of the Red Hand. He has a round face and graying hair. "}]}
+{
+    "id": "Master-Roidelle",
+    "name": "Master Roidelle",
+    "chapters": [
+        {
+            "title": "Chapter 20: On a Broken Road",
+            "info": "<a class='name' name='Roidelle'>Master Roidelle</a>, p. 313&#x2014;Master cartographer for the Band of the Red Hand. He has a round face and graying hair. "
+        }
+    ]
+}

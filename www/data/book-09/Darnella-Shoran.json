@@ -1,1 +1,10 @@
-{"id":"Darnella-Shoran","name":"Darnella Shoran","chapters":[{"title":"Chapter 20: Questions of Treason","info":"<a class='name' name='Darnella'>Darnella Shoran</a>, p. 413 (475)&#x2014;Innkeeper of the Golden Swan, an inn in Ebou Dar where <a href='#Bethamin'>Bethamin</a> stays while there. "}]}
+{
+    "id": "Darnella-Shoran",
+    "name": "Darnella Shoran",
+    "chapters": [
+        {
+            "title": "Chapter 20: Questions of Treason",
+            "info": "<a class='name' name='Darnella'>Darnella Shoran</a>, p. 413 (475)&#x2014;Innkeeper of the Golden Swan, an inn in Ebou Dar where <a href='#Bethamin'>Bethamin</a> stays while there. "
+        }
+    ]
+}

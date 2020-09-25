@@ -1,1 +1,10 @@
-{"id":"Damer-Flinn","name":"Damer Flinn","chapters":[{"title":"Prologue: Snow","info":"<a class='name' name='Flinn'>Damer Flinn</a>, p. 68 (65)&#x2014;Crease-faced old man with a limp, now one of the Asha&apos;man. He is bald with a fringe of white hair around the edge of his head. He was in the Queen&apos;s Guards until he took a Murandian lance in the thigh, and ever since has desired to help people with injuries. He came for the amnesty to see if he could learn to Heal; as it turns out, he is very Talented, and has developed methods of Healing that have been forgotten since the Age of Legends. He managed to partially Heal <a href='#Rand'>Rand</a>&apos;s wound in his side, to separate it from the rest of his body so the evil does not seep into it anymore. Since he was placed on <a href='#Taim'>Taim</a>&apos;s Traitors&apos; List, he has been in hiding&#x2014;he did not assist in the attack on <a href='#Rand'>Rand</a>, but Rand thinks it better to be safe than to have him killed. "}]}
+{
+    "id": "Damer-Flinn",
+    "name": "Damer Flinn",
+    "chapters": [
+        {
+            "title": "Prologue: Snow",
+            "info": "<a class='name' name='Flinn'>Damer Flinn</a>, p. 68 (65)&#x2014;Crease-faced old man with a limp, now one of the Asha&apos;man. He is bald with a fringe of white hair around the edge of his head. He was in the Queen&apos;s Guards until he took a Murandian lance in the thigh, and ever since has desired to help people with injuries. He came for the amnesty to see if he could learn to Heal; as it turns out, he is very Talented, and has developed methods of Healing that have been forgotten since the Age of Legends. He managed to partially Heal <a href='#Rand'>Rand</a>&apos;s wound in his side, to separate it from the rest of his body so the evil does not seep into it anymore. Since he was placed on <a href='#Taim'>Taim</a>&apos;s Traitors&apos; List, he has been in hiding&#x2014;he did not assist in the attack on <a href='#Rand'>Rand</a>, but Rand thinks it better to be safe than to have him killed. "
+        }
+    ]
+}

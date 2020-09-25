@@ -1,1 +1,10 @@
-{"id":"Dongal","name":"Dongal","chapters":[{"title":"Chapter 27: A Plain Wooden Box","info":"<a class='name' name='Dongal'>Dongal</a>, p. 598&#x2014;Officer in the Band of the Red Hand. "}]}
+{
+    "id": "Dongal",
+    "name": "Dongal",
+    "chapters": [
+        {
+            "title": "Chapter 27: A Plain Wooden Box",
+            "info": "<a class='name' name='Dongal'>Dongal</a>, p. 598&#x2014;Officer in the Band of the Red Hand. "
+        }
+    ]
+}

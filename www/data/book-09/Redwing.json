@@ -1,1 +1,10 @@
-{"id":"Redwing","name":"Redwing","chapters":[{"title":"Chapter 6: The Scent of Madness","info":"<a class='name' name='Redwing'>Redwing</a>, p. 160 (174)&#x2014;<a href='#Medore'>Medore</a>&apos;s favorite horse. "}]}
+{
+    "id": "Redwing",
+    "name": "Redwing",
+    "chapters": [
+        {
+            "title": "Chapter 6: The Scent of Madness",
+            "info": "<a class='name' name='Redwing'>Redwing</a>, p. 160 (174)&#x2014;<a href='#Medore'>Medore</a>&apos;s favorite horse. "
+        }
+    ]
+}

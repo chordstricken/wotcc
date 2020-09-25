@@ -1,1 +1,10 @@
-{"id":"Master-Fitch","name":"Master Fitch","chapters":[{"title":"Chapter 24: New Friends and Old Enemies","info":"<a class='name' name='Fitch'>Master Fitch</a>, p. 361 (317)&#x2014;Innkeeper of an inn in Baerlon. The inn was burned down by Darkfriends, but <a href='#Moiraine'>Moiraine</a> sent him enough gold for him to rebuild it twice as big. He did so. "}]}
+{
+    "id": "Master-Fitch",
+    "name": "Master Fitch",
+    "chapters": [
+        {
+            "title": "Chapter 24: New Friends and Old Enemies",
+            "info": "<a class='name' name='Fitch'>Master Fitch</a>, p. 361 (317)&#x2014;Innkeeper of an inn in Baerlon. The inn was burned down by Darkfriends, but <a href='#Moiraine'>Moiraine</a> sent him enough gold for him to rebuild it twice as big. He did so. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Esne","name":"Esne","chapters":[{"title":"Chapter 22: Keeping Custom","info":"<a class='name' name='Esne'>Esne</a>, p. 279&#x2014;Square-faced serving woman assigned to <a href='#Lan'>Lan</a> in the Aesdaishar Palace. Lan suspects that she is <a href='#Anya'>Anya</a>&apos;s daughter. "}]}
+{
+    "id": "Esne",
+    "name": "Esne",
+    "chapters": [
+        {
+            "title": "Chapter 22: Keeping Custom",
+            "info": "<a class='name' name='Esne'>Esne</a>, p. 279&#x2014;Square-faced serving woman assigned to <a href='#Lan'>Lan</a> in the Aesdaishar Palace. Lan suspects that she is <a href='#Anya'>Anya</a>&apos;s daughter. "
+        }
+    ]
+}

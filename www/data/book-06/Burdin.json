@@ -1,1 +1,10 @@
-{"id":"Burdin","name":"Burdin","chapters":[{"title":"Chapter 22: Heading South","info":"<a class='name' name='Burdin'>Burdin</a>, p. 344 (480)&#x2014;A man from Maerone who takes care of <a href='#Olver'>Olver</a>. He gives him lots of food in exchange for caring for his horses. He refuses to let Olver ride them. "}]}
+{
+    "id": "Burdin",
+    "name": "Burdin",
+    "chapters": [
+        {
+            "title": "Chapter 22: Heading South",
+            "info": "<a class='name' name='Burdin'>Burdin</a>, p. 344 (480)&#x2014;A man from Maerone who takes care of <a href='#Olver'>Olver</a>. He gives him lots of food in exchange for caring for his horses. He refuses to let Olver ride them. "
+        }
+    ]
+}

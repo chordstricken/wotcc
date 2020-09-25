@@ -1,1 +1,10 @@
-{"id":"Pelateo","name":"Pelateo","chapters":[{"title":"Chapter 15: A Place to Begin","info":"<a class='name' name='Pelateo'>Pelateo</a>, p. 239&#x2014;Author of <i>Ponderings</i>, a book <a href='#Min'>Min</a> is reading. She recovered the book from <a href='#Fel'>Herid Fel</a>&apos;s collection. "}]}
+{
+    "id": "Pelateo",
+    "name": "Pelateo",
+    "chapters": [
+        {
+            "title": "Chapter 15: A Place to Begin",
+            "info": "<a class='name' name='Pelateo'>Pelateo</a>, p. 239&#x2014;Author of <i>Ponderings</i>, a book <a href='#Min'>Min</a> is reading. She recovered the book from <a href='#Fel'>Herid Fel</a>&apos;s collection. "
+        }
+    ]
+}

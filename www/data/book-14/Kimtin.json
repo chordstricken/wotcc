@@ -1,1 +1,10 @@
-{"id":"Kimtin","name":"Kimtin","chapters":[{"title":"Chapter 37: The Last Battle","info":"<a class='name' name='Kimtin'>Kimtin</a>, p. 633&#x2014;Man who taught <a href='#Tam'>Tam al&apos;Thor</a> the Flame and the Void. He is, presumably, from Illian. "}]}
+{
+    "id": "Kimtin",
+    "name": "Kimtin",
+    "chapters": [
+        {
+            "title": "Chapter 37: The Last Battle",
+            "info": "<a class='name' name='Kimtin'>Kimtin</a>, p. 633&#x2014;Man who taught <a href='#Tam'>Tam al&apos;Thor</a> the Flame and the Void. He is, presumably, from Illian. "
+        }
+    ]
+}

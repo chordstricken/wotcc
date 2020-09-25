@@ -1,1 +1,10 @@
-{"id":"Ferane-Neheran","name":"Ferane Neheran","chapters":[{"title":"Prologue: Snow","info":"<a class='name' name='Ferane'>Ferane Neheran</a>, p. 16 (2)&#x2014;Aes Sedai of the White Ajah in Tar Valon. She is the head of the White Ajah, or at least high in its ranks, according to observations by <a href='#Seaine'>Seaine</a>. "}]}
+{
+    "id": "Ferane-Neheran",
+    "name": "Ferane Neheran",
+    "chapters": [
+        {
+            "title": "Prologue: Snow",
+            "info": "<a class='name' name='Ferane'>Ferane Neheran</a>, p. 16 (2)&#x2014;Aes Sedai of the White Ajah in Tar Valon. She is the head of the White Ajah, or at least high in its ranks, according to observations by <a href='#Seaine'>Seaine</a>. "
+        }
+    ]
+}

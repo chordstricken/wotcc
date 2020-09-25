@@ -1,1 +1,10 @@
-{"id":"Stayer","name":"Stayer","chapters":[{"title":"Chapter 2: Questions of Leadership","info":"<a class='name' name='Stayer'>Stayer</a>, p. 60&#x2014;One of <a href='#Perrin'>Perrin</a>&apos;s horses. <i>See also</i> <a href='#Stepper'>Stepper</a>. "}]}
+{
+    "id": "Stayer",
+    "name": "Stayer",
+    "chapters": [
+        {
+            "title": "Chapter 2: Questions of Leadership",
+            "info": "<a class='name' name='Stayer'>Stayer</a>, p. 60&#x2014;One of <a href='#Perrin'>Perrin</a>&apos;s horses. <i>See also</i> <a href='#Stepper'>Stepper</a>. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Hamada","name":"Hamada","chapters":[{"title":"Chapter 50: The Hammer","info":"<a class='name' name='Hamada'>Hamada</a>, p. 600 (483)&#x2014;<a href='#Moilin'>Moilin</a>&apos;s mother, <a href='#Juendan'>Juendan</a>&apos;s daughter. "}]}
+{
+    "id": "Hamada",
+    "name": "Hamada",
+    "chapters": [
+        {
+            "title": "Chapter 50: The Hammer",
+            "info": "<a class='name' name='Hamada'>Hamada</a>, p. 600 (483)&#x2014;<a href='#Moilin'>Moilin</a>&apos;s mother, <a href='#Juendan'>Juendan</a>&apos;s daughter. "
+        }
+    ]
+}

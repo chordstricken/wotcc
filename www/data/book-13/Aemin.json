@@ -1,1 +1,10 @@
-{"id":"Aemin","name":"Aemin","chapters":[{"title":"Chapter 40: A Making","info":"<a class='name' name='Aemin'>Aemin</a>, p. 610&#x2014;Graying, blocky farrier. He travels with <a href='#Perrin'>Perrin</a>. Perrin used his forge to make <i>Mah&apos;alleinir</i>. "}]}
+{
+    "id": "Aemin",
+    "name": "Aemin",
+    "chapters": [
+        {
+            "title": "Chapter 40: A Making",
+            "info": "<a class='name' name='Aemin'>Aemin</a>, p. 610&#x2014;Graying, blocky farrier. He travels with <a href='#Perrin'>Perrin</a>. Perrin used his forge to make <i>Mah&apos;alleinir</i>. "
+        }
+    ]
+}

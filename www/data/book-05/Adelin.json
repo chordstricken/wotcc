@@ -1,1 +1,10 @@
-{"id":"Adelin","name":"Adelin","chapters":[{"title":"Chapter 3: Pale Shadows","info":"<a class='name' name='Adelin'>Adelin</a>, p. 107 (78)&#x2014;One of the Maidens on guard at <a href='#Rand'>Rand</a>&apos;s door. "}]}
+{
+    "id": "Adelin",
+    "name": "Adelin",
+    "chapters": [
+        {
+            "title": "Chapter 3: Pale Shadows",
+            "info": "<a class='name' name='Adelin'>Adelin</a>, p. 107 (78)&#x2014;One of the Maidens on guard at <a href='#Rand'>Rand</a>&apos;s door. "
+        }
+    ]
+}

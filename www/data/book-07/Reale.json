@@ -1,1 +1,10 @@
-{"id":"Reale","name":"Reale","chapters":[{"title":"Chapter 5: A Broken Crown","info":"<a class='name' name='Reale'>Reale</a>, p. 124 (148)&#x2014;One of <a href='#Colavaere'>Colavaere</a>&apos;s attendants. She replaced <a href='#Maire'>Maire</a>. "}]}
+{
+    "id": "Reale",
+    "name": "Reale",
+    "chapters": [
+        {
+            "title": "Chapter 5: A Broken Crown",
+            "info": "<a class='name' name='Reale'>Reale</a>, p. 124 (148)&#x2014;One of <a href='#Colavaere'>Colavaere</a>&apos;s attendants. She replaced <a href='#Maire'>Maire</a>. "
+        }
+    ]
+}

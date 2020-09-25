@@ -1,1 +1,10 @@
-{"id":"Gorderan","name":"Gorderan","chapters":[{"title":"Chapter 8: Dragon's Eggs","info":"<a class='name' name='Gorderan'>Gorderan</a>, p. 210&#x2014;One of <a href='#Mat'>Mat</a>&apos;s Redarms. He is good with a sword. He is built like the average blacksmith. He is from Tear, and has gray eyes. He shares a tent with <a href='#Harnan'>Harnan</a>, <a href='#Metwyn'>Metwyn</a>, and <a href='#Fergin'>Fergin</a>. "}]}
+{
+    "id": "Gorderan",
+    "name": "Gorderan",
+    "chapters": [
+        {
+            "title": "Chapter 8: Dragon's Eggs",
+            "info": "<a class='name' name='Gorderan'>Gorderan</a>, p. 210&#x2014;One of <a href='#Mat'>Mat</a>&apos;s Redarms. He is good with a sword. He is built like the average blacksmith. He is from Tear, and has gray eyes. He shares a tent with <a href='#Harnan'>Harnan</a>, <a href='#Metwyn'>Metwyn</a>, and <a href='#Fergin'>Fergin</a>. "
+        }
+    ]
+}

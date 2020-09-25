@@ -1,1 +1,10 @@
-{"id":"Kin-Tovere","name":"Kin Tovere","chapters":[{"title":"Prologue: Glimmers of the Pattern","info":"<a class='name' name='Tovere'>Kin Tovere</a>, p. 61 (59)&#x2014;Cairhienin who made <a href='#Bashere'>Bashere</a>&apos;s spyglass. "}]}
+{
+    "id": "Kin-Tovere",
+    "name": "Kin Tovere",
+    "chapters": [
+        {
+            "title": "Prologue: Glimmers of the Pattern",
+            "info": "<a class='name' name='Tovere'>Kin Tovere</a>, p. 61 (59)&#x2014;Cairhienin who made <a href='#Bashere'>Bashere</a>&apos;s spyglass. "
+        }
+    ]
+}

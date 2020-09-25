@@ -1,1 +1,10 @@
-{"id":"Reed-Soalen","name":"Reed Soalen","chapters":[{"title":"Chapter 2: Questions of Leadership","info":"<a class='name' name='Soalen'>Reed Soalen</a>, p. 62&#x2014;Young man from the Two Rivers. He is among those who guard <a href='#Perrin'>Perrin</a>&apos;s tent from time to time. "}]}
+{
+    "id": "Reed-Soalen",
+    "name": "Reed Soalen",
+    "chapters": [
+        {
+            "title": "Chapter 2: Questions of Leadership",
+            "info": "<a class='name' name='Soalen'>Reed Soalen</a>, p. 62&#x2014;Young man from the Two Rivers. He is among those who guard <a href='#Perrin'>Perrin</a>&apos;s tent from time to time. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Makzim","name":"Makzim","chapters":[{"title":"Chapter 22: The End of a Legend","info":"<a class='name' name='Makzim'>Makzim</a>, p. 337&#x2014;Stern, thick-armed Warder. He leads the training sessions now that <a href='#Hammar'>Hammar</a> is dead. "}]}
+{
+    "id": "Makzim",
+    "name": "Makzim",
+    "chapters": [
+        {
+            "title": "Chapter 22: The End of a Legend",
+            "info": "<a class='name' name='Makzim'>Makzim</a>, p. 337&#x2014;Stern, thick-armed Warder. He leads the training sessions now that <a href='#Hammar'>Hammar</a> is dead. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Green-Man","name":"Green Man","chapters":[{"title":"Chapter 4: The Gleeman","info":"<a class='name' name='Green'>Green Man</a>, p. 43&#x2014;Character in one of <a href='#Thom'>Thom</a>&apos;s stories. According to Legend, he guards <i><a href='#Aven'>Avendesora</a></i>, the Tree of Life, as well as the Eye of the World. "}]}
+{
+    "id": "Green-Man",
+    "name": "Green Man",
+    "chapters": [
+        {
+            "title": "Chapter 4: The Gleeman",
+            "info": "<a class='name' name='Green'>Green Man</a>, p. 43&#x2014;Character in one of <a href='#Thom'>Thom</a>&apos;s stories. According to Legend, he guards <i><a href='#Aven'>Avendesora</a></i>, the Tree of Life, as well as the Eye of the World. "
+        }
+    ]
+}

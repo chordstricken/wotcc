@@ -1,1 +1,10 @@
-{"id":"Jadein","name":"Jadein","chapters":[{"title":"Chapter 22: To Make an Anchor Weep","info":"<a class='name' name='Jadein'>Jadein</a>, p. 465&#x2014;Lean, leathery deckmistress on <a href='#Harine'>Harine</a>&apos;s ship. She is described as having &#x201C;leather lungs&#x201D; as well. "}]}
+{
+    "id": "Jadein",
+    "name": "Jadein",
+    "chapters": [
+        {
+            "title": "Chapter 22: To Make an Anchor Weep",
+            "info": "<a class='name' name='Jadein'>Jadein</a>, p. 465&#x2014;Lean, leathery deckmistress on <a href='#Harine'>Harine</a>&apos;s ship. She is described as having &#x201C;leather lungs&#x201D; as well. "
+        }
+    ]
+}

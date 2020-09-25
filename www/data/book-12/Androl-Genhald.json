@@ -1,1 +1,10 @@
-{"id":"Androl-Genhald","name":"Androl Genhald","chapters":[{"title":"Chapter 5: A Tale of Blood","info":"<a class='name' name='Genhald'>Androl Genhald</a>, p. 103&#x2014;One of the Dedicated. He is Talented at making gateways. "}]}
+{
+    "id": "Androl-Genhald",
+    "name": "Androl Genhald",
+    "chapters": [
+        {
+            "title": "Chapter 5: A Tale of Blood",
+            "info": "<a class='name' name='Genhald'>Androl Genhald</a>, p. 103&#x2014;One of the Dedicated. He is Talented at making gateways. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Sarena","name":"Sarena","chapters":[{"title":"Chapter 8: The Storm Gathers","info":"<a class='name' name='Sarena'>Sarena</a>, p. 168 (228)&#x2014;Altaran noble who comes to hear <a href='#Logain'>Logain</a>&apos;s story. She has a thin scar across her cheek. "}]}
+{
+    "id": "Sarena",
+    "name": "Sarena",
+    "chapters": [
+        {
+            "title": "Chapter 8: The Storm Gathers",
+            "info": "<a class='name' name='Sarena'>Sarena</a>, p. 168 (228)&#x2014;Altaran noble who comes to hear <a href='#Logain'>Logain</a>&apos;s story. She has a thin scar across her cheek. "
+        }
+    ]
+}

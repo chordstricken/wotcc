@@ -1,1 +1,10 @@
-{"id":"Maira","name":"Maira","chapters":[{"title":"Chapter 3: A Woman's Eyes","info":"<a class='name' name='Maira'>Maira</a>, p. 93 (116)&#x2014;A red-haired Maiden of the Spear. She is about ten years older than <a href='#Rand'>Rand</a>. "}]}
+{
+    "id": "Maira",
+    "name": "Maira",
+    "chapters": [
+        {
+            "title": "Chapter 3: A Woman's Eyes",
+            "info": "<a class='name' name='Maira'>Maira</a>, p. 93 (116)&#x2014;A red-haired Maiden of the Spear. She is about ten years older than <a href='#Rand'>Rand</a>. "
+        }
+    ]
+}

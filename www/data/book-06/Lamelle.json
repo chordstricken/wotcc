@@ -1,1 +1,10 @@
-{"id":"Lamelle","name":"Lamelle","chapters":[{"title":"Chapter 26: Connecting Lines","info":"<a class='name' name='Lamelle'>Lamelle</a>, p. 375 (524)&#x2014;A Maiden of the Spear, of the Smoke Water sept of the Miagoma Aiel. She died protecting <a href='#Rand'>Rand</a>. "}]}
+{
+    "id": "Lamelle",
+    "name": "Lamelle",
+    "chapters": [
+        {
+            "title": "Chapter 26: Connecting Lines",
+            "info": "<a class='name' name='Lamelle'>Lamelle</a>, p. 375 (524)&#x2014;A Maiden of the Spear, of the Smoke Water sept of the Miagoma Aiel. She died protecting <a href='#Rand'>Rand</a>. "
+        }
+    ]
+}

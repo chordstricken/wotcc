@@ -1,1 +1,10 @@
-{"id":"Aemin","name":"Aemin","chapters":[{"title":"Chapter 9: Tangles","info":"<a class='name' name='Aemin'>Aemin</a>, p. 204 (223)&#x2014;Graying, blocky farrier. "}]}
+{
+    "id": "Aemin",
+    "name": "Aemin",
+    "chapters": [
+        {
+            "title": "Chapter 9: Tangles",
+            "info": "<a class='name' name='Aemin'>Aemin</a>, p. 204 (223)&#x2014;Graying, blocky farrier. "
+        }
+    ]
+}

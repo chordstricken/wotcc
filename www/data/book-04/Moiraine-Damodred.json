@@ -1,1 +1,10 @@
-{"id":"Moiraine-Damodred","name":"Moiraine Damodred","chapters":[{"title":"Chapter 1: Seeds of Shadow","info":"<a class='name' name='Moiraine'>Moiraine Damodred</a>, p. 15 (3)&#x2014;Aes Sedai of the Blue Ajah. Born as Lady Moiraine of House Damodred in Cairhien. She is <a href='#Taringail'>Taringail Damodred</a>&apos;s youngest half-sister, and <a href='#Laman'>King Laman</a>&apos;s niece. She is strong in the One Power, and is Talented at Healing. Along with <a href='#Siuan'>Siuan Sanche</a>, her friend as a novice, she dedicated her life to finding and guiding the <a href='#Reborn'>Dragon Reborn</a> after hearing of his birth Foretold by <a href='#Gitara'>Gitara Moroso</a>, who was then <a href='#Keeper'>Keeper of the Chronicles</a>. Her Warder is <a href='#Lan'>Lan</a>, the uncrowned king of Malkier. She is determined to guide <a href='#Rand'>Rand</a> to what must be done, and is very confident in herself that she knows the way. <i>See also</i> <a href='#Taringail'>Damodred, Taringail</a>; <a href='#Siuan'>Sanche, Siuan</a>. "}]}
+{
+    "id": "Moiraine-Damodred",
+    "name": "Moiraine Damodred",
+    "chapters": [
+        {
+            "title": "Chapter 1: Seeds of Shadow",
+            "info": "<a class='name' name='Moiraine'>Moiraine Damodred</a>, p. 15 (3)&#x2014;Aes Sedai of the Blue Ajah. Born as Lady Moiraine of House Damodred in Cairhien. She is <a href='#Taringail'>Taringail Damodred</a>&apos;s youngest half-sister, and <a href='#Laman'>King Laman</a>&apos;s niece. She is strong in the One Power, and is Talented at Healing. Along with <a href='#Siuan'>Siuan Sanche</a>, her friend as a novice, she dedicated her life to finding and guiding the <a href='#Reborn'>Dragon Reborn</a> after hearing of his birth Foretold by <a href='#Gitara'>Gitara Moroso</a>, who was then <a href='#Keeper'>Keeper of the Chronicles</a>. Her Warder is <a href='#Lan'>Lan</a>, the uncrowned king of Malkier. She is determined to guide <a href='#Rand'>Rand</a> to what must be done, and is very confident in herself that she knows the way. <i>See also</i> <a href='#Taringail'>Damodred, Taringail</a>; <a href='#Siuan'>Sanche, Siuan</a>. "
+        }
+    ]
+}

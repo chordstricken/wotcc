@@ -1,1 +1,10 @@
-{"id":"Dark-One","name":"Dark One","chapters":[{"title":"Prologue: By Grace and Banners Fallen","info":"<a class='name' '=''>Dark One</a>, p. 57&#x2014;Name used in every land for <a href='#Dark'>Shai&apos;tan</a>. <i>See</i> <a href='#Dark'>Shai&apos;tan</a>. "}]}
+{
+    "id": "Dark-One",
+    "name": "Dark One",
+    "chapters": [
+        {
+            "title": "Prologue: By Grace and Banners Fallen",
+            "info": "<a class='name' '=''>Dark One</a>, p. 57&#x2014;Name used in every land for <a href='#Dark'>Shai&apos;tan</a>. <i>See</i> <a href='#Dark'>Shai&apos;tan</a>. "
+        }
+    ]
+}

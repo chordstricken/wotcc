@@ -1,1 +1,10 @@
-{"id":"Cariandre","name":"Cariandre","chapters":[{"title":"Chapter 2: The Dark One's Touch","info":"<a class='name' name='Cariandre'>Cariandre</a>, p. 132&#x2014;Plump Aes Sedai of the Red Ajah. She grew up in Ghealdan. She was called upon to escort <a href='#Mattin'>Mattin Stepaneos</a> to <a href='#Elaida'>Elaida</a>. "}]}
+{
+    "id": "Cariandre",
+    "name": "Cariandre",
+    "chapters": [
+        {
+            "title": "Chapter 2: The Dark One's Touch",
+            "info": "<a class='name' name='Cariandre'>Cariandre</a>, p. 132&#x2014;Plump Aes Sedai of the Red Ajah. She grew up in Ghealdan. She was called upon to escort <a href='#Mattin'>Mattin Stepaneos</a> to <a href='#Elaida'>Elaida</a>. "
+        }
+    ]
+}

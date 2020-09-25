@@ -1,1 +1,10 @@
-{"id":"Colly-Garren","name":"Colly Garren","chapters":[{"title":"Chapter 40: Hunter of Trollocs","info":"<a class='name' name='Colly'>Colly Garren</a>, p. 671 (606)&#x2014;One of <a href='#Perrin'>Perrin</a>&apos;s recruits. He was killed by the Trollocs when they attacked the patrol from behind. "}]}
+{
+    "id": "Colly-Garren",
+    "name": "Colly Garren",
+    "chapters": [
+        {
+            "title": "Chapter 40: Hunter of Trollocs",
+            "info": "<a class='name' name='Colly'>Colly Garren</a>, p. 671 (606)&#x2014;One of <a href='#Perrin'>Perrin</a>&apos;s recruits. He was killed by the Trollocs when they attacked the patrol from behind. "
+        }
+    ]
+}

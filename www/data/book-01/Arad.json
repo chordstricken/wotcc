@@ -1,1 +1,10 @@
-{"id":"Arad","name":"Arad","chapters":[{"title":"Chapter 18: The Caemlyn Road","info":"<a class='name' name='Arad'>Arad</a>, p. 228&#x2014;Man from old Manetheren. According to <a href='#Moiraine'>Moiraine</a>, his line is strong in the Two Rivers. "}]}
+{
+    "id": "Arad",
+    "name": "Arad",
+    "chapters": [
+        {
+            "title": "Chapter 18: The Caemlyn Road",
+            "info": "<a class='name' name='Arad'>Arad</a>, p. 228&#x2014;Man from old Manetheren. According to <a href='#Moiraine'>Moiraine</a>, his line is strong in the Two Rivers. "
+        }
+    ]
+}

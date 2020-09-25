@@ -1,1 +1,10 @@
-{"id":"Aedomon","name":"Aedomon","chapters":[{"title":"Chapter 37: Imre Stand","info":"<a class='name' name='Aedomon'>Aedomon</a>, p. 610 (550)&#x2014;Man who led the Saferi down on unsuspecting Manetheren years ago. <i>See also</i> <a href='#Buiryn'>Buiryn</a>. "}]}
+{
+    "id": "Aedomon",
+    "name": "Aedomon",
+    "chapters": [
+        {
+            "title": "Chapter 37: Imre Stand",
+            "info": "<a class='name' name='Aedomon'>Aedomon</a>, p. 610 (550)&#x2014;Man who led the Saferi down on unsuspecting Manetheren years ago. <i>See also</i> <a href='#Buiryn'>Buiryn</a>. "
+        }
+    ]
+}

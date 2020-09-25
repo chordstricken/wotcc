@@ -1,1 +1,10 @@
-{"id":"Coramoor","name":"Coramoor","chapters":[{"title":"Chapter 24: Flight Down the Arinelle","info":"<a class='name' name='Coramoor'>Coramoor</a>, p. 300&#x2014;Man who, according to Sea Folk prophecy, will bring the Atha&apos;an Miere out of the sea. <i>See also</i> <a href='#Reborn'>Dragon Reborn</a>. "}]}
+{
+    "id": "Coramoor",
+    "name": "Coramoor",
+    "chapters": [
+        {
+            "title": "Chapter 24: Flight Down the Arinelle",
+            "info": "<a class='name' name='Coramoor'>Coramoor</a>, p. 300&#x2014;Man who, according to Sea Folk prophecy, will bring the Atha&apos;an Miere out of the sea. <i>See also</i> <a href='#Reborn'>Dragon Reborn</a>. "
+        }
+    ]
+}

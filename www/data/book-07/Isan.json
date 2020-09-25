@@ -1,1 +1,10 @@
-{"id":"Isan","name":"Isan","chapters":[{"title":"Chapter 2: The Butcher's Yard","info":"<a class='name' name='Isan'>Isan</a>, p. 73 (81)&#x2014;Maiden of the Spear of the Jarra sept of the Chareen Aiel. She died at Dumai&apos;s Wells. "}]}
+{
+    "id": "Isan",
+    "name": "Isan",
+    "chapters": [
+        {
+            "title": "Chapter 2: The Butcher's Yard",
+            "info": "<a class='name' name='Isan'>Isan</a>, p. 73 (81)&#x2014;Maiden of the Spear of the Jarra sept of the Chareen Aiel. She died at Dumai&apos;s Wells. "
+        }
+    ]
+}

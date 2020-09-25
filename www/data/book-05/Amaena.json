@@ -1,1 +1,10 @@
-{"id":"Amaena","name":"Amaena","chapters":[{"title":"Chapter 1: Fanning the Sparks","info":"<a class='name' name='Amaena'>Amaena</a>, p. 42 (33)&#x2014;Name that <a href='#Leane'>Leane</a> adopts while traveling to hide her true identity. <i>See</i> <a href='#Leane'>Sharif, Leane</a>. "}]}
+{
+    "id": "Amaena",
+    "name": "Amaena",
+    "chapters": [
+        {
+            "title": "Chapter 1: Fanning the Sparks",
+            "info": "<a class='name' name='Amaena'>Amaena</a>, p. 42 (33)&#x2014;Name that <a href='#Leane'>Leane</a> adopts while traveling to hide her true identity. <i>See</i> <a href='#Leane'>Sharif, Leane</a>. "
+        }
+    ]
+}

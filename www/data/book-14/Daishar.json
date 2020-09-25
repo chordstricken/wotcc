@@ -1,1 +1,10 @@
-{"id":"Daishar","name":"Daishar","chapters":[{"title":"Chapter 37: The Last Battle","info":"<a class='name' name='Daishar'>Daishar</a>, p. 657&#x2014;<a href='#Egwene'>Egwene</a>&apos;s roan horse. His name means &#x201C;Glory&#x201D; in the Old Tongue. "}]}
+{
+    "id": "Daishar",
+    "name": "Daishar",
+    "chapters": [
+        {
+            "title": "Chapter 37: The Last Battle",
+            "info": "<a class='name' name='Daishar'>Daishar</a>, p. 657&#x2014;<a href='#Egwene'>Egwene</a>&apos;s roan horse. His name means &#x201C;Glory&#x201D; in the Old Tongue. "
+        }
+    ]
+}

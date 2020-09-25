@@ -1,1 +1,10 @@
-{"id":"Mara","name":"Mara","chapters":[{"title":"Chapter 31: The Woman of Tanchico","info":"<a class='name' name='Mara'>Mara</a>, p. 351 (280)&#x2014;Character in a song that <a href='#Thom'>Thom</a> sings, &#x201C;Mara and the Three Foolish Kings.&#x201D; "}]}
+{
+    "id": "Mara",
+    "name": "Mara",
+    "chapters": [
+        {
+            "title": "Chapter 31: The Woman of Tanchico",
+            "info": "<a class='name' name='Mara'>Mara</a>, p. 351 (280)&#x2014;Character in a song that <a href='#Thom'>Thom</a> sings, &#x201C;Mara and the Three Foolish Kings.&#x201D; "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Bela","name":"Bela","chapters":[{"title":"Chapter 1: An Empty Road","info":"<a class='name' name='Bela'>Bela</a>, p. 2&#x2014;<a href='#Tam'>Tam</a>&apos;s work horse, a shaggy brown mare. "}]}
+{
+    "id": "Bela",
+    "name": "Bela",
+    "chapters": [
+        {
+            "title": "Chapter 1: An Empty Road",
+            "info": "<a class='name' name='Bela'>Bela</a>, p. 2&#x2014;<a href='#Tam'>Tam</a>&apos;s work horse, a shaggy brown mare. "
+        }
+    ]
+}

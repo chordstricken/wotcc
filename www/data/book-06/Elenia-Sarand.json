@@ -1,1 +1,10 @@
-{"id":"Elenia-Sarand","name":"Elenia Sarand","chapters":[{"title":"Chapter 1: Lion on the Hill","info":"<a class='name' name='Elenia'>Elenia Sarand</a>, p. 67 (78)&#x2014;Shrewish, honey-haired Andoran noble with an eye for <a href='#Rand'>Rand</a>. Her husband <a href='#Jarid'>Jarid</a> opposed <a href='#Morgase'>Morgase</a> during the Succession. "}]}
+{
+    "id": "Elenia-Sarand",
+    "name": "Elenia Sarand",
+    "chapters": [
+        {
+            "title": "Chapter 1: Lion on the Hill",
+            "info": "<a class='name' name='Elenia'>Elenia Sarand</a>, p. 67 (78)&#x2014;Shrewish, honey-haired Andoran noble with an eye for <a href='#Rand'>Rand</a>. Her husband <a href='#Jarid'>Jarid</a> opposed <a href='#Morgase'>Morgase</a> during the Succession. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Farran","name":"Farran","chapters":[{"title":"Chapter 1: Seeds of Shadow","info":"<a class='name' name='Farran'>Farran</a>, p. 40 (26)&#x2014;Whitecloak officer who sends <a href='#Ivon'>Ivon</a> to tell <a href='#Dain'>Dain</a> about <a href='#Ordeith'>Ordeith</a> and the Tuatha&apos;an. He is a &#x201C;bearded boulder of a man yet light on his feet.&#x201D; "}]}
+{
+    "id": "Farran",
+    "name": "Farran",
+    "chapters": [
+        {
+            "title": "Chapter 1: Seeds of Shadow",
+            "info": "<a class='name' name='Farran'>Farran</a>, p. 40 (26)&#x2014;Whitecloak officer who sends <a href='#Ivon'>Ivon</a> to tell <a href='#Dain'>Dain</a> about <a href='#Ordeith'>Ordeith</a> and the Tuatha&apos;an. He is a &#x201C;bearded boulder of a man yet light on his feet.&#x201D; "
+        }
+    ]
+}

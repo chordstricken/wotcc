@@ -1,1 +1,10 @@
-{"id":"Suladric","name":"Suladric","chapters":[{"title":"Prologue: The First Message","info":"<a class='name' name='Suladric'>Suladric</a>, p. 46 (50)&#x2014;Last true chief of the Shaido Aiel, and <a href='#Sevanna'>Sevanna</a>&apos;s first husband. After his death, Muradin went to Rhuidean to become his successor and failed; <a href='#Couladin'>Couladin</a> then declared himself to be the chief of the Shaido despite being refused permission to enter Rhuidean. His death set off what may some day be called the Shaido War in Cairhien. <i>See also</i> <a href='#Couladin'>Couladin</a>; <a href='#Sevanna'>Sevanna</a>. "}]}
+{
+    "id": "Suladric",
+    "name": "Suladric",
+    "chapters": [
+        {
+            "title": "Prologue: The First Message",
+            "info": "<a class='name' name='Suladric'>Suladric</a>, p. 46 (50)&#x2014;Last true chief of the Shaido Aiel, and <a href='#Sevanna'>Sevanna</a>&apos;s first husband. After his death, Muradin went to Rhuidean to become his successor and failed; <a href='#Couladin'>Couladin</a> then declared himself to be the chief of the Shaido despite being refused permission to enter Rhuidean. His death set off what may some day be called the Shaido War in Cairhien. <i>See also</i> <a href='#Couladin'>Couladin</a>; <a href='#Sevanna'>Sevanna</a>. "
+        }
+    ]
+}

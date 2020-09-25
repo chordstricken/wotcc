@@ -1,1 +1,10 @@
-{"id":"Akein","name":"Akein","chapters":[{"title":"Chapter 8: Dragon's Eggs","info":"<a class='name' name='Akein'>Akein</a>, p. 227&#x2014;<a href='#Tuon'>Tuon</a>&apos;s horse. She is a Domani razor, the rarest of breeds, and was a gift from <a href='#Mat'>Mat</a>. "}]}
+{
+    "id": "Akein",
+    "name": "Akein",
+    "chapters": [
+        {
+            "title": "Chapter 8: Dragon's Eggs",
+            "info": "<a class='name' name='Akein'>Akein</a>, p. 227&#x2014;<a href='#Tuon'>Tuon</a>&apos;s horse. She is a Domani razor, the rarest of breeds, and was a gift from <a href='#Mat'>Mat</a>. "
+        }
+    ]
+}

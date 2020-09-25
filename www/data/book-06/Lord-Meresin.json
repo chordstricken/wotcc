@@ -1,1 +1,10 @@
-{"id":"Lord-Meresin","name":"Lord Meresin","chapters":[{"title":"Chapter 5: A Different Dance","info":"<a class='name' name='Meresin'>Lord Meresin</a>, p. 126 (165)&#x2014;A lord who commands part of the Band of the Red Hand. "}]}
+{
+    "id": "Lord-Meresin",
+    "name": "Lord Meresin",
+    "chapters": [
+        {
+            "title": "Chapter 5: A Different Dance",
+            "info": "<a class='name' name='Meresin'>Lord Meresin</a>, p. 126 (165)&#x2014;A lord who commands part of the Band of the Red Hand. "
+        }
+    ]
+}

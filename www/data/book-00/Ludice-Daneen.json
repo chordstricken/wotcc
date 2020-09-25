@@ -1,1 +1,10 @@
-{"id":"Ludice-Daneen","name":"Ludice Daneen","chapters":[{"title":"Chapter 7: The Itch","info":"<a class='name' name='Ludice'>Ludice Daneen</a>, p. 119&#x2014;Bony Aes Sedai of the Yellow Ajah with a long, grim face. She has worn the shawl for over three hundred years. "}]}
+{
+    "id": "Ludice-Daneen",
+    "name": "Ludice Daneen",
+    "chapters": [
+        {
+            "title": "Chapter 7: The Itch",
+            "info": "<a class='name' name='Ludice'>Ludice Daneen</a>, p. 119&#x2014;Bony Aes Sedai of the Yellow Ajah with a long, grim face. She has worn the shawl for over three hundred years. "
+        }
+    ]
+}

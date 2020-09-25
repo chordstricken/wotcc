@@ -1,1 +1,10 @@
-{"id":"Garen","name":"Garen","chapters":[{"title":"Chapter 9: Traps","info":"<a class='name' name='Garen'>Garen</a>, p. 253 (297)&#x2014;Apparently a hero of Ghealdan&apos;s past. His wall is defended by the Queen. <i>See also</i> <a href='#Alliandre'>Kigarin, Alliandre Maritha</a>. "}]}
+{
+    "id": "Garen",
+    "name": "Garen",
+    "chapters": [
+        {
+            "title": "Chapter 9: Traps",
+            "info": "<a class='name' name='Garen'>Garen</a>, p. 253 (297)&#x2014;Apparently a hero of Ghealdan&apos;s past. His wall is defended by the Queen. <i>See also</i> <a href='#Alliandre'>Kigarin, Alliandre Maritha</a>. "
+        }
+    ]
+}

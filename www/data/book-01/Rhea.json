@@ -1,1 +1,14 @@
-{"id":"Rhea","name":"Rhea","chapters":[{"title":"Chapter 19: Shadow's Waiting","info":"<a class='name' name='Rhea'>Rhea</a>, p. 244&#x2014;Wife of <a href='#Caar'>Caar</a>, son of <a href='#Thorin'>Thorin</a>, the king of Manetheren during the time <a href='#Mordeth'>Mordeth</a> was in power in Aridhol. She killed her husband, and after he was buried killed herself upon his grave. <i>See also</i> <a href='#Caar'>al Thorin al Toren, Caar</a>; <a href='#Mordeth'>Mordeth</a>. "},{"title":"Chapter 32: Four Kings in Shadow","info":"<a class='name' name='Rhea2'>Rhea</a>, p. 396&#x2014;Subject of a song <a href='#Rand'>Rand</a> knows. It is called &#x201C;Jolly Jaim&#x201D; where Rand learned it, but in Four Kings it is known as &#x201C;Rhea&apos;s Fling.&#x201D; "}]}
+{
+    "id": "Rhea",
+    "name": "Rhea",
+    "chapters": [
+        {
+            "title": "Chapter 19: Shadow's Waiting",
+            "info": "<a class='name' name='Rhea'>Rhea</a>, p. 244&#x2014;Wife of <a href='#Caar'>Caar</a>, son of <a href='#Thorin'>Thorin</a>, the king of Manetheren during the time <a href='#Mordeth'>Mordeth</a> was in power in Aridhol. She killed her husband, and after he was buried killed herself upon his grave. <i>See also</i> <a href='#Caar'>al Thorin al Toren, Caar</a>; <a href='#Mordeth'>Mordeth</a>. "
+        },
+        {
+            "title": "Chapter 32: Four Kings in Shadow",
+            "info": "<a class='name' name='Rhea2'>Rhea</a>, p. 396&#x2014;Subject of a song <a href='#Rand'>Rand</a> knows. It is called &#x201C;Jolly Jaim&#x201D; where Rand learned it, but in Four Kings it is known as &#x201C;Rhea&apos;s Fling.&#x201D; "
+        }
+    ]
+}

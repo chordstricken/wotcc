@@ -1,1 +1,10 @@
-{"id":"Lord-Rodel-Ituralde","name":"Lord Rodel Ituralde","chapters":[{"title":"Prologue: Glimmers of the Pattern","info":"<a class='name' name='Rodel'>Lord Rodel Ituralde</a>, p. 15 (1)&#x2014;General of the army of Arad Doman. He is one of the greatest commanders alive, along with <a href='#Mat'>Mat Cauthon</a>, <a href='#Bashere'>Davram Bashere</a>, <a href='#Bryne'>Gareth Bryne</a>, and the Aiel clan chiefs. He keeps a neatly-trimmed mustache, and a ruby in his left ear. He is short in stature. He is called the Wolf by his peers&#x2014;when the Wolf calls, they follow his lead. <i>See also</i> <a href='#Tamsin'>Ituralde, Tamsin</a>. "}]}
+{
+    "id": "Lord-Rodel-Ituralde",
+    "name": "Lord Rodel Ituralde",
+    "chapters": [
+        {
+            "title": "Prologue: Glimmers of the Pattern",
+            "info": "<a class='name' name='Rodel'>Lord Rodel Ituralde</a>, p. 15 (1)&#x2014;General of the army of Arad Doman. He is one of the greatest commanders alive, along with <a href='#Mat'>Mat Cauthon</a>, <a href='#Bashere'>Davram Bashere</a>, <a href='#Bryne'>Gareth Bryne</a>, and the Aiel clan chiefs. He keeps a neatly-trimmed mustache, and a ruby in his left ear. He is short in stature. He is called the Wolf by his peers&#x2014;when the Wolf calls, they follow his lead. <i>See also</i> <a href='#Tamsin'>Ituralde, Tamsin</a>. "
+        }
+    ]
+}

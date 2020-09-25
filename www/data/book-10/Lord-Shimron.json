@@ -1,1 +1,10 @@
-{"id":"Lord-Shimron","name":"Lord Shimron","chapters":[{"title":"Prologue: Glimmers of the Pattern","info":"<a class='name' name='Shimron'>Lord Shimron</a>, p. 21 (9)&#x2014;Lord of Arad Doman. He is gaunt and white-haired. Shimron was one of <a href='#Alsalam'>Alsalam</a>&apos;s most trusted advisors until he became Dragonsworn. He is now high in the councils of the the Dragonsworn. He came to greet <a href='#Rodel'>Ituralde</a> at <a href='#Osana'>Lady Osana</a>&apos;s hunting lodge. <i>See also</i> <a href='#Ankaer'>Ankaer</a>; <a href='#Rajabi'>Rajabi</a>; <a href='#Wakeda'>Wakeda</a>. "}]}
+{
+    "id": "Lord-Shimron",
+    "name": "Lord Shimron",
+    "chapters": [
+        {
+            "title": "Prologue: Glimmers of the Pattern",
+            "info": "<a class='name' name='Shimron'>Lord Shimron</a>, p. 21 (9)&#x2014;Lord of Arad Doman. He is gaunt and white-haired. Shimron was one of <a href='#Alsalam'>Alsalam</a>&apos;s most trusted advisors until he became Dragonsworn. He is now high in the councils of the the Dragonsworn. He came to greet <a href='#Rodel'>Ituralde</a> at <a href='#Osana'>Lady Osana</a>&apos;s hunting lodge. <i>See also</i> <a href='#Ankaer'>Ankaer</a>; <a href='#Rajabi'>Rajabi</a>; <a href='#Wakeda'>Wakeda</a>. "
+        }
+    ]
+}

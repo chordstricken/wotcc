@@ -1,1 +1,10 @@
-{"id":"Daviena","name":"Daviena","chapters":[{"title":"Prologue: Deceptive Appearances","info":"<a class='name' name='Daviena'>Daviena</a>, p. 29 (17)&#x2014;Green-eyed Wise One with yellow-red hair. "}]}
+{
+    "id": "Daviena",
+    "name": "Daviena",
+    "chapters": [
+        {
+            "title": "Prologue: Deceptive Appearances",
+            "info": "<a class='name' name='Daviena'>Daviena</a>, p. 29 (17)&#x2014;Green-eyed Wise One with yellow-red hair. "
+        }
+    ]
+}

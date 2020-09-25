@@ -1,1 +1,10 @@
-{"id":"Amyrlin-Seat","name":"Amyrlin Seat","chapters":[{"title":"Chapter 2: A Wish Fulfilled","info":"<a class='name' name='Amyrlin'>Amyrlin Seat</a>, p. 26&#x2014;Leader of the Aes Sedai, their equivalent of a king or queen. Her authority is immense&#x2014;rulers of all nations will obey a summons to the Amyrlin, even if they will spend the entire journey devising a plan to kill her while there. The Amyrlin, once raised, is considered to be &#x201C;of all Ajahs and none&#x201D;&#x2014;she wears a stole striped with the seven colors of the Ajahs. The current Amyrlin is <a href='#Tamra'>Tamra Ospenya</a>, raised from the Blue Ajah. <i>See also</i> <a href='#Tamra'>Ospenya, Tamra</a>; <a href='#Sierin'>Vayu, Sierin</a>. "}]}
+{
+    "id": "Amyrlin-Seat",
+    "name": "Amyrlin Seat",
+    "chapters": [
+        {
+            "title": "Chapter 2: A Wish Fulfilled",
+            "info": "<a class='name' name='Amyrlin'>Amyrlin Seat</a>, p. 26&#x2014;Leader of the Aes Sedai, their equivalent of a king or queen. Her authority is immense&#x2014;rulers of all nations will obey a summons to the Amyrlin, even if they will spend the entire journey devising a plan to kill her while there. The Amyrlin, once raised, is considered to be &#x201C;of all Ajahs and none&#x201D;&#x2014;she wears a stole striped with the seven colors of the Ajahs. The current Amyrlin is <a href='#Tamra'>Tamra Ospenya</a>, raised from the Blue Ajah. <i>See also</i> <a href='#Tamra'>Ospenya, Tamra</a>; <a href='#Sierin'>Vayu, Sierin</a>. "
+        }
+    ]
+}

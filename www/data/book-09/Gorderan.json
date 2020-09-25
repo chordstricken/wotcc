@@ -1,1 +1,10 @@
-{"id":"Gorderan","name":"Gorderan","chapters":[{"title":"Chapter 17: Pink Ribbons","info":"<a class='name' name='Gorderan'>Gorderan</a>, p. 362 (415)&#x2014;One of <a href='#Mat'>Mat</a>&apos;s Redarms. He is good with a sword. He is built like the average blacksmith. "}]}
+{
+    "id": "Gorderan",
+    "name": "Gorderan",
+    "chapters": [
+        {
+            "title": "Chapter 17: Pink Ribbons",
+            "info": "<a class='name' name='Gorderan'>Gorderan</a>, p. 362 (415)&#x2014;One of <a href='#Mat'>Mat</a>&apos;s Redarms. He is good with a sword. He is built like the average blacksmith. "
+        }
+    ]
+}

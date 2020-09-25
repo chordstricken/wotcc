@@ -1,1 +1,10 @@
-{"id":"Arymilla-Marne","name":"Arymilla Marne","chapters":[{"title":"Chapter 1: Lion on the Hill","info":"<a class='name' name='Arymilla'>Arymilla Marne</a>, p. 66 (78)&#x2014;Brown-eyed Andoran noble with an eye for <a href='#Rand'>Rand</a>. She has a habit of fainting. She opposed <a href='#Morgase'>Morgase</a> during the Succession. "}]}
+{
+    "id": "Arymilla-Marne",
+    "name": "Arymilla Marne",
+    "chapters": [
+        {
+            "title": "Chapter 1: Lion on the Hill",
+            "info": "<a class='name' name='Arymilla'>Arymilla Marne</a>, p. 66 (78)&#x2014;Brown-eyed Andoran noble with an eye for <a href='#Rand'>Rand</a>. She has a habit of fainting. She opposed <a href='#Morgase'>Morgase</a> during the Succession. "
+        }
+    ]
+}

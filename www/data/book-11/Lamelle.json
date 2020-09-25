@@ -1,1 +1,10 @@
-{"id":"Lamelle","name":"Lamelle","chapters":[{"title":"Chapter 18: News for the Dragon","info":"<a class='name' name='Lamelle'>Lamelle</a>, p. 386&#x2014;Maiden of the Spear of the Smoke Water sept of the Miagoma Aiel. She was one of the worst at treating <a href='#Rand'>Rand</a> as a long-lost son, but eventually died in his service. "}]}
+{
+    "id": "Lamelle",
+    "name": "Lamelle",
+    "chapters": [
+        {
+            "title": "Chapter 18: News for the Dragon",
+            "info": "<a class='name' name='Lamelle'>Lamelle</a>, p. 386&#x2014;Maiden of the Spear of the Smoke Water sept of the Miagoma Aiel. She was one of the worst at treating <a href='#Rand'>Rand</a> as a long-lost son, but eventually died in his service. "
+        }
+    ]
+}

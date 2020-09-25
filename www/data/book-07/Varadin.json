@@ -1,1 +1,10 @@
-{"id":"Varadin","name":"Varadin","chapters":[{"title":"Prologue: Lightnings","info":"<a class='name' name='Varadin'>Varadin</a>, p. 46 (45)&#x2014;<a href='#Niall'>Pedron Niall</a>&apos;s main spy in Tarabon. He is more than slightly nutty. His reports of the Seanchan invasion were not believed until they were confirmed by <a href='#Faisar'>Faisar</a>. "}]}
+{
+    "id": "Varadin",
+    "name": "Varadin",
+    "chapters": [
+        {
+            "title": "Prologue: Lightnings",
+            "info": "<a class='name' name='Varadin'>Varadin</a>, p. 46 (45)&#x2014;<a href='#Niall'>Pedron Niall</a>&apos;s main spy in Tarabon. He is more than slightly nutty. His reports of the Seanchan invasion were not believed until they were confirmed by <a href='#Faisar'>Faisar</a>. "
+        }
+    ]
+}

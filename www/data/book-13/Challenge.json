@@ -1,1 +1,10 @@
-{"id":"Challenge","name":"Challenge","chapters":[{"title":"Chapter 23: Foxheads","info":"<a class='name' name='Challenge'>Challenge</a>, p. 379&#x2014;<a href='#Gawyn'>Gawyn</a>&apos;s horse. "}]}
+{
+    "id": "Challenge",
+    "name": "Challenge",
+    "chapters": [
+        {
+            "title": "Chapter 23: Foxheads",
+            "info": "<a class='name' name='Challenge'>Challenge</a>, p. 379&#x2014;<a href='#Gawyn'>Gawyn</a>&apos;s horse. "
+        }
+    ]
+}

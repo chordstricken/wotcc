@@ -1,1 +1,10 @@
-{"id":"Lini-Eltring","name":"Lini Eltring","chapters":[{"title":"Chapter 40: The Web Tightens","info":"<a class='name' name='Lini'>Lini Eltring</a>, p. 501&#x2014;Nurse to <a href='#Elayne'>Elayne</a> and <a href='#Morgase'>Morgase</a> during their respective childhoods. "}]}
+{
+    "id": "Lini-Eltring",
+    "name": "Lini Eltring",
+    "chapters": [
+        {
+            "title": "Chapter 40: The Web Tightens",
+            "info": "<a class='name' name='Lini'>Lini Eltring</a>, p. 501&#x2014;Nurse to <a href='#Elayne'>Elayne</a> and <a href='#Morgase'>Morgase</a> during their respective childhoods. "
+        }
+    ]
+}

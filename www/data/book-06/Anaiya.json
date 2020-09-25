@@ -1,1 +1,10 @@
-{"id":"Anaiya","name":"Anaiya","chapters":[{"title":"Prologue: The First Message","info":"<a class='name' name='Anaiya'>Anaiya</a>, p. 25 (20)&#x2014;Aes Sedai of the Blue Ajah. She has blunt, motherly facial features. She was very good friends with <a href='#Moiraine'>Moiraine</a> both as a novice and as a full sister. She, like all Blues, fled the Tower when <a href='#Elaida'>Elaida</a> was raised to the Striped Stole, and now carries a position of considerable influence in the &#x201C;Little Tower&#x201D; in Salidar. "}]}
+{
+    "id": "Anaiya",
+    "name": "Anaiya",
+    "chapters": [
+        {
+            "title": "Prologue: The First Message",
+            "info": "<a class='name' name='Anaiya'>Anaiya</a>, p. 25 (20)&#x2014;Aes Sedai of the Blue Ajah. She has blunt, motherly facial features. She was very good friends with <a href='#Moiraine'>Moiraine</a> both as a novice and as a full sister. She, like all Blues, fled the Tower when <a href='#Elaida'>Elaida</a> was raised to the Striped Stole, and now carries a position of considerable influence in the &#x201C;Little Tower&#x201D; in Salidar. "
+        }
+    ]
+}

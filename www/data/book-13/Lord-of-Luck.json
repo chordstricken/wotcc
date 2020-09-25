@@ -1,1 +1,10 @@
-{"id":"Lord-of-Luck","name":"Lord of Luck","chapters":[{"title":"Chapter 22: The End of a Legend","info":"<a class='name' '=''>Lord of Luck</a>, p. 344&#x2014;Name sometimes used, with some reverence, for <a href='#Mat'>Mat</a>. "}]}
+{
+    "id": "Lord-of-Luck",
+    "name": "Lord of Luck",
+    "chapters": [
+        {
+            "title": "Chapter 22: The End of a Legend",
+            "info": "<a class='name' '=''>Lord of Luck</a>, p. 344&#x2014;Name sometimes used, with some reverence, for <a href='#Mat'>Mat</a>. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Jala-Bandevin","name":"Jala Bandevin","chapters":[{"title":"Prologue: Embers Falling on Dry Grass","info":"<a class='name' name='Jala'>Jala Bandevin</a>, p. 86&#x2014;Gray-haired Aes Sedai of the Green Ajah. She is an imposing woman despite being nearly a hand shorter than <a href='#Moiraine'>Moiraine</a>. She ran off immediately to tell <a href='#Elaida'>Elaida</a> (or someone else in the Tower) who it was they had captured at North Harbor. "}]}
+{
+    "id": "Jala-Bandevin",
+    "name": "Jala Bandevin",
+    "chapters": [
+        {
+            "title": "Prologue: Embers Falling on Dry Grass",
+            "info": "<a class='name' name='Jala'>Jala Bandevin</a>, p. 86&#x2014;Gray-haired Aes Sedai of the Green Ajah. She is an imposing woman despite being nearly a hand shorter than <a href='#Moiraine'>Moiraine</a>. She ran off immediately to tell <a href='#Elaida'>Elaida</a> (or someone else in the Tower) who it was they had captured at North Harbor. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Sotarin","name":"Sotarin","chapters":[{"title":"Chapter 3: Hill of the Golden Dawn","info":"<a class='name' name='Sotarin'>Sotarin</a>, p. 95 (110)&#x2014;Wise One who comes to meet the newcomer, <a href='#Feraighin'>Feraighin</a>. "}]}
+{
+    "id": "Sotarin",
+    "name": "Sotarin",
+    "chapters": [
+        {
+            "title": "Chapter 3: Hill of the Golden Dawn",
+            "info": "<a class='name' name='Sotarin'>Sotarin</a>, p. 95 (110)&#x2014;Wise One who comes to meet the newcomer, <a href='#Feraighin'>Feraighin</a>. "
+        }
+    ]
+}

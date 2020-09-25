@@ -1,1 +1,10 @@
-{"id":"Hopper","name":"Hopper","chapters":[{"title":"Chapter 21: Listen to the WindChapter 22: A Path ChosenChapter 23: Wolfbrother","info":"<a class='name' name='Hopper'>Hopper</a>, p. 286&#x2014;Wolf that <a href='#Elyas'>Elyas</a> knows. He is an older wolf, but very smart. He is dedicated to <a href='#Dapple'>Dapple</a>; his mission in life is to see that what she wants is carried out. "}]}
+{
+    "id": "Hopper",
+    "name": "Hopper",
+    "chapters": [
+        {
+            "title": "Chapter 21: Listen to the WindChapter 22: A Path ChosenChapter 23: Wolfbrother",
+            "info": "<a class='name' name='Hopper'>Hopper</a>, p. 286&#x2014;Wolf that <a href='#Elyas'>Elyas</a> knows. He is an older wolf, but very smart. He is dedicated to <a href='#Dapple'>Dapple</a>; his mission in life is to see that what she wants is carried out. "
+        }
+    ]
+}

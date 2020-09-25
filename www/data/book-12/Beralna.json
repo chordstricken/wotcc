@@ -1,1 +1,10 @@
-{"id":"Beralna","name":"Beralna","chapters":[{"title":"Chapter 29: Into Bandar Eban","info":"<a class='name' name='Beralna'>Beralna</a>, p. 452&#x2014;A Maiden of the Spear. She is a bony redhead with blue eyes and a feral grin. She travels with <a href='#Rand'>Rand</a> in Arad Doman. "}]}
+{
+    "id": "Beralna",
+    "name": "Beralna",
+    "chapters": [
+        {
+            "title": "Chapter 29: Into Bandar Eban",
+            "info": "<a class='name' name='Beralna'>Beralna</a>, p. 452&#x2014;A Maiden of the Spear. She is a bony redhead with blue eyes and a feral grin. She travels with <a href='#Rand'>Rand</a> in Arad Doman. "
+        }
+    ]
+}

@@ -1,1 +1,10 @@
-{"id":"Basel-Gill","name":"Basel Gill","chapters":[{"title":"Chapter 4: Summoned","info":"<a class='name' name='Gill'>Basel Gill</a>, p. 57 (52)&#x2014;The innkeeper of The Queen&apos;s Blessing, the inn where the travelers from Emond&apos;s Field stayed while they were in Caemlyn. "}]}
+{
+    "id": "Basel-Gill",
+    "name": "Basel Gill",
+    "chapters": [
+        {
+            "title": "Chapter 4: Summoned",
+            "info": "<a class='name' name='Gill'>Basel Gill</a>, p. 57 (52)&#x2014;The innkeeper of The Queen&apos;s Blessing, the inn where the travelers from Emond&apos;s Field stayed while they were in Caemlyn. "
+        }
+    ]
+}

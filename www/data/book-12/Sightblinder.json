@@ -1,1 +1,10 @@
-{"id":"Sightblinder","name":"Sightblinder","chapters":[{"title":"Chapter 3: The Ways of Honor","info":"<a class='name' '=''>Sightblinder</a>, p. 83&#x2014;One name the Aiel use for the <a href='#Dark'>Dark One</a>. <i>See</i> <a href='#Dark'>Dark One</a>. "}]}
+{
+    "id": "Sightblinder",
+    "name": "Sightblinder",
+    "chapters": [
+        {
+            "title": "Chapter 3: The Ways of Honor",
+            "info": "<a class='name' '=''>Sightblinder</a>, p. 83&#x2014;One name the Aiel use for the <a href='#Dark'>Dark One</a>. <i>See</i> <a href='#Dark'>Dark One</a>. "
+        }
+    ]
+}

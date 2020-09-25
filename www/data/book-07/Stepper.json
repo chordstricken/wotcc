@@ -1,1 +1,10 @@
-{"id":"Stepper","name":"Stepper","chapters":[{"title":"Chapter 1: High Chasaline","info":"<a class='name' name='Stepper'>Stepper</a>, p. 66 (72)&#x2014;<a href='#Perrin'>Perrin</a>&apos;s dun stallion. "}]}
+{
+    "id": "Stepper",
+    "name": "Stepper",
+    "chapters": [
+        {
+            "title": "Chapter 1: High Chasaline",
+            "info": "<a class='name' name='Stepper'>Stepper</a>, p. 66 (72)&#x2014;<a href='#Perrin'>Perrin</a>&apos;s dun stallion. "
+        }
+    ]
+}
