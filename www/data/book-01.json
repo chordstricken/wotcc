@@ -34,8 +34,8 @@
         "name": "Adora Aybara",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Adora'>Adora Aybara</a>, p. [4]&#x2014;<a href='#Perrin'>Perrin</a>&apos;s eight-year-old sister. She seemed upset that her mother and father were detaining her at the forge when she could have been playing with her friends&#x2014;she will not be asked to carry water for another year. She tells <a href='#Egwene'>Egwene</a>, &#x201C;everybody says she&apos;ll marry <a href='#Rand'>Rand al&apos;Thor</a>&#x201D;; Egwene was aware that her parents and perhaps Rand&apos;s father thought this, but not that <i>everyone</i> thought so&#x2026;. <i>See also</i> <a href='#Con'>Aybara, Con</a>; <a href='#Deselle'>Aybara, Deselle</a>; <a href='#Joslyn'>Aybara, Joslyn</a>; <a href='#Paetram'>Aybara, Paetram</a>; <a href='#Perrin'>Aybara, Perrin</a>. "
+                "title": "Chatper 1: An Empty Road",
+                "info": "<a class='name' name='Adora'>Adora Aybara</a>; Perrin's sister. Her father and mother are Con Aybara and Joslyn Aybara. She has a brother, Paet, and a sister, Deselle."
             }
         ]
     },
@@ -84,8 +84,8 @@
         "name": "Alene al'Vere",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Alene'>Alene al&apos;Vere</a>, p. [7]&#x2014;Second oldest of five daughters of <a href='#Marin'>Marin</a> and <a href='#Bran'>Bran al&apos;Vere</a> of Emond&apos;s Field. She loves to read, and ignores <a href='#Egwene'>Egwene</a> unless Egwene is presently reading a book that she herself wants to read&#x2014;in this case, she usually takes it and proclaims it to be much too &#x201C;complex&#x201D; for Egwene to understand. <i>See also</i> <a href='#Berowyn'>al&apos;Vere, Berowyn</a>; <a href='#Bran'>al&apos;Vere, Brandelwyn</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Loise'>al&apos;Vere, Loise</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Alene'>Alene al&apos;Vere</a> is the second oldest of five daughters of <a href='#Marin'>Marin</a> and <a href='#Bran'>Bran al&apos;Vere</a> of Emond&apos;s Field. <i>See also</i> <a href='#Berowyn'>al&apos;Vere, Berowyn</a>; <a href='#Bran'>al&apos;Vere, Brandelwyn</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Loise'>al&apos;Vere, Loise</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "
             }
         ]
     },
@@ -199,6 +199,16 @@
             }
         ]
     },
+    "Artur-Hawkwing": {
+        "id": "Artur-Hawkwing",
+        "name": "Artur Hawkwing",
+        "chapters": [
+            {
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Hawkwing'>Artur Hawkwing</a>, the name by which <a href='#Artur'>Artur Paendrag Tanreall</a> was known during his conquest of the world. <i>See</i> <a href='#Artur'>Paendrag Tanreall, Artur</a>. "
+            }
+        ]
+    },
     "Artur-Paendrag-Tanreall": {
         "id": "Artur-Paendrag-Tanreall",
         "name": "Artur Paendrag Tanreall",
@@ -274,8 +284,8 @@
         "name": "Bandry (Ban) Crawe",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Bandry'>Bandry (Ban) Crawe</a>, p. 51 [10]&#x2014;A young man from Emond&apos;s Field, son of <a href='#Samel'>Samel</a>. He is about ten months older than <a href='#Rand'>Rand</a>. Like the three boys who left Emond&apos;s Field on Winternight, he saw the Black Rider. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Bandry'>Bandry (Ban) Crawe</a> is a young man from Emond&apos;s Field and the son of <a href='#Samel'>Samel</a>. He is about ten months older than <a href='#Rand'>Rand</a>."
             }
         ]
     },
@@ -344,8 +354,8 @@
         "name": "Berowyn al'Vere",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Berowyn'>Berowyn al&apos;Vere</a>, p. [3]&#x2014;Oldest of the five daughters of <a href='#Bran'>Bran</a> and <a href='#Marin'>Marin al&apos;Vere</a>; <a href='#Egwene'>Egwene</a>&apos;s oldest sister. She has been allowed to wear her hair in a braid, the Two Rivers symbol of adulthood for women, since she was sixteen years old. Berowyn was married, but her husband and her newborn child died in the epidemic of breakbone fever that struck the village; the same epidemic threatened Egwene&apos;s life as well. She has since treated Egwene as though she were Berowyn&apos;s own child, mooning over her as if she were the last thing left in her life. <i>See also</i> <a href='#Alene'>al&apos;Vere, Alene</a>; <a href='#Bran'>al&apos;Vere, Brandelwyn</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Loise'>al&apos;Vere, Loise</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Berowyn'>Berowyn al&apos;Vere</a>, is the oldest of the five daughters of <a href='#Bran'>Bran</a> and <a href='#Marin'>Marin al&apos;Vere</a>. She is <a href='#Egwene'>Egwene</a>&apos;s oldest sister, and has been allowed to wear her hair in a braid, the Two Rivers symbol of adulthood for women, since she was sixteen years old. <i>See also</i> <a href='#Alene'>al&apos;Vere, Alene</a>; <a href='#Bran'>al&apos;Vere, Brandelwyn</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Loise'>al&apos;Vere, Loise</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "
             }
         ]
     },
@@ -364,8 +374,8 @@
         "name": "Bili Congar",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Bili'>Bili Congar</a>, p. 34 [7]&#x2014;A man from Emond&apos;s Field. According to <a href='#Egwene'>Egwene</a>, he is always doing stupid things and always getting hurt. She has very little, if any, respect for him. He is of an age with <a href='#Luhhan'>Haral Luhhan</a>, but he <i>looks</i> as though he is about ten years older due to his hollow cheeks and sunken eyes. Egwene encountered him with the Wisdom after he sliced open his leg due to being drunk while trying to shear sheep. It is later revealed that he does not believe in the <a href='#Dark'>Dark One</a>, Darkfriends, Aes Sedai, or any of the other stories. He once <i>named</i> the Dark One, but when ill fortune struck his crops for months afterwards, he scowled at anyone (such as <a href='#Mat'>Mat</a>) who attempted to get him to do so again. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Bili'>Bili Congar</a> is a man from Emond&apos;s Field. According to <a href='#Egwene'>Egwene</a>, he is always doing stupid things and always getting hurt. She has very little, if any, respect for him. He is of an age with <a href='#Luhhan'>Haral Luhhan</a>, but he <i>looks</i> as though he is about ten years older due to his hollow cheeks and sunken eyes. "
             }
         ]
     },
@@ -374,8 +384,8 @@
         "name": "Bili al'Dai",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='alDai'>Bili al&apos;Dai</a>, p. [14]&#x2014;Young man from Emond&apos;s Field. He is <a href='#MralDai'>Master al&apos;Dai</a>&apos;s grandson. <i>See also</i> <a href='#alDai'>al&apos;Dai, Bili</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='alDai'>Bili al&apos;Dai</a> is a young man from Emond&apos;s Field. He is <a href='#MralDai'>Master al&apos;Dai</a>&apos;s grandson. <i>See also</i> <a href='#alDai'>al&apos;Dai, Bili</a>. "
             }
         ]
     },
@@ -394,8 +404,8 @@
         "name": "Bodewhin (Bode) Cauthon",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Bode'>Bodewhin (Bode) Cauthon</a>, p. [12]&#x2014;Girl from Emond&apos;s Field. She is eight years old, one year younger than <a href='#Egwene'>Egwene</a>. She seems to enjoy telling on her brother, <a href='#Mat'>Mat</a>, after he has gotten himself into mischief (which is quite often). <i>See also</i> <a href='#Abell'>Cauthon, Abell</a>; <a href='#Eldrin'>Cauthon, Eldrin</a>; <a href='#Mat'>Cauthon, Matrim</a>; <a href='#Natti'>Cauthon, Natti</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Bode'>Bodewhin (Bode) Cauthon</a>is a girl from Emond&apos;s Field. She is about one year younger than <a href='#Egwene'>Egwene</a>. She seems to enjoy telling on her brother, <a href='#Mat'>Mat</a>, after he has gotten himself into mischief (which is quite often). <i>See also</i> <a href='#Abell'>Cauthon, Abell</a>; <a href='#Eldrin'>Cauthon, Eldrin</a>; <a href='#Mat'>Cauthon, Matrim</a>; <a href='#Natti'>Cauthon, Natti</a>. "
             }
         ]
     },
@@ -404,8 +414,8 @@
         "name": "Brandelwyn (Bran) al'Vere",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Bran'>Brandelwyn (Bran) al&apos;Vere</a>, p. 7 [12]&#x2014;Mayor of Emond&apos;s Field and innkeeper of the Winespring Inn. He is the father of five girls, including <a href='#Egwene'>Egwene</a>. He has a large girth, about double of anyone else, and a fringe of thinning gray hair. He is known around town as being very stubborn, and not someone to be trifled with. <i>See also</i> <a href='#Alene'>al&apos;Vere, Alene</a>; <a href='#Berowyn'>al&apos;Vere, Berowyn</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Loise'>al&apos;Vere, Loise</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Bran'>Brandelwyn (Bran) al&apos;Vere</a>is the mayor of Emond&apos;s Field and innkeeper of the Winespring Inn. He is the father of five girls, including <a href='#Egwene'>Egwene</a>. He has a large girth, about double of anyone else, and a fringe of thinning gray hair. He is known around town as being very stubborn, and not someone to be trifled with. <i>See also</i> <a href='#Alene'>al&apos;Vere, Alene</a>; <a href='#Berowyn'>al&apos;Vere, Berowyn</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Loise'>al&apos;Vere, Loise</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "
             }
         ]
     },
@@ -464,8 +474,8 @@
         "name": "Calle Coplin",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Calle'>Calle Coplin</a>, p. [8]&#x2014;Young woman from Emond&apos;s Field. She is twenty years old, almost twenty-one, though she still has not been granted the privilege of wearing her hair in a braid, the symbol of womanhood in Emond&apos;s Field. She enjoys flirting, and does not seem to be bothered by the fact that many girls as many as four years her junior are considered grown women while she is not. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Calle'>Calle Coplin</a>is a young woman from Emond&apos;s Field. She has not been granted the privilege of wearing her hair in a braid, the symbol of womanhood in Emond&apos;s Field, even though she is well into her twenties. She enjoys flirting, and does not seem to be bothered by the fact that many girls as many as four years her junior are considered grown women while she is not. "
             }
         ]
     },
@@ -474,8 +484,8 @@
         "name": "Cenn Buie",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Cenn'>Cenn Buie</a>, p. 6 [13]&#x2014;Thatcher in Emond&apos;s Field. He is gnarled but spry, and speaks with a raspy voice. He sits on the Village Council, but is probably the most disagreeable member on it. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Cenn'>Cenn Buie</a>, the thatcher in Emond&apos;s Field. He is gnarled but spry, and speaks with a raspy voice. He sits on the Village Council, but is probably the most disagreeable member on it. "
             }
         ]
     },
@@ -494,8 +504,8 @@
         "name": "Cilia Cole",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Cilia'>Cilia Cole</a>, p. [5]&#x2014;Pink-cheeked girl of eleven from Emond&apos;s Field. <a href='#Egwene'>Egwene</a> considers her a &#x201C;ninny.&#x201D; She likes to stare and make calf-eyes at <a href='#Perrin'>Perrin</a>; Egwene thinks Perrin at least ought to <i>notice</i> her attentions. <i>We find out later, of course, that Cilia eventually gave Perrin his first kiss.</i> "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Cilia'>Cilia Cole</a> is a from Emond&apos;s Field. <a href='#Egwene'>Egwene</a> considers her a &#x201C;ninny.&#x201D; She likes to stare and make calf-eyes at <a href='#Perrin'>Perrin</a>; Egwene thinks Perrin at least ought to <i>notice</i> her attentions. <i>"
             }
         ]
     },
@@ -534,8 +544,8 @@
         "name": "Con Aybara",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Con'>Con Aybara</a>, p. [5]&#x2014;Father of <a href='#Perrin'>Perrin</a>, <a href='#Adora'>Adora</a>, <a href='#Deselle'>Deselle</a>, and <a href='#Paetram'>Paetram</a> and husband of <a href='#Joslyn'>Joslyn</a>. <i>See also</i> <a href='#Adora'>Aybara, Adora</a>; <a href='#Deselle'>Aybara, Deselle</a>; <a href='#Joslyn'>Aybara, Joslyn</a>; <a href='#Paetram'>Aybara, Paetram</a>; <a href='#Perrin'>Aybara, Perrin</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Con'>Con Aybara</a>, father of <a href='#Perrin'>Perrin</a>, <a href='#Adora'>Adora</a>, <a href='#Deselle'>Deselle</a>, and <a href='#Paetram'>Paetram</a> and husband of <a href='#Joslyn'>Joslyn</a>. <i>See also</i> <a href='#Adora'>Aybara, Adora</a>; <a href='#Deselle'>Aybara, Deselle</a>; <a href='#Joslyn'>Aybara, Joslyn</a>; <a href='#Paetram'>Aybara, Paetram</a>; <a href='#Perrin'>Aybara, Perrin</a>. "
             }
         ]
     },
@@ -554,8 +564,8 @@
         "name": "Corin Ayellin",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Corin'>Corin Ayellin</a>, p. 36 [4]&#x2014;Slim woman from Emond&apos;s Field. She has a thick gray braid that hangs down as far as her hips. She bakes the best sweets in Emond&apos;s Field, possibly in the Two Rivers&#x2014;<a href='#Egwene'>Egwene</a> asserts that her own mother&apos;s are better, but even her mother admits that Mistress Ayellin&apos;s are the best. <i>See also</i> <a href='#Dav'>Ayellin, Dav</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Corin'>Corin Ayellin</a> is a slim woman from Emond&apos;s Field. She has a thick gray braid that hangs down as far as her hips. She bakes the best sweets in Emond&apos;s Field, possibly in the Two Rivers&#x2014;<a href='#Egwene'>Egwene</a> asserts that her own mother&apos;s are better, but even her mother admits that Mistress Ayellin&apos;s are the best. <i>See also</i> <a href='#Dav'>Ayellin, Dav</a>. "
             }
         ]
     },
@@ -593,10 +603,6 @@
         "id": "Dag-Coplin",
         "name": "Dag Coplin",
         "chapters": [
-            {
-                "title": "Ravens",
-                "info": "<a class='name' name='Dag2'>Dag Coplin</a>, p. [6]&#x2014;Old man from Emond&apos;s Field. His hair is gray, and is not washed all that often, if at all. His skin is very wrinkled with age. <a href='#Egwene'>Egwene</a> only calls him &#x201C;Master Coplin&#x201D; in public, to be polite&#x2014;in her own head, he is simply Dag Coplin, with no further respect involved. <i>Not to be confused with his grandson, who has the same name.</i> <i>See also</i> <a href='#Dag'>Coplin, Dag</a>. "
-            },
             {
                 "title": "Chapter 2: Strangers",
                 "info": "<a class='name' name='Dag'>Dag Coplin</a>, p. 18&#x2014;Boy from Emond&apos;s Field that <a href='#Mat'>Mat</a> fooled with a story about ghost dogs, shortly before releasing <a href='#Luhhan'>Master Luhhan</a>&apos;s dogs covered with flour. <i>See also</i> <a href='#Darl'>Coplin, Darl</a>; <a href='#Ewal'>Coplin, Ewal</a>; <a href='#Hari'>Coplin, Hari</a>. "
@@ -638,8 +644,8 @@
         "name": "Dannil Lewin",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Dannil'>Dannil Lewin</a>, p. [12]&#x2014;Boy from Emond&apos;s Field. He is thirteen years old, even skinnier than <a href='#Rand'>Rand</a>, and has a thrusting nose. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Dannil'>Dannil Lewin</a>, a boy from Emond&apos;s Field. He is even skinnier than <a href='#Rand'>Rand</a>, is a year older than him, and is described as having a thrusting nose. "
             }
         ]
     },
@@ -718,8 +724,8 @@
         "name": "Dav Ayellin",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Dav'>Dav Ayellin</a>, p. 11 [10]&#x2014;Boy from Emond&apos;s Field, of an age with <a href='#Mat'>Mat</a>. He and Mat are friends, and like to get into mischief together. In fact, he and Mat seem to have a competition over who can get into the most trouble. <i>See also</i> <a href='#Corin'>Ayellin, Corin</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Dav'>Dav Ayellin</a> is a boy from Emond&apos;s Field, of an age with <a href='#Mat'>Mat</a>. He and Mat are friends, and like to get into mischief together. In fact, he and Mat seem to have a competition over who can get into the most trouble. <i>See also</i> <a href='#Corin'>Ayellin, Corin</a>. "
             }
         ]
     },
@@ -748,8 +754,8 @@
         "name": "Deselle Aybara",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Deselle'>Deselle Aybara</a>, p. [4]&#x2014;<a href='#Perrin'>Perrin</a>&apos;s three-year-old sister. She enjoys &#x201C;flying&#x201D; (Perrin holding her arms and spinning her until her feet leave the ground). <i>See also</i> <a href='#Adora'>Aybara, Adora</a>; <a href='#Con'>Aybara, Con</a>; <a href='#Joslyn'>Aybara, Joslyn</a>; <a href='#Paetram'>Aybara, Paetram</a>; <a href='#Perrin'>Aybara, Perrin</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Deselle'>Deselle Aybara</a> is <a href='#Perrin'>Perrin</a>&apos;s younger sister. <i>See also</i> <a href='#Adora'>Aybara, Adora</a>; <a href='#Con'>Aybara, Con</a>; <a href='#Joslyn'>Aybara, Joslyn</a>; <a href='#Paetram'>Aybara, Paetram</a>; <a href='#Perrin'>Aybara, Perrin</a>. "
             }
         ]
     },
@@ -758,8 +764,8 @@
         "name": "Doral Barran",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Barran'>Doral Barran</a>, p. 268 [7]&#x2014;Wisdom of Emond&apos;s Field. She is the oldest woman in Emond&apos;s Field, possibly in the entire Two Rivers. She is white-haired and frail, though still clear-eyed and not stooped at all. Her last apprentice died of a mysterious illness that she could not cure. She currently has another apprentice, <a href='#Nynaeve'>Nynaeve al&apos;Meara</a>, who has been studying under her for three years. <i>See also</i> <a href='#Nynaeve'>al&apos;Meara, Nynaeve</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Barran'>Doral Barran</a> was the Wisdom of Emond&apos;s Field. She is the oldest woman in Emond&apos;s Field, possibly in the entire Two Rivers. She is white-haired and frail, though still clear-eyed and not stooped at all. Her last apprentice died of a mysterious illness that she could not cure. She mentored <a href='#Nynaeve'>Nynaeve al&apos;Meara</a>, who recently replaced her as Wisdom. <i>See also</i> <a href='#Nynaeve'>al&apos;Meara, Nynaeve</a>. "
             }
         ]
     },
@@ -798,8 +804,8 @@
         "name": "Egwene al'Vere",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Egwene'>Egwene al&apos;Vere</a>, p. 5 [1]&#x2014;A nine-year-old girl from Emond&apos;s Field. She is the daughter of <a href='#Bran'>Bran</a>, the Mayor of Emond&apos;s Field, and his wife <a href='#Marin'>Marin</a>. Egwene has four older sisters; <a href='#Berowyn'>Berowyn</a>, <a href='#Alene'>Alene</a>, <a href='#Elisa'>Elisa</a>, and <a href='#Loise'>Loise</a>; and resents them at times for treating her as the baby of the family. Egwene dislikes dogs, and is not considered big for her age. She loves her village and its customs, but she is beginning to wonder what the world outside it is like. After reaching the age of eighteen, Egwene earns the right to wear her hair in a braid for the first time, the Two Rivers symbol of womanhood. She has large brown eyes. She and <a href='#Rand'>Rand</a> have been all but Promised to each other since she was nine; this makes him uncomfortable. <a href='#Nynaeve'>Nynaeve</a> discovered that Egwene has the ability to Listen to the Wind, a Talent that all Wisdoms claim to possess but few actually do. <i>See also</i> <a href='#Alene'>al&apos;Vere, Alene</a>; <a href='#Berowyn'>al&apos;Vere, Berowyn</a>; <a href='#Bran'>al&apos;Vere, Brandelwyn</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Loise'>al&apos;Vere, Loise</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Egwene'>Egwene al&apos;Vere</a> is a 17-year-old girl from Emond&apos;s Field. She is the daughter of <a href='#Bran'>Bran</a>, the Mayor of Emond&apos;s Field, and his wife <a href='#Marin'>Marin</a>. Egwene has four older sisters; <a href='#Berowyn'>Berowyn</a>, <a href='#Alene'>Alene</a>, <a href='#Elisa'>Elisa</a>, and <a href='#Loise'>Loise</a>; and resents them at times for treating her as the baby of the family. <i>See also</i> <a href='#Alene'>al&apos;Vere, Alene</a>; <a href='#Berowyn'>al&apos;Vere, Berowyn</a>; <a href='#Bran'>al&apos;Vere, Brandelwyn</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Loise'>al&apos;Vere, Loise</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "
             }
         ]
     },
@@ -818,8 +824,8 @@
         "name": "Elam Dowtry",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Elam'>Elam Dowtry</a>, p. 12 [10]&#x2014;One of <a href='#Mat'>Mat</a>&apos;s friends in Emond&apos;s Field. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Elam'>Elam Dowtry</a> is one of <a href='#Mat'>Mat</a>&apos;s friends in Emond&apos;s Field. "
             }
         ]
     },
@@ -858,8 +864,8 @@
         "name": "Eldrin Cauthon",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Eldrin'>Eldrin Cauthon</a>, p. [12]&#x2014;Girl from Emond&apos;s Field. She is about two years younger than <a href='#Egwene'>Egwene</a>. She seems to enjoy telling on her brother, <a href='#Mat'>Mat</a>, after he has gotten himself into mischief (which is quite often). <i>See also</i> <a href='#Abell'>Cauthon, Abell</a>; <a href='#Bode'>Cauthon, Bodewhin</a>; <a href='#Natti'>Cauthon, Natti</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Eldrin'>Eldrin Cauthon</a> is a girl from Emond&apos;s Field. She is about two years younger than <a href='#Egwene'>Egwene</a>. She seems to enjoy telling on her brother, <a href='#Mat'>Mat</a>, after he has gotten himself into mischief (which is quite often). <i>See also</i> <a href='#Abell'>Cauthon, Abell</a>; <a href='#Bode'>Cauthon, Bodewhin</a>; <a href='#Natti'>Cauthon, Natti</a>. "
             }
         ]
     },
@@ -868,8 +874,8 @@
         "name": "Elisa al'Vere",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Elisa'>Elisa al&apos;Vere</a>, p. [8]&#x2014;Third oldest of five daughters of <a href='#Marin'>Marin</a> and <a href='#Bran'>Bran</a> al&apos;Vere of Emond&apos;s Field. She is eighteen. She wears her hair to her waist, tied with a blue kerchief&#x2014;the Women&apos;s Circle has not yet granted her the privilege of wearing it braided. She is one year older than <a href='#Nynaeve'>Nynaeve</a>. She is very fond of quotations; Egwene finds in annoying when they get stuck in her head. <i>See also</i> <a href='#Alene'>al&apos;Vere, Alene</a>; <a href='#Berowyn'>al&apos;Vere, Berowyn</a>; <a href='#Bran'>al&apos;Vere, Brandelwyn</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Loise'>al&apos;Vere, Loise</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Elisa'>Elisa al&apos;Vere</a> is the third oldest of five daughters of <a href='#Marin'>Marin</a> and <a href='#Bran'>Bran</a> al&apos;Vere of Emond&apos;s Field. She is one year older than <a href='#Nynaeve'>Nynaeve</a>. <i>See also</i> <a href='#Alene'>al&apos;Vere, Alene</a>; <a href='#Berowyn'>al&apos;Vere, Berowyn</a>; <a href='#Bran'>al&apos;Vere, Brandelwyn</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Loise'>al&apos;Vere, Loise</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "
             }
         ]
     },
@@ -938,8 +944,8 @@
         "name": "Ewin Finngar",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Ewin'>Ewin Finngar</a>, p. 5 [4]&#x2014;Boy from Emond&apos;s Field. He is very young&#x2014;seven or eight years old&#x2014;but he already has a reputation for filching sweets when no one is looking. He is about six years younger than <a href='#Mat'>Mat</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Ewin'>Ewin Finngar</a> is a boy from Emond&apos;s Field. He is about six years younger than <a href='#Mat'>Mat</a>. "
             }
         ]
     },
@@ -1102,8 +1108,8 @@
         "name": "Haral Luhhan",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Luhhan'>Haral Luhhan</a>, p. 17 [4]&#x2014;Blacksmith of Emond&apos;s Field. His arms are as big as most men&apos;s legs, and his chest strains his shirt. He is the tallest man in the Two Rivers. Master Luhhan has recently aquired a new apprentice in <a href='#Perrin'>Perrin Aybara</a>. His wife, <a href='#Alsbet'>Alsbet</a>, is almost as large as he is. He sits on the Village Council. <i>See also</i> <a href='#Perrin'>Aybara, Perrin</a>; <a href='#Alsbet'>Luhhan, Alsbet</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Luhhan'>Haral Luhhan</a> is the Blacksmith of Emond&apos;s Field. His arms are as big as most men&apos;s legs, and his chest strains his shirt. He is the tallest man in the Two Rivers. <a href='#Perrin'>Perrin Aybara</a> is his apprentice. His wife, <a href='#Alsbet'>Alsbet</a>, is almost as large as he is. He sits on the Village Council. <i>See also</i> <a href='#Perrin'>Aybara, Perrin</a>; <a href='#Alsbet'>Luhhan, Alsbet</a>. "
             }
         ]
     },
@@ -1164,16 +1170,6 @@
             {
                 "title": "Chapter 47: More Tales of the Wheel",
                 "info": "<a class='name' name='Herot'>Herot</a>, p. 598&#x2014;Hero of old. He has a crossing in Malkier named after him. "
-            }
-        ]
-    },
-    "High-King-Artur-Hawkwing": {
-        "id": "High-King-Artur-Hawkwing",
-        "name": "High King Artur Hawkwing",
-        "chapters": [
-            {
-                "title": "Ravens",
-                "info": "<a class='name' name='Hawkwing'>High King Artur Hawkwing</a>, p. 43 [15]&#x2014;Name by which <a href='#Artur'>Artur Paendrag Tanreall</a> was known during his conquest of the world. <i>See</i> <a href='#Artur'>Paendrag Tanreall, Artur</a>. "
             }
         ]
     },
@@ -1272,8 +1268,8 @@
         "name": "Jac al'Caar",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Jac'>Jac al&apos;Caar</a>, p. [9]&#x2014;Shepherd from near Emond&apos;s Field. He is in town to help with shearing. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Jac'>Jac al&apos;Caar</a> is a Shepherd from near Emond&apos;s Field."
             }
         ]
     },
@@ -1312,8 +1308,8 @@
         "name": "Jain Farstrider",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Farstrider'>Jain Farstrider</a>, p. 43 [7]&#x2014;Main character in <a href='#Egwene'>Egwene</a>&apos;s favorite book, <i>The Travels of Jain Farstrider</i>. He has traveled all over the world, including the lands beyond the Aiel Waste and the Great Blight. He disappeared years ago and has not been heard from since. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Farstrider'>Jain Farstrider</a> is the main character in <a href='#Egwene'>Egwene</a>&apos;s favorite book, <i>The Travels of Jain Farstrider</i>. He has traveled all over the world, including the lands beyond the Aiel Waste and the Great Blight. He disappeared years ago and has not been heard from since. "
             }
         ]
     },
@@ -1352,8 +1348,8 @@
         "name": "Jillie Lewin",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Jillie'>Jillie Lewin</a>, p. [9]&#x2014;Young woman from Emond&apos;s Field. She is 19, a year younger than <a href='#Elisa'>Elisa al&apos;Vere</a>, and wears her hair in a black braid that extends below her waist. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Jillie'>Jillie Lewin</a> is a young woman from Emond&apos;s Field. She is a year younger than <a href='#Elisa'>Elisa al&apos;Vere</a>, and wears her hair in a black braid that extends below her waist. "
             }
         ]
     },
@@ -1372,8 +1368,8 @@
         "name": "Joslyn Aybara",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Joslyn'>Joslyn Aybara</a>, p. [5]&#x2014;Mother of <a href='#Perrin'>Perrin</a>, <a href='#Adora'>Adora</a>, <a href='#Deselle'>Deselle</a>, and <a href='#Paetram'>Paetram</a> and wife of <a href='#Con'>Con</a>. She is very pretty, in <a href='#Egwene'>Egwene</a>&apos;s view, who thinks her smile could make the Sun bide its head in defeat. <i>See also</i> <a href='#Adora'>Aybara, Adora</a>; <a href='#Con'>Aybara, Con</a>; <a href='#Deselle'>Aybara, Deselle</a>; <a href='#Paetram'>Aybara, Paetram</a>; <a href='#Perrin'>Aybara, Perrin</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Joslyn'>Joslyn Aybara</a> is the mother of <a href='#Perrin'>Perrin</a>, <a href='#Adora'>Adora</a>, <a href='#Deselle'>Deselle</a>, and <a href='#Paetram'>Paetram</a> and wife of <a href='#Con'>Con</a>. She is very pretty, in <a href='#Egwene'>Egwene</a>&apos;s view, who thinks her smile could make the Sun bide its head in defeat. <i>See also</i> <a href='#Adora'>Aybara, Adora</a>; <a href='#Con'>Aybara, Con</a>; <a href='#Deselle'>Aybara, Deselle</a>; <a href='#Paetram'>Aybara, Paetram</a>; <a href='#Perrin'>Aybara, Perrin</a>. "
             }
         ]
     },
@@ -1412,8 +1408,8 @@
         "name": "Kenley Ahan",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Ahan'>Kenley Ahan</a>, p. [2]&#x2014;A boy from Emond&apos;s Field in the Two Rivers. He is about two years older than <a href='#Egwene'>Egwene</a>, making him eleven years old. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Ahan'>Kenley Ahan</a> is a boy from Emond&apos;s Field in the Two Rivers. He is about two years older than <a href='#Egwene'>Egwene</a>. "
             }
         ]
     },
@@ -1472,8 +1468,8 @@
         "name": "Lanfear",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Lanfear'>Lanfear</a>, p. 539 [15]&#x2014;One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to the Shadow during the War of the Shadow. Her name is still used to frighten children into behaving as they should&#x2014;it is said that she waits for children who steal. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Lanfear'>Lanfear</a> is one of the Forsaken; the thirteen Aes Sedai who dedicated their lives to the Shadow during the War of the Shadow. Her name is still used to frighten children into behaving as they should&#x2014;it is said that she waits for children who steal. "
             }
         ]
     },
@@ -1502,8 +1498,8 @@
         "name": "Lem Thane",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Lem'>Lem Thane</a>, p. 51 [10]&#x2014;Son of <a href='#Thane'>Jon Thane</a>, miller of Emond&apos;s Field. He is about eight months younger than <a href='#Rand'>Rand</a>. Like the three boys that left Emond&apos;s Field on Winternight, he saw the Black Rider. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Lem'>Lem Thane</a> is the son of <a href='#Thane'>Jon Thane</a>, miller of Emond&apos;s Field. He is about eight months younger than <a href='#Rand'>Rand</a>."
             }
         ]
     },
@@ -1572,8 +1568,8 @@
         "name": "Loise al'Vere",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Loise'>Loise al&apos;Vere</a>, p. [6]&#x2014;One of five daughters of <a href='#Marin'>Marin</a> and <a href='#Bran'>Bran al&apos;Vere</a>, the innkeepers of Emond&apos;s Field. She is fifteen years old, six years older than their youngest daughter <a href='#Egwene'>Egwene</a>. She likes climbing trees and swimming in the Winespring Water, even though most girls her age have outgrown those pastimes. <i>See also</i> <a href='#Alene'>al&apos;Vere, Alene</a>; <a href='#Berowyn'>al&apos;Vere, Berowyn</a>; <a href='#Bran'>al&apos;Vere, Brandelwyn</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Loise'>Loise al&apos;Vere</a> is one of five daughters of <a href='#Marin'>Marin</a> and <a href='#Bran'>Bran al&apos;Vere</a>, the innkeepers of Emond&apos;s Field. She is six years older than their youngest daughter <a href='#Egwene'>Egwene</a>. <i>See also</i> <a href='#Alene'>al&apos;Vere, Alene</a>; <a href='#Berowyn'>al&apos;Vere, Berowyn</a>; <a href='#Bran'>al&apos;Vere, Brandelwyn</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Elisa'>al&apos;Vere, Elisa</a>; <a href='#Marin'>al&apos;Vere, Marin</a>. "
             }
         ]
     },
@@ -1732,8 +1728,8 @@
         "name": "Master Cole",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Cole'>Master Cole</a>, p. [12]&#x2014;Old man from Emond&apos;s Field. He is as old as the <a href='#Barran'>Wisdom</a>, perhaps even older. Despite this, he still has a full head of hair, though it&apos;s white now. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Cole'>Master Cole</a> is an old man from Emond&apos;s Field. He is as old as the <a href='#Barran'>Wisdom</a>, perhaps even older. Despite this, he still has a full head of hair, though it&apos;s white now. "
             }
         ]
     },
@@ -1782,8 +1778,8 @@
         "name": "Master al'Dai",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='MralDai'>Master al&apos;Dai</a>, p. [14]&#x2014;Lean old man from Emond&apos;s Field with wispy white hair. As old or older than <a href='#Cole'>Master Cole</a>, he is unable to walk without the assistance of a cane. He is <a href='#alDai'>Bili al&apos;Dai</a>&apos;s grandfather. Despite his advanced years, his eyes remain clear and sharp, as does his mind. He is also quite quick with the shears, almost as fast as <a href='#Tam'>Tam al&apos;Thor</a> and faster than everyone else. <i>See also</i> <a href='#alDai'>al&apos;Dai, Bili</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='MralDai'>Master al&apos;Dai</a> is a lean old man from Emond&apos;s Field with wispy white hair. As old or older than <a href='#Cole'>Master Cole</a>, he is unable to walk without the assistance of a cane. He is <a href='#alDai'>Bili al&apos;Dai</a>&apos;s grandfather. Despite his advanced years, his eyes remain clear and sharp, as does his mind. He is also quite quick with the shears, almost as fast as <a href='#Tam'>Tam al&apos;Thor</a> and faster than everyone else. <i>See also</i> <a href='#alDai'>al&apos;Dai, Bili</a>. "
             }
         ]
     },
@@ -1802,8 +1798,8 @@
         "name": "Matrim (Mat) Cauthon",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Mat'>Matrim (Mat) Cauthon</a>, p. 4 [6]&#x2014;Boy of about 13 years of age from Emond&apos;s Field. He has brown eyes. Mat is known for his practical jokes and other mischief, often getting his best friends in trouble with him. He is good friends with <a href='#Rand'>Rand al&apos;Thor</a> and <a href='#Perrin'>Perrin Aybara</a>, though he seems to have a contest going with <a href='#Dav'>Dav Ayellin</a> as to who can get the other into the most trouble. He has two younger sisters, <a href='#Bode'>Bodewhin</a> and <a href='#Eldrin'>Eldrin</a>. As a twenty year-old, Mat has grown to be one of the tallest men in the Two Rivers. He is still known for his practical jokes and other mischief; whenever something goes wrong in Emond&apos;s Field, Mat is the one everyone looks to first. <i>See also</i> <a href='#Rand'>al&apos;Thor, Rand</a>; <a href='#Perrin'>Aybara, Perrin</a>; <a href='#Abell'>Cauthon, Abell</a>; <a href='#Bode'>Cauthon, Bodewhin</a>; <a href='#Eldrin'>Cauthon, Eldrin</a>; <a href='#Natti'>Cauthon, Natti</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Mat'>Matrim (Mat) Cauthon</a>, a boy from Emond&apos;s Field. He has brown eyes. Mat is known for his practical jokes and other mischief, often getting his best friends in trouble with him. He is good friends with <a href='#Rand'>Rand al&apos;Thor</a> and <a href='#Perrin'>Perrin Aybara</a>, though he seems to have a contest going with <a href='#Dav'>Dav Ayellin</a> as to who can get the other into the most trouble. He has two younger sisters, <a href='#Bode'>Bodewhin</a> and <a href='#Eldrin'>Eldrin</a>. As a twenty year-old, Mat has grown to be one of the tallest men in the Two Rivers. He is still known for his practical jokes and other mischief; whenever something goes wrong in Emond&apos;s Field, Mat is the one everyone looks to first. <i>See also</i> <a href='#Rand'>al&apos;Thor, Rand</a>; <a href='#Perrin'>Aybara, Perrin</a>; <a href='#Abell'>Cauthon, Abell</a>; <a href='#Bode'>Cauthon, Bodewhin</a>; <a href='#Eldrin'>Cauthon, Eldrin</a>; <a href='#Natti'>Cauthon, Natti</a>. "
             }
         ]
     },
@@ -1942,8 +1938,8 @@
         "name": "Natti Cauthon",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Natti'>Natti Cauthon</a>, p. [12]&#x2014;Woman from Emond&apos;s Field, mother of <a href='#Mat'>Mat</a>. She is always calm and collected, which <a href='#Egwene'>Egwene</a> figures is necessary for someone with a son like Mat. She always seems to know about Mat&apos;s escapades; Mat is not sure how she always knows, but it is obvious to Egwene that his two younger sisters enjoy the role of tattletale. <i>See also</i> <a href='#Abell'>Cauthon, Abell</a>; <a href='#Bode'>Cauthon, Bodewhin</a>; <a href='#Eldrin'>Cauthon, Eldrin</a>; <a href='#Mat'>Cauthon, Matrim</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Natti'>Natti Cauthon</a> is a woman from Emond&apos;s Field and the mother of <a href='#Mat'>Mat</a>. She is always calm and collected, which <a href='#Egwene'>Egwene</a> figures is necessary for someone with a son like Mat. She always seems to know about Mat&apos;s escapades; Mat is not sure how she always knows, but it is obvious to Egwene that his two younger sisters enjoy the role of tattletale. <i>See also</i> <a href='#Abell'>Cauthon, Abell</a>; <a href='#Bode'>Cauthon, Bodewhin</a>; <a href='#Eldrin'>Cauthon, Eldrin</a>; <a href='#Mat'>Cauthon, Matrim</a>. "
             }
         ]
     },
@@ -1952,8 +1948,8 @@
         "name": "Nynaeve al'Meara",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Nynaeve'>Nynaeve al&apos;Meara</a>, p. 7 [7]&#x2014;Young woman from Emond&apos;s Field. She has brown hair and eyes, and is quite slender. She has been studying under <a href='#Barran'>Doral Barran</a>, the Wisdom of Emond&apos;s Field, for about three years. Many people in the village think she is too young to be apprenticed to a Wisdom, and that Mistress Barran should have chosen someone years older when Nynaeve&apos;s predecessor died mysteriously. Nynaeve is a very quick learner, and has been allowed to braid her hair for a year now. She has developed the ability to sense <a href='#Egwene'>Egwene</a>&apos;s presence without seeing her since the end of the breakbone fever epidemic. Mistress Barran seems to have caught on to some of Nynaeve&apos;s abilities&#x2014;she seemed disappointed that the wound Nynaeve was bandaging did not seem more healed than it was when she started. After Mistress Barran&apos;s death, Nynaeve herself became the Wisdom. Her adult height is about as tall as <a href='#Mat'>Mat</a>&apos;s shoulder. Many people <i>still</i> think Nynaeve is too young to be the Wisdom; however, mentioning this to her is a good way to get whacked by the stick she carries. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Nynaeve'>Nynaeve al&apos;Meara</a> is a 24-year-old woman from Emond&apos;s Field. She has brown hair and eyes, and is quite slender. She studied under <a href='#Barran'>Doral Barran</a>, the Wisdom of Emond&apos;s Field. After Mistress Barran&apos;s death, Nynaeve herself became the Wisdom. Her adult height is about as tall as <a href='#Mat'>Mat</a>&apos;s shoulder. Many people <i>still</i> think Nynaeve is too young to be the Wisdom; however, mentioning this to her is a good way to get whacked by the stick she carries. "
             }
         ]
     },
@@ -1992,8 +1988,8 @@
         "name": "Paet al'Caar",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Paet'>Paet al&apos;Caar</a>, p. 109 [9]&#x2014;Shepherd from near Emond&apos;s Field. He is in town to help with shearing. Years later, he was among those that supported <a href='#Hari'>Hari Coplin</a> in his accusations that <a href='#Moiraine'>Moiraine</a> brought the Trollocs to Emond&apos;s Field on Winternight. His son, <a href='#Wil'>Wil</a>, had his leg broken in that attack and was Healed by <a href='#Moiraine'>Moiraine</a>, so Paet was less fervent in his accusations. <i>See also</i> <a href='#Wil'>al&apos;Caar, Wil</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Paet'>Paet al&apos;Caar</a> is a shepherd from near Emond&apos;s Field and the father of <a href='#Wil'>Wil</a>. <i>See also</i> <a href='#Wil'>al&apos;Caar, Wil</a>. "
             }
         ]
     },
@@ -2002,8 +1998,8 @@
         "name": "Paetram (Paet) Aybara",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Paetram'>Paetram (Paet) Aybara</a>, p. [4]&#x2014;<a href='#Perrin'>Perrin</a>&apos;s baby brother. <i>See also</i> <a href='#Adora'>Aybara, Adora</a>; <a href='#Con'>Aybara, Con</a>; <a href='#Deselle'>Aybara, Deselle</a>; <a href='#Joslyn'>Aybara, Joslyn</a>; <a href='#Perrin'>Aybara, Perrin</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Paetram'>Paetram (Paet) Aybara</a> is <a href='#Perrin'>Perrin</a>&apos;s baby brother. <i>See also</i> <a href='#Adora'>Aybara, Adora</a>; <a href='#Con'>Aybara, Con</a>; <a href='#Deselle'>Aybara, Deselle</a>; <a href='#Joslyn'>Aybara, Joslyn</a>; <a href='#Perrin'>Aybara, Perrin</a>. "
             }
         ]
     },
@@ -2022,8 +2018,8 @@
         "name": "Perrin Aybara",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Perrin'>Perrin Aybara</a>, p. 4 [4]&#x2014;A boy of about thirteen years of age from Emond&apos;s field. He is one of the tallest boys in Emond&apos;s Field, even taller than <a href='#Rand'>Rand</a>, one of his two best friends (though since Rand is not yet finished growing, it is possible he will catch Perrin eventually). He is also good friends with <a href='#Mat'>Mat Cauthon</a>, who often gets Perrin and Rand into trouble. He has curly hair, and is very stocky and generally big. He is very shy and laughs seldomly; <a href='#Egwene'>Egwene</a> perceives him to be dense, though she is starting to realize he may simply be overly contemplative and careful. His parents recently arranged to have him apprenticed to <a href='#Luhhan'>Haral Luhhan</a>, the blacksmith of Emond&apos;s Field. Perrin has two younger sisters, <a href='#Adora'>Adora</a> and <a href='#Deselle'>Deselle</a> (eight and three, respectively) and one younger brother, <a href='#Paetram'>Paetram</a>, who is an infant. As an adult, Perrin ended up about half a head shorter than Rand, and also a fair bit shorter than Mat as well. He is still larger of build than both of them, however, which works well for a blacksmith. <i>See also</i> <a href='#Rand'>al&apos;Thor, Rand</a>; <a href='#Adora'>Aybara, Adora</a>; <a href='#Con'>Aybara, Con</a>; <a href='#Deselle'>Aybara, Deselle</a>; <a href='#Joslyn'>Aybara, Joslyn</a>; <a href='#Paetram'>Aybara, Paetram</a>; <a href='#Mat'>Cauthon, Matrim</a>; <a href='#Luhhan'>Luhhan, Haral</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Perrin'>Perrin Aybara</a> is a boy of about 19 years of age from Emond&apos;s field. He is one of the tallest boys in Emond&apos;s Field, even taller than <a href='#Rand'>Rand</a>, one of his two best friends (though since Rand is not yet finished growing, it is possible he will catch Perrin eventually). He is also good friends with <a href='#Mat'>Mat Cauthon</a>, who often gets Perrin and Rand into trouble. He has curly hair, and is very stocky and generally big. He is very shy and laughs seldomly. His parents arranged to have him apprenticed to <a href='#Luhhan'>Haral Luhhan</a>, the blacksmith of Emond&apos;s Field. Perrin has two younger sisters, <a href='#Adora'>Adora</a> and <a href='#Deselle'>Deselle</a>, and one younger brother, <a href='#Paetram'>Paetram</a>. <i>See also</i> <a href='#Rand'>al&apos;Thor, Rand</a>; <a href='#Adora'>Aybara, Adora</a>; <a href='#Con'>Aybara, Con</a>; <a href='#Deselle'>Aybara, Deselle</a>; <a href='#Joslyn'>Aybara, Joslyn</a>; <a href='#Paetram'>Aybara, Paetram</a>; <a href='#Mat'>Cauthon, Matrim</a>; <a href='#Luhhan'>Luhhan, Haral</a>. "
             }
         ]
     },
@@ -2102,8 +2098,8 @@
         "name": "Rand al'Thor",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Rand'>Rand al&apos;Thor</a>, p. 1 [4]&#x2014;Shepherd from the Two Rivers. He is the second tallest boy in Emond&apos;s Field, and may soon be taller than his friend <a href='#Perrin'>Perrin</a> as well. He has grey eyes and reddish hair, both of which are unheard of in the Two Rivers. His mother died when Rand was five; <a href='#Egwene'>Egwene</a> thinks he envies boys that have mothers. Rand is good friends with <a href='#Mat'>Mat Cauthon</a> and <a href='#Perrin'>Perrin Aybara</a>. As a twenty year-old, Rand is about a head taller than Perrin, and taller than Mat as well. Rand and the Mayor&apos;s daughter, Egwene, have been all but Promised to each other since they were both young; this is often the subject of ridicule by Mat and Perrin. <i>See also</i> <a href='#Kari'>al&apos;Thor, Kari</a>; <a href='#Tam'>al&apos;Thor, Tamlin</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Perrin'>Aybara, Perrin</a>; <a href='#Mat'>Cauthon, Matrim</a>. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Rand'>Rand al&apos;Thor</a> is a shepherd from the Two Rivers. He is the tallest boy in Emond&apos;s Field. He has grey eyes and reddish hair, both of which are unheard of in the Two Rivers. His mother died when Rand was five; <a href='#Egwene'>Egwene</a> thinks he envies boys that have mothers. Rand is good friends with <a href='#Mat'>Mat Cauthon</a> and <a href='#Perrin'>Perrin Aybara</a>. As a twenty year-old, Rand is about a head taller than Perrin, and taller than Mat as well. Rand and the Mayor&apos;s daughter, Egwene, have been all but Promised to each other since they were both young; this is often the subject of ridicule by Mat and Perrin. <i>See also</i> <a href='#Kari'>al&apos;Thor, Kari</a>; <a href='#Tam'>al&apos;Thor, Tamlin</a>; <a href='#Egwene'>al&apos;Vere, Egwene</a>; <a href='#Perrin'>Aybara, Perrin</a>; <a href='#Mat'>Cauthon, Matrim</a>. "
             }
         ]
     },
@@ -2236,8 +2232,8 @@
         "name": "Semirhage",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Semirhage'>Semirhage</a>, p. [15]&#x2014;One of the Forsaken, the thirteen powerful Aes Sedai who dedicated their lives to serving the Shadow during the War of the Shadow. Her name is still used to frighten children into behaving as they should. In her case, the threat is that she will come and get the child if he or she keeps lying. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Semirhage'>Semirhage</a> is one of the Forsaken, the thirteen powerful Aes Sedai who dedicated their lives to serving the Shadow during the War of the Shadow. Her name is still used to frighten children into behaving as they should. In her case, the threat is that she will come and get the child if he or she keeps lying. "
             }
         ]
     },
@@ -2335,10 +2331,6 @@
         "id": "Tamlin-Tam-al-Thor",
         "name": "Tamlin (Tam) al'Thor",
         "chapters": [
-            {
-                "title": "Ravens",
-                "info": "<a class='name' name='Tam'>Tamlin (Tam) al&apos;Thor</a>, p. 2 [13]&#x2014;<a href='#Rand'>Rand</a>&apos;s father, a shepherd in the Two Rivers. He has a thick, broad chest and a broad face, gray hair with black streaks in it. His cheeks have been roughened by the sun. He is a solid man. Keeping his word is important to him. When Tam was young, he left the Two Rivers to see the outside world, something which is extremely rare in the Two Rivers. While there he acquired a sword, and married <a href='#Kari'>Kari</a>, a woman from Caemlyn. Since Kari&apos;s death fifteen years ago, Tam has raised Rand himself. Since Tam has been alone and without a wife for so long, many women in Emond&apos;s Field have been trying to find a match for him recently. They&apos;ve also started to think about who would be good for his son as well. Tam is very quiet, and keeps largely to himself, but almost everyone in the Two Rivers likes him. <i>See also</i> <a href='#Kari'>al&apos;Thor, Kari</a>; <a href='#Rand'>al&apos;Thor, Rand</a>. "
-            },
             {
                 "title": "Chapter 1: An Empty Road",
                 "info": "<a class='name' name='Tam'>Tamlin (Tam) al&apos;Thor</a>, p. 2&#x2014;<a href='#Rand'>Rand</a>&apos;s father, a shepherd in the Two Rivers. He has a thick, broad chest and a broad face, gray hair with black streaks in it. His cheeks have been roughened by the sun. He is a solid man. Keeping his word is important to him. When Tam was young, he left the Two Rivers to see the outside world, something which is extremely rare in the Two Rivers. While there he acquired a sword, and married <a href='#Kari'>Kari</a>, a woman from Caemlyn. Since Kari&apos;s death fifteen years ago, Tam has raised Rand himself. Since Tam has been alone and without a wife for so long, many women in Emond&apos;s Field have been trying to find a match for him recently. They&apos;ve also started to think about who would be good for his son as well. <i>See also</i> <a href='#Kari'>al&apos;Thor, Kari</a>; <a href='#Rand'>al&apos;Thor, Rand</a>. "
@@ -2460,8 +2452,8 @@
         "name": "Widow Aynal",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='Aynal'>Widow Aynal</a>, p. [2]&#x2014;Woman for which Widow Aynal&apos;s Meadow is named. No one remembers which Aynal widow it was actually named for; the meadow has been called that as long as anyone can remember. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='Aynal'>Widow Aynal</a> is a woman for which Widow Aynal&apos;s Meadow is named. No one remembers which Aynal widow it was actually named for; the meadow has been called that as long as anyone can remember. "
             }
         ]
     },
@@ -2480,8 +2472,8 @@
         "name": "Wil al'Seen",
         "chapters": [
             {
-                "title": "Ravens",
-                "info": "<a class='name' name='WilalSeen'>Wil al&apos;Seen</a>, p. 311 [9]&#x2014;Young man from Deven Ride&#x2014;he actually lives on a farm between Deven Ride and Emond&apos;s Field. <a href='#Egwene'>Egwene</a> thinks his ears look funny, but many of the other girls in the village think Wil is quite pretty. As a teen, he always had girls staring at him and whispering behind his back. He courted every girl, and managed to convince all of them that he was just being polite to the others. "
+                "title": "Chapter 1: An Empty Road",
+                "info": "<a class='name' name='WilalSeen'>Wil al&apos;Seen</a> is a young man from a farm between Deven Ride and Emond&apos;s Field. He is a year older than <a href='#Perrin'>Perrin</a>. <a href='#Egwene'>Egwene</a> thinks his ears look funny, but many of the other girls in the village think Wil is quite pretty. As a teen, he always had girls staring at him and whispering behind his back. He courted every girl, and managed to convince all of them that he was just being polite to the others. "
             }
         ]
     },
