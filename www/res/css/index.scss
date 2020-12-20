@@ -62,7 +62,8 @@ section.index {
   top: 6.2em;
   width: 100vw;
   height: calc(100vh - 6em);
-  overflow: auto;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch; /* smooth scrolling on iphone */
 
   .list-group-item {
     border-radius: 0;
