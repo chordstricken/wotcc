@@ -97,6 +97,8 @@ section.overlay {
 section.matches {
   display: block;
   margin-top: 1em;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch; /* smooth scrolling on iphone */
 
   .character {
     font-size: 18px;

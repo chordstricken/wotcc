@@ -30,7 +30,7 @@
     -->
     <meta http-equiv="Content-Security-Policy"
           content="
-          default-src 'self' 'unsafe-inline' https://wheeloftime.silvermast.io file: data: gap: https://ssl.gstatic.com 'unsafe-eval';
+          default-src 'self' 'unsafe-inline' http://wheeloftime.silvermast.io app: file: data: gap: 'unsafe-eval';
           style-src 'self' 'unsafe-inline' file:;
           media-src *;
           img-src 'self' file: data: content:">
@@ -91,7 +91,16 @@
                         <span v-text="chapter.isShowing ? '&ndash;' : '+'"></span>
                         <span v-text="chapter.title"></span>
                     </div>
-                    <div class="chapter-info" v-html="chapter.info" v-if="chapter.isShowing"></div>
+                    <div class="chapter-info" v-if="chapter.isShowing">
+                        <span v-html="chapter.info"></span>
+                        <div class="small pt-2" v-if="showSeeAlso && chapter.seeAlso && chapter.seeAlso.length">
+                            <i>See also:</i>
+                            <template v-for="(seeAlso, seeAlsoIndex) in chapter.seeAlso">
+                                <span v-if="seeAlsoIndex > 0" class="see-also-separator">;</span>
+                                <a v-html="seeAlso.name" :key="seeAlso.id" :href="`#${seeAlso.id}`"></a>
+                            </template>
+                        </div>
+                    </div>
                 </div>
 
             </div>
@@ -99,20 +108,37 @@
 
     </section>
 
-    <section class="overlay bg-light" v-if="showCredits">
-        <span class="close-icon" @click="showCredits = false">&times;</span>
+    <!--
+    Preferences
+    -->
+    <section class="overlay bg-light" v-if="showPreferences">
+        <span class="close-icon" @click="showPreferences = false">&times;</span>
+        <h1 class="h2">Preferences</h1>
+        
+        <ul class="list-group">
+            <li class="list-group-item">
+                <div class="custom-control custom-switch">
+                    <input type="checkbox" class="custom-control-input" id="input-see-also" v-model="showSeeAlso">
+                    <label class="custom-control-label" for="input-see-also">Show "See Also" Suggestions</label>
+                </div>
+            </li>
+            <li class="list-group-item">
+                <button class="btn btn-outline-primary" @click="clearCache">Clear Local Book Cache</button>
+                <div class="text-success" v-if="cacheCleared">Success!</div>
+            </li>
+        </ul>
 
-        <h1 class="h2">Special thanks to...</h1>
-
+        <hr>
+        <strong>Special thanks to...</strong>
         <ul class="pl-3">
             <li><a href="http://sites.ugcs.caltech.edu/~karlh/cgi-bin/wot.cgi" target="_system">Karl Hammond's Compendium of Wheel of Time Characters</a> for providing the initial content.</li>
-            <li>Reddit's <a href="https://reddit.com/r/wot" target="_system">/r/WoT</a> for hunting down spoilers.</li>
+            <li>Reddit's <a href="http://reddit.com/r/wot" target="_system">/r/WoT</a> for hunting down spoilers.</li>
         </ul>
     </section>
 
     <nav>
         <div class="text-right mr-3 mt-4">
-            <button class="btn btn-link text-white" @click="showCredits = true">Credits</button>
+            <button class="btn btn-link text-white" @click="showPreferences = true">&#9881; Preferences</button>
         </div>
     </nav>
 
@@ -152,9 +178,11 @@
             characterMatches: [],
             index: {},
             showIndex: false,
-            showCredits: false,
+            showPreferences: false,
             matches: {},
             timeout: false,
+            showSeeAlso: Number(DB.get('showSeeAlso') || 0),
+            cacheCleared: false,
         },
         created() {
             this.loadBook();
@@ -178,6 +206,11 @@
             window.removeEventListener('focus', this.loadBook);
             window.addEventListener('focus', this.loadBook);
         },
+        watch: {
+            showSeeAlso(newValue) {
+                DB.set('showSeeAlso', newValue ? 1 : 0)
+            }
+        },
         methods: {
             clearSearch() {
                 this.q = '';
@@ -192,7 +225,7 @@
                 const bookPath = `data/${this.book}.json`;
                 // 1. Try remote source for the most up-to-date data
                 try {
-                    let result = await axios.get(`https://wheeloftime.silvermast.io/${bookPath}`);
+                    let result = await axios.get(`http://wheeloftime.silvermast.io/${bookPath}`, { timeout: 2000 });
                     DB.set(bookPath, { time: time(), data: result.data });
                     return result.data
                 } catch (e) {
@@ -242,6 +275,7 @@
                 if (this.q.length < 3)
                     return;
 
+                this.showIndex = false;
                 DB.set('query', this.q);
                 const searchRegExp = new RegExp(this.q.replace(' ', '.*'), 'gi');
                 this.characterMatches = this.characterList.filter(entry => searchRegExp.test(entry.name))
@@ -267,7 +301,16 @@
              */
             toggleChapter: function(character, chapterId) {
                 this.$set(character, 'isShowing', !character.isShowing);
-            }
+            },
+
+            /**
+             * Clears the book cache
+             */
+            clearCache() {
+                Object.keys(this.books).forEach(book => DB.del(`data/${book}.json`));
+                this.cacheCleared = true;
+                setTimeout(() => this.cacheCleared = false, 2000);
+            },
         }
     })
 </script>
