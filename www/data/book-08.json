@@ -341,6 +341,7 @@
         "chapters": [
             {
                 "title": "Chapter 16: Unexpected Absences",
+<<<<<<< HEAD
                 "info": "Name given to the reincarnation of Balthamel. Aran&apos;gar was the right-hand dagger in a form of dueling popular right after the creation of the Bore. The sport fell from common practice, since almost invariably both duelists died from the slow poison on the daggers. The other Forsaken consider Balthamel&apos;s new body a fine joke; the soul of Balthamel now occupies the body of a beautiful young woman. She still channels <i>saidin<\/i>, and masquerades as <a href='#Halima'>Halima Saranov<\/a>, <a href='#Delana'>Delana<\/a>&apos;s maid. Delana does not know that she is one of the Chosen reincarned, just that she stands far above her among the Darkfriends.",
                 "seeAlso": [
                     {
@@ -356,6 +357,9 @@
                         "name": "Halima Saranov"
                     }
                 ]
+=======
+                "info": "<a class='name' name='Arangar'>Aran&apos;gar</a>, p. 332 (372)&#x2014;Name given to the reincarnation of one of the forsaken. Aran&apos;gar was the right-hand dagger in a form of dueling popular right after the creation of the Bore. The sport fell from common practice, since almost invariably both duelists died from the slow poison on the daggers. The other Forsaken consider Aran&apos;gar&apos;s new body a fine joke. She can channel <i>saidin</i>, and masquerades as <a href='#Halima'>Halima Saranov</a>, <a href='#Delana'>Delana</a>&apos;s maid. Delana does not know that she is one of the Chosen reincarned, just that she stands far above her among the Darkfriends. <i>See also</i> <a href='#Delana'>Mosalaine, Delana</a>; <a href='#Osangar'>Osan&apos;gar</a>; <a href='#Halima'>Saranov, Halima</a>. "
+>>>>>>> master
             }
         ]
     },
@@ -1148,8 +1152,12 @@
         "chapters": [
             {
                 "title": "Chapter 12: New Alliances",
+<<<<<<< HEAD
                 "info": "Girl who works with <a href='#Moghedien'>Moghedien<\/a>. Her name means &#x201C;Last Chance&#x201D; in the Old Tongue. She is stronger in the One Power than <a href='#Graendal'>Graendal<\/a>. She is quite possibly Lanfear reborn.",
                 "seeAlso": []
+=======
+                "info": "<a class='name' name='Cyndane'>Cyndane</a>, p. 262 (291)&#x2014;Girl who works with <a href='#Moghedien'>Moghedien</a>. Her name means &#x201C;Last Chance&#x201D; in the Old Tongue. She is stronger in the One Power than <a href='#Graendal'>Graendal</a>."
+>>>>>>> master
             }
         ]
     },
@@ -4207,6 +4215,7 @@
         "chapters": [
             {
                 "title": "Chapter 12: New Alliances",
+<<<<<<< HEAD
                 "info": "Aes Sedai of the Blue Ajah. Born of a noble House in Cairhien, she is Taringail Damodred&apos;s youngest half-sister, and <a href='#Laman'>King Laman<\/a>&apos;s niece. She is considered short among her people, and the Cairhienin are already a short people. When it was discovered that she had the ability to channel inborn, Moiraine went to Tar Valon to become an Aes Sedai. Just before being raised to the shawl, she and her friend <a href='#Siuan'>Siuan Sanche<\/a> witnessed Gitara Moroso&apos;s Foretelling of the Rebirth of the <a href='#Dragon'>Dragon<\/a>. Moiraine and Siuan walked away from each other and did not speak to each other again (at least in public), but both held secret communication with each other and dedicated their lives to finding and guiding the <a href='#Reborn'>Dragon Reborn<\/a>. Moiraine found the young man she sought on Winternight in Emond&apos;s Field, a young man named <a href='#Rand'>Rand al&apos;Thor<\/a>, along with two more <i>ta&apos;veren<\/i>, <a href='#Mat'>Mat Cauthon<\/a> and <a href='#Perrin'>Perrin Aybara<\/a> and two women with the spark of the Power inborn, <a href='#Egwene'>Egwene al&apos;Vere<\/a> and <a href='#Nynaeve'>Nynaeve al&apos;Meara<\/a>. When Moiraine was shortly raised to the shawl, she met <a href='#Lan'>al&apos;Lan Mandragoran<\/a>, the uncrowned King of Malkier, who was fighting alone against the Shadow in the Blight; she asked Lan to become her Warder, and he accepted. She is very strong in the Power, stronger than almost all living Aes Sedai. In the Stone of Tear, Moiraine confronted and killed the Forsaken Be&apos;lal with balefire, just before he would have killed Rand. Later, after having an inkling of the future events from the testing <i>ter&apos;angreal<\/i> for the Wise Ones, Moiraine managed to push the Forsaken Lanfear through the twisted doorway <i>ter&apos;angreal<\/i> into the land of the Eelfinn, trapping both her and Lanfear there. It is unknown whether Moiraine lives on in the land off the Finn, or whether she is dead, but her bond with Lan has been severed, and other Aes Sedai consider her a legend, not only for discovering the <a href='#Reborn'>Dragon Reborn<\/a> but for killing or trapping two of the Forsaken as well. Despite her efforts, and for the most part, success, <a href='#Cadsuane'>Cadsuane<\/a> still thinks she &#x201C;bungled&#x201D; things with Rand.",
                 "seeAlso": [
                     {
@@ -4222,6 +4231,9 @@
                         "name": "Siuan Sanche"
                     }
                 ]
+=======
+                "info": "<a class='name' name='Moiraine'>Moiraine Damodred</a>, p. 276 (307)&#x2014;Aes Sedai of the Blue Ajah. Born of a noble House in Cairhien, she is Taringail Damodred&apos;s youngest half-sister, and <a href='#Laman'>King Laman</a>&apos;s niece. She is considered short among her people, and the Cairhienin are already a short people. When it was discovered that she had the ability to channel inborn, Moiraine went to Tar Valon to become an Aes Sedai. Just before being raised to the shawl, she and her friend <a href='#Siuan'>Siuan Sanche</a> witnessed Gitara Moroso&apos;s Foretelling of the Rebirth of the <a href='#Dragon'>Dragon</a>. Moiraine and Siuan walked away from each other and did not speak to each other again (at least in public), but both held secret communication with each other and dedicated their lives to finding and guiding the <a href='#Reborn'>Dragon Reborn</a>. Moiraine found the young man she sought on Winternight in Emond&apos;s Field, a young man named <a href='#Rand'>Rand al&apos;Thor</a>, along with two more <i>ta&apos;veren</i>, <a href='#Mat'>Mat Cauthon</a> and <a href='#Perrin'>Perrin Aybara</a> and two women with the spark of the Power inborn, <a href='#Egwene'>Egwene al&apos;Vere</a> and <a href='#Nynaeve'>Nynaeve al&apos;Meara</a>. When Moiraine was shortly raised to the shawl, she met <a href='#Lan'>al&apos;Lan Mandragoran</a>, the uncrowned King of Malkier, who was fighting alone against the Shadow in the Blight; she asked Lan to become her Warder, and he accepted. She is very strong in the Power, stronger than almost all living Aes Sedai. In the Stone of Tear, Moiraine confronted and killed the Forsaken Be&apos;lal with balefire, just before he would have killed Rand. Later, after having an inkling of the future events from the testing <i>ter&apos;angreal</i> for the Wise Ones, Moiraine managed to push the Forsaken Lanfear through the twisted doorway <i>ter&apos;angreal</i>. Other Aes Sedai consider her a legend, not only for discovering the <a href='#Reborn'>Dragon Reborn</a> but for defeating two of the Forsaken as well. Despite her efforts, and for the most part, success, <a href='#Cadsuane'>Cadsuane</a> still thinks she &#x201C;bungled&#x201D; things with Rand. <i>See also</i> <a href='#Lan'>Mandragoran, Lan</a>; <a href='#Thom'>Merrilin, Thomdril</a>; <a href='#Siuan'>Sanche, Siuan</a>. "
+>>>>>>> master
             }
         ]
     },
@@ -4541,6 +4553,7 @@
         "chapters": [
             {
                 "title": "Chapter 31: AfterGlossary",
+<<<<<<< HEAD
                 "info": "Name given to the reincarnation of one of the Forsaken. It was the left-hand dagger in a form of dueling popular right after the creation of the Bore. The sport fell from common practice, since almost invariably both duelists died from the slow poison on the daggers. Osan&apos;gar states that he helped make the Trollocs, indicating that in his past life he was <a href='#Aginor'>Aginor<\/a>.",
                 "seeAlso": [
                     {
@@ -4552,6 +4565,9 @@
                         "name": "Aran&apos;gar"
                     }
                 ]
+=======
+                "info": "<a class='name' name='Osangar'>Osan&apos;gar</a>, p. 598 (679)&#x2014;Name given to the reincarnation of one of the Forsaken. It was the left-hand dagger in a form of dueling popular right after the creation of the Bore. The sport fell from common practice, since almost invariably both duelists died from the slow poison on the daggers. Osan&apos;gar states that he helped make the Trollocs. <i>See also</i> <a href='#Arangar'>Aran&apos;gar</a>. "
+>>>>>>> master
             }
         ]
     },
