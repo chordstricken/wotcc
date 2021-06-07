@@ -2034,13 +2034,7 @@
         "chapters": [
             {
                 "title": "Chapter 42: Easing the Badger",
-                "info": "Man who recently ascended to the Council of Nine in Illian. The rest of the Council seems to take his words to heart. The reason he was raised so quickly probably had something to do with his true identity, the Forsaken <a href='#Sammael'>Sammael<\/a>.",
-                "seeAlso": [
-                    {
-                        "id": "Sammael",
-                        "name": "Sammael"
-                    }
-                ]
+                "info": "Man who recently ascended to the Council of Nine in Illian. The rest of the Council seems to take his words to heart."
             }
         ]
     },
@@ -2984,13 +2978,7 @@
         "chapters": [
             {
                 "title": "Chapter 6: The Hunt Begins",
-                "info": "One of the Forsaken. His name means &#x201C;Destroyer of Hope&#x201D; in the Old Tongue.",
-                "seeAlso": [
-                    {
-                        "id": "Brend",
-                        "name": "Brend"
-                    }
-                ]
+                "info": "One of the Forsaken. His name means &#x201C;Destroyer of Hope&#x201D; in the Old Tongue."
             }
         ]
     },
