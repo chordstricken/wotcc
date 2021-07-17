@@ -272,7 +272,7 @@
         "chapters": [
             {
                 "title": "Chapter 38: Maidens of the Spear",
-                "info": "Aiel of the Bitter Water sept of the Taardad Aiel. She is <i>Far Dareis Mai<\/i>, a Maiden of the Spear. She is the woman who jumps in front of <a href='#Egwene'>Egwene<\/a>, <a href='#Elayne'>Elayne<\/a>, and <a href='#Nynaeve'>Nynaeve<\/a>, as well as the one who follows them and helps free them when they are captured. <i>Editor&apos;s note: In later books, Aviendha&apos;s sept is referred to as the Nine Valleys sept. It is not known whether she changed septs, her sept was renamed, or the author simply made an oversight.<\/i>",
+                "info": "Aiel of the Bitter Water sept of the Taardad Aiel. She is <i>Far Dareis Mai<\/i>, a Maiden of the Spear. She is the woman who jumps in front of <a href='#Egwene'>Egwene<\/a>, <a href='#Elayne'>Elayne<\/a>, and <a href='#Nynaeve'>Nynaeve<\/a>, as well as the one who follows them and helps free them when they are captured.",
                 "seeAlso": []
             }
         ]
@@ -380,7 +380,7 @@
         "chapters": [
             {
                 "title": "Chapter 22: The Price of the Ring",
-                "info": "<a href='#Keeper'>Keeper of the Chronicles<\/a> under <a href='#Egwene'>Egwene al&apos;Vere<\/a> in the world of the testing <i>ter&apos;angreal<\/i>. Of the Green Ajah. Beldeine was stilled by <a href='#Elaida'>Elaida<\/a> and others, and forced to betray Egwene in order to channel again. <i>Editor&apos;s note: Beldeine is a real Aes Sedai, of the Green Ajah in real life.<\/i>",
+                "info": "<a href='#Keeper'>Keeper of the Chronicles<\/a> under <a href='#Egwene'>Egwene al&apos;Vere<\/a> in the world of the testing <i>ter&apos;angreal<\/i>. Of the Green Ajah. Beldeine was stilled by <a href='#Elaida'>Elaida<\/a> and others, and forced to betray Egwene in order to channel again.",
                 "seeAlso": [
                     {
                         "id": "Keeper",
@@ -654,7 +654,7 @@
         "chapters": [
             {
                 "title": "Chapter 38: Maidens of the Spear",
-                "info": "Red-haired Aiel, of the Nine Valleys sept of the Taardad Aiel. She is Healed by <a href='#Nynaeve'>Nynaeve<\/a> after being attacked by swordsman, but is later killed by a Fade in the process of rescuing <a href='#Egwene'>Egwene<\/a>, <a href='#Elayne'>Elayne<\/a>, and <a href='#Nynaeve'>Nynaeve<\/a>.",
+                "info": "Red-haired Aiel, of the Nine Valleys sept of the Taardad Aiel. She is Healed by <a href='#Nynaeve'>Nynaeve<\/a> after being attacked by swordsman.",
                 "seeAlso": []
             }
         ]
@@ -3053,7 +3053,7 @@
         "chapters": [
             {
                 "title": "Chapter 55: What is Written in Prophecy",
-                "info": "True name for the Dark One. Saying his true name draws his attention, so many euphemisms for him have been developed, including Heartfang, Leafblighter, Lord of the Grave, Heartsbane, Soulsbane, Lord of the Twilight, and Father of Lies. He is considered to be the complete antithesis of the <a href='#Creator'>Creator<\/a>, and the source of all evil. He has been bound in a prison the Creator made for him since the beginning of time. This prison was bored into during the Age of Legends, and was temporarily re-sealed by <a href='#Lews'>Lews Therin Telamon<\/a> and the Hundred Companions. Those seals are now growing weak (three have broken already), and the Dark One&apos;s influence is spreading. <i>Editor&apos;s Note: I thought it was appropriate that he was mentioned for the first time on page 666 of the paperback edition....<\/i>",
+                "info": "True name for the Dark One. Saying his true name draws his attention, so many euphemisms for him have been developed, including Heartfang, Leafblighter, Lord of the Grave, Heartsbane, Soulsbane, Lord of the Twilight, and Father of Lies. He is considered to be the complete antithesis of the <a href='#Creator'>Creator<\/a>, and the source of all evil. He has been bound in a prison the Creator made for him since the beginning of time. This prison was bored into during the Age of Legends, and was temporarily re-sealed by <a href='#Lews'>Lews Therin Telamon<\/a> and the Hundred Companions. Those seals are now growing weak (three have broken already), and the Dark One&apos;s influence is spreading.",
                 "seeAlso": [
                     {
                         "id": "Baal",
