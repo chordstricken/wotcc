@@ -30,7 +30,7 @@
     -->
     <meta http-equiv="Content-Security-Policy"
           content="
-          default-src 'self' 'unsafe-inline' http://wheeloftime.silvermast.io app: file: data: gap: 'unsafe-eval';
+          default-src 'self' 'unsafe-inline' http://wheeloftime.silvermast.io https://wheeloftime.silvermast.io app: file: data: gap: 'unsafe-eval';
           style-src 'self' 'unsafe-inline' file:;
           media-src *;
           img-src 'self' file: data: content:">
@@ -52,7 +52,14 @@
 
     <div class="form-group">
         <div class="input-group" v-if="books[book]">
-            <input type="text" class="form-control search-input" v-model="q" @keyup="searchEvent" placeholder="Enter a Character's Name">
+            <input 
+                ref="searchInput" 
+                type="text" 
+                class="form-control search-input" 
+                v-model="q" 
+                @keyup="searchEvent" 
+                placeholder="Enter a Character's Name">
+
             <span class="clear-search" @click="clearSearch" v-show="q.length > 0">&times;</span>
 
             <button type="button" class="show-all-button" v-if="!showIndex" @click="showIndex = true">Show All</button>
@@ -123,7 +130,7 @@
                 </div>
             </li>
             <li class="list-group-item">
-                <button class="btn btn-outline-primary" @click="clearCache">Clear Local Book Cache</button>
+                <button class="btn btn-outline-primary" @click="clearCache">Clear Local Cache</button>
                 <div class="text-success" v-if="cacheCleared">Success!</div>
             </li>
         </ul>
@@ -179,7 +186,6 @@
             index: {},
             showIndex: false,
             showPreferences: false,
-            matches: {},
             timeout: false,
             showSeeAlso: Number(DB.get('showSeeAlso') || 0),
             cacheCleared: false,
@@ -203,8 +209,8 @@
             $(document).off('click', '[href]', href_function);
             $(document).on('click', '[href]', href_function);
 
-            window.removeEventListener('focus', this.loadBook);
-            window.addEventListener('focus', this.loadBook);
+            //window.removeEventListener('focus', this.loadBook);
+            //window.addEventListener('focus', this.loadBook);
         },
         watch: {
             showSeeAlso(newValue) {
@@ -214,8 +220,8 @@
         methods: {
             clearSearch() {
                 this.q = '';
-                this.matches = [];
-                $('input[type=search]').focus();
+                this.characterMatches = [];
+                this.$refs.searchInput.focus();
             },
 
             /**
@@ -225,7 +231,9 @@
                 const bookPath = `data/${this.book}.json`;
                 // 1. Try remote source for the most up-to-date data
                 try {
-                    let result = await axios.get(`http://wheeloftime.silvermast.io/${bookPath}`, { timeout: 2000 });
+                    let result = await axios.get(`https://wheeloftime.silvermast.io/${bookPath}`, { 
+                        timeout: 2000 
+                    });
                     DB.set(bookPath, { time: time(), data: result.data });
                     return result.data
                 } catch (e) {
@@ -271,9 +279,15 @@
             /**
              * Immediately searches the index for matching characters
              */
-            search() {
-                if (this.q.length < 3)
+            async search() {
+                if (!this.characterList) {
+                    await this.loadBook();
+                }
+
+                if (this.q.length === 0) {
+                    this.clearSearch();
                     return;
+                }
 
                 this.showIndex = false;
                 DB.set('query', this.q);
@@ -287,10 +301,6 @@
              */
             searchEvent() {
                 clearTimeout(this.timeout);
-
-                if (this.q.length < 3)
-                    return;
-
                 this.timeout = setTimeout(this.search, 300);
             },
 
@@ -299,7 +309,7 @@
              * @param character
              * @param chapterId
              */
-            toggleChapter: function(character, chapterId) {
+            toggleChapter(character, chapterId) {
                 this.$set(character, 'isShowing', !character.isShowing);
             },
 
@@ -308,6 +318,8 @@
              */
             clearCache() {
                 Object.keys(this.books).forEach(book => DB.del(`data/${book}.json`));
+                // localStorage.clear();
+                this.loadBook();
                 this.cacheCleared = true;
                 setTimeout(() => this.cacheCleared = false, 2000);
             },

@@ -15,3 +15,16 @@ Libraries:
 Attributions:
 - Authors: [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan) and [Brandon Sanderson](https://brandonsanderson.com/) for writing an incredible series
 - [Karl Hammond's WoT Compendium](http://sites.ugcs.caltech.edu/~karlh/cgi-bin/wot.cgi)
+
+## Troubleshooting & Tips
+
+*emulator: ERROR: ANDROID_SDK_ROOT is undefined*
+Find and set your ANDROID_SDK_ROOT
+```
+export ANDROID_SDK_ROOT="$HOME/Library/Android/sdk"
+```
+
+*List devices*
+```
+cordova run android --list
+```
