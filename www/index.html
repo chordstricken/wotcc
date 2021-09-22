@@ -201,7 +201,8 @@
                 e.preventDefault();
                 const href = $(this).attr('href');
                 if (href[0] === '#') {
-                    vm.q = $(this).text().split(',').reverse().map($.trim).join(' ');
+                    // vm.q = $(this).text().split(',').reverse().map($.trim).join(' ');
+                    vm.q = decodeURIComponent(href.substr(1)).replace(/\+/g, ' ');
                     vm.search();
                 }
             };
