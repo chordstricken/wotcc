@@ -4,8 +4,8 @@
         "name": "Aan'allein",
         "chapters": [
             {
-                "title": "Prelude",
-                "info": "Name the Aiel use for <a href='#Lan'>Lan<\/a>. It means, roughly, &#x201C;One Man Alone&#x201D; or &#x201C;Man Who is an Entire People&#x201D; in the Old Tongue.",
+                "title": "Chapter 1: The Hook",
+                "info": "Name the Aiel use for <a href='#Lan+Mandragoran'>Lan<\/a>. It means, roughly, &#x201C;One Man Alone&#x201D; or &#x201C;Man Who is an Entire People&#x201D; in the Old Tongue.",
                 "seeAlso": [
                     {
                         "id": "Lan",
@@ -103,6 +103,26 @@
             }
         ]
     },
+    "al-Akir-Mandragoran": {
+        "id": "al-Akir-Mandragoran",
+        "name": "al'Akir Mandragoran",
+        "chapters": [
+            {
+                "title": "Chapter 15: Into Canluum",
+                "info": "The last king of Malkier, <a href='#Lan Mandragoran'>Lan<\/a>&apos;s father. He died about 24 years ago when Malkier was overrun, shortly after Lan&apos;s birth.",
+                "seeAlso": [
+                    {
+                        "id": "Lan",
+                        "name": "Lan Mandragoran"
+                    },
+                    {
+                        "id": "Leanna",
+                        "name": "Leanna Mandragoran"
+                    }
+                ]
+            }
+        ]
+    },
     "Alanna-Mosvani": {
         "id": "Alanna-Mosvani",
         "name": "Alanna Mosvani",
@@ -186,7 +206,7 @@
         "chapters": [
             {
                 "title": "Chapter 14: Changes",
-                "info": "Stocky Aes Sedai of the Red Ajah with long beaded braids. She is the new <a href='#Novices'>Mistress of Novices<\/a> under <a href='#Sierin'>Sierin Vayu<\/a>. It is tradition to appoint a Mistress of Novices from the Ajah one was raised from, but Sierin was raised from the Gray while Amira was from the Red. However, most think of Sierin as more Red than Gray anyway.",
+                "info": "Stocky Aes Sedai of the Red Ajah with long beaded braids. She is the new <a href='#Mistress+of+Novices'>Mistress of Novices<\/a> under <a href='#Sierin'>Sierin Vayu<\/a>. It is tradition to appoint a Mistress of Novices from the Ajah one was raised from, but Sierin was raised from the Gray while Amira was from the Red. However, most think of Sierin as more Red than Gray anyway.",
                 "seeAlso": []
             }
         ]
@@ -202,10 +222,6 @@
                     {
                         "id": "Tamra",
                         "name": "Tamra Ospenya"
-                    },
-                    {
-                        "id": "Sierin",
-                        "name": "Sierin Vayu"
                     }
                 ]
             }
@@ -303,7 +319,7 @@
         "chapters": [
             {
                 "title": "Chapter 22: Keeping Custom",
-                "info": "Square-faced serving woman assigned to <a href='#Lan'>Lan<\/a> in the Aesdaishar Palace. She has gray hair. Lan suspects that she is <a href='#Esne'>Esne<\/a>&apos;s mother.",
+                "info": "Square-faced serving woman assigned to <a href='#Lan+Mandragoran'>Lan<\/a> in the Aesdaishar Palace. She has gray hair. Lan suspects that she is <a href='#Esne'>Esne<\/a>&apos;s mother.",
                 "seeAlso": []
             }
         ]
@@ -324,7 +340,7 @@
         "name": "Artur Hawkwing",
         "chapters": [
             {
-                "title": "Prelude",
+                "title": "Chapter 1: The Hook",
                 "info": "Legendary emperor who lived about a thousand years ago. He conquered most of the known world, and the present-day nations were carved from his empire.",
                 "seeAlso": []
             }
@@ -373,8 +389,8 @@
         "name": "Basram",
         "chapters": [
             {
-                "title": "Prelude",
-                "info": "Short, stocky, coppery-skinned Domani soldier. <a href='#Lan'>Lan<\/a> finds him asleep at his post during his rounds.",
+                "title": "Chapter 1: The Hook",
+                "info": "Short, stocky, coppery-skinned Domani soldier. <a href='#Lan+Mandragoran'>Lan<\/a> finds him asleep at his post during his rounds.",
                 "seeAlso": []
             }
         ]
@@ -385,10 +401,10 @@
         "chapters": [
             {
                 "title": "Chapter 6: Surprises",
-                "info": "<a href='#WillaMandair'>Willa<\/a>&apos;s infant son. He was born &#x201C;in sight of Dragonmount,&#x201D; which is ridiculous; the mountain is visible for miles and miles in every direction from Tar Valon.",
+                "info": "<a href='#Willa+Mandair'>Willa<\/a>&apos;s infant son. He was born &#x201C;in sight of Dragonmount,&#x201D; which is ridiculous; the mountain is visible for miles and miles in every direction from Tar Valon.",
                 "seeAlso": [
                     {
-                        "id": "WillaMandair",
+                        "id": "Willa",
                         "name": "Willa Mandair"
                     }
                 ]
@@ -401,7 +417,7 @@
         "chapters": [
             {
                 "title": "Chapter 2: A Wish Fulfilled",
-                "info": "One of the Accepted. She and <a href='#Temaile'>Temaile<\/a> were assigned to the <a href='#Amyrlin'>Amyrlin Seat<\/a>&apos;s chamber before <a href='#Moiraine'>Moiraine<\/a> and <a href='#Siuan'>Siuan<\/a> took over. She is usually quite sensible.",
+                "info": "One of the Accepted. She and <a href='#Temaile'>Temaile<\/a> were assigned to the <a href='#Amyrlin+Seat'>Amyrlin Seat<\/a>&apos;s chamber before <a href='#Moiraine'>Moiraine<\/a> and <a href='#Siuan'>Siuan<\/a> took over. She is usually quite sensible.",
                 "seeAlso": []
             }
         ]
@@ -411,8 +427,8 @@
         "name": "Bukama Marenellin",
         "chapters": [
             {
-                "title": "Prelude",
-                "info": "<a href='#Lan'>Lan<\/a>&apos;s teacher, one of the original 20 men charged with the task of carrying the infant prince of Malkier to safety when the nation was overrun; he is the only one still alive. Bluff and broad, he is taller than most men, almost as tall as Lan. His hair is solid gray, which he wears cut to the shoulder according to Malkieri tradition, held back by the <i>hadori<\/i>, a thin braided leather cord. He has blue eyes.",
+                "title": "Chapter 1: The Hook",
+                "info": "<a href='#Lan+Mandragoran'>Lan<\/a>&apos;s teacher, one of the original 20 men charged with the task of carrying the infant prince of Malkier to safety when the nation was overrun; he is the only one still alive. Bluff and broad, he is taller than most men, almost as tall as Lan. His hair is solid gray, which he wears cut to the shoulder according to Malkieri tradition, held back by the <i>hadori<\/i>, a thin braided leather cord. He has blue eyes.",
                 "seeAlso": []
             }
         ]
@@ -423,7 +439,7 @@
         "chapters": [
             {
                 "title": "Chapter 22: Keeping Custom",
-                "info": "Lanky young servant in the Aesdaishar Palace in Chachin. He runs errands for <a href='#Lan'>Lan<\/a> while he is a guest in the palace.",
+                "info": "Lanky young servant in the Aesdaishar Palace in Chachin. He runs errands for <a href='#Lan+Mandragoran'>Lan<\/a> while he is a guest in the palace.",
                 "seeAlso": []
             }
         ]
@@ -445,7 +461,7 @@
         "chapters": [
             {
                 "title": "Chapter 17: An Arrival",
-                "info": "Aes Sedai of the Green Ajah. She has iron-gray hair and black eyes, and always wears ornaments in her hair. She is the only woman who Moiraine knows that is considerably stronger than Moiraine herself is in the Power. She was presumed dead until she appeared during the Aiel War. It is said she bent Tower law whenever it suited her, flouted custom, and always did her own thing, often dragging others with her. It is whispered that she even assaulted an <a href='#Amyrlin'>Amyrlin<\/a> once. <a href='#Moiraine'>Moiraine<\/a> knows this cannot be true&#x2014;she would have been executed&#x2014;but she also admits that where her friend <a href='#Siuan'>Siuan<\/a> was born to lead, Cadsuane was born to <i>command<\/i>. She is the strongest Aes Sedai in the Tower for the past 1000 years.",
+                "info": "Aes Sedai of the Green Ajah. She has iron-gray hair and black eyes, and always wears ornaments in her hair. She is the only woman who Moiraine knows that is considerably stronger than Moiraine herself is in the Power. She was presumed dead until she appeared during the Aiel War. It is said she bent Tower law whenever it suited her, flouted custom, and always did her own thing, often dragging others with her. It is whispered that she even assaulted an <a href='#Amyrlin+Seat'>Amyrlin<\/a> once. <a href='#Moiraine'>Moiraine<\/a> knows this cannot be true&#x2014;she would have been executed&#x2014;but she also admits that where her friend <a href='#Siuan'>Siuan<\/a> was born to lead, Cadsuane was born to <i>command<\/i>. She is the strongest Aes Sedai in the Tower for the past 1000 years.",
                 "seeAlso": []
             }
         ]
@@ -456,7 +472,7 @@
         "chapters": [
             {
                 "title": "Chapter 24: Making Use of Invisibility",
-                "info": "Young footman in the Aesdaishar Palace. <a href='#Siuan'>Siuan<\/a>, also known as <a href='#Suki'>Suki<\/a>, plans to use him to find out information about the <a href='#Ines'>Lady Ines<\/a>. He has pretty brown eyes.",
+                "info": "Young footman in the Aesdaishar Palace. <a href='#Siuan'>Siuan<\/a>, also known as <a href='#Suki'>Suki<\/a>, plans to use him to find out information about the <a href='#Lady+Ines'>Lady Ines<\/a>. He has pretty brown eyes.",
                 "seeAlso": []
             }
         ]
@@ -466,8 +482,8 @@
         "name": "Caniedrin",
         "chapters": [
             {
-                "title": "Prelude",
-                "info": "Beardless young man among <a href='#Lan'>Lan<\/a>&apos;s troops. The young Kandori is an efficient, experienced soldier, and an archer of rare skill. An almost cheerful killer, he often laughs while he fights.",
+                "title": "Chapter 1: The Hook",
+                "info": "Beardless young man among <a href='#Lan+Mandragoran'>Lan<\/a>&apos;s troops. The young Kandori is an efficient, experienced soldier, and an archer of rare skill. An almost cheerful killer, he often laughs while he fights.",
                 "seeAlso": []
             }
         ]
@@ -535,8 +551,8 @@
         "name": "Cat Dancer",
         "chapters": [
             {
-                "title": "Prelude",
-                "info": "<a href='#Lan'>Lan<\/a>&apos;s bay stallion. He is still being trained as a warhorse.",
+                "title": "Chapter 1: The Hook",
+                "info": "<a href='#Lan+Mandragoran'>Lan<\/a>&apos;s bay stallion. He is still being trained as a warhorse.",
                 "seeAlso": [
                     {
                         "id": "Lan",
@@ -640,7 +656,7 @@
         "chapters": [
             {
                 "title": "Chapter 21: Some Tricks of the Power",
-                "info": "Leader of the bandits that try to mug <a href='#Moiraine'>Moiraine<\/a>, <a href='#Lan'>Lan<\/a>, <a href='#Ryne'>Ryne<\/a>, and <a href='#Bukama'>Bukama<\/a>.",
+                "info": "Leader of the bandits that try to mug <a href='#Moiraine'>Moiraine<\/a>, <a href='#Lan+Mandragoran'>Lan<\/a>, <a href='#Ryne'>Ryne<\/a>, and <a href='#Bukama'>Bukama<\/a>.",
                 "seeAlso": []
             }
         ]
@@ -654,7 +670,7 @@
                 "info": "Susa&apos;s son. He is too old to receive the bounty the White Tower is paying for newborns in honor of the battle, but <a href='#Moiraine'>Moiraine<\/a> added him to the list anyway&#x2014;she reasoned that the Tower could provide 100 crowns to help the misfortunate.",
                 "seeAlso": [
                     {
-                        "id": "SusaWynn",
+                        "id": "Susa",
                         "name": "Susa Wynn"
                     }
                 ]
@@ -677,11 +693,11 @@
         "name": "Dark One",
         "chapters": [
             {
-                "title": "Prelude",
-                "info": "Name, used in every land, for <a href='#Dark'>Shai&apos;tan<\/a>, because using his real name causes bad luck (at best) to anyone who speaks it.",
+                "title": "Chapter 1: The Hook",
+                "info": "Name, used in every land, for <a href='#Shai&apos;tan'>Shai&apos;tan<\/a>, because using his real name causes bad luck (at best) to anyone who speaks it.",
                 "seeAlso": [
                     {
-                        "id": "Dark",
+                        "id": "Shaitan",
                         "name": "Shai&apos;tan"
                     }
                 ]
@@ -733,7 +749,7 @@
         "chapters": [
             {
                 "title": "Chapter 3: Practice",
-                "info": "According to the Karaethon Cycle, the Prophecies of the Dragon, the man who is the Rebirth of Lews Therin Telamon, the <a href='#Dragon'>Dragon<\/a>. It is said he will be Reborn at mankind&apos;s greatest hour of need to save the world. His Rebirth was Foretold by <a href='#Gitara'>Gitara Moroso<\/a> just before her death; in fact, the shock of the Foretelling was what killed her.",
+                "info": "According to the Karaethon Cycle, the Prophecies of the Dragon, the man who is the Rebirth of Lews Therin Telamon, the <a href='#The+Dragon'>Dragon<\/a>. It is said he will be Reborn at mankind&apos;s greatest hour of need to save the world. His Rebirth was Foretold by <a href='#Gitara'>Gitara Moroso<\/a> just before her death; in fact, the shock of the Foretelling was what killed her.",
                 "seeAlso": [
                     {
                         "id": "Dragon",
@@ -791,11 +807,31 @@
         "chapters": [
             {
                 "title": "Chapter 16: The Deeps",
-                "info": "Woman who raised the Golden Crane in <a href='#Lan'>Lan<\/a>&apos;s name. She is Lan&apos;s <i>carneira<\/i> (&#x201C;first,&#x201D; in the Old Tongue), his first lover. She is about fifteen years older than Lan.",
+                "info": "Woman who raised the Golden Crane in <a href='#Lan+Mandragoran'>Lan<\/a>&apos;s name. She is Lan&apos;s <i>carneira<\/i> (&#x201C;first,&#x201D; in the Old Tongue), his first lover. She is about fifteen years older than Lan.",
                 "seeAlso": [
                     {
                         "id": "Iselle",
                         "name": "Iselle Gemallen"
+                    }
+                ]
+            }
+        ]
+    },
+    "el-Leanna-ti-Mandragoran": {
+        "id": "el-Leanna-ti-Mandragoran",
+        "name": "el'Leanna ti Mandragoran",
+        "chapters": [
+            {
+                "title": "Chapter 15: Into Canluum",
+                "info": "The last queen of Malkier, wife to <a href='#Akir'>Akir<\/a> and mother to <a href='#Lan+Mandragoran'>Lan<\/a>. She died when Malkier was overrun, shortly after Lan&apos;s birth.",
+                "seeAlso": [
+                    {
+                        "id": "Akir",
+                        "name": "Akir Mandragoran"
+                    },
+                    {
+                        "id": "Lan",
+                        "name": "Lan Mandragoran"
                     }
                 ]
             }
@@ -818,7 +854,7 @@
         "chapters": [
             {
                 "title": "Chapter 2: A Wish Fulfilled",
-                "info": "Novice on guard duty outside the <a href='#Amyrlin'>Amyrlin<\/a>&apos;s study. She is very slender. <a href='#Moiraine'>Moiraine<\/a> caught her reading <i>Hearts of Flame<\/i>, a romance novel of sorts. The book is considered inappropriate for novices. She is three years older than Moiraine.",
+                "info": "Novice on guard duty outside the <a href='#Amyrlin+Seat'>Amyrlin<\/a>&apos;s study. She is very slender. <a href='#Moiraine'>Moiraine<\/a> caught her reading <i>Hearts of Flame<\/i>, a romance novel of sorts. The book is considered inappropriate for novices. She is three years older than Moiraine.",
                 "seeAlso": []
             }
         ]
@@ -911,7 +947,7 @@
         "chapters": [
             {
                 "title": "Chapter 22: Keeping Custom",
-                "info": "Square-faced serving woman assigned to <a href='#Lan'>Lan<\/a> in the Aesdaishar Palace. Lan suspects that she is <a href='#Anya'>Anya<\/a>&apos;s daughter.",
+                "info": "Square-faced serving woman assigned to <a href='#Lan+Mandragoran'>Lan<\/a> in the Aesdaishar Palace. Lan suspects that she is <a href='#Anya'>Anya<\/a>&apos;s daughter.",
                 "seeAlso": []
             }
         ]
@@ -1038,14 +1074,14 @@
         "chapters": [
             {
                 "title": "Chapter 5: The Human Heart",
-                "info": "Late husband of <a href='#SusaWynn'>Susa Wynn<\/a>. He died before the fighting began, slipping in the snow and cracking his head on a stone.",
+                "info": "Late husband of <a href='#Susa+Wynn'>Susa Wynn<\/a>. He died before the fighting began, slipping in the snow and cracking his head on a stone.",
                 "seeAlso": [
                     {
-                        "id": "CyrilWynn",
+                        "id": "Cyril",
                         "name": "Cyril Wynn"
                     },
                     {
-                        "id": "SusaWynn",
+                        "id": "Susa",
                         "name": "Susa Wynn"
                     }
                 ]
@@ -1057,8 +1093,8 @@
         "name": "Jaim",
         "chapters": [
             {
-                "title": "Prelude",
-                "info": "Gray-bearded soldier. <a href='#Lan'>Lan<\/a> found him asleep at his post, still standing up, eyes open. He denied being asleep, but Lan knew&#x2014;other seasoned veterans knew the trick of sleeping with their eyes open, too.",
+                "title": "Chapter 1: The Hook",
+                "info": "Gray-bearded soldier. <a href='#Lan+Mandragoran'>Lan<\/a> found him asleep at his post, still standing up, eyes open. He denied being asleep, but Lan knew&#x2014;other seasoned veterans knew the trick of sleeping with their eyes open, too.",
                 "seeAlso": []
             }
         ]
@@ -1193,7 +1229,7 @@
         "chapters": [
             {
                 "title": "Chapter 22: Keeping Custom",
-                "info": "Seasoned Kandori campaigner who rode with <a href='#Lan'>Lan<\/a> for a time. He has gray hair.",
+                "info": "Seasoned Kandori campaigner who rode with <a href='#Lan+Mandragoran'>Lan<\/a> for a time. He has gray hair.",
                 "seeAlso": []
             }
         ]
@@ -1277,10 +1313,10 @@
         "chapters": [
             {
                 "title": "Chapter 5: The Human Heart",
-                "info": "First Queen of Murandy. She is allegedly a direct ancestor of <a href='#MeriConlin'>Meri a&apos;Conlin<\/a>.",
+                "info": "First Queen of Murandy. She is allegedly a direct ancestor of <a href='#Meri+a&apos;Conlin'>Meri a&apos;Conlin<\/a>.",
                 "seeAlso": [
                     {
-                        "id": "MeriConlin",
+                        "id": "Meri",
                         "name": "Meri do Ahlan a&apos;Conlin"
                     }
                 ]
@@ -1304,19 +1340,11 @@
         "chapters": [
             {
                 "title": "Chapter 2: A Wish Fulfilled",
-                "info": "Secretary of sorts for the <a href='#Amyrlin'>Amyrlin Seat<\/a>. By tradition, the Keeper is chosen from the same Ajah as the Amyrlin was raised from. However, the Keeper represents the Amyrlin, not the Ajah she is part of. The current Keeper is <a href='#Gitara'>Gitara Moroso<\/a>, raised from the Blue Ajah.",
+                "info": "Secretary of sorts for the <a href='#Amyrlin+Seat'>Amyrlin Seat<\/a>. By tradition, the Keeper is chosen from the same Ajah as the Amyrlin was raised from. However, the Keeper represents the Amyrlin, not the Ajah she is part of. The current Keeper is <a href='#Gitara'>Gitara Moroso<\/a>, raised from the Blue Ajah.",
                 "seeAlso": [
-                    {
-                        "id": "Duhara",
-                        "name": "Duhara Basaheen"
-                    },
                     {
                         "id": "Gitara",
                         "name": "Gitara Moroso"
-                    },
-                    {
-                        "id": "Aeldra",
-                        "name": "Aeldra Najaf"
                     }
                 ]
             }
@@ -1359,7 +1387,7 @@
         "chapters": [
             {
                 "title": "Chapter 5: The Human Heart",
-                "info": "King of Cairhien, and <a href='#Moiraine'>Moiraine<\/a>&apos;s uncle. He was killed in the battle of the Shining Walls along with his brothers <a href='#Moressin'>Moressin<\/a> and <a href='#Aldecain'>Aldecain<\/a>. He was a distant man who burned with ambition. Moiraine believes he never married because even becoming queen of Cairhien was not sufficient enticement to marry him.",
+                "info": "King of Cairhien, and <a href='#Moiraine+Damodred'>Moiraine<\/a>&apos;s uncle. He was killed in the battle of the Shining Walls along with his brothers <a href='#Moressin_Damodred'>Moressin<\/a> and <a href='#Aldecain+Damodred'>Aldecain<\/a>. He was a distant man who burned with ambition. Moiraine believes he never married because even becoming queen of Cairhien was not sufficient enticement to marry him.",
                 "seeAlso": [
                     {
                         "id": "Aldecain",
@@ -1376,6 +1404,30 @@
                     {
                         "id": "Taringail",
                         "name": "Taringail Damodred"
+                    }
+                ]
+            }
+        ]
+    },
+    "Lan-Mandragoran": {
+        "id": "Lan-Mandragoran",
+        "name": "Lan Mandragoran",
+        "chapters": [
+            {
+                "title": "Chapter 1: The Hook",
+                "info": "Uncrowned king of Malkier, a nation now swallowed by the Great Blight, and the son of <a href='#Akir+Mandragoran'>al&apos;Akir<\/a> and <a href='#Leanna+ti+Mandragoran'>el&apos;Leanna<\/a>, the last king and queen of Malkier. He is very tall, with long hair that he wears back with the <i>hadori<\/i>, a braided leather strap traditionally worn by Malkieri men. At his birth, shortly before the Trollocs overran Malkier and the Blight consumed his homeland, Lan was given four gifts (while still in his cradle): a gold signet ring, a locket, a sword, and an oath. Lan and his surviving Malkieri companions are the last of their people. He prefers to avoid Aes Sedai when possible. Lan has experience fighting the Aiel on the Shienaran Marches, long before the Aiel War even began. He is quite practiced in the <i>ko&apos;di<\/i>, the Oneness, a concentration aid he uses to clear his mind for battle and other crucial situations.",
+                "seeAlso": [
+                    {
+                        "id": "Moiraine",
+                        "name": "Moiraine Damodred"
+                    },
+                    {
+                        "id": "Akir",
+                        "name": "Akir Mandragoran"
+                    },
+                    {
+                        "id": "Leanna",
+                        "name": "Leanna ti Mandragoran"
                     }
                 ]
             }
@@ -1546,7 +1598,7 @@
         "chapters": [
             {
                 "title": "Chapter 2: A Wish Fulfilled",
-                "info": "Plump, motherly Aes Sedai of the Blue Ajah, and <a href='#Novices'>Mistress of Novices<\/a> under <a href='#Tamra'>Tamra Ospenya<\/a>. She has a plump chin, and more gray in her hair than not. She is fairly tall&#x2014;<a href='#Moiraine'>Moiraine<\/a>&apos;s head comes up to her chin. She is very strong in the One Power, and has a way of discovering that which people wish to keep hidden. She had been Aes Sedai for over 100 years by the time Moiraine&apos;s great-grandmother was born. She has no Warder.",
+                "info": "Plump, motherly Aes Sedai of the Blue Ajah, and <a href='#Mistress+of+Novices'>Mistress of Novices<\/a> under <a href='#Tamra'>Tamra Ospenya<\/a>. She has a plump chin, and more gray in her hair than not. She is fairly tall&#x2014;<a href='#Moiraine'>Moiraine<\/a>&apos;s head comes up to her chin. She is very strong in the One Power, and has a way of discovering that which people wish to keep hidden. She had been Aes Sedai for over 100 years by the time Moiraine&apos;s great-grandmother was born. She has no Warder.",
                 "seeAlso": [
                     {
                         "id": "Novices",
@@ -1651,10 +1703,6 @@
                 "title": "Chapter 2: A Wish Fulfilled",
                 "info": "Aes Sedai in charge of novice training in the White Tower. She serves as both a disciplinarian and a shoulder to cry on for girls who need either. The current Mistress of Novices is <a href='#Merean'>Merean Redhill<\/a> of the Blue Ajah.",
                 "seeAlso": [
-                    {
-                        "id": "Amira",
-                        "name": "Amira"
-                    },
                     {
                         "id": "Merean",
                         "name": "Merean Redhill"
@@ -2395,7 +2443,7 @@
                 "info": "Woman who gave birth to a son to the west of the Erinin on the day <a href='#Gitara'>Gitara<\/a> died, &#x201C;in sight of Dragonmount.&#x201D;",
                 "seeAlso": [
                     {
-                        "id": "BiliMandair",
+                        "id": "Bili",
                         "name": "Bili Mandair"
                     }
                 ]
@@ -2437,70 +2485,6 @@
                 "title": "Chapter 3: Practice",
                 "info": "One of the Accepted. She is slim, and very dark, with straight black hair to her waist and various black tattoos on her hands. <a href='#Moiraine'>Moiraine<\/a> thinks it is likely she will choose the Brown or perhaps the White Ajah when raised. She is one of the Sea Folk; there are only four Sea Folk sisters among the Aes Sedai, and all are Browns. Two of them are <i>very<\/i> old, as old as <a href='#Gitara'>Gitara Moroso<\/a> was before she died. She spent ten years as a novice, and eight so far as Accepted.",
                 "seeAlso": []
-            }
-        ]
-    },
-    "al-Akir-Mandragoran": {
-        "id": "al-Akir-Mandragoran",
-        "name": "al'Akir Mandragoran",
-        "chapters": [
-            {
-                "title": "Chapter 15: Into Canluum",
-                "info": "The last king of Malkier, <a href='#Lan'>Lan<\/a>&apos;s father. He died about 24 years ago when Malkier was overrun, shortly after Lan&apos;s birth.",
-                "seeAlso": [
-                    {
-                        "id": "Lan",
-                        "name": "Lan Mandragoran"
-                    },
-                    {
-                        "id": "Leanna",
-                        "name": "Leanna ti Mandragoran"
-                    }
-                ]
-            }
-        ]
-    },
-    "al-Lan-Mandragoran": {
-        "id": "al-Lan-Mandragoran",
-        "name": "al'Lan Mandragoran",
-        "chapters": [
-            {
-                "title": "Prelude",
-                "info": "Uncrowned king of Malkier, a nation now swallowed by the Great Blight, and the son of <a href='#Akir'>al&apos;Akir<\/a> and <a href='#Leanna'>el&apos;Leanna<\/a>, the last king and queen of Malkier. He is very tall, with long hair that he wears back with the <i>hadori<\/i>, a braided leather strap traditionally worn by Malkieri men. At his birth, shortly before the Trollocs overran Malkier and the Blight consumed his homeland, Lan was given four gifts (while still in his cradle): a gold signet ring, a locket, a sword, and an oath. Lan and his surviving Malkieri companions are the last of their people. He prefers to avoid Aes Sedai when possible. Lan has experience fighting the Aiel on the Shienaran Marches, long before the Aiel War even began. He is quite practiced in the <i>ko&apos;di<\/i>, the Oneness, a concentration aid he uses to clear his mind for battle and other crucial situations.",
-                "seeAlso": [
-                    {
-                        "id": "Moiraine",
-                        "name": "Moiraine Damodred"
-                    },
-                    {
-                        "id": "Akir",
-                        "name": "Akir Mandragoran"
-                    },
-                    {
-                        "id": "Leanna",
-                        "name": "Leanna ti Mandragoran"
-                    }
-                ]
-            }
-        ]
-    },
-    "el-Leanna-ti-Mandragoran": {
-        "id": "el-Leanna-ti-Mandragoran",
-        "name": "el'Leanna ti Mandragoran",
-        "chapters": [
-            {
-                "title": "Chapter 15: Into Canluum",
-                "info": "The last queen of Malkier, wife to <a href='#Akir'>Akir<\/a> and mother to <a href='#Lan'>Lan<\/a>. She died when Malkier was overrun, shortly after Lan&apos;s birth.",
-                "seeAlso": [
-                    {
-                        "id": "Akir",
-                        "name": "Akir Mandragoran"
-                    },
-                    {
-                        "id": "Lan",
-                        "name": "Lan Mandragoran"
-                    }
-                ]
             }
         ]
     }
