@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cd $(dirname $0)/../;
-aws-sm s3 sync --delete ./www s3://wheeloftime.silvermast.io/
+aws-sm s3 sync --delete --exclude '*.DS_Store' ./www s3://wheeloftime.silvermast.io/
 
 PATHS_TO_INVALIDATE='/index.html /res/* /data/*'
 

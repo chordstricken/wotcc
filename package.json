@@ -22,7 +22,7 @@
   "author": "Jason Wright",
   "license": "Apache-2.0",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "bootstrap": "^4.4.1",
     "cheerio": "^1.0.0-rc.10",
     "compare-func": "^2.0.0",
