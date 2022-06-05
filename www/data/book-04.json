@@ -725,7 +725,7 @@
         "chapters": [
             {
                 "title": "Chapter 42: A Missing Leaf",
-                "info": "Young man from Emond&apos;s Field. <i>It is unknown whether this person is meant to be <a href='#Ban'>Ban al&apos;Seen<\/a>, or whether this is a new character. I have assumed the latter.<\/i>",
+                "info": "Young man from Emond&apos;s Field.",
                 "seeAlso": [
                     {
                         "id": "Ban",
@@ -741,7 +741,7 @@
         "chapters": [
             {
                 "title": "Chapter 33: A New Weave in the Pattern",
-                "info": "Wil&apos;s cousin, <a href='#Jac'>Jac<\/a>&apos;s son. He got all of the nose in his family (it is not clear whether this means he has a really huge nose, or whether he&apos;s the only one in the family with a nice nose).",
+                "info": "Wil&apos;s cousin, <a href='#Jac'>Jac<\/a>&apos;s son. He got all of the nose in his family.",
                 "seeAlso": []
             }
         ]
