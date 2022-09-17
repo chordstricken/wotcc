@@ -375,7 +375,7 @@
         "chapters": [
             {
                 "title": "Chapter 38: Hidden Faces",
-                "info": "<a href='#Andric'>King Andric<\/a>&apos;s choice for the next Panarch of Tarabon. She shares his bed, but is not supported by the Assembly.",
+                "info": "King <a href='#Andric'>Andric<\/a>&apos;s choice for the next Panarch of Tarabon. She shares his bed, but is not supported by the Assembly.",
                 "seeAlso": [
                     {
                         "id": "Andric",
@@ -1704,7 +1704,7 @@
         "chapters": [
             {
                 "title": "Chapter 1: Seeds of Shadow",
-                "info": "By Andoran tradition, the oldest daughter of the Queen succeeds her on the Lion Throne. No man is allowed to be King, at least not as more than a figurehead. The previous Daughter-Heir, Tigraine, disappeared over twenty years ago; the current Daughter-Heir is <a href='#Elayne'>Elayne Trakand<\/a>. It is also traditional for the Daughter-Heir and her oldest brother (who will become First Prince of the Sword when she becomes Queen) to train in Tar Valon, but Elayne is the first Daughter Heir, indeed, the first ruler of any kind in recent memory, to actually have enough ability to channel that she will become Aes Sedai.",
+                "info": "By Andoran tradition, the oldest daughter of the Queen succeeds her on the Lion Throne. No man is allowed to be King, at least not as more than a figurehead. The previous Daughter-Heir, Tigraine, disappeared over twenty years ago; the current Daughter-Heir is <a href='#Elayne'>Elayne Trakand<\/a>. It is also traditional for the Daughter-Heir and her oldest brother (who will become First Prince of the Sword if she becomes Queen) to train in Tar Valon, but Elayne is the first Daughter Heir, indeed, the first ruler of any kind in recent memory, to actually have enough ability to channel that she will become Aes Sedai.",
                 "seeAlso": [
                     {
                         "id": "Elayne",

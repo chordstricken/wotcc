@@ -739,7 +739,7 @@
         "chapters": [
             {
                 "title": "Chapter 1: The Flame of Tar Valon",
-                "info": "By Andoran tradition, the oldest daughter of the Queen succeeds her on the Lion Throne. No man is allowed to be King, at least not as more than a figurehead. The previous Daughter-Heir, <a href='#Tigraine'>Tigraine<\/a>, disappeared over twenty years ago; the current Daughter-Heir is <a href='#Elayne'>Elayne Trakand<\/a>. It is also traditional for the Daughter-Heir and her oldest brother (who will become First Prince of the Sword when she becomes Queen) to train in Tar Valon, but Elayne is the first Daughter-Heir, indeed, the first ruler of any kind in recent memory, to actually have enough ability to channel that she will become Aes Sedai.",
+                "info": "By Andoran tradition, the oldest daughter of the Queen succeeds her on the Lion Throne. No man is allowed to be King, at least not as more than a figurehead. The previous Daughter-Heir, <a href='#Tigraine'>Tigraine<\/a>, disappeared over twenty years ago; the current Daughter-Heir is <a href='#Elayne'>Elayne Trakand<\/a>. It is also traditional for the Daughter-Heir and her oldest brother (who will become First Prince of the Sword if she becomes Queen) to train in Tar Valon, but Elayne is the first Daughter-Heir, indeed, the first ruler of any kind in recent memory, to actually have enough ability to channel that she will become Aes Sedai.",
                 "seeAlso": [
                     {
                         "id": "Tigraine",
@@ -1269,7 +1269,7 @@
         "chapters": [
             {
                 "title": "Chapter 4: Summoned",
-                "info": "Brother to <a href='#Elayne'>Elayne<\/a>. He will become the First Prince of the Sword when Elayne becomes queen of Andor. Both he and his half-brother, <a href='#Galad'>Galad<\/a>, are strikingly handsome.",
+                "info": "Brother to <a href='#Elayne'>Elayne<\/a>. He will become the First Prince of the Sword if Elayne becomes queen of Andor. Both he and his half-brother, <a href='#Galad'>Galad<\/a>, are strikingly handsome.",
                 "seeAlso": [
                     {
                         "id": "Galad",
