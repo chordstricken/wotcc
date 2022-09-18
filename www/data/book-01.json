@@ -1155,7 +1155,7 @@
                 "seeAlso": [
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Elayne",
@@ -1676,7 +1676,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Elayne",
@@ -2706,7 +2706,7 @@
                 "seeAlso": [
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     }
                 ]
             }
@@ -3256,13 +3256,13 @@
             }
         ]
     },
-    "Paetram-Paet-Aybara": {
-        "id": "Paetram-Paet-Aybara",
-        "name": "Paetram (Paet) Aybara",
+    "Paetram-Aybara": {
+        "id": "Paetram-Aybara",
+        "name": "Paetram Aybara",
         "chapters": [
             {
                 "title": "Chapter 1: An Empty Road",
-                "info": "<a class='name' name='Paetram'>Paetram (Paet) Aybara<\/a> is <a href='#Perrin'>Perrin<\/a>&apos;s baby brother.",
+                "info": "<a class='name' name='Paetram'>Paetram Aybara<\/a> is <a href='#Perrin'>Perrin<\/a>&apos;s baby brother.",
                 "seeAlso": [
                     {
                         "id": "Adora",
@@ -3858,7 +3858,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Elayne",
@@ -3958,9 +3958,9 @@
             }
         ]
     },
-    "Tigraine-Damodred": {
-        "id": "Tigraine-Damodred",
-        "name": "Tigraine Damodred",
+    "Tigraine-Mantear": {
+        "id": "Tigraine-Mantear",
+        "name": "Tigraine Mantear",
         "chapters": [
             {
                 "title": "Chapter 34: The Last Village",

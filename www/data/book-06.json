@@ -1848,7 +1848,7 @@
                 "seeAlso": [
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Elayne",
@@ -2858,7 +2858,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Elayne",
@@ -2992,7 +2992,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Luc",
@@ -3364,9 +3364,9 @@
             }
         ]
     },
-    "High-Lord-Amondrid-Gueyam": {
-        "id": "High-Lord-Amondrid-Gueyam",
-        "name": "High Lord Amondrid Gueyam",
+    "High-Lord-Gueyam": {
+        "id": "High-Lord-Gueyam",
+        "name": "High Lord Gueyam",
         "chapters": [
             {
                 "title": "Chapter 19: Matters of Toh",
@@ -4393,6 +4393,17 @@
             }
         ]
     },
+    "Lady-Altalin": {
+        "id": "Lady-Altalin",
+        "name": "Lady Altalin",
+        "chapters": [
+            {
+                "title": "Chapter 9: Plans",
+                "info": "A noblewoman of Amadicia who served as a lady-in-waiting to Morgase under the command of Pedron Niall. She has a plump face and made a bad pun about Galad.",
+                "seeAlso": []
+            }
+        ]
+    },
     "Lady-Arathelle-Renshar": {
         "id": "Lady-Arathelle-Renshar",
         "name": "Lady Arathelle Renshar",
@@ -4543,9 +4554,9 @@
             }
         ]
     },
-    "Lady-Tigraine-Damodred": {
-        "id": "Lady-Tigraine-Damodred",
-        "name": "Lady Tigraine Damodred",
+    "Lady-Tigraine-Mantear": {
+        "id": "Lady-Tigraine-Mantear",
+        "name": "Lady Tigraine Mantear",
         "chapters": [
             {
                 "title": "Chapter 16: Tellings of the Wheel",
@@ -5228,17 +5239,6 @@
             }
         ]
     },
-    "Lord-Jarin": {
-        "id": "Lord-Jarin",
-        "name": "Lord Jarin",
-        "chapters": [
-            {
-                "title": "Chapter 9: Plans",
-                "info": "Andoran lord vying for more power in Andor. He was one of those who opposed <a href='#Morgase'>Morgase<\/a> during the Succession.",
-                "seeAlso": []
-            }
-        ]
-    },
     "Lord-Lir-Baryn": {
         "id": "Lord-Lir-Baryn",
         "name": "Lord Lir Baryn",
@@ -5271,7 +5271,7 @@
                 "seeAlso": [
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Mordrellen",
@@ -5447,7 +5447,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Elayne",
@@ -6254,7 +6254,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Gaebril",
@@ -6889,7 +6889,7 @@
                 "seeAlso": [
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Luc",
@@ -7047,7 +7047,7 @@
         "chapters": [
             {
                 "title": "Prologue: The First Message",
-                "info": "A young man born in Emond&apos;s Field in the Two Rivers, now proclaimed to be the <a href='#Reborn'>Dragon Reborn<\/a>. He is very tall, with curly red-blond hair. He was raised by <a href='#Tam'>Tam al&apos;Thor<\/a> and his wife <a href='#Kari'>Kari<\/a> (until her death around the time Rand was five) in Emond&apos;s Field. His real parents, however, were <a href='#Janduin'>Janduin<\/a>, the chief of the Taardad Aiel who brought the four clans across the Dragonwall to punish <a href='#Laman'>Laman<\/a>&apos;s Sin, and a Maiden of the Spear named <a href='#Shaiel'>Shaiel<\/a>, who was actually <a href='#Tigraine'>Tigraine Damodred<\/a>, the runaway <a href='#DH'>Daughter-Heir of Andor<\/a>. Tigraine gave birth to Rand on the slopes of Dragonmount, in accordance with prophecy; &#x201C;born of a Maiden, of the ancient blood but raised by the Old.&#x201D; Rand has a heron branded into each of his palms, which he received from the sword Tam gave him while fighting <a href='#Ishamael'>Ishamael<\/a>. He also has two dragons on his forearms, which he recieved in Rhuidean to designate him as the <a href='#Caracarn'>Car&apos;a&apos;carn<\/a>, the Chief of Chiefs of the Aiel. He is not only the Dragon Reborn, but also <a href='#Dawn'>He Who Comes With the Dawn<\/a>, the man prophesied to reunite the Aiel, and the <a href='#Coramoor'>Coramoor<\/a>, the one prophesied to bring the Sea Folk out of the Sea. He can channel strongly, more so than any person who ever lived (except the previous user of his soul, <a href='#Lews'>Lews Therin Telamon<\/a>, who was obviously of equal strength), and is also <i>ta&apos;veren<\/i>, the most strongly so since Lews Therin as well. Lews Therin&apos;s voice has somehow found a new place inside of Rand&apos;s head; he talks to him in a mad voice when Rand least expects it, sometimes offering sound advice or knowledge, sometimes babbling, sometimes even trying to wrest control of <i>saidin<\/i> from him. Unlike Lews Therin, Rand is accompanied by two other <i>ta&apos;veren<\/i> during this turing of the Wheel, two men born within days (hours, even) of him named <a href='#Mat'>Matrim Cauthon<\/a> and <a href='#Perrin'>Perrin Aybara<\/a>, who both grew up in Emond&apos;s Field as well. Rand is destined to fall in love with three women (and has): <a href='#Min'>Min Farshaw<\/a>, <a href='#Elayne'>Elayne Trakand<\/a>, and <a href='#Aviendha'>Aviendha<\/a>. He has already been born on the slopes of Dragonmount of a Maiden, of the ancient blood but raised by the old, taken the Stone of Tear and drawn <i>Callandor<\/i>, and began conquering &#x201C;under the forgotten symbol,&#x201D; that of the Aes Sedai of the Age of Legends. He is working on having the &#x201C;spotless tower&#x201D; break and bend knee to him, as well. He is the salvation of the entire world, and as the prophecy states, he <i>will<\/i> save the world&#x2014;and Break it again.",
+                "info": "A young man born in Emond&apos;s Field in the Two Rivers, now proclaimed to be the <a href='#Reborn'>Dragon Reborn<\/a>. He is very tall, with curly red-blond hair. He was raised by <a href='#Tam'>Tam al&apos;Thor<\/a> and his wife <a href='#Kari'>Kari<\/a> (until her death around the time Rand was five) in Emond&apos;s Field. His real parents, however, were <a href='#Janduin'>Janduin<\/a>, the chief of the Taardad Aiel who brought the four clans across the Dragonwall to punish <a href='#Laman'>Laman<\/a>&apos;s Sin, and a Maiden of the Spear named <a href='#Shaiel'>Shaiel<\/a>, who was actually <a href='#Tigraine'>Tigraine Mantear<\/a>, the runaway <a href='#DH'>Daughter-Heir of Andor<\/a>. Tigraine gave birth to Rand on the slopes of Dragonmount, in accordance with prophecy; &#x201C;born of a Maiden, of the ancient blood but raised by the Old.&#x201D; Rand has a heron branded into each of his palms, which he received from the sword Tam gave him while fighting <a href='#Ishamael'>Ishamael<\/a>. He also has two dragons on his forearms, which he recieved in Rhuidean to designate him as the <a href='#Caracarn'>Car&apos;a&apos;carn<\/a>, the Chief of Chiefs of the Aiel. He is not only the Dragon Reborn, but also <a href='#Dawn'>He Who Comes With the Dawn<\/a>, the man prophesied to reunite the Aiel, and the <a href='#Coramoor'>Coramoor<\/a>, the one prophesied to bring the Sea Folk out of the Sea. He can channel strongly, more so than any person who ever lived (except the previous user of his soul, <a href='#Lews'>Lews Therin Telamon<\/a>, who was obviously of equal strength), and is also <i>ta&apos;veren<\/i>, the most strongly so since Lews Therin as well. Lews Therin&apos;s voice has somehow found a new place inside of Rand&apos;s head; he talks to him in a mad voice when Rand least expects it, sometimes offering sound advice or knowledge, sometimes babbling, sometimes even trying to wrest control of <i>saidin<\/i> from him. Unlike Lews Therin, Rand is accompanied by two other <i>ta&apos;veren<\/i> during this turing of the Wheel, two men born within days (hours, even) of him named <a href='#Mat'>Matrim Cauthon<\/a> and <a href='#Perrin'>Perrin Aybara<\/a>, who both grew up in Emond&apos;s Field as well. Rand is destined to fall in love with three women (and has): <a href='#Min'>Min Farshaw<\/a>, <a href='#Elayne'>Elayne Trakand<\/a>, and <a href='#Aviendha'>Aviendha<\/a>. He has already been born on the slopes of Dragonmount of a Maiden, of the ancient blood but raised by the old, taken the Stone of Tear and drawn <i>Callandor<\/i>, and began conquering &#x201C;under the forgotten symbol,&#x201D; that of the Aes Sedai of the Age of Legends. He is working on having the &#x201C;spotless tower&#x201D; break and bend knee to him, as well. He is the salvation of the entire world, and as the prophecy states, he <i>will<\/i> save the world&#x2014;and Break it again.",
                 "seeAlso": [
                     {
                         "id": "Elaida",
@@ -7083,7 +7083,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Dragon",
@@ -7613,7 +7613,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Janduin",

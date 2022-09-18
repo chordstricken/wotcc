@@ -1249,7 +1249,7 @@
                 "seeAlso": [
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Elayne",
@@ -1721,7 +1721,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Elayne",
@@ -2121,9 +2121,9 @@
             }
         ]
     },
-    "High-Lord-Amondrid-Gueyam": {
-        "id": "High-Lord-Amondrid-Gueyam",
-        "name": "High Lord Amondrid Gueyam",
+    "High-Lord-Gueyam": {
+        "id": "High-Lord-Gueyam",
+        "name": "High Lord Gueyam",
         "chapters": [
             {
                 "title": "Chapter 45: After the Storm",
@@ -2379,7 +2379,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     }
                 ]
             }
@@ -3006,9 +3006,9 @@
             }
         ]
     },
-    "Lady-Tigraine-Damodred": {
-        "id": "Lady-Tigraine-Damodred",
-        "name": "Lady Tigraine Damodred",
+    "Lady-Tigraine-Mantear": {
+        "id": "Lady-Tigraine-Mantear",
+        "name": "Lady Tigraine Mantear",
         "chapters": [
             {
                 "title": "Chapter 19: Memories",
@@ -3566,7 +3566,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Elayne",
@@ -4770,7 +4770,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Morgase",
@@ -4892,7 +4892,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Dragon",

@@ -701,7 +701,7 @@
                 "seeAlso": [
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Elayne",
@@ -1084,7 +1084,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Elayne",
@@ -2234,9 +2234,9 @@
             }
         ]
     },
-    "Marrilin-Gemalphin": {
-        "id": "Marrilin-Gemalphin",
-        "name": "Marrilin Gemalphin",
+    "Marillin-Gemalphin": {
+        "id": "Marillin-Gemalphin",
+        "name": "Marillin Gemalphin",
         "chapters": [
             {
                 "title": "Chapter 25: Questions",
@@ -2575,7 +2575,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Elayne",
@@ -3268,7 +3268,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Morgase",
@@ -3369,9 +3369,9 @@
             }
         ]
     },
-    "Tigraine-Damodred": {
-        "id": "Tigraine-Damodred",
-        "name": "Tigraine Damodred",
+    "Tigraine-Mantear": {
+        "id": "Tigraine-Mantear",
+        "name": "Tigraine Mantear",
         "chapters": [
             {
                 "title": "Chapter 39: Threads in the Pattern",

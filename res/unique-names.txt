@@ -1434,7 +1434,7 @@ Lady Shiaine Avarhin
 Lady Sylvase Caeren
 Lady Tagren
 Lady Tamsin Ituralde
-Lady Tigraine Damodred
+Lady Tigraine Mantear
 Lady Tinna
 Lady Tuva
 Lady Yabeth
@@ -2711,7 +2711,7 @@ Tiam of Gazar
 Tian
 Tiana Noselle
 Tiedra
-Tigraine Damodred
+Tigraine Mantear
 Tijds
 Tim
 Timna

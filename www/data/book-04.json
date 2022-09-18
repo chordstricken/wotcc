@@ -752,11 +752,11 @@
         "chapters": [
             {
                 "title": "Chapter 38: Hidden Faces",
-                "info": "Ship captain and smuggler from Illian. His ship was captured by <a href='#Egeanin'>Egeanin<\/a> at Falme, and she was afraid Domon would recognize her. She was right&#x2014;he did.",
+                "info": "Ship captain and smuggler from Illian. His ship was captured by <a href='#Captain-Egeanin'>Captain Egeanin<\/a> at Falme, and she was afraid Domon would recognize her. She was right&#x2014;he did.",
                 "seeAlso": [
                     {
-                        "id": "Egeanin",
-                        "name": "Egeanin Elidar"
+                        "id": "Captain-Egeanin",
+                        "name": "Captain Egeanin"
                     }
                 ]
             }
@@ -828,7 +828,7 @@
         "chapters": [
             {
                 "title": "Chapter 38: Hidden Faces",
-                "info": "A <i>sul&apos;dam<\/i> who was left behind after the battle at Falme, now captured by <a href='#Egeanin'>Egeanin<\/a>. When Egeanin found her, she tried to get away, so Egeanin snapped the <i>a&apos;dam<\/i> she was carrying around her neck, hoping to use it as one more barrier to the woman fleeing (since Bethamin supposedly cannot channel, the <i>a&apos;dam<\/i> should have no other effect than throwing a metal ring around her head). Much to Egeanin&apos;s and Bethamin&apos;s surprise, the <i>a&apos;dam<\/i> held Bethamin just as well as it held the <i>damane<\/i> it was intended for. From this, and from <a href='#Nynaeve'>Nynaeve<\/a>&apos;s and <a href='#Elayne'>Elayne<\/a>&apos;s information about the possibility of learning to channel (not just having it inborn), Egeanin reasoned that all <i>sul&apos;dam<\/i>, including Bethamin, could channel if they were taught&#x2014;which went against everything she had been taught her entire life.",
+                "info": "A <i>sul&apos;dam<\/i> who was left behind after the battle at Falme, now captured by <a href='#Captain-Egeanin'>Captain Egeanin<\/a>. When Egeanin found her, she tried to get away, so Egeanin snapped the <i>a&apos;dam<\/i> she was carrying around her neck, hoping to use it as one more barrier to the woman fleeing (since Bethamin supposedly cannot channel, the <i>a&apos;dam<\/i> should have no other effect than throwing a metal ring around her head). Much to Egeanin&apos;s and Bethamin&apos;s surprise, the <i>a&apos;dam<\/i> held Bethamin just as well as it held the <i>damane<\/i> it was intended for. From this, and from <a href='#Nynaeve'>Nynaeve<\/a>&apos;s and <a href='#Elayne'>Elayne<\/a>&apos;s information about the possibility of learning to channel (not just having it inborn), Egeanin reasoned that all <i>sul&apos;dam<\/i>, including Bethamin, could channel if they were taught&#x2014;which went against everything she had been taught her entire life.",
                 "seeAlso": []
             }
         ]
@@ -1005,9 +1005,9 @@
             }
         ]
     },
-    "Captain-Egeanin-Elidar": {
-        "id": "Captain-Egeanin-Elidar",
-        "name": "Captain Egeanin Elidar",
+    "Captain-Egeanin": {
+        "id": "Captain-Egeanin",
+        "name": "Captain Egeanin",
         "chapters": [
             {
                 "title": "Chapter 38: Hidden Faces",
@@ -2555,7 +2555,7 @@
         "chapters": [
             {
                 "title": "Chapter 38: Hidden Faces",
-                "info": "Man who recovers things for <a href='#Egeanin'>Egeanin<\/a>. He also jumps <a href='#Nynaeve'>Nynaeve<\/a> for her, thinking she is one of the <i>sul&apos;dam<\/i> Egeanin meant to find.",
+                "info": "Man who recovers things for <a href='#Captain-Egeanin'>Captain Egeanin<\/a>. He also jumps <a href='#Nynaeve'>Nynaeve<\/a> for her, thinking she is one of the <i>sul&apos;dam<\/i> Egeanin meant to find.",
                 "seeAlso": []
             }
         ]
@@ -3174,9 +3174,9 @@
             }
         ]
     },
-    "High-Lord-Amondrid-Gueyam": {
-        "id": "High-Lord-Amondrid-Gueyam",
-        "name": "High Lord Amondrid Gueyam",
+    "High-Lord-Gueyam": {
+        "id": "High-Lord-Gueyam",
+        "name": "High Lord Gueyam",
         "chapters": [
             {
                 "title": "Chapter 21: Into the Heart",
@@ -3513,7 +3513,7 @@
         "chapters": [
             {
                 "title": "Chapter 54: Into the Palace",
-                "info": "Aes Sedai of the Black Ajah, formerly of the Blue. <a href='#Egeanin'>Egeanin<\/a>, <a href='#Elayne'>Elayne<\/a>, and <a href='#Nynaeve'>Nynaeve<\/a>, posing as servants, are sent by the head chef to deliver her breakfast in the Panarch&apos;s Palace in Tarabon.",
+                "info": "Aes Sedai of the Black Ajah, formerly of the Blue. <a href='#Captain-Egeanin'>Captain Egeanin<\/a>, <a href='#Elayne'>Elayne<\/a>, and <a href='#Nynaeve'>Nynaeve<\/a>, posing as servants, are sent by the head chef to deliver her breakfast in the Panarch&apos;s Palace in Tarabon.",
                 "seeAlso": []
             }
         ]
@@ -4299,7 +4299,7 @@
         "chapters": [
             {
                 "title": "Chapter 38: Hidden Faces",
-                "info": "Taraboner noblewoman from refugee estates near Tanchico that were burned in the war. <a href='#Gelb'>Gelb<\/a> kidnapped her, thinking she was one of the women <a href='#Egeanin'>Egeanin<\/a> sought.",
+                "info": "Taraboner noblewoman from refugee estates near Tanchico that were burned in the war. <a href='#Gelb'>Gelb<\/a> kidnapped her, thinking she was one of the women <a href='#Captain-Egeanin'>Captain Egeanin<\/a> sought.",
                 "seeAlso": []
             }
         ]
@@ -5117,6 +5117,17 @@
             }
         ]
     },
+    "Mistress-Elidar": {
+        "id": "Mistress-Elidar",
+        "name": "Mistress Elidar",
+        "chapters": [
+            {
+                "title": "Chapter 38: Hidden Faces",
+                "info": "An alias assumed by Captain Egeanin",
+                "seeAlso": []
+            }
+        ]
+    },
     "Mistress-of-Novices": {
         "id": "Mistress-of-Novices",
         "name": "Mistress of Novices",
@@ -5581,9 +5592,9 @@
             }
         ]
     },
-    "Paetram-Paet-Aybara": {
-        "id": "Paetram-Paet-Aybara",
-        "name": "Paetram (Paet) Aybara",
+    "Paetram-Aybara": {
+        "id": "Paetram-Aybara",
+        "name": "Paetram Aybara",
         "chapters": [
             {
                 "title": "Chapter 29: Homecoming",
@@ -5633,9 +5644,9 @@
             }
         ]
     },
-    "Paetram-Paet-al-Caar": {
-        "id": "Paetram-Paet-al-Caar",
-        "name": "Paetram (Paet) al'Caar",
+    "Paet-al-Caar": {
+        "id": "Paet-al-Caar",
+        "name": "Paet al'Caar",
         "chapters": [
             {
                 "title": "Chapter 56: Goldeneyes",
@@ -6153,7 +6164,7 @@
         "chapters": [
             {
                 "title": "Chapter 38: Hidden Faces",
-                "info": "Proprietress at the Garden of the Silver Breezes, an inn in Tanchico where <a href='#Egeanin'>Egeanin<\/a> stays. She has dark hair done in dozens of narrow braids.",
+                "info": "Proprietress at the Garden of the Silver Breezes, an inn in Tanchico where <a href='#Captain-Egeanin'>Captain Egeanin<\/a> stays. She has dark hair done in dozens of narrow braids.",
                 "seeAlso": []
             }
         ]
@@ -6508,7 +6519,7 @@
         "chapters": [
             {
                 "title": "Chapter 46: Veils",
-                "info": "A <i>sul&apos;dam<\/i> that <a href='#Egeanin'>Egeanin<\/a> is looking for. She looks like <a href='#Nynaeve'>Nynaeve<\/a>, but is about a head taller.",
+                "info": "A <i>sul&apos;dam<\/i> that <a href='#Captain-Egeanin'>Captain Egeanin<\/a> is looking for. She looks like <a href='#Nynaeve'>Nynaeve<\/a>, but is about a head taller.",
                 "seeAlso": []
             }
         ]

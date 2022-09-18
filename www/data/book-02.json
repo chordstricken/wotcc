@@ -561,9 +561,9 @@
             }
         ]
     },
-    "Captain-Egeanin-Elidar": {
-        "id": "Captain-Egeanin-Elidar",
-        "name": "Captain Egeanin Elidar",
+    "Captain-Egeanin": {
+        "id": "Captain-Egeanin",
+        "name": "Captain Egeanin",
         "chapters": [
             {
                 "title": "Chapter 29: Seanchan",
@@ -743,7 +743,7 @@
                 "seeAlso": [
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Elayne",
@@ -1209,7 +1209,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Elayne",
@@ -1301,7 +1301,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Luc",
@@ -2290,7 +2290,7 @@
                 "seeAlso": [
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Isam",
@@ -3068,7 +3068,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Thom",
@@ -3535,7 +3535,7 @@
                     },
                     {
                         "id": "Tigraine",
-                        "name": "Tigraine Damodred"
+                        "name": "Tigraine Mantear"
                     },
                     {
                         "id": "Elayne",
@@ -3734,9 +3734,9 @@
             }
         ]
     },
-    "Tigraine-Damodred": {
-        "id": "Tigraine-Damodred",
-        "name": "Tigraine Damodred",
+    "Tigraine-Mantear": {
+        "id": "Tigraine-Mantear",
+        "name": "Tigraine Mantear",
         "chapters": [
             {
                 "title": "Chapter 7: Blood Calls Blood",
