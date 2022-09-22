@@ -2103,22 +2103,6 @@
             }
         ]
     },
-    "Great-Lord-of-the-Dark": {
-        "id": "Great-Lord-of-the-Dark",
-        "name": "Great Lord of the Dark",
-        "chapters": [
-            {
-                "title": "Chapter 2: Unweaving",
-                "info": "Name used by Darkfriends and the Forsaken for the <a href='#Dark'>Dark One<\/a>. They claim that to use his true name would be blasphemy.",
-                "seeAlso": [
-                    {
-                        "id": "Dark",
-                        "name": "Shai&apos;tan"
-                    }
-                ]
-            }
-        ]
-    },
     "Halima-Saranov": {
         "id": "Halima-Saranov",
         "name": "Halima Saranov",

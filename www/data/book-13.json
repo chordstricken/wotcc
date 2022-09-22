@@ -2724,22 +2724,6 @@
             }
         ]
     },
-    "Great-Lord-of-the-Dark": {
-        "id": "Great-Lord-of-the-Dark",
-        "name": "Great Lord of the Dark",
-        "chapters": [
-            {
-                "title": "Prologue: Distinctions",
-                "info": "Name used by Darkfriends for the <a href='#Dark'>Dark One<\/a>, claiming that to use his true name would be blasphemy.",
-                "seeAlso": [
-                    {
-                        "id": "Dark",
-                        "name": "Dark One"
-                    }
-                ]
-            }
-        ]
-    },
     "Greatest-One": {
         "id": "Greatest-One",
         "name": "Greatest One",

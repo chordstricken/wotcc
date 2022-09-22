@@ -2148,17 +2148,6 @@
             }
         ]
     },
-    "Great-Lord-of-the-Dark": {
-        "id": "Great-Lord-of-the-Dark",
-        "name": "Great Lord of the Dark",
-        "chapters": [
-            {
-                "title": "Chapter 13: Wonderful News",
-                "info": "Name used by Darkfriends and the Forsaken to refer to the <a href='#Dark'>Dark One<\/a>, claiming that to use his true name would be blasphemy.",
-                "seeAlso": []
-            }
-        ]
-    },
     "Gregorin-Panar-de-Lushenos": {
         "id": "Gregorin-Panar-de-Lushenos",
         "name": "Gregorin Panar de Lushenos",

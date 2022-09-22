@@ -2418,22 +2418,6 @@
             }
         ]
     },
-    "Great-Lord-of-the-Dark": {
-        "id": "Great-Lord-of-the-Dark",
-        "name": "Great Lord of the Dark",
-        "chapters": [
-            {
-                "title": "Prologue: Lightnings",
-                "info": "Name that Forsaken and Friends of the Dark use for <a href='#Dark'>Shai&apos;tan<\/a>, the Dark One, claiming that to use his true name would be blasphemy.",
-                "seeAlso": [
-                    {
-                        "id": "Dark",
-                        "name": "Dark One"
-                    }
-                ]
-            }
-        ]
-    },
     "Gregorin-Panar-de-Lushenos": {
         "id": "Gregorin-Panar-de-Lushenos",
         "name": "Gregorin Panar de Lushenos",

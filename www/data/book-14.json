@@ -2460,22 +2460,6 @@
             }
         ]
     },
-    "Great-Lord-of-the-Dark": {
-        "id": "Great-Lord-of-the-Dark",
-        "name": "Great Lord of the Dark",
-        "chapters": [
-            {
-                "title": "Prologue: By Grace and Banners Fallen",
-                "info": "Name used by Darkfriends for the <a href='#Dark'>Dark One<\/a>, claiming that to use his true name would be blasphemy.",
-                "seeAlso": [
-                    {
-                        "id": "Dark",
-                        "name": "Shai&apos;tan"
-                    }
-                ]
-            }
-        ]
-    },
     "Halan": {
         "id": "Halan",
         "name": "Halan",

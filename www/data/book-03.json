@@ -1189,22 +1189,6 @@
             }
         ]
     },
-    "Great-Lord-of-the-Dark": {
-        "id": "Great-Lord-of-the-Dark",
-        "name": "Great Lord of the Dark",
-        "chapters": [
-            {
-                "title": "Prologue: Fortress of the Light",
-                "info": "Name used by Darkfriends for the <a href='#Dark'>Dark One<\/a>. They claim that using his true name would be blasphemy.",
-                "seeAlso": [
-                    {
-                        "id": "Dark",
-                        "name": "Shai&apos;tan"
-                    }
-                ]
-            }
-        ]
-    },
     "Guaire-Amalasan": {
         "id": "Guaire-Amalasan",
         "name": "Guaire Amalasan",
