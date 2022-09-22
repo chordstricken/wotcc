@@ -1239,26 +1239,6 @@
             }
         ]
     },
-    "Daughter-Heir-of-Andor-": {
-        "id": "Daughter-Heir-of-Andor-",
-        "name": "Daughter-Heir (of Andor)",
-        "chapters": [
-            {
-                "title": "Prologue: The First Sparks Fall",
-                "info": "By Andoran tradition, the oldest daughter of the Queen succeeds her on the Lion Throne. No man is allowed to be King, at least not as more than a figurehead. The previous Daughter-Heir, <a href='#Tigraine'>Tigraine<\/a>, disappeared over twenty years ago; the current Daughter-Heir is <a href='#Elayne'>Elayne Trakand<\/a>. It is also traditional for the Daughter-Heir and her oldest brother (who will become First Prince of the Sword if she becomes Queen) to train in Tar Valon, but Elayne is the first Daughter Heir, indeed, the first ruler of any kind in recent memory, to actually have enough ability to channel that she will become Aes Sedai. The position of Daughter-Heir is somewhat in jeopardy at present: Tar Valon has lost track of Elayne, the Queen of Andor has fled the country and is presumed dead by her citizens, and Elayne has no daughters to be her heirs if she does take the throne.",
-                "seeAlso": [
-                    {
-                        "id": "Tigraine",
-                        "name": "Tigraine Mantear"
-                    },
-                    {
-                        "id": "Elayne",
-                        "name": "Elayne Trakand"
-                    }
-                ]
-            }
-        ]
-    },
     "Daughter-of-the-Nine-Moons": {
         "id": "Daughter-of-the-Nine-Moons",
         "name": "Daughter of the Nine Moons",
@@ -1510,7 +1490,7 @@
         "chapters": [
             {
                 "title": "Prologue: The First Sparks Fall",
-                "info": "The <a href='#DH'>Daughter-Heir<\/a> to the Throne of Andor, daughter of <a href='#Morgase'>Queen Morgase<\/a>, and <a href='#Taringail'>Taringail Damodred<\/a>, sister of <a href='#Gawyn'>Gawyn<\/a> and half-sister to <a href='#Galad'>Galad<\/a>. Now one of the Accepted. Her sign is a golden lily. She has blonde, curly hair. She lived next door to <a href='#Egwene'>Egwene al&apos;Vere<\/a> as a novice, and the two are very good friends. She is currently travelling with fellow Accepted <a href='#Nynaeve'>Nynaeve al&apos;Meara<\/a> and two escorts sent to watch the two of them, <a href='#Thom'>Thom Merrilin<\/a> and <a href='#Juilin'>Juilin Sandar<\/a>. Elayne is one of three women who is destined to fall in love with <a href='#Rand'>Rand al&apos;Thor<\/a>, the <a href='#Reborn'>Dragon Reborn<\/a>, according to a viewing that <a href='#Min'>Min Farshaw<\/a> told her about. The other two women are Min herself and <a href='#Aviendha'>Aviendha<\/a>. Elayne is not crazy about the notion of &#x201C;sharing&#x201D; Rand, but it would appear she does not have much choice.",
+                "info": "The Daughter-Heir to the Throne of Andor, daughter of <a href='#Morgase'>Queen Morgase<\/a>, and <a href='#Taringail'>Taringail Damodred<\/a>, sister of <a href='#Gawyn'>Gawyn<\/a> and half-sister to <a href='#Galad'>Galad<\/a>. Now one of the Accepted. Her sign is a golden lily. She has blonde, curly hair. She lived next door to <a href='#Egwene'>Egwene al&apos;Vere<\/a> as a novice, and the two are very good friends. She is currently travelling with fellow Accepted <a href='#Nynaeve'>Nynaeve al&apos;Meara<\/a> and two escorts sent to watch the two of them, <a href='#Thom'>Thom Merrilin<\/a> and <a href='#Juilin'>Juilin Sandar<\/a>. Elayne is one of three women who is destined to fall in love with <a href='#Rand'>Rand al&apos;Thor<\/a>, the <a href='#Reborn'>Dragon Reborn<\/a>, according to a viewing that <a href='#Min'>Min Farshaw<\/a> told her about. The other two women are Min herself and <a href='#Aviendha'>Aviendha<\/a>. Elayne is not crazy about the notion of &#x201C;sharing&#x201D; Rand, but it would appear she does not have much choice.",
                 "seeAlso": [
                     {
                         "id": "Rand",
@@ -3012,7 +2992,7 @@
         "chapters": [
             {
                 "title": "Chapter 19: Memories",
-                "info": "First wife of <a href='#Taringail'>Taringail Damodred<\/a>, and <a href='#Galad'>Galad<\/a>&apos;s mother. She was the <a href='#DH'>Daughter-Heir<\/a> to the Throne of Andor and daughter of <a href='#Mordrellen'>Queen Mordrellen<\/a>, but she disappeared. Her disappearance set of the Third War of Andoran Succession. When <a href='#Rand'>Rand<\/a> was in the Royal Palace in Caemlyn, several people commented on his striking resemblance to Tigraine; this is no coincidence, since Tigraine is Rand&apos;s mother. She fled to the Aiel Waste upon warning from <a href='#Gitara'>Gitara Moroso<\/a> to become a Maiden of the Spear, and gave birth to Rand when the Aiel were fighting near Tar Valon.",
+                "info": "First wife of <a href='#Taringail'>Taringail Damodred<\/a>, and <a href='#Galad'>Galad<\/a>&apos;s mother. She was the Daughter-Heir to the Throne of Andor and daughter of <a href='#Mordrellen'>Queen Mordrellen<\/a>, but she disappeared. Her disappearance set of the Third War of Andoran Succession. When <a href='#Rand'>Rand<\/a> was in the Royal Palace in Caemlyn, several people commented on his striking resemblance to Tigraine; this is no coincidence, since Tigraine is Rand&apos;s mother. She fled to the Aiel Waste upon warning from <a href='#Gitara'>Gitara Moroso<\/a> to become a Maiden of the Spear, and gave birth to Rand when the Aiel were fighting near Tar Valon.",
                 "seeAlso": [
                     {
                         "id": "Mordrellen",

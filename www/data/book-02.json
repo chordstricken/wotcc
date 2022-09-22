@@ -733,26 +733,6 @@
             }
         ]
     },
-    "Daughter-Heir-of-Andor-": {
-        "id": "Daughter-Heir-of-Andor-",
-        "name": "Daughter-Heir (of Andor)",
-        "chapters": [
-            {
-                "title": "Chapter 1: The Flame of Tar Valon",
-                "info": "By Andoran tradition, the oldest daughter of the Queen succeeds her on the Lion Throne. No man is allowed to be King, at least not as more than a figurehead. The previous Daughter-Heir, <a href='#Tigraine'>Tigraine<\/a>, disappeared over twenty years ago; the current Daughter-Heir is <a href='#Elayne'>Elayne Trakand<\/a>. It is also traditional for the Daughter-Heir and her oldest brother (who will become First Prince of the Sword if she becomes Queen) to train in Tar Valon, but Elayne is the first Daughter-Heir, indeed, the first ruler of any kind in recent memory, to actually have enough ability to channel that she will become Aes Sedai.",
-                "seeAlso": [
-                    {
-                        "id": "Tigraine",
-                        "name": "Tigraine Mantear"
-                    },
-                    {
-                        "id": "Elayne",
-                        "name": "Elayne Trakand"
-                    }
-                ]
-            }
-        ]
-    },
     "Daughter-of-the-Night": {
         "id": "Daughter-of-the-Night",
         "name": "Daughter of the Night",
@@ -953,7 +933,7 @@
         "chapters": [
             {
                 "title": "Chapter 4: Summoned",
-                "info": "<a href='#DH'>Daughter-Heir<\/a> of Andor. She is the daughter of <a href='#Morgase'>Queen Morgase<\/a> and her late husband, <a href='#Taringail'>Taringail Damodred<\/a>. She was discovered to have a considerable potential to channel the One Power, and will no doubt become one of the strongest Aes Sedai in thousands of years. While a novice, she becomes friends with <a href='#Egwene'>Egwene<\/a> and <a href='#Nynaeve'>Nynaeve<\/a>. She also has feelings for <a href='#Rand'>Rand al&apos;Thor<\/a>, who she met when he fell into her garden in Caemlyn.",
+                "info": "Daughter-Heir of Andor. She is the daughter of <a href='#Morgase'>Queen Morgase<\/a> and her late husband, <a href='#Taringail'>Taringail Damodred<\/a>. She was discovered to have a considerable potential to channel the One Power, and will no doubt become one of the strongest Aes Sedai in thousands of years. While a novice, she becomes friends with <a href='#Egwene'>Egwene<\/a> and <a href='#Nynaeve'>Nynaeve<\/a>. She also has feelings for <a href='#Rand'>Rand al&apos;Thor<\/a>, who she met when he fell into her garden in Caemlyn.",
                 "seeAlso": [
                     {
                         "id": "Rand",
@@ -3740,7 +3720,7 @@
         "chapters": [
             {
                 "title": "Chapter 7: Blood Calls Blood",
-                "info": "<a href='#DH'>Daughter-Heir<\/a> of Andor prior to the Third War of Andoran Succession, after which <a href='#Morgase'>Morgase<\/a> took the throne. In fact, it was her disappearance that sparked the war. She fled Caemlyn and was never seen again. She was the first wife of <a href='#Taringail'>Taringail Damodred<\/a>, and the mother of <a href='#Galad'>Galad<\/a>.",
+                "info": "Daughter-Heir of Andor prior to the Third War of Andoran Succession, after which <a href='#Morgase'>Morgase<\/a> took the throne. In fact, it was her disappearance that sparked the war. She fled Caemlyn and was never seen again. She was the first wife of <a href='#Taringail'>Taringail Damodred<\/a>, and the mother of <a href='#Galad'>Galad<\/a>.",
                 "seeAlso": [
                     {
                         "id": "Galad",

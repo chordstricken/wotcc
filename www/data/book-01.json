@@ -196,17 +196,6 @@
             }
         ]
     },
-    "Alsbet": {
-        "id": "Alsbet",
-        "name": "Alsbet",
-        "chapters": [
-            {
-                "title": "Chapter 4: The Gleeman",
-                "info": "Queen of All in several of <a href='#Thom'>Thom Merrilin<\/a>&apos;s stories. Her story predates the Age of Legends.",
-                "seeAlso": []
-            }
-        ]
-    },
     "Amyrlin-Seat": {
         "id": "Amyrlin-Seat",
         "name": "Amyrlin Seat",
@@ -550,7 +539,7 @@
         "chapters": [
             {
                 "title": "Prelude",
-                "info": "",
+                "info": "A nickname given to <a href='#Ishamael'>Ishamael</a>",
                 "seeAlso": [
                     {
                         "id": "Ishamael",
@@ -900,7 +889,7 @@
         "chapters": [
             {
                 "title": "Chapter 47: More Tales of the Wheel",
-                "info": "",
+                "info": "A nickname given to <a href='#Cowin-Gemallen'>Cowin Gemallen</a>",
                 "seeAlso": [
                     {
                         "id": "Cowin",
@@ -1142,26 +1131,6 @@
                 "title": "Chapter 31: Play for your Supper",
                 "info": "Subject of a song <a href='#Rand'>Rand<\/a> plays in Arien. He knows it as &#x201C;Ferry O&apos;er the River,&#x201D; but the innkeeper there called it &#x201C;Darling Sara.&#x201D;",
                 "seeAlso": []
-            }
-        ]
-    },
-    "Daughter-Heir-of-Andor-": {
-        "id": "Daughter-Heir-of-Andor-",
-        "name": "Daughter-Heir (of Andor)",
-        "chapters": [
-            {
-                "title": "Chapter 34: The Last Village",
-                "info": "According to Andoran tradition, the first-born daughter of the Queen is her heir to the throne. The Daughter-Heir is traditionally sent to Tar Valon to receive training from the Aes Sedai, although until the current Daughter-Heir, <a href='#Elayne'>Elayne<\/a>, most have been too weak to get beyond novice training.",
-                "seeAlso": [
-                    {
-                        "id": "Tigraine",
-                        "name": "Tigraine Mantear"
-                    },
-                    {
-                        "id": "Elayne",
-                        "name": "Elayne Trakand"
-                    }
-                ]
             }
         ]
     },
@@ -1410,7 +1379,7 @@
         "chapters": [
             {
                 "title": "Chapter 34: The Last Village",
-                "info": "<a href='#DH'>Daughter-Heir<\/a> of Andor, daughter of <a href='#Morgase'>Morgase<\/a> and sister of <a href='#Gawyn'>Gawyn<\/a>. She is quite pretty. She is preparing to leave for Tar Valon to undergo novice training, as all daughters-heir of Andor have done since the nation&apos;s founding.",
+                "info": "Daughter-Heir of Andor, daughter of <a href='#Morgase'>Morgase<\/a> and sister of <a href='#Gawyn'>Gawyn<\/a>. She is quite pretty. She is preparing to leave for Tar Valon to undergo novice training, as all daughters-heir of Andor have done since the nation&apos;s founding.",
                 "seeAlso": [
                     {
                         "id": "Taringail",
@@ -3114,7 +3083,7 @@
         "chapters": [
             {
                 "title": "Chapter 4: The Gleeman",
-                "info": "Giant who fought with a Lance of Fire that could reach around the world in one of <a href='#Thom'>Thom<\/a>&apos;s stories. He fought with several people, including <a href='#Alsbet2'>Alsbet<\/a>, ruler off the world. The story of Mosk predates the Age of Legends.",
+                "info": "Giant who fought with a Lance of Fire that could reach around the world in one of <a href='#Thom'>Thom<\/a>&apos;s stories. He fought with several people, including <a href='#Queen-Alsbet'>Queen Alsbet<\/a>, ruler off the world. The story of Mosk predates the Age of Legends.",
                 "seeAlso": []
             }
         ]
@@ -3383,6 +3352,17 @@
             }
         ]
     },
+    "Queen-Alsbet": {
+        "id": "Queen-Alsbet",
+        "name": "Queen Alsbet",
+        "chapters": [
+            {
+                "title": "Chapter 4: The Gleeman",
+                "info": "Queen of All in several of <a href='#Thom'>Thom Merrilin<\/a>&apos;s stories. Her story predates the Age of Legends.",
+                "seeAlso": []
+            }
+        ]
+    },
     "Queen-Morgase-Trakand": {
         "id": "Queen-Morgase-Trakand",
         "name": "Queen Morgase Trakand",
@@ -3554,7 +3534,7 @@
         "chapters": [
             {
                 "title": "Chapter 17: Watchers and Hunters",
-                "info": "",
+                "info": "A nickname given to <a href='#Rogosh-of-Talmour'>Rogosh of Talmour</a>.",
                 "seeAlso": [
                     {
                         "id": "Rogosh",

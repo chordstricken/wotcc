@@ -1226,26 +1226,6 @@
             }
         ]
     },
-    "Daughter-Heir-of-Andor-": {
-        "id": "Daughter-Heir-of-Andor-",
-        "name": "Daughter-Heir (of Andor)",
-        "chapters": [
-            {
-                "title": "Prologue: Glimmers of the Pattern",
-                "info": "By Andoran tradition, the first-born daughter of the Queen is her heir to the throne. The Daughter-Heir is traditionally sent to Tar Valon to receive training from the Aes Sedai, although until the current Daughter-Heir, <a href='#Elayne'>Elayne<\/a>, most have been too weak to get beyond novice training.",
-                "seeAlso": [
-                    {
-                        "id": "Tigraine",
-                        "name": "Tigraine Mantear"
-                    },
-                    {
-                        "id": "Elayne",
-                        "name": "Elayne Trakand"
-                    }
-                ]
-            }
-        ]
-    },
     "Daughter-of-the-Nine-Moons": {
         "id": "Daughter-of-the-Nine-Moons",
         "name": "Daughter of the Nine Moons",
@@ -3770,7 +3750,7 @@
         "chapters": [
             {
                 "title": "Chapter 11: Talk of Debts",
-                "info": "First wife of Taringail Damodred, and <a href='#Galad'>Galad<\/a>&apos;s mother. She was the <a href='#DH'>Daughter-Heir<\/a> to the Throne of Andor and daughter of <a href='#Mordrellen'>Queen Mordrellen<\/a>, but she disappeared. Her disappearance set of the Third War of Andoran Succession. When <a href='#Rand'>Rand<\/a> was in the Royal Palace in Caemlyn, several people commented on his striking resemblance to Tigraine; this is no coincidence, since Tigraine is Rand&apos;s mother. She fled to the Aiel Waste upon a warning from Gitara Moroso to become a Maiden of the Spear, and gave birth to Rand when the Aiel were fighting near Tar Valon. Her maiden name was Mantear.",
+                "info": "First wife of Taringail Damodred, and <a href='#Galad'>Galad<\/a>&apos;s mother. She was the Daughter-Heir to the Throne of Andor and daughter of <a href='#Mordrellen'>Queen Mordrellen<\/a>, but she disappeared. Her disappearance set of the Third War of Andoran Succession. When <a href='#Rand'>Rand<\/a> was in the Royal Palace in Caemlyn, several people commented on his striking resemblance to Tigraine; this is no coincidence, since Tigraine is Rand&apos;s mother. She fled to the Aiel Waste upon a warning from Gitara Moroso to become a Maiden of the Spear, and gave birth to Rand when the Aiel were fighting near Tar Valon. Her maiden name was Mantear.",
                 "seeAlso": [
                     {
                         "id": "Rand",
