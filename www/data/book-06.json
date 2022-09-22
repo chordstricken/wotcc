@@ -295,22 +295,6 @@
             }
         ]
     },
-    "Anan-gar": {
-        "id": "Anan-gar",
-        "name": "Anan'gar",
-        "chapters": [
-            {
-                "title": "Chapter 37: When Battle Begins",
-                "info": "Misspelling of <a href='#Arangar'>Aran&apos;gar<\/a>. <i>This typo has been fixed in the paperback edition.<\/i>",
-                "seeAlso": [
-                    {
-                        "id": "Arangar",
-                        "name": "Aran&apos;gar"
-                    }
-                ]
-            }
-        ]
-    },
     "Anarina-Todande": {
         "id": "Anarina-Todande",
         "name": "Anarina Todande",

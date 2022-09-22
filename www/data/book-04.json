@@ -1541,7 +1541,7 @@
         "chapters": [
             {
                 "title": "Chapter 43: Care for the Living",
-                "info": "One of the Coplins who went with <a href='#Chiendelna'>Lord Luc<\/a> and <a href='#Wit'>Wit Congar<\/a> to tell the Whitecloaks that Emond&apos;s Field was closed to them.",
+                "info": "One of the Coplins who went with <a href='#Chiendelna'>Lord Luc<\/a> and <a href='#Wit-Congar'>Wit Congar<\/a> to tell the Whitecloaks that Emond&apos;s Field was closed to them.",
                 "seeAlso": []
             }
         ]
@@ -1576,7 +1576,7 @@
         "chapters": [
             {
                 "title": "Chapter 29: Homecoming",
-                "info": "<a href='#Wit'>Wit<\/a>&apos;s wife, and Wisdom of Emond&apos;s Field after <a href='#Nynaeve'>Nynaeve<\/a>&apos;s disappearance. She is almost as big as <a href='#Alsbet'>Alsbet Luhhan<\/a>, and even harder to stand up to.",
+                "info": "<a href='#Wit-Congar'>Wit<\/a>&apos;s wife, and Wisdom of Emond&apos;s Field after <a href='#Nynaeve'>Nynaeve<\/a>&apos;s disappearance. She is almost as big as <a href='#Alsbet'>Alsbet Luhhan<\/a>, and even harder to stand up to.",
                 "seeAlso": [
                     {
                         "id": "Wit",
@@ -1636,22 +1636,6 @@
                 "title": "Chapter 13: Rumors",
                 "info": "Girl that <a href='#Mat'>Mat<\/a> flirts with on occasion. She is a servant in the Stone of Tear.",
                 "seeAlso": []
-            }
-        ]
-    },
-    "Dark-Lord-of-the-Grave": {
-        "id": "Dark-Lord-of-the-Grave",
-        "name": "Dark Lord of the Grave",
-        "chapters": [
-            {
-                "title": "Chapter 26: The Dedicated",
-                "info": "Ancient name for the <a href='#Dark'>Dark One<\/a>, used in the time period around the War of the Shadow.",
-                "seeAlso": [
-                    {
-                        "id": "Dark",
-                        "name": "Shai&apos;tan"
-                    }
-                ]
             }
         ]
     },
@@ -2328,7 +2312,7 @@
         "chapters": [
             {
                 "title": "Chapter 43: Care for the Living",
-                "info": "One of the Coplins who went with <a href='#Chiendelna'>Lord Luc<\/a> and <a href='#Wit'>Wit Congar<\/a> to tell the Whitecloaks that Emond&apos;s Field was closed to them.",
+                "info": "One of the Coplins who went with <a href='#Chiendelna'>Lord Luc<\/a> and <a href='#Wit-Congar'>Wit Congar<\/a> to tell the Whitecloaks that Emond&apos;s Field was closed to them.",
                 "seeAlso": []
             }
         ]
@@ -2840,7 +2824,7 @@
         "chapters": [
             {
                 "title": "Chapter 56: Goldeneyes",
-                "info": "Boy who <a href='#Jaim_Aybara'>Jaim Aybara<\/a> is anxious to tell that <a href='#Perrin'>Perrin<\/a> called him cousin.",
+                "info": "Boy who <a href='#Jaim-Aybara'>Jaim Aybara<\/a> is anxious to tell that <a href='#Perrin'>Perrin<\/a> called him cousin.",
                 "seeAlso": []
             }
         ]
@@ -2877,17 +2861,6 @@
                         "name": "Keille Shaogi"
                     }
                 ]
-            }
-        ]
-    },
-    "Haim": {
-        "id": "Haim",
-        "name": "Haim",
-        "chapters": [
-            {
-                "title": "Chapter 33: A New Weave in the Pattern",
-                "info": "One of <a href='#Perrin'>Perrin<\/a>&apos;s recruits. <i>Jordan may have meant to say &#x201C;Jaim,&#x201D; as in <a href='#JTorfinn'>Jaim Torfinn<\/a>, but one really can&apos;t say.<\/i>",
-                "seeAlso": []
             }
         ]
     },
@@ -3342,7 +3315,7 @@
         "chapters": [
             {
                 "title": "Chapter 33: A New Weave in the Pattern",
-                "info": "Best tracker among <a href='#Perrin'>Perrin<\/a>&apos;s recruits. <i>Note that this Hu should not be confused with <a href='#Hu'>Hu Barran<\/a>, the stablehand at the Winespring Inn, or <a href='#HualDai'>Hu al&apos;Dai<\/a>, an older man from the Two Rivers.<\/i>",
+                "info": "Best tracker among <a href='#Perrin'>Perrin<\/a>&apos;s recruits. <i>Note that this Hu should not be confused with <a href='#Hu-Barran'>Hu Barran<\/a>, the stablehand at the Winespring Inn, or <a href='#Hu-al-Dai'>Hu al&apos;Dai<\/a>, an older man from the Two Rivers.<\/i>",
                 "seeAlso": []
             }
         ]
@@ -4672,7 +4645,7 @@
         "chapters": [
             {
                 "title": "Chapter 29: Homecoming",
-                "info": "<a href='#Perrin'>Perrin<\/a>&apos;s aunt, <a href='#Eward'>Eward<\/a>&apos;s wife.",
+                "info": "<a href='#Perrin'>Perrin<\/a>&apos;s aunt, <a href='#Eward-Aybara'>Eward<\/a>&apos;s wife.",
                 "seeAlso": [
                     {
                         "id": "Adora",

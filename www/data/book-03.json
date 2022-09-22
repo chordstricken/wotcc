@@ -1505,22 +1505,6 @@
             }
         ]
     },
-    "Jaim-Farstrider": {
-        "id": "Jaim-Farstrider",
-        "name": "Jaim Farstrider",
-        "chapters": [
-            {
-                "title": "Chapter 49: A Storm in Tear",
-                "info": "<i>This is of course a typographical error; the name is <\/i>Jain<i>, as in <a href='#Farstrider'>Jain Farstrider<\/a>. Both references (p. 459 and p. 560) to this character have been fixed in the paperback edition.<\/i>",
-                "seeAlso": [
-                    {
-                        "id": "Farstrider",
-                        "name": "Jain Farstrider"
-                    }
-                ]
-            }
-        ]
-    },
     "Jain-Farstrider": {
         "id": "Jain-Farstrider",
         "name": "Jain Farstrider",
