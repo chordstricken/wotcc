@@ -1391,13 +1391,7 @@
         "chapters": [
             {
                 "title": "Chapter 32: The First Ship",
-                "info": "A High Lord of Tear. He was raised quite recently and quickly. He is actually much more dangerous than anyone suspects.",
-                "seeAlso": [
-                    {
-                        "id": "Belal",
-                        "name": "Be&apos;lal"
-                    }
-                ]
+                "info": "A High Lord of Tear. He was raised quite recently and quickly."
             }
         ]
     },
@@ -2721,7 +2715,7 @@
         "chapters": [
             {
                 "title": "Prologue: Fortress of the Light",
-                "info": "<a href='#Niall'>Pedron Niall<\/a>&apos;s foremost servant; he also serves as his advisor. He is a bony man with a &#x201C;huge beak of a nose.&#x201D; He is the only person (besides Niall himself) who knows of a secret passage into Niall&apos;s chamber, which Niall suspects he uses for eavesdropping. Ordeith is actually a fake name&#x2014;the man he really is is more dangerous than any other man alive. The name &#x201C;Ordeith&#x201D; means &#x201C;Wormwood&#x201D; in the Old Tongue.",
+                "info": "<a href='#Niall'>Pedron Niall<\/a>&apos;s foremost servant; he also serves as his advisor. He is a bony man with a &#x201C;huge beak of a nose.&#x201D; He is the only person (besides Niall himself) who knows of a secret passage into Niall&apos;s chamber, which Niall suspects he uses for eavesdropping. The name &#x201C;Ordeith&#x201D; means &#x201C;Wormwood&#x201D; in the Old Tongue.",
                 "seeAlso": []
             }
         ]
@@ -2743,7 +2737,7 @@
         "chapters": [
             {
                 "title": "Prologue: Fortress of the Light",
-                "info": "Young man from Emond&apos;s Field. He is <i>ta&apos;veren<\/i>. <a href='#Byar'>Byar<\/a> believes it was Perrin who betrayed <a href='#Bornhald'>Bornhald<\/a>&apos;s legion to the Seanchan. Perrin is a large man, and very cautious&#x2014;he found it was easy to forget how big he was and really hurt other children when he was young, so he is careful not to act too quickly. He discovered that he can talk to wolves while he and <a href='#Egwene'>Egwene<\/a> were separated from the rest of the group between Aridhol and Caemlyn, when he encountered <a href='#Elyas'>Elyas Machera<\/a>. Elyas helped him learn about his ability, but not how to keep from losing his human side in the process. The wolves refer to him as &#x201C;<a href='#Bull'>Young Bull<\/a>.&#x201D; He carries a curved battle ax and recently acquired a blacksmith&apos;s hammer which he sometimes carries in place of the ax. Perrin also possesses the ability to enter what he calls the &#x201C;Wolf Dream,&#x201D; which is actually <i>Tel&apos;aran&apos;rhiod<\/i>, the World of Dreams. In the Wolf Dream, Perrin can communicate with all wolves, living or dead.",
+                "info": "Young man from Emond&apos;s Field. He is <i>ta&apos;veren<\/i>. <a href='#Byar'>Byar<\/a> believes it was Perrin who betrayed <a href='#Bornhald'>Bornhald<\/a>&apos;s legion to the Seanchan. Perrin is a large man, and very cautious&#x2014;he found it was easy to forget how big he was and really hurt other children when he was young, so he is careful not to act too quickly. He discovered that he can talk to wolves while he and <a href='#Egwene'>Egwene<\/a> were separated from the rest of the group between Aridhol and Caemlyn, when he encountered <a href='#Elyas'>Elyas Machera<\/a>. Elyas helped him learn about his ability, but not how to keep from losing his human side in the process. The wolves refer to him as &#x201C;<a href='#Bull'>Young Bull<\/a>.&#x201D; He carries a curved battle ax and recently acquired a blacksmith&apos;s hammer which he sometimes carries in place of the ax. Perrin also possesses the ability to enter what he calls the &#x201C;Wolf Dream,&#x201D;, the World of Dreams. In the Wolf Dream, Perrin can communicate with all wolves, living or dead.",
                 "seeAlso": [
                     {
                         "id": "Faile",
@@ -3100,7 +3094,7 @@
         "chapters": [
             {
                 "title": "Chapter 26: Behind a LockChapter 27: Tel'aran'rhiod",
-                "info": "Old woman Egwene meets in <i>Tel&apos;aran&apos;rhiod<\/i>. Ugly does not begin to describe her. She has a bony, pointed chin; a bony, sharp nose; and warts all over her face. She may be actually be <a href='#Lanfear'>Lanfear<\/a>, disguising herself to protect her identity.",
+                "info": "Old woman Egwene meets in <i>Tel&apos;aran&apos;rhiod<\/i>. Ugly does not begin to describe her. She has a bony, pointed chin; a bony, sharp nose; and warts all over her face.",
                 "seeAlso": [
                     {
                         "id": "Lanfear",
