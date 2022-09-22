@@ -258,22 +258,6 @@
             }
         ]
     },
-    "Artur-Hawking": {
-        "id": "Artur-Hawking",
-        "name": "Artur Hawking",
-        "chapters": [
-            {
-                "title": "Chapter 16: In the Mirror of Darkness",
-                "info": "<i>This is either a typographical error (my guess) or a subtle tribute to Stephen Hawking or some other person of that last name.<\/i>",
-                "seeAlso": [
-                    {
-                        "id": "Hawkwing",
-                        "name": "Artur Hawkwing"
-                    }
-                ]
-            }
-        ]
-    },
     "Artur-Paendrag-Tanreall": {
         "id": "Artur-Paendrag-Tanreall",
         "name": "Artur Paendrag Tanreall",
@@ -692,7 +676,7 @@
         "chapters": [
             {
                 "title": "Chapter 5: The Shadow in Shienar",
-                "info": "Son of <a href='#Bornhald'>Geofram Bornhald<\/a>. He is full of zeal, and will most likely follow any orders <a href='#Valda'>Eamon Valda<\/a> gives him without thinking them through first.",
+                "info": "Son of <a href='#Lord-Captain-Geofram-Bornhald'>Geofram Bornhald<\/a>. He is full of zeal, and will most likely follow any orders <a href='#Valda'>Eamon Valda<\/a> gives him without thinking them through first.",
                 "seeAlso": [
                     {
                         "id": "Bornhald",
@@ -861,7 +845,7 @@
         "chapters": [
             {
                 "title": "Chapter 29: Seanchan",
-                "info": "Member of the Children of the Light. He is one of two people spotted by the villagers who made the gibbet that <a href='#Bornhald'>Geofram Bornhald<\/a> is angry about. He is a big man, with gray eyes and a long mustache.",
+                "info": "Member of the Children of the Light. He is one of two people spotted by the villagers who made the gibbet that <a href='#Lord-Captain-Geofram-Bornhald'>Geofram Bornhald<\/a> is angry about. He is a big man, with gray eyes and a long mustache.",
                 "seeAlso": []
             }
         ]
@@ -900,7 +884,7 @@
         "chapters": [
             {
                 "title": "Chapter 5: The Shadow in Shienar",
-                "info": "Second-in-command of the Hand of the Light, more commonly known as the Questioners, in Tarabon. His superior is <a href='#Carridin'>Jaichim Carridin<\/a>. He meets <a href='#Bornhald'>Geofram Bornhald<\/a> in a field to deliver new orders to him. Bornhald was suspicious of the fact that a Questioner was sent with his new orders.",
+                "info": "Second-in-command of the Hand of the Light, more commonly known as the Questioners, in Tarabon. His superior is <a href='#Carridin'>Jaichim Carridin<\/a>. He meets <a href='#Lord-Captain-Geofram-Bornhald'>Geofram Bornhald<\/a> in a field to deliver new orders to him. Bornhald was suspicious of the fact that a Questioner was sent with his new orders.",
                 "seeAlso": []
             }
         ]
@@ -1339,7 +1323,7 @@
         "chapters": [
             {
                 "title": "Chapter 8: The Dragon Reborn",
-                "info": "False <a href='#Dragon'>Dragon<\/a> who commanded a large army during the time period from Free Years 939&#x2013;943. He was able to channel the One Power with great strength. During his campaigns, he laid siege to the Stone of Tear in hopes of taking <i>Callandor<\/i>, and tried to take Tar Valon as well. Unfortunately for him, another young king came to power during his life, a young man named <a href='#Artur'>Artur Paendrag Tanreall<\/a>, later known as <a href='#Hawkwing'>Artur Hawkwing<\/a>. Hawkwing put an end to Amalasan&apos;s conquest of the world, and conquered it for himself.",
+                "info": "False <a href='#Dragon'>Dragon<\/a> who commanded a large army during the time period from Free Years 939&#x2013;943. He was able to channel the One Power with great strength. During his campaigns, he laid siege to the Stone of Tear in hopes of taking <i>Callandor<\/i>, and tried to take Tar Valon as well. Unfortunately for him, another young king came to power during his life, a young man named <a href='#Artur-Hawkwing'>Artur Paendrag Tanreall<\/a>, later known as <a href='#Hawkwing'>Artur Hawkwing<\/a>. Hawkwing put an end to Amalasan&apos;s conquest of the world, and conquered it for himself.",
                 "seeAlso": [
                     {
                         "id": "Reborn",
@@ -1466,7 +1450,7 @@
         "chapters": [
             {
                 "title": "Chapter 4: Summoned",
-                "info": "Name by which <a href='#Artur'>Artur Paendrag Tanreall<\/a> was known during his conquest of the world.",
+                "info": "Name by which <a href='#Artur-Hawkwing'>Artur Paendrag Tanreall<\/a> was known during his conquest of the world.",
                 "seeAlso": [
                     {
                         "id": "Artur",
@@ -1682,7 +1666,7 @@
         "chapters": [
             {
                 "title": "Chapter 5: The Shadow in Shienar",
-                "info": "Second to <a href='#Bornhald'>Geofram Bornhald<\/a> in the army of two thousand Whitecloaks that Bornhald commands.",
+                "info": "Second to <a href='#Lord-Captain-Geofram-Bornhald'>Geofram Bornhald<\/a> in the army of two thousand Whitecloaks that Bornhald commands.",
                 "seeAlso": [
                     {
                         "id": "Bornhald",
@@ -1698,7 +1682,7 @@
         "chapters": [
             {
                 "title": "Chapter 29: Seanchan",
-                "info": "Soldier for the Children of the Light. He comes to <a href='#Bornhald'>Bornhald<\/a>&apos;s encampment with a message for him. He is still young and unaware of how Bornhald and other Lords Captain expect to be treated.",
+                "info": "Soldier for the Children of the Light. He comes to <a href='#Lord-Captain-Geofram-Bornhald'>Bornhald<\/a>&apos;s encampment with a message for him. He is still young and unaware of how Bornhald and other Lords Captain expect to be treated.",
                 "seeAlso": []
             }
         ]
@@ -2663,7 +2647,7 @@
         "chapters": [
             {
                 "title": "Chapter 29: Seanchan",
-                "info": "Member of <a href='#Bornhald'>Geofram Bornhald<\/a>&apos;s legion who Bornhald accuses of making a gibbet in the village green which holds thirty bodies. Muadh informs him that it was neither him nor the Seanchan, but that it was done by Questioners.",
+                "info": "Member of <a href='#Lord-Captain-Geofram-Bornhald'>Geofram Bornhald<\/a>&apos;s legion who Bornhald accuses of making a gibbet in the village green which holds thirty bodies. Muadh informs him that it was neither him nor the Seanchan, but that it was done by Questioners.",
                 "seeAlso": []
             }
         ]
@@ -3917,7 +3901,7 @@
         "chapters": [
             {
                 "title": "Chapter 29: Seanchan",
-                "info": "Member of the Children of the Light. He is one of the two people spotted by the villagers who made the gibbet that <a href='#Bornhald'>Geofram Bornhald<\/a> is upset about. He is young, is left-handed, and has a yellow beard.",
+                "info": "Member of the Children of the Light. He is one of the two people spotted by the villagers who made the gibbet that <a href='#Lord-Captain-Geofram-Bornhald'>Geofram Bornhald<\/a> is upset about. He is young, is left-handed, and has a yellow beard.",
                 "seeAlso": []
             }
         ]

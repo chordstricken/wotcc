@@ -97,7 +97,7 @@
         "chapters": [
             {
                 "title": "Chapter 2: The Butcher's Yard",
-                "info": "Aes Sedai of the Green Ajah. She is dark and slender with black hair and dark eyes. She has one surviving Warder, Ihvon; her other, Owein, died in the Two Rivers while scouting the Whitecloak camp. She thinks that <a href='#Mat'>Mat<\/a>, <a href='#Perrin'>Perrin<\/a>, and <a href='#Rand'>Rand<\/a> should be bonded as Warders to &#x201C;keep an eye on them,&#x201D; but <i>says<\/i>, &#x201C;I am not so lost to custom yet as to bond a man against his will. Not quite yet.&#x201D; This appears to have changed, however, since one of the first things she did after seeing Rand was to bond him. She later found that bonding Rand was a grievious error; not only is it impossible to compel him in comparison to most Warders (she compared it to attempting to uproot an oak tree with her bare hands), but she constantly feels the pain he experiences from the wound in his side, perhaps even more severely than he feels it.",
+                "info": "Aes Sedai of the Green Ajah. She is dark and slender with black hair and dark eyes. She has one surviving Warder, Ihvon; her other, Owein, died in the Two Rivers while scouting the Whitecloak camp. She thinks that <a href='#Mat'>Mat<\/a>, <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a>, and <a href='#Rand'>Rand<\/a> should be bonded as Warders to &#x201C;keep an eye on them,&#x201D; but <i>says<\/i>, &#x201C;I am not so lost to custom yet as to bond a man against his will. Not quite yet.&#x201D; This appears to have changed, however, since one of the first things she did after seeing Rand was to bond him. She later found that bonding Rand was a grievious error; not only is it impossible to compel him in comparison to most Warders (she compared it to attempting to uproot an oak tree with her bare hands), but she constantly feels the pain he experiences from the wound in his side, perhaps even more severely than he feels it.",
                 "seeAlso": [
                     {
                         "id": "Rand",
@@ -380,7 +380,7 @@
         "chapters": [
             {
                 "title": "Chapter 1: High Chasaline",
-                "info": "Former Tuatha&apos;an who gave up the Way of the Leaf to learn the sword when the Trollocs killed his mother. He learned from <a href='#Tam'>Tam al&apos;Thor<\/a>, <a href='#Rand'>Rand<\/a>&apos;s father and a Blademaster, and picked it up extremely fast. He now serves as <a href='#Perrin'>Perrin<\/a>&apos;s personal bodyguard.",
+                "info": "Former Tuatha&apos;an who gave up the Way of the Leaf to learn the sword when the Trollocs killed his mother. He learned from <a href='#Tam'>Tam al&apos;Thor<\/a>, <a href='#Rand'>Rand<\/a>&apos;s father and a Blademaster, and picked it up extremely fast. He now serves as <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a>&apos;s personal bodyguard.",
                 "seeAlso": [
                     {
                         "id": "Tam",
@@ -721,7 +721,7 @@
         "chapters": [
             {
                 "title": "Chapter 3: Hill of the Golden Dawn",
-                "info": "The First of Mayene, their equivalent of a Queen. <a href='#Rand'>Rand<\/a> put her in charge of Cairhien along with <a href='#Rhuarc'>Rhuarc<\/a>. She is fond of wearing the latest fashion in dresses, and those are usually quite revealing. She has her eyes on many men, but <a href='#Perrin'>Perrin<\/a> foremost&#x2014;she is <a href='#Min'>Min<\/a>&apos;s hawk in her viewings of Perrin. She is a very capable ruler, willing to do almost anything to preserve the welfare and independence of her people.",
+                "info": "The First of Mayene, their equivalent of a Queen. <a href='#Rand'>Rand<\/a> put her in charge of Cairhien along with <a href='#Rhuarc'>Rhuarc<\/a>. She is fond of wearing the latest fashion in dresses, and those are usually quite revealing. She has her eyes on many men, but <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a> foremost&#x2014;she is <a href='#Min'>Min<\/a>&apos;s hawk in her viewings of Perrin. She is a very capable ruler, willing to do almost anything to preserve the welfare and independence of her people.",
                 "seeAlso": [
                     {
                         "id": "Perrin",
@@ -1021,7 +1021,7 @@
         "chapters": [
             {
                 "title": "Chapter 1: High Chasaline",
-                "info": "Maiden of the Spear. She is fond of making fun of <a href='#Perrin'>Perrin<\/a> about his shyness to the <i>gai&apos;shain<\/i> that as of yet have no clothes.",
+                "info": "Maiden of the Spear. She is fond of making fun of <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a> about his shyness to the <i>gai&apos;shain<\/i> that as of yet have no clothes.",
                 "seeAlso": []
             }
         ]
@@ -1439,7 +1439,7 @@
         "chapters": [
             {
                 "title": "Chapter 2: The Butcher's Yard",
-                "info": "Young man from Emond&apos;s Field, now one of <a href='#Perrin'>Perrin<\/a>&apos;s soldiers. A bean-pole of a man with a thick mustache in the Taraboner style. He is <a href='#Tell'>Tell<\/a>&apos;s brother.",
+                "info": "Young man from Emond&apos;s Field, now one of <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a>&apos;s soldiers. A bean-pole of a man with a thick mustache in the Taraboner style. He is <a href='#Tell'>Tell<\/a>&apos;s brother.",
                 "seeAlso": [
                     {
                         "id": "Tell",
@@ -1545,7 +1545,7 @@
         "chapters": [
             {
                 "title": "Chapter 7: Pitfalls and Tripwires",
-                "info": "<a href='#Bashere'>Davram Bashere<\/a>&apos;s wife, and <a href='#Faile'>Faile<\/a>&apos;s mother. She is about a head taller than her husband, and is big for a woman. She has black hair.",
+                "info": "<a href='#Lord-Davram-t-Ghaline-Bashere'>Davram Bashere<\/a>&apos;s wife, and <a href='#Faile'>Faile<\/a>&apos;s mother. She is about a head taller than her husband, and is big for a woman. She has black hair.",
                 "seeAlso": [
                     {
                         "id": "Faile",
@@ -1686,7 +1686,7 @@
         "chapters": [
             {
                 "title": "Chapter 1: High Chasaline",
-                "info": "Cairienin lord. He is the High Seat of House Taborwin, and commands the troops <a href='#Perrin'>Perrin<\/a> leads.",
+                "info": "Cairienin lord. He is the High Seat of House Taborwin, and commands the troops <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a> leads.",
                 "seeAlso": [
                     {
                         "id": "Breane",
@@ -1852,7 +1852,7 @@
         "chapters": [
             {
                 "title": "Chapter 1: High Chasaline",
-                "info": "Wise One of the Nader sept of the Shiande Aiel. She has blue eyes, and is not much older than <a href='#Perrin'>Perrin<\/a>. She can channel, and is of moderately high strength.",
+                "info": "Wise One of the Nader sept of the Shiande Aiel. She has blue eyes, and is not much older than <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a>. She can channel, and is of moderately high strength.",
                 "seeAlso": []
             }
         ]
@@ -2121,7 +2121,7 @@
         "chapters": [
             {
                 "title": "Chapter 27: To Be Alone",
-                "info": "Soldier in the Black Tower. He accompanies <a href='#Perrin'>Perrin<\/a> when he leaves Andor.",
+                "info": "Soldier in the Black Tower. He accompanies <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a> when he leaves Andor.",
                 "seeAlso": []
             }
         ]
@@ -2132,7 +2132,7 @@
         "chapters": [
             {
                 "title": "Chapter 1: High Chasaline",
-                "info": "Young woman from Saldaea with long dark hair and dark eyes. She is the daughter of <a href='#Bashere'>Davram<\/a> and <a href='#Deira'>Deira<\/a> Bashere, and their oldest surviving offspring. Her two older brothers were killed, and when Davram sent her younger brother off to fight while keeping her at home, she ran away and swore the oath of a Hunter of the Horn in Illian. When she became a Hunter, she renounced her old name, Zarine, at first considering adopting the name &#x201C;Mandarb&#x201D;&#x2014;she chose Faile when she found <a href='#Mandarb'>Mandarb<\/a> was the name of <a href='#Lan'>Lan<\/a>&apos;s horse. She fell in love with <a href='#Perrin'>Perrin Aybara<\/a> while on her search for the Horn, who told her that the Horn had been found. She was shocked, but even more so to find out that <a href='#Rand'>Rand<\/a> was the <a href='#Reborn'>Dragon Reborn<\/a> and that both he and Perrin are <i>ta&apos;veren<\/i>. Faile stayed near Perrin, and finally accompanied him to the Two Rivers where she helped fend off the Trolloc attacks; the two were married shortly afterwards. They were then proclaimed Lord and Lady of the Two Rivers. Perrin hated the idea, but Faile insisted they have a modest estate, and even servants, which she trained herself. Her name means &#x201C;Falcon&#x201D; in the Old Tongue; she is the falcon in <a href='#Min'>Min<\/a>&apos;s viewings of Perrin. She is very protective of her husband, and does whatever she can to make sure he not so much as <i>looks<\/i> at another woman, even though he has no intention of doing so. She is a very jealous wife, especially toward people like <a href='#Berelain'>Berelain<\/a> who eye her husband all the time. She even cornered <a href='#Min'>Min<\/a> when they first came to Caemlyn and Perrin greeted her warmly to make sure Min had no intentions toward him.",
+                "info": "Young woman from Saldaea with long dark hair and dark eyes. She is the daughter of <a href='#Lord-Davram-t-Ghaline-Bashere'>Davram<\/a> and <a href='#Deira'>Deira<\/a> Bashere, and their oldest surviving offspring. Her two older brothers were killed, and when Davram sent her younger brother off to fight while keeping her at home, she ran away and swore the oath of a Hunter of the Horn in Illian. When she became a Hunter, she renounced her old name, Zarine, at first considering adopting the name &#x201C;Mandarb&#x201D;&#x2014;she chose Faile when she found <a href='#Mandarb'>Mandarb<\/a> was the name of <a href='#Lan'>Lan<\/a>&apos;s horse. She fell in love with <a href='#Perrin-t-Bashere-Aybara'>Perrin Aybara<\/a> while on her search for the Horn, who told her that the Horn had been found. She was shocked, but even more so to find out that <a href='#Rand'>Rand<\/a> was the <a href='#Reborn'>Dragon Reborn<\/a> and that both he and Perrin are <i>ta&apos;veren<\/i>. Faile stayed near Perrin, and finally accompanied him to the Two Rivers where she helped fend off the Trolloc attacks; the two were married shortly afterwards. They were then proclaimed Lord and Lady of the Two Rivers. Perrin hated the idea, but Faile insisted they have a modest estate, and even servants, which she trained herself. Her name means &#x201C;Falcon&#x201D; in the Old Tongue; she is the falcon in <a href='#Min'>Min<\/a>&apos;s viewings of Perrin. She is very protective of her husband, and does whatever she can to make sure he not so much as <i>looks<\/i> at another woman, even though he has no intention of doing so. She is a very jealous wife, especially toward people like <a href='#Berelain'>Berelain<\/a> who eye her husband all the time. She even cornered <a href='#Min'>Min<\/a> when they first came to Caemlyn and Perrin greeted her warmly to make sure Min had no intentions toward him.",
                 "seeAlso": [
                     {
                         "id": "Perrin",
@@ -2367,7 +2367,7 @@
         "chapters": [
             {
                 "title": "Chapter 1: High Chasaline",
-                "info": "An Aiel of the Imran sept of the Shaarad Aiel. He is <i>Shae&apos;en M&apos;taal<\/i>, a Stone Dog. <a href='#Perrin'>Perrin<\/a> rescued him from his entrapment in Remen, and Gaul now walks at Perrin&apos;s side during battle and elsewhere. Gaul wants to marry <a href='#Chiad'>Chiad<\/a>, but though she would agree to be his lover, she will not give up the spear for him.",
+                "info": "An Aiel of the Imran sept of the Shaarad Aiel. He is <i>Shae&apos;en M&apos;taal<\/i>, a Stone Dog. <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a> rescued him from his entrapment in Remen, and Gaul now walks at Perrin&apos;s side during battle and elsewhere. Gaul wants to marry <a href='#Chiad'>Chiad<\/a>, but though she would agree to be his lover, she will not give up the spear for him.",
                 "seeAlso": [
                     {
                         "id": "Perrin",
@@ -2512,7 +2512,7 @@
         "chapters": [
             {
                 "title": "Chapter 21: Swovan Night",
-                "info": "Blacksmith of Emond&apos;s Field. <a href='#Perrin'>Perrin<\/a> was his apprentice before he left home. He is a very large man, which works well for work at the forge. His wife, Alsbet, is almost as large as he is, and nearly as strong. He approves of the new arrivals in Emond&apos;s Field, and has even ventured into business partnerships with some of the newcomers.",
+                "info": "Blacksmith of Emond&apos;s Field. <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a> was his apprentice before he left home. He is a very large man, which works well for work at the forge. His wife, Alsbet, is almost as large as he is, and nearly as strong. He approves of the new arrivals in Emond&apos;s Field, and has even ventured into business partnerships with some of the newcomers.",
                 "seeAlso": [
                     {
                         "id": "Perrin",
@@ -3057,7 +3057,7 @@
         "chapters": [
             {
                 "title": "Chapter 3: Hill of the Golden Dawn",
-                "info": "Stocky, dark-eyed man, about seven years older than <a href='#Rand'>Rand<\/a>, now one of the Dedicated. He accompanies Rand after the episode at Dumai&apos;s Wells, and later leaves with <a href='#Perrin'>Perrin<\/a>.",
+                "info": "Stocky, dark-eyed man, about seven years older than <a href='#Rand'>Rand<\/a>, now one of the Dedicated. He accompanies Rand after the episode at Dumai&apos;s Wells, and later leaves with <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a>.",
                 "seeAlso": []
             }
         ]
@@ -3125,7 +3125,7 @@
         "chapters": [
             {
                 "title": "Chapter 1: High Chasaline",
-                "info": "A young man from the Two Rivers. He is barely old enough to marry or leave home, much less grow the beard he is trying to grow in imitation of <a href='#Perrin'>Perrin<\/a>.",
+                "info": "A young man from the Two Rivers. He is barely old enough to marry or leave home, much less grow the beard he is trying to grow in imitation of <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a>.",
                 "seeAlso": []
             }
         ]
@@ -3626,7 +3626,7 @@
         "chapters": [
             {
                 "title": "Chapter 1: High Chasaline",
-                "info": "Son of Arent son of Halan, an Ogier from Stedding Shangtai. He left the <i>stedding<\/i> at around age 90 to see the world; by Ogier standards, he is not yet old enough to leave the <i>stedding<\/i> without permission from the Council of Elders. He is fond of books and history, and is an excellent Treesinger. He is writing a book about his travels with the three <i>ta&apos;veren<\/i> he meets, <a href='#Rand'>Rand al&apos;Thor<\/a>, <a href='#Mat'>Mat Cauthon<\/a>, and <a href='#Perrin'>Perrin Aybara<\/a>. Loial is constantly afraid that his mother will find him and try to marry him off and settle him down; however, he does like his mother&apos;s choice of wives for him, <a href='#Erith'>Erith<\/a>. He, like most of the Ogier, is sad that most humans don&apos;t remember the Ogier, and is horrified that some even think he is a Trolloc on first seeing him.",
+                "info": "Son of Arent son of Halan, an Ogier from Stedding Shangtai. He left the <i>stedding<\/i> at around age 90 to see the world; by Ogier standards, he is not yet old enough to leave the <i>stedding<\/i> without permission from the Council of Elders. He is fond of books and history, and is an excellent Treesinger. He is writing a book about his travels with the three <i>ta&apos;veren<\/i> he meets, <a href='#Rand'>Rand al&apos;Thor<\/a>, <a href='#Mat'>Mat Cauthon<\/a>, and <a href='#Perrin-t-Bashere-Aybara'>Perrin Aybara<\/a>. Loial is constantly afraid that his mother will find him and try to marry him off and settle him down; however, he does like his mother&apos;s choice of wives for him, <a href='#Erith'>Erith<\/a>. He, like most of the Ogier, is sad that most humans don&apos;t remember the Ogier, and is horrified that some even think he is a Trolloc on first seeing him.",
                 "seeAlso": [
                     {
                         "id": "Erith",
@@ -3737,7 +3737,7 @@
         "chapters": [
             {
                 "title": "Prologue: Lightnings",
-                "info": "Former First Prince of the Sword and Captain of the Queen&apos;s Guards under <a href='#Morgase'>Queen Morgase<\/a> in Andor. He was appointed to the position because Morgase had no living male relatives, but was exiled from Caemlyn on a suggestion from Morgase&apos;s new advisor, <a href='#Gaebril'>Lord Gaebril<\/a>. He moved to his private estates in rural Andor, where he presided over the trial of three young women who unintentionally burned a barn: they turned out to be <a href='#Siuan'>Siuan Sanche<\/a>, the former <a href='#Amyrlin'>Amyrlin Seat<\/a>; <a href='#Leane'>Leane Sharif<\/a>, the former <a href='#Keeper'>Keeper of the Chronicles<\/a>, and <a href='#Min'>Min Farshaw<\/a>. When these three made an oath to serve him and then apparently broke it, he followed them out of sheer curiosity to Salidar. Once their, he discovered the true identity of the three, as well as that the Tower was truly broken. The Aes Sedai in Salidar persuaded him to command the army they would need to take the Amyrlin Seat from <a href='#Elaida'>Elaida<\/a>, since he was the only commander that the Warders thought would be willing and able to help them. He is one of the six best military commanders west of the Aiel Waste, in a league with <a href='#Niall'>Pedron Niall<\/a>, Rodel Ituralde, <a href='#Bashere'>Davram Bashere<\/a>, Agelmar Jagad, and <a href='#Mat'>Matrim Cauthon<\/a>. Although neither of them would admit it, Bryne seems to be developing feelings for Siuan Sanche; he wishes to avoid another mistake like his relationship as <a href='#Morgase'>Morgase<\/a>&apos;s lover, and also never forgave Siuan for when she publicly shamed him years ago. She seems to be developing similar feelings for him, much to her dismay. He plans to be the first ever general to take the city of Tar Valon; the closest anyone else ever came was with <a href='#Guaire'>Guaire Amalasan<\/a>&apos;s armies, who got as far as the White Tower itself, and <a href='#Hawkwing'>Artur Hawkwing<\/a>, who never managed to go beyond beseiging the city. Actually, Amalasan&apos;s troops never beseiged the city, they simply managed to breech the walls; Hawkwing never managed to stop the supply ships coming up the river. Bryne believes he will be able to overcome this problem.",
+                "info": "Former First Prince of the Sword and Captain of the Queen&apos;s Guards under <a href='#Morgase'>Queen Morgase<\/a> in Andor. He was appointed to the position because Morgase had no living male relatives, but was exiled from Caemlyn on a suggestion from Morgase&apos;s new advisor, <a href='#Gaebril'>Lord Gaebril<\/a>. He moved to his private estates in rural Andor, where he presided over the trial of three young women who unintentionally burned a barn: they turned out to be <a href='#Siuan'>Siuan Sanche<\/a>, the former <a href='#Amyrlin'>Amyrlin Seat<\/a>; <a href='#Leane'>Leane Sharif<\/a>, the former <a href='#Keeper'>Keeper of the Chronicles<\/a>, and <a href='#Min'>Min Farshaw<\/a>. When these three made an oath to serve him and then apparently broke it, he followed them out of sheer curiosity to Salidar. Once their, he discovered the true identity of the three, as well as that the Tower was truly broken. The Aes Sedai in Salidar persuaded him to command the army they would need to take the Amyrlin Seat from <a href='#Elaida'>Elaida<\/a>, since he was the only commander that the Warders thought would be willing and able to help them. He is one of the six best military commanders west of the Aiel Waste, in a league with <a href='#Niall'>Pedron Niall<\/a>, Rodel Ituralde, <a href='#Lord-Davram-t-Ghaline-Bashere'>Davram Bashere<\/a>, Agelmar Jagad, and <a href='#Mat'>Matrim Cauthon<\/a>. Although neither of them would admit it, Bryne seems to be developing feelings for Siuan Sanche; he wishes to avoid another mistake like his relationship as <a href='#Morgase'>Morgase<\/a>&apos;s lover, and also never forgave Siuan for when she publicly shamed him years ago. She seems to be developing similar feelings for him, much to her dismay. He plans to be the first ever general to take the city of Tar Valon; the closest anyone else ever came was with <a href='#Guaire'>Guaire Amalasan<\/a>&apos;s armies, who got as far as the White Tower itself, and <a href='#Hawkwing'>Artur Hawkwing<\/a>, who never managed to go beyond beseiging the city. Actually, Amalasan&apos;s troops never beseiged the city, they simply managed to breech the walls; Hawkwing never managed to stop the supply ships coming up the river. Bryne believes he will be able to overcome this problem.",
                 "seeAlso": [
                     {
                         "id": "Siuan",
@@ -4207,7 +4207,7 @@
         "chapters": [
             {
                 "title": "Chapter 1: High Chasaline",
-                "info": "A young man from Emond&apos;s Field. He is <i>ta&apos;veren<\/i>. Along with his good friends, <a href='#Rand'>Rand al&apos;Thor<\/a> and <a href='#Perrin'>Perrin Aybara<\/a>, he left home to escape the Trolloc attacks after Winternight. On the way to Tar Valon, he picked up a dagger from Shadar Logoth tainted with the evil that destroyed Aridhol, which he carried with him for a long time. He was separated from the dagger by Aes Sedai Healing, but doing so caused large gaps in his memory sequence. These gaps were filled and more when he passed through the twisted door to the land of the Eelfinn, where he was granted his three requests: a foxhead medallion that protects him from women&apos;s channeling, a way out of the land of the Eelfinn, and the memories of past lifetimes that were the gaps in his memory. Mat&apos;s <i>ta&apos;veren<\/i> qualities manifest themselves particularly well with random events, such as dice games&#x2014;he almost never loses a toss of the dice, even if the dice are weighted. He has found that battles are the ultimate form of gambling, and along with his newfound memories he can win almost every battle he fights quite decisively. He has four sisters, including Eldrin and Bodewhin, who are 16 and 17, respectively. His father <a href='#Abell'>Abell<\/a> is one of the best archers in the Two Rivers, possibly in the World. Mat has gotten in the habit of carrying concealed knives under his clothes in case he is attacked&#x2014;his collection would surprise anyone. In the Waste, he met a woman named Melindhra, a Maiden of the Spear from the Shaido Clan. However, she is not the <a href='#9Moons'>Daughter of the Nine Moons<\/a>, who Mat is destined to marry according to the Aelfinn; besides, she tried to kill him on orders from her master among the Darkfriends. Mat had to kill her to save his own skin, but regrets it deeply. He has a scar along his neck from where the Eelfinn tried to kill him&#x2014;which was also in accordance with what the Aelfinn told him, that he is &#x201C;to die and live again.&#x201D; He currently heads an army called the Band of the Red Hand, after the army of King Aemon of old Manetheren, and serves in a way as Rand&apos;s personal general&#x2014;this works well, since Mat seems to be a better general than even <a href='#Bashere'>Davram Bashere<\/a>, who has earned his good reputation as one of the best commanders alive. Mat does not trust any Aes Sedai, and because of this refuses to take his foxhead medallion off even to take a bath. Mat is currently in Ebou Dar trying to keep an eye on <a href='#Elayne'>Elayne<\/a> and <a href='#Nynaeve'>Nynaeve<\/a> from getting themselves killed.",
+                "info": "A young man from Emond&apos;s Field. He is <i>ta&apos;veren<\/i>. Along with his good friends, <a href='#Rand'>Rand al&apos;Thor<\/a> and <a href='#Perrin-t-Bashere-Aybara'>Perrin Aybara<\/a>, he left home to escape the Trolloc attacks after Winternight. On the way to Tar Valon, he picked up a dagger from Shadar Logoth tainted with the evil that destroyed Aridhol, which he carried with him for a long time. He was separated from the dagger by Aes Sedai Healing, but doing so caused large gaps in his memory sequence. These gaps were filled and more when he passed through the twisted door to the land of the Eelfinn, where he was granted his three requests: a foxhead medallion that protects him from women&apos;s channeling, a way out of the land of the Eelfinn, and the memories of past lifetimes that were the gaps in his memory. Mat&apos;s <i>ta&apos;veren<\/i> qualities manifest themselves particularly well with random events, such as dice games&#x2014;he almost never loses a toss of the dice, even if the dice are weighted. He has found that battles are the ultimate form of gambling, and along with his newfound memories he can win almost every battle he fights quite decisively. He has four sisters, including Eldrin and Bodewhin, who are 16 and 17, respectively. His father <a href='#Abell'>Abell<\/a> is one of the best archers in the Two Rivers, possibly in the World. Mat has gotten in the habit of carrying concealed knives under his clothes in case he is attacked&#x2014;his collection would surprise anyone. In the Waste, he met a woman named Melindhra, a Maiden of the Spear from the Shaido Clan. However, she is not the <a href='#9Moons'>Daughter of the Nine Moons<\/a>, who Mat is destined to marry according to the Aelfinn; besides, she tried to kill him on orders from her master among the Darkfriends. Mat had to kill her to save his own skin, but regrets it deeply. He has a scar along his neck from where the Eelfinn tried to kill him&#x2014;which was also in accordance with what the Aelfinn told him, that he is &#x201C;to die and live again.&#x201D; He currently heads an army called the Band of the Red Hand, after the army of King Aemon of old Manetheren, and serves in a way as Rand&apos;s personal general&#x2014;this works well, since Mat seems to be a better general than even <a href='#Lord-Davram-t-Ghaline-Bashere'>Davram Bashere<\/a>, who has earned his good reputation as one of the best commanders alive. Mat does not trust any Aes Sedai, and because of this refuses to take his foxhead medallion off even to take a bath. Mat is currently in Ebou Dar trying to keep an eye on <a href='#Elayne'>Elayne<\/a> and <a href='#Nynaeve'>Nynaeve<\/a> from getting themselves killed.",
                 "seeAlso": [
                     {
                         "id": "Rand",
@@ -4534,7 +4534,7 @@
         "chapters": [
             {
                 "title": "Chapter 8: The Figurehead",
-                "info": "Aes Sedai of the Blue Ajah. Born of a noble House in Cairhien, she is Taringail Damodred&apos;s youngest half-sister, and <a href='#Laman'>King Laman</a>&apos;s niece. She is considered short among her people, and the Cairhienin are already a short people. When it was discovered that she had the ability to channel inborn, Moiraine went to Tar Valon to become an Aes Sedai. Just before being raised to the shawl, she and her friend <a href='#Siuan'>Siuan Sanche</a> witnessed Gitara Moroso&apos;s Foretelling of the Rebirth of the <a href='#Dragon'>Dragon</a>. Moiraine and Siuan walked away from each other and did not speak to each other again (at least in public), but both held secret communication with each other and dedicated their lives to finding and guiding the <a href='#Reborn'>Dragon Reborn</a>. Moiraine found the young man she sought on Winternight in Emond&apos;s Field, a young man named <a href='#Rand'>Rand al&apos;Thor</a>, along with two more <i>ta&apos;veren</i>, <a href='#Mat'>Mat Cauthon</a> and <a href='#Perrin'>Perrin Aybara</a> and two women with the spark of the Power inborn, <a href='#Egwene'>Egwene al&apos;Vere</a> and <a href='#Nynaeve'>Nynaeve al&apos;Meara</a>. When Moiraine was shortly raised to the shawl, she met <a href='#Lan'>al&apos;Lan Mandragoran</a>, the uncrowned King of Malkier, who was fighting alone against the Shadow in the Blight; she asked Lan to become her Warder, and he accepted. She is very strong in the Power, stronger than almost all living Aes Sedai. In the Stone of Tear, Moiraine confronted and killed the Forsaken <a href='#Belal'>Be&apos;lal</a> with balefire, just before he would have killed Rand. Later, after having an inkling of the future events from the testing <i>ter&apos;angreal</i> for the Wise Ones, Moiraine managed to push the Forsaken <a href='#Lanfear'>Lanfear</a> through the twisted doorway <i>ter&apos;angreal</i>. Other Aes Sedai consider her a legend, not only for discovering the <a href='#Reborn'>Dragon Reborn</a> but for defeating two of the Forsaken as well.",
+                "info": "Aes Sedai of the Blue Ajah. Born of a noble House in Cairhien, she is Taringail Damodred&apos;s youngest half-sister, and <a href='#Laman'>King Laman</a>&apos;s niece. She is considered short among her people, and the Cairhienin are already a short people. When it was discovered that she had the ability to channel inborn, Moiraine went to Tar Valon to become an Aes Sedai. Just before being raised to the shawl, she and her friend <a href='#Siuan'>Siuan Sanche</a> witnessed Gitara Moroso&apos;s Foretelling of the Rebirth of the <a href='#Dragon'>Dragon</a>. Moiraine and Siuan walked away from each other and did not speak to each other again (at least in public), but both held secret communication with each other and dedicated their lives to finding and guiding the <a href='#Reborn'>Dragon Reborn</a>. Moiraine found the young man she sought on Winternight in Emond&apos;s Field, a young man named <a href='#Rand'>Rand al&apos;Thor</a>, along with two more <i>ta&apos;veren</i>, <a href='#Mat'>Mat Cauthon</a> and <a href='#Perrin-t-Bashere-Aybara'>Perrin Aybara</a> and two women with the spark of the Power inborn, <a href='#Egwene'>Egwene al&apos;Vere</a> and <a href='#Nynaeve'>Nynaeve al&apos;Meara</a>. When Moiraine was shortly raised to the shawl, she met <a href='#Lan'>al&apos;Lan Mandragoran</a>, the uncrowned King of Malkier, who was fighting alone against the Shadow in the Blight; she asked Lan to become her Warder, and he accepted. She is very strong in the Power, stronger than almost all living Aes Sedai. In the Stone of Tear, Moiraine confronted and killed the Forsaken <a href='#Belal'>Be&apos;lal</a> with balefire, just before he would have killed Rand. Later, after having an inkling of the future events from the testing <i>ter&apos;angreal</i> for the Wise Ones, Moiraine managed to push the Forsaken <a href='#Lanfear'>Lanfear</a> through the twisted doorway <i>ter&apos;angreal</i>. Other Aes Sedai consider her a legend, not only for discovering the <a href='#Reborn'>Dragon Reborn</a> but for defeating two of the Forsaken as well.",
                 "seeAlso": [
                     {
                         "id": "Lan",
@@ -4918,7 +4918,7 @@
         "chapters": [
             {
                 "title": "Prologue: Lightnings",
-                "info": "Former Lord Captain Commander of the Children of the Light, highest office among the Children. He is one of the great military commanders in the world, in company with <a href='#Bashere'>Davram Bashere<\/a>, Agelmar Jagad, Rodel Ituralde, <a href='#Bryne'>Gareth Bryne<\/a>, <a href='#Mat'>Mat Cauthon<\/a>, and several Aiel chiefs. He was trying to get Altara and Murandy to cede land to Illian so the Council of Nine wouldn&apos;t invade both countries. He also tried to expand Amadicia&apos;s borders into parts of Ghealdan. His headquarters is in Amadicia, and he ruled there even above <a href='#Ailron'>King Ailron<\/a>, although this was not spoken of openly. Niall recently offered a treaty with <a href='#Morgase'>Queen Morgase<\/a> of Andor, offering Whitecloak assistance to retake her throne in exchange for Whitecloak presence in Caemlyn and elsewhere in Andor, a presence that Morgase had not allowed even a fraction of during her reign. Niall was killed by his alleged Spymaster, <a href='#Omerna'>Abdel Omerna<\/a>, who claimed he had gone against everything the Children stood for by allowing Morgase to avoid being put to the question. He was replaced by <a href='#Valda'>Eamon Valda<\/a>, who also killed Omerna.",
+                "info": "Former Lord Captain Commander of the Children of the Light, highest office among the Children. He is one of the great military commanders in the world, in company with <a href='#Lord-Davram-t-Ghaline-Bashere'>Davram Bashere<\/a>, Agelmar Jagad, Rodel Ituralde, <a href='#Bryne'>Gareth Bryne<\/a>, <a href='#Mat'>Mat Cauthon<\/a>, and several Aiel chiefs. He was trying to get Altara and Murandy to cede land to Illian so the Council of Nine wouldn&apos;t invade both countries. He also tried to expand Amadicia&apos;s borders into parts of Ghealdan. His headquarters is in Amadicia, and he ruled there even above <a href='#Ailron'>King Ailron<\/a>, although this was not spoken of openly. Niall recently offered a treaty with <a href='#Morgase'>Queen Morgase<\/a> of Andor, offering Whitecloak assistance to retake her throne in exchange for Whitecloak presence in Caemlyn and elsewhere in Andor, a presence that Morgase had not allowed even a fraction of during her reign. Niall was killed by his alleged Spymaster, <a href='#Omerna'>Abdel Omerna<\/a>, who claimed he had gone against everything the Children stood for by allowing Morgase to avoid being put to the question. He was replaced by <a href='#Valda'>Eamon Valda<\/a>, who also killed Omerna.",
                 "seeAlso": [
                     {
                         "id": "Balwer",
@@ -4949,7 +4949,7 @@
         "chapters": [
             {
                 "title": "Chapter 1: High Chasaline",
-                "info": "Nickname given to <a href='#Perrin'>Perrin Aybara<\/a> by people in the Two Rivers; they chose it because of his wolf-like eye color.",
+                "info": "Nickname given to <a href='#Perrin-t-Bashere-Aybara'>Perrin Aybara<\/a> by people in the Two Rivers; they chose it because of his wolf-like eye color.",
                 "seeAlso": [
                     {
                         "id": "Perrin",
@@ -5124,7 +5124,7 @@
         "chapters": [
             {
                 "title": "Prologue: Lightnings",
-                "info": "Queen of Saldaea, niece of <a href='#Bashere'>Davram Bashere<\/a>, and cousin of <a href='#Faile'>Faile<\/a>. She has gone into hiding to avoid dealing with the White Tower.",
+                "info": "Queen of Saldaea, niece of <a href='#Lord-Davram-t-Ghaline-Bashere'>Davram Bashere<\/a>, and cousin of <a href='#Faile'>Faile<\/a>. She has gone into hiding to avoid dealing with the White Tower.",
                 "seeAlso": [
                     {
                         "id": "Bashere",
@@ -5160,7 +5160,7 @@
         "chapters": [
             {
                 "title": "Chapter 3: Hill of the Golden Dawn",
-                "info": "Young man from the Two Rivers. He carries <a href='#Perrin'>Perrin<\/a>&apos;s wolfhead banner.",
+                "info": "Young man from the Two Rivers. He carries <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a>&apos;s wolfhead banner.",
                 "seeAlso": []
             }
         ]
@@ -5220,7 +5220,7 @@
         "chapters": [
             {
                 "title": "Prologue: Lightnings",
-                "info": "A young man from Emond&apos;s Field in the Two Rivers, now proclaimed to be the <a href='#Reborn'>Dragon Reborn<\/a>. He is very tall, with curly red-blond hair. He was raised by Tam al&apos;Thor and his wife Kari (until her death around the time Rand was five) in Emond&apos;s Field. His real parents, however, were Janduin, the chief of the Taardad Aiel who brought the four clans across the Dragonwall to punish Laman&apos;s Sin, and a Maiden of the Spear named Shaiel, who was actually Tigraine Mantear, the runaway Daughter-Heir of Andor. Tigraine gave birth to Rand on the slopes of Dragonmount, in accordance with prophecy; &#x201C;born of a Maiden, of the ancient blood but raised by the Old.&#x201D; Rand has a heron branded into each of his palms, which he received from the sword Tam gave him while fighting <a href='#Ishamael'>Ishamael<\/a>. He also has two dragons on his forearms, which he recieved in Rhuidean to designate him as the <i><a href='#Caracarn'>Car&apos;a&apos;carn<\/a><\/i>, the Chief of Chiefs of the Aiel. He is not only the Dragon Reborn, but also He Who Comes With the Dawn, the man prophesied to reunite the Aiel, and the <a href='#Coramoor'>Coramoor<\/a>, the one prophesied to bring the Sea Folk out of the Sea. He can channel strongly, more so than any person who ever lived (except the previous user of his soul, <a href='#Lews'>Lews Therin Telamon<\/a>, who was obviously of equal strength), and is also <i>ta&apos;veren<\/i>, the most strongly so since Lews Therin as well. Lews Therin&apos;s voice has somehow found a new place inside of Rand&apos;s head; he talks to him in a mad voice when Rand least expects it, sometimes offering sound advice or knowledge, sometimes babbling, sometimes even trying to wrest control of <i>saidin<\/i> from him. Unlike Lews Therin, Rand is accompanied by two other <i>ta&apos;veren<\/i> during this turing of the Wheel, two men born within days (hours, even) of him named <a href='#Mat'>Matrim Cauthon<\/a> and <a href='#Perrin'>Perrin Aybara<\/a>, who both grew up in Emond&apos;s Field as well. Rand is destined to fall in love with three women (and has): <a href='#Min'>Min Farshaw<\/a>, <a href='#Elayne'>Elayne Trakand<\/a>, and <a href='#Aviendha'>Aviendha<\/a>. Rand has had success in fighting many of the Forsaken; all to confront him have died or been trapped. He killed <a href='#Aginor'>Aginor<\/a> at the Eye of the World after the Green Man killed <a href='#Balthamel'>Balthamel<\/a>; he allowed <a href='#Moiraine'>Moiraine<\/a> to kill <a href='#Belal'>Be&apos;lal<\/a> in the Stone of Tear, and killed <a href='#Ishamael'>Ishamael<\/a> in the Stone shortly afterward; in the wagons near the Spine of the World, <a href='#Lanfear'>Lanfear<\/a> confronted him and was pushed into the land of the Eelfinn by Moiraine; he killed <a href='#Rahvin'>Rahvin<\/a> in <i>Tel&apos;aran&apos;rhiod<\/i> when he came to the Royal Palace in Caemlyn; and <a href='#Asmodean'>Asmodean<\/a>, his teacher, was killed shorlty after Rahvin met his fate. His prophecies fulfilled grow: he has already been born on the slopes of Dragonmount of a Maiden, of the ancient blood but raised by the old, taken the Stone of Tear and drawn <i>Callandor<\/i>, and began conquering &#x201C;under the forgotten symbol,&#x201D; that of the Aes Sedai of the Age of Legends. He is working on having the &#x201C;spotless tower&#x201D; break and bend knee to him (several Aes Sedai have sworn fealty to him and only him). He is the salvation of the entire world, and as the prophecy states, he <i>will<\/i> save the world&#x2014;and Break it again.",
+                "info": "A young man from Emond&apos;s Field in the Two Rivers, now proclaimed to be the <a href='#Reborn'>Dragon Reborn<\/a>. He is very tall, with curly red-blond hair. He was raised by Tam al&apos;Thor and his wife Kari (until her death around the time Rand was five) in Emond&apos;s Field. His real parents, however, were Janduin, the chief of the Taardad Aiel who brought the four clans across the Dragonwall to punish Laman&apos;s Sin, and a Maiden of the Spear named Shaiel, who was actually Tigraine Mantear, the runaway Daughter-Heir of Andor. Tigraine gave birth to Rand on the slopes of Dragonmount, in accordance with prophecy; &#x201C;born of a Maiden, of the ancient blood but raised by the Old.&#x201D; Rand has a heron branded into each of his palms, which he received from the sword Tam gave him while fighting <a href='#Ishamael'>Ishamael<\/a>. He also has two dragons on his forearms, which he recieved in Rhuidean to designate him as the <i><a href='#Caracarn'>Car&apos;a&apos;carn<\/a><\/i>, the Chief of Chiefs of the Aiel. He is not only the Dragon Reborn, but also He Who Comes With the Dawn, the man prophesied to reunite the Aiel, and the <a href='#Coramoor'>Coramoor<\/a>, the one prophesied to bring the Sea Folk out of the Sea. He can channel strongly, more so than any person who ever lived (except the previous user of his soul, <a href='#Lews'>Lews Therin Telamon<\/a>, who was obviously of equal strength), and is also <i>ta&apos;veren<\/i>, the most strongly so since Lews Therin as well. Lews Therin&apos;s voice has somehow found a new place inside of Rand&apos;s head; he talks to him in a mad voice when Rand least expects it, sometimes offering sound advice or knowledge, sometimes babbling, sometimes even trying to wrest control of <i>saidin<\/i> from him. Unlike Lews Therin, Rand is accompanied by two other <i>ta&apos;veren<\/i> during this turing of the Wheel, two men born within days (hours, even) of him named <a href='#Mat'>Matrim Cauthon<\/a> and <a href='#Perrin-t-Bashere-Aybara'>Perrin Aybara<\/a>, who both grew up in Emond&apos;s Field as well. Rand is destined to fall in love with three women (and has): <a href='#Min'>Min Farshaw<\/a>, <a href='#Elayne'>Elayne Trakand<\/a>, and <a href='#Aviendha'>Aviendha<\/a>. Rand has had success in fighting many of the Forsaken; all to confront him have died or been trapped. He killed <a href='#Aginor'>Aginor<\/a> at the Eye of the World after the Green Man killed <a href='#Balthamel'>Balthamel<\/a>; he allowed <a href='#Moiraine'>Moiraine<\/a> to kill <a href='#Belal'>Be&apos;lal<\/a> in the Stone of Tear, and killed <a href='#Ishamael'>Ishamael<\/a> in the Stone shortly afterward; in the wagons near the Spine of the World, <a href='#Lanfear'>Lanfear<\/a> confronted him and was pushed into the land of the Eelfinn by Moiraine; he killed <a href='#Rahvin'>Rahvin<\/a> in <i>Tel&apos;aran&apos;rhiod<\/i> when he came to the Royal Palace in Caemlyn; and <a href='#Asmodean'>Asmodean<\/a>, his teacher, was killed shorlty after Rahvin met his fate. His prophecies fulfilled grow: he has already been born on the slopes of Dragonmount of a Maiden, of the ancient blood but raised by the old, taken the Stone of Tear and drawn <i>Callandor<\/i>, and began conquering &#x201C;under the forgotten symbol,&#x201D; that of the Aes Sedai of the Age of Legends. He is working on having the &#x201C;spotless tower&#x201D; break and bend knee to him (several Aes Sedai have sworn fealty to him and only him). He is the salvation of the entire world, and as the prophecy states, he <i>will<\/i> save the world&#x2014;and Break it again.",
                 "seeAlso": [
                     {
                         "id": "Elaida",
@@ -5590,7 +5590,7 @@
         "chapters": [
             {
                 "title": "Chapter 3: Hill of the Golden Dawn",
-                "info": "<i><a class='name' name='Seicair'>Sei&apos;cair<\/a><\/i>, p. 100 (117)&#x2014;What <a href='#Feraighin'>Feraighin<\/a> calls <a href='#Perrin'>Perrin<\/a>. I do not know what it means, though I suspect something along the lines of &#x201C;Eyes of Gold&#x201D; (compare to <i>al&apos;Cair&apos;rahienallen<\/i>, &#x201C;Hill of the Golden Dawn&#x201D; and <i>sei&apos;mosiev<\/i>, which means &#x201C;downcast eyes&#x201D;).",
+                "info": "<i><a class='name' name='Seicair'>Sei&apos;cair<\/a><\/i>, p. 100 (117)&#x2014;What <a href='#Feraighin'>Feraighin<\/a> calls <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a>. I do not know what it means, though I suspect something along the lines of &#x201C;Eyes of Gold&#x201D; (compare to <i>al&apos;Cair&apos;rahienallen<\/i>, &#x201C;Hill of the Golden Dawn&#x201D; and <i>sei&apos;mosiev<\/i>, which means &#x201C;downcast eyes&#x201D;).",
                 "seeAlso": [
                     {
                         "id": "Perrin",
@@ -5978,7 +5978,7 @@
         "chapters": [
             {
                 "title": "Chapter 1: High Chasaline",
-                "info": "<a href='#Perrin'>Perrin<\/a>&apos;s second horse. He is well-shod with white forefeet.",
+                "info": "<a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a>&apos;s second horse. He is well-shod with white forefeet.",
                 "seeAlso": []
             }
         ]
@@ -5989,7 +5989,7 @@
         "chapters": [
             {
                 "title": "Chapter 1: High Chasaline",
-                "info": "<a href='#Perrin'>Perrin<\/a>&apos;s dun stallion.",
+                "info": "<a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a>&apos;s dun stallion.",
                 "seeAlso": []
             }
         ]
@@ -6244,7 +6244,7 @@
         "chapters": [
             {
                 "title": "Chapter 3: Hill of the Golden Dawn",
-                "info": "Young man from Emond&apos;s Field, now one of <a href='#Perrin'>Perrin<\/a>&apos;s soldiers. A bean-pole of a man with a thick mustache in the Taraboner style. He carries Perrin&apos;s Red Eagle banner. He is <a href='#Dannil'>Dannil<\/a>&apos;s brother.",
+                "info": "Young man from Emond&apos;s Field, now one of <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a>&apos;s soldiers. A bean-pole of a man with a thick mustache in the Taraboner style. He carries Perrin&apos;s Red Eagle banner. He is <a href='#Dannil'>Dannil<\/a>&apos;s brother.",
                 "seeAlso": [
                     {
                         "id": "Dannil",
@@ -6357,7 +6357,7 @@
         "chapters": [
             {
                 "title": "Prologue: Lightnings",
-                "info": "Title given <a href='#Masema'>Masema<\/a> as the self-appointed bringer of the news of the Rebirth of the <a href='#Dragon'>Dragon<\/a>. He is not necessarily sane anymore, but has gained a very large following. <a href='#Rand'>Rand<\/a> is getting to the point where he plans to do something about him, and just sent <a href='#Perrin'>Perrin<\/a> to Ghealdan with a few of the Asha&apos;man and some of the sworn Aes Sedai to bring him in line.",
+                "info": "Title given <a href='#Masema'>Masema<\/a> as the self-appointed bringer of the news of the Rebirth of the <a href='#Dragon'>Dragon<\/a>. He is not necessarily sane anymore, but has gained a very large following. <a href='#Rand'>Rand<\/a> is getting to the point where he plans to do something about him, and just sent <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a> to Ghealdan with a few of the Asha&apos;man and some of the sworn Aes Sedai to bring him in line.",
                 "seeAlso": [
                     {
                         "id": "Masema",
@@ -6484,7 +6484,7 @@
         "chapters": [
             {
                 "title": "Chapter 1: High Chasaline",
-                "info": "Young man from the Two Rivers. He is about a year younger than <a href='#Perrin'>Perrin<\/a>, and now serves as one of his soldiers.",
+                "info": "Young man from the Two Rivers. He is about a year younger than <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a>, and now serves as one of his soldiers.",
                 "seeAlso": []
             }
         ]
@@ -6693,7 +6693,7 @@
         "chapters": [
             {
                 "title": "Chapter 12: A Morning of Victory",
-                "info": "The uncrowned king of Malkier, and formerly Warder to <a href='#Moiraine'>Moiraine<\/a>. He is quite tall, and doesn&apos;t get very emotional&#x2014;in fact, he has emotional walls all around him that he has been building for years. His country, Malkier, was overrun by Trollocs shortly after he was born, and is now corrupted by the Great Blight. Lan, the last of his people, then proceeded to fight a one-man war against the Shadow by killing Shadowspawn in the Blight. He fought Aiel during the Aiel War, and achieved Blademaster status. He was eventually bonded by Moiraine, which ended his lonely fight (or at least changed its style). When Lan and Moiraine brought <a href='#Rand'>Rand<\/a>, <a href='#Mat'>Mat<\/a>, <a href='#Perrin'>Perrin<\/a>, <a href='#Egwene'>Egwene<\/a>, and <a href='#Nynaeve'>Nynaeve<\/a> out of their home in the Two Rivers, he found that there was something which could throw his guard down, but he was the last to notice it: affection for Nynaeve. As Moiraine put it, Nynaeve was able to plant vines in Lan&apos;s emotional walls and break them down without him even knowing they were there. He loves her very much, whether he admits it openly or not, and Nynaeve, to her surprise, loves him in return. Upon Moiraine&apos;s death, Lan&apos;s bond was immediately transferred to <a href='#Myrelle'>Myrelle<\/a> until Nynaeve is ready to have his bond transferred to her. Myrelle tried to keep Lan&apos;s status secret, but she was given away when she tried to buy one of Lan&apos;s favorite foods, coin peppers, too far south (they are very popular in Shienar, and were in Malkier before it fell to the Blight, but don&apos;t grow well in southern climates). Upon learning of where Lan was, <a href='#Egwene'>Egwene<\/a> sent him to Ebou Dar to serve as a Warder for her.",
+                "info": "The uncrowned king of Malkier, and formerly Warder to <a href='#Moiraine'>Moiraine<\/a>. He is quite tall, and doesn&apos;t get very emotional&#x2014;in fact, he has emotional walls all around him that he has been building for years. His country, Malkier, was overrun by Trollocs shortly after he was born, and is now corrupted by the Great Blight. Lan, the last of his people, then proceeded to fight a one-man war against the Shadow by killing Shadowspawn in the Blight. He fought Aiel during the Aiel War, and achieved Blademaster status. He was eventually bonded by Moiraine, which ended his lonely fight (or at least changed its style). When Lan and Moiraine brought <a href='#Rand'>Rand<\/a>, <a href='#Mat'>Mat<\/a>, <a href='#Perrin-t-Bashere-Aybara'>Perrin<\/a>, <a href='#Egwene'>Egwene<\/a>, and <a href='#Nynaeve'>Nynaeve<\/a> out of their home in the Two Rivers, he found that there was something which could throw his guard down, but he was the last to notice it: affection for Nynaeve. As Moiraine put it, Nynaeve was able to plant vines in Lan&apos;s emotional walls and break them down without him even knowing they were there. He loves her very much, whether he admits it openly or not, and Nynaeve, to her surprise, loves him in return. Upon Moiraine&apos;s death, Lan&apos;s bond was immediately transferred to <a href='#Myrelle'>Myrelle<\/a> until Nynaeve is ready to have his bond transferred to her. Myrelle tried to keep Lan&apos;s status secret, but she was given away when she tried to buy one of Lan&apos;s favorite foods, coin peppers, too far south (they are very popular in Shienar, and were in Malkier before it fell to the Blight, but don&apos;t grow well in southern climates). Upon learning of where Lan was, <a href='#Egwene'>Egwene<\/a> sent him to Ebou Dar to serve as a Warder for her.",
                 "seeAlso": [
                     {
                         "id": "Nynaeve",

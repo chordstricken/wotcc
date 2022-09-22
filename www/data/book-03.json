@@ -665,7 +665,7 @@
         "chapters": [
             {
                 "title": "Prologue: Fortress of the Light",
-                "info": "Son of <a href='#Bornhald'>Geofram Bornhald<\/a>. <a href='#Byar'>Jaret Byar<\/a> was sent to tell him how his father had died. Dain was the leader of the band of Whitecloaks that stopped <a href='#Verin'>Verin<\/a>, <a href='#Egwene'>Egwene<\/a>, <a href='#Elayne'>Elayne<\/a>, <a href='#Nynaeve'>Nynaeve<\/a>, and <a href='#Hurin'>Hurin<\/a> near Tar Valon.",
+                "info": "Son of <a href='#Lord-Captain-Geofram-Bornhald'>Geofram Bornhald<\/a>. <a href='#Byar'>Jaret Byar<\/a> was sent to tell him how his father had died. Dain was the leader of the band of Whitecloaks that stopped <a href='#Verin'>Verin<\/a>, <a href='#Egwene'>Egwene<\/a>, <a href='#Elayne'>Elayne<\/a>, <a href='#Nynaeve'>Nynaeve<\/a>, and <a href='#Hurin'>Hurin<\/a> near Tar Valon.",
                 "seeAlso": [
                     {
                         "id": "Bornhald",
@@ -2017,7 +2017,7 @@
         "chapters": [
             {
                 "title": "Prologue: Fortress of the Light",
-                "info": "Officer of the Children of the Light. He commands <a href='#Dain'>Dain Bornhald<\/a>. He is stationed near Tar Valon. <a href='#Bornhald'>Geofram Bornhald<\/a> questioned his motives and worried that Dain would follow his orders blindly.",
+                "info": "Officer of the Children of the Light. He commands <a href='#Dain'>Dain Bornhald<\/a>. He is stationed near Tar Valon. <a href='#Lord-Captain-Geofram-Bornhald'>Geofram Bornhald<\/a> questioned his motives and worried that Dain would follow his orders blindly.",
                 "seeAlso": []
             }
         ]
@@ -2672,7 +2672,7 @@
         "chapters": [
             {
                 "title": "Chapter 2: Saidin",
-                "info": "Young woman from Emond&apos;s Field. She is seven years older than <a href='#Egwene'>Egwene<\/a>. <!--p. 487--> She was the Wisdom before leaving home. She was appointed the Wisdom at a very young age, mostly as a result of being able to &#x201C;listen to the wind&#x201D; and because of her ability to heal people. She did not know it at the time, but she now knows that these abilities are manifestations of her ability to touch <i>saidar<\/i>, the female half of the True Source. She has considerable potential, more than any Aes Sedai in recent times, possibly since the Age of Legends, but that potential is blocked&#x2014;<wbr>Nynaeve had to learn control of the Power by herself, without Aes Sedai guidance, and to protect herself created a block to her channeling which only comes down when she is angry or using her medicines.",
+                "info": "Young woman from Emond&apos;s Field. She is seven years older than <a href='#Egwene'>Egwene<\/a>. <!--p. 487--> She was the Wisdom before leaving home. She was appointed the Wisdom at a very young age, mostly as a result of being able to &#x201C;listen to the wind&#x201D; and because of her ability to heal people. She did not know it at the time, but she now knows that these abilities are manifestations of her ability to touch <i>saidar<\/i>, the female half of the True Source. She has considerable potential, more than any Aes Sedai in recent times, possibly since the Age of Legends, but that potential is blocked. Nynaeve had to learn control of the Power by herself, without Aes Sedai guidance, and to protect herself created a block to her channeling which only comes down when she is angry or using her medicines.",
                 "seeAlso": [
                     {
                         "id": "Lan",
@@ -2737,7 +2737,7 @@
         "chapters": [
             {
                 "title": "Prologue: Fortress of the Light",
-                "info": "Young man from Emond&apos;s Field. He is <i>ta&apos;veren<\/i>. <a href='#Byar'>Byar<\/a> believes it was Perrin who betrayed <a href='#Bornhald'>Bornhald<\/a>&apos;s legion to the Seanchan. Perrin is a large man, and very cautious&#x2014;he found it was easy to forget how big he was and really hurt other children when he was young, so he is careful not to act too quickly. He discovered that he can talk to wolves while he and <a href='#Egwene'>Egwene<\/a> were separated from the rest of the group between Aridhol and Caemlyn, when he encountered <a href='#Elyas'>Elyas Machera<\/a>. Elyas helped him learn about his ability, but not how to keep from losing his human side in the process. The wolves refer to him as &#x201C;<a href='#Bull'>Young Bull<\/a>.&#x201D; He carries a curved battle ax and recently acquired a blacksmith&apos;s hammer which he sometimes carries in place of the ax. Perrin also possesses the ability to enter what he calls the &#x201C;Wolf Dream,&#x201D;, the World of Dreams. In the Wolf Dream, Perrin can communicate with all wolves, living or dead.",
+                "info": "Young man from Emond&apos;s Field. He is <i>ta&apos;veren<\/i>. <a href='#Byar'>Byar<\/a> believes it was Perrin who betrayed <a href='#Lord-Captain-Geofram-Bornhald'>Bornhald<\/a>&apos;s legion to the Seanchan. Perrin is a large man, and very cautious&#x2014;he found it was easy to forget how big he was and really hurt other children when he was young, so he is careful not to act too quickly. He discovered that he can talk to wolves while he and <a href='#Egwene'>Egwene<\/a> were separated from the rest of the group between Aridhol and Caemlyn, when he encountered <a href='#Elyas'>Elyas Machera<\/a>. Elyas helped him learn about his ability, but not how to keep from losing his human side in the process. The wolves refer to him as &#x201C;<a href='#Bull'>Young Bull<\/a>.&#x201D; He carries a curved battle ax and recently acquired a blacksmith&apos;s hammer which he sometimes carries in place of the ax. Perrin also possesses the ability to enter what he calls the &#x201C;Wolf Dream,&#x201D;, the World of Dreams. In the Wolf Dream, Perrin can communicate with all wolves, living or dead.",
                 "seeAlso": [
                     {
                         "id": "Faile",
