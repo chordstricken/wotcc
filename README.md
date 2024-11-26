@@ -1,3 +1,6 @@
+# This repository has moved!
+See [https://github.com/silvermast/wheeloftime-compendium-app](https://github.com/silvermast/wheeloftime-compendium-app)
+
 Wheel of Time Character Compendium
 ==================================
 by [Jason Wright](http://jasonwright.info) at [Silvermast LLC](https://silvermast.io)
